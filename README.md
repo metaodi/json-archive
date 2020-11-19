@@ -3,6 +3,9 @@
 Sammlung von Overpass Abfragen und deren JSON Files.
 Abgelegt in der Ordnersatruktur und nach Datum der Abfrage sortiert.
 
+* Wichtig *
+Die Daten sind direkt aus OSM exportiert.
+
 # Overpass Abfragen
 
 ## Spitäler und Altersheime im Dispogebiet SRZ
