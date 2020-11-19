@@ -8,7 +8,56 @@ Die Daten sind direkt aus OSM exportiert.
 
 # Overpass Abfragen
 
-## Spitäler und Altersheime im Dispogebiet SRZ
+## Spitäler und Altersheime
+
+### Dispogebiet SRZ
+
+```
+[out:json];
+// [out:csv( ::type, ::id, ::lat, ::lon, name)];
+// fetch area “Dispogebiet SRZ” to search in
+(
+{{geocodeArea:CH-ZH}};
+{{geocodeArea:CH-SZ}};
+{{geocodeArea:CH-SH}};
+{{geocodeArea:CH-ZG}};
+)->.searchArea;
+// gather results
+(
+nwr["social_facility"="nursing_home"]["name"!~"^$"](area.searchArea);
+nwr["social_facility"="group_home"]["name"!~"^$"](area.searchArea);
+nwr["amenity"="hospital"]["name"!~"^$"](area.searchArea);
+nwr["amenity"="nursing_home"]["name"!~"^$"](area.searchArea);
+nwr["healthcare"="hospital"]["name"!~"^$"](area.searchArea);
+);
+// print results
+out body;
+>;
+out skel qt;
+```
+
+### Stadt Zürich
+
+```
+[out:json];
+// [out:csv( ::type, ::id, ::lat, ::lon, name)];
+// fetch area “Dispogebiet SRZ” to search in
+(
+{{geocodeArea:Zurich}};
+)->.searchArea;
+// gather results
+(
+nwr["social_facility"="nursing_home"]["name"!~"^$"](area.searchArea);
+nwr["social_facility"="group_home"]["name"!~"^$"](area.searchArea);
+nwr["amenity"="hospital"]["name"!~"^$"](area.searchArea);
+nwr["amenity"="nursing_home"]["name"!~"^$"](area.searchArea);
+nwr["healthcare"="hospital"]["name"!~"^$"](area.searchArea);
+);
+// print results
+out body;
+>;
+out skel qt;
+```
 
 ## Defibrillatoren
 
