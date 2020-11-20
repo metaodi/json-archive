@@ -1,12 +1,22 @@
 # JSON Archiv
 
 Sammlung von Overpass Abfragen und deren JSON Files.
-Abgelegt in der Ordnersatruktur und nach Datum der Abfrage sortiert.
+Abgelegt in der Ordnerstruktur und nach Datum der Abfrage sortiert.
 
-* Wichtig *
+**Wichtig**
 Die Daten sind direkt aus OSM exportiert.
 
-# Overpass Abfragen
+## Sinn und Zweck
+
+Sinn dieses Archivs ist es, Datenveränderungen später nachzuvollziehen. Grundsätzlich werden nicht jeden Monat immer alle GeoJSON gezogen, es besteht noch kein Automatismus dazu. Issue dazu wird noch erstellt.
+Die JSON Datensammlung soll stetig wachsen und und so ein sauberes Archiv generieren.
+
+## Overpass Abfragen
+
+Nicht abschliessend und laufend erweitert.
+
+<details><summary>Abfragen ausklappen</summary>
+<p>
 
 ## Spitäler und Altersheime
 
@@ -122,3 +132,8 @@ out body;
 >;
 out skel qt;
 ```
+
+</p>
+</details>
+
+## Automation
