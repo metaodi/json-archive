@@ -157,7 +157,7 @@ out body;
 out skel qt;
 ```
 
-## Feuerwehr Wachen
+## Feuerwehrwachen
 
 ### Kanton ZH
 
