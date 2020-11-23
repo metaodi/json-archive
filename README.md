@@ -133,6 +133,51 @@ out body;
 out skel qt;
 ```
 
+## Rettungswachen
+
+### Dispogebiet SRZ
+```
+[out:json];
+// [out:csv( ::type, ::id, ::lat, ::lon, name)];
+// fetch area “Dispogebiet SRZ” to search in
+(
+{{geocodeArea:CH-ZH}};
+{{geocodeArea:CH-SZ}};
+{{geocodeArea:CH-SH}};
+{{geocodeArea:CH-ZG}};
+)->.searchArea;
+
+// gather results
+(
+nwr["emergency"="ambulance_station"](area.searchArea);
+);
+// print results
+out body;
+>;
+out skel qt;
+```
+
+## Feuerwehr Wachen
+
+### Kanton ZH
+
+```
+[out:json][timeout:25];
+// fetch area “CH-ZH” to search in
+{{geocodeArea:CH-ZH}}->.searchArea;
+// gather results
+(
+  // query part for: “amenity=fire_station”
+  node["amenity"="fire_station"](area.searchArea);
+  way["amenity"="fire_station"](area.searchArea);
+  relation["amenity"="fire_station"](area.searchArea);
+);
+// print results
+out body;
+>;
+out skel qt;
+```
+
 </p>
 </details>
 
