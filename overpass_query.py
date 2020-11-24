@@ -11,18 +11,16 @@ import os
 import sys
 import traceback
 import json
-import overpass
+import requests
 from dotenv import load_dotenv, find_dotenv
 load_dotenv(find_dotenv())
 
-
 try:
     API_ENDPOINT = os.getenv('OVERPASS_API_ENDPOINT', 'http://overpass.osm.ch/api/interpreter')
-    api = overpass.API(endpoint=API_ENDPOINT)
 
     query = "".join(sys.stdin.readlines())
-    results = api.get(query)
-    print(json.dumps(results, sort_keys=True, indent=2))
+    r = requests.get(API_ENDPOINT, params={'data': query})
+    print(json.dumps(r.json(), sort_keys=True, indent=2))
 except Exception as e:
     print("Error: %s" % e, file=sys.stderr)
     print(traceback.format_exc(), file=sys.stderr)
