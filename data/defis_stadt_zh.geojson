@@ -1,0 +1,924 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo (CH)",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "66484",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2450774413",
+        "emergency": "defibrillator",
+        "emergency:phone": "144"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5299237,
+          47.3625338
+        ]
+      },
+      "id": "node/2450774413"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3561848902",
+        "defibrillator:location": "AVANTEC AG, 3rd floor",
+        "emergency": "defibrillator",
+        "emergency:phone": "144",
+        "indoor": "yes",
+        "opening_hours": "Mo-Fr 08:30-18:00",
+        "operator": "AVANTEC AG",
+        "phone": "+41 44 457 13 13"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5142004,
+          47.3763124
+        ]
+      },
+      "id": "node/3561848902"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3561848903",
+        "defibrillator:location": "at pillar in front of the pharmacy",
+        "emergency": "defibrillator",
+        "emergency:phone": "144",
+        "indoor": "yes",
+        "opening_hours": "Mo-Fr 08:00-21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5408312,
+          47.4131981
+        ]
+      },
+      "id": "node/3561848903"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3615202622",
+        "defibrillator:location": "six, ask at reception",
+        "emergency": "defibrillator",
+        "emergency:phone": "144",
+        "indoor": "yes",
+        "opening_hours": "Mo-Fr 08:30-18:00",
+        "operator": "SIX"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5092532,
+          47.3934371
+        ]
+      },
+      "id": "node/3615202622"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4029060493",
+        "defibrillator:location": "leftlhand side behind the sliding door",
+        "emergency": "defibrillator",
+        "emergency:phone": "144",
+        "indoor": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.527531,
+          47.4144387
+        ]
+      },
+      "id": "node/4029060493"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5722961647",
+        "defibrillator:location": "Eingang links",
+        "emergency": "defibrillator",
+        "emergency:phone": "144"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5115019,
+          47.4091307
+        ]
+      },
+      "id": "node/5722961647"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5807805187",
+        "emergency": "defibrillator",
+        "emergency:phone": "144",
+        "foot": "yes",
+        "indoor": "yes",
+        "level": "-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5484823,
+          47.3666867
+        ]
+      },
+      "id": "node/5807805187"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5811716467",
+        "emergency": "defibrillator",
+        "emergency:phone": "144",
+        "level": "0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5477236,
+          47.4130297
+        ]
+      },
+      "id": "node/5811716467"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5831745723",
+        "emergency": "defibrillator",
+        "emergency:phone": "144",
+        "indoor": "yes",
+        "note": "hinter den beiden Aufzügen gegenüber dem Empfang",
+        "operator": "ewz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5492219,
+          47.4089119
+        ]
+      },
+      "id": "node/5831745723"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6398162759",
+        "emergency": "defibrillator",
+        "emergency:phone": "144",
+        "indoor": "no",
+        "note": "Hängt an der Wand; linke neben dem Eingagn zur Rezeption",
+        "operator": "Gästehaus Hunziker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5599652,
+          47.4142233
+        ]
+      },
+      "id": "node/6398162759"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6979662526",
+        "defibrillator:location": "Beim Haupteingang links. Vor dem Büro des Hausmeisters",
+        "emergency": "defibrillator",
+        "emergency:phone": "144",
+        "indoor": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5310801,
+          47.3785389
+        ]
+      },
+      "id": "node/6979662526"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7089666582",
+        "defibrillator:location": "An Säule zu Gaststube neben Küche",
+        "emergency": "defibrillator",
+        "emergency:phone": "144",
+        "indoor": "yes",
+        "operator": "Linde Oberstrass"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5479679,
+          47.3834157
+        ]
+      },
+      "id": "node/7089666582"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7126089878",
+        "defibrillator:location": "Beim Haupteingang rects die Treppe runter",
+        "emergency": "defibrillator",
+        "emergency:phone": "144",
+        "indoor": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4978017,
+          47.3794234
+        ]
+      },
+      "id": "node/7126089878"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7179636243",
+        "emergency": "defibrillator",
+        "emergency:phone": "144"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5238766,
+          47.3902069
+        ]
+      },
+      "id": "node/7179636243"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7246185951",
+        "defibrillator:location": "Im Erdgeschoss links neben der Hauptreppe in den ersten Stock",
+        "emergency": "defibrillator",
+        "emergency:phone": "144",
+        "indoor": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.535894,
+          47.3864863
+        ]
+      },
+      "id": "node/7246185951"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7289424966",
+        "defibrillator:location": "Durch den Haupteingang, links am am Empfang vorbei, gegenüber den Aufzügen",
+        "emergency": "defibrillator",
+        "emergency:phone": "144",
+        "indoor": "yes",
+        "level": "0",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4949249,
+          47.3841304
+        ]
+      },
+      "id": "node/7289424966"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7380050795",
+        "access": "yes",
+        "defibrillator:location": "Im Erdgeschosse neben der Treppe zur Garage.",
+        "emergency": "defibrillator",
+        "emergency:phone": "144",
+        "opening_hours": "24/7",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4880788,
+          47.377637
+        ]
+      },
+      "id": "node/7380050795"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7561453184",
+        "access": "yes",
+        "emergency": "defibrillator",
+        "emergency:phone": "144",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5474779,
+          47.3864463
+        ]
+      },
+      "id": "node/7561453184"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7574664756",
+        "access": "yes",
+        "defibrillator:location": "Sektor B Gleis 22",
+        "emergency": "defibrillator",
+        "emergency:phone": "144",
+        "indoor": "yes",
+        "level": "-1",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5397029,
+          47.3773878
+        ]
+      },
+      "id": "node/7574664756"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7592872950",
+        "access": "yes",
+        "defibrillator:location": "im Turm",
+        "description": "8. Stock: Immer öffentlich zugänglich",
+        "emergency": "defibrillator",
+        "emergency:phone": "144",
+        "indoor": "yes",
+        "level": "8",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5114539,
+          47.3903346
+        ]
+      },
+      "id": "node/7592872950"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7592872951",
+        "access": "yes",
+        "defibrillator:location": "Sektor G",
+        "description": "7. Stock: Immer öffentlich zugänglich",
+        "emergency": "defibrillator",
+        "emergency:phone": "144",
+        "indoor": "yes",
+        "level": "7",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5121351,
+          47.3913569
+        ]
+      },
+      "id": "node/7592872951"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7592872952",
+        "access": "yes",
+        "defibrillator:location": "Bei Sektor T (Gang)",
+        "description": "7. Stock: Immer öffentlich zugänglich",
+        "emergency": "defibrillator",
+        "emergency:phone": "144",
+        "indoor": "yes",
+        "level": "7",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5115075,
+          47.3903655
+        ]
+      },
+      "id": "node/7592872952"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7592872953",
+        "access": "yes",
+        "defibrillator:location": "Sektor G",
+        "description": "5. Stock: Immer öffentlich zugänglich",
+        "emergency": "defibrillator",
+        "emergency:phone": "144",
+        "indoor": "yes",
+        "level": "5",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5121271,
+          47.3913969
+        ]
+      },
+      "id": "node/7592872953"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7592872954",
+        "access": "yes",
+        "defibrillator:location": "Treppenhaus",
+        "description": "5. Stock: Immer öffentlich zugänglich",
+        "emergency": "defibrillator",
+        "emergency:phone": "144",
+        "indoor": "yes",
+        "level": "5",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5114646,
+          47.390282
+        ]
+      },
+      "id": "node/7592872954"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7592872955",
+        "access": "yes",
+        "defibrillator:location": "im Turm",
+        "description": "2. Stock: Immer öffentlich zugänglich",
+        "emergency": "defibrillator",
+        "emergency:phone": "144",
+        "indoor": "yes",
+        "level": "2",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5114995,
+          47.3903237
+        ]
+      },
+      "id": "node/7592872955"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7592872956",
+        "access": "yes",
+        "defibrillator:location": "Bei Sektor G (Kino)",
+        "description": "3. Stock: Immer öffentlich zugänglich",
+        "emergency": "defibrillator",
+        "emergency:phone": "144",
+        "indoor": "yes",
+        "level": "3",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5120895,
+          47.3913333
+        ]
+      },
+      "id": "node/7592872956"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7592872957",
+        "access": "yes",
+        "defibrillator:location": "Beim Empfang",
+        "description": "3. Stock: Immer öffentlich zugänglich",
+        "emergency": "defibrillator",
+        "emergency:phone": "144",
+        "indoor": "yes",
+        "level": "3",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5116336,
+          47.3908322
+        ]
+      },
+      "id": "node/7592872957"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7592872958",
+        "access": "yes",
+        "defibrillator:location": "Sektor D",
+        "description": "2. Stock: Immer öffentlich zugänglich",
+        "emergency": "defibrillator",
+        "emergency:phone": "144",
+        "indoor": "yes",
+        "level": "2",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5116631,
+          47.3908848
+        ]
+      },
+      "id": "node/7592872958"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7592872959",
+        "access": "yes",
+        "defibrillator:location": "Bei Anlieferung Ost",
+        "description": "1. Stock: Immer öffentlich zugänglich",
+        "emergency": "defibrillator",
+        "emergency:phone": "144",
+        "indoor": "yes",
+        "level": "1",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5118401,
+          47.3906451
+        ]
+      },
+      "id": "node/7592872959"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7644275284",
+        "defibrillator:location": "Im Foyer des UBS-Gebäudes. Zugriff über Loge/Anmeldung möglich.",
+        "emergency": "defibrillator",
+        "emergency:phone": "144",
+        "indoor": "yes",
+        "operator": "UBS AG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4945281,
+          47.3830488
+        ]
+      },
+      "id": "node/7644275284"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7717360535",
+        "defibrillator:location": "Im Amtshaus IV",
+        "description": "nur während Amtszeiten verfügbar",
+        "emergency": "defibrillator",
+        "emergency:phone": "144",
+        "indoor": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5401631,
+          47.3741591
+        ]
+      },
+      "id": "node/7717360535"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7717388350",
+        "defibrillator:location": "Im Museum",
+        "description": "während Öffnungszeiten verfügbar",
+        "emergency": "defibrillator",
+        "emergency:phone": "144",
+        "indoor": "yes",
+        "opening_hours": "Tu 13:00-17:00, Su 13:00-17:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.565448,
+          47.3469944
+        ]
+      },
+      "id": "node/7717388350"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7720925040",
+        "access": "yes",
+        "defibrillator:location": "In der Apotheke",
+        "description": "nur während Öffnungszeiten verfügbar",
+        "emergency": "defibrillator",
+        "emergency:phone": "144"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5725335,
+          47.4039046
+        ]
+      },
+      "id": "node/7720925040"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7723658566",
+        "defibrillator:location": "Im Kirchgemeindehaus",
+        "description": "nur zu Öffnungszeiten verfügbar",
+        "emergency": "defibrillator",
+        "emergency:phone": "144",
+        "indoor": "yes",
+        "opening_hours": "Mo-Su 07:00-19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5441451,
+          47.3941273
+        ]
+      },
+      "id": "node/7723658566"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7727118196",
+        "defibrillator:location": "Bei Ergon Informatik melden",
+        "description": "nur während Öffnungszeiten verfügbar",
+        "emergency": "defibrillator",
+        "emergency:phone": "144",
+        "indoor": "yes",
+        "opening_hours": "Mo-Fr 08:00-12:00, 13:00-17:00",
+        "operator": "Ergon Informatik AG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5544108,
+          47.3673965
+        ]
+      },
+      "id": "node/7727118196"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7727138533",
+        "defibrillator:location": "in der Kirche",
+        "description": "nur während Öffnungszeiten verfügbar",
+        "emergency": "defibrillator",
+        "emergency:phone": "144",
+        "indoor": "yes",
+        "opening_hours": "Mo-Su 07:00-19:00",
+        "operator": "Katholische Kirche Zürich"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.503009,
+          47.4012635
+        ]
+      },
+      "id": "node/7727138533"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7727140868",
+        "defibrillator:location": "Bei Ergon Informatik melden",
+        "description": "nur während Öffnungszeiten verfügbar",
+        "emergency": "defibrillator",
+        "emergency:phone": "144",
+        "indoor": "yes",
+        "opening_hours": "Mo-Fr 08:00-12:00, 13:00-17:00",
+        "operator": "Ergon Informatik AG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5533896,
+          47.3639645
+        ]
+      },
+      "id": "node/7727140868"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7727162334",
+        "defibrillator:location": "Bei Ergon Informatik melden",
+        "description": "nur während Öffnungszeiten verfügbar",
+        "emergency": "defibrillator",
+        "emergency:phone": "144",
+        "indoor": "yes",
+        "opening_hours": "Mo-Fr 08:00-12:00, 13:00-17:00",
+        "operator": "Ergon Informatik AG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5486181,
+          47.3657185
+        ]
+      },
+      "id": "node/7727162334"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7817190763",
+        "emergency": "defibrillator",
+        "emergency:phone": "144",
+        "indoor": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4924208,
+          47.374091
+        ]
+      },
+      "id": "node/7817190763"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7820028703",
+        "access": "yes",
+        "defibrillator:location": "2. OG Immobilien",
+        "description": "Bei Feuerwehr melden",
+        "emergency": "defibrillator",
+        "emergency:phone": "144",
+        "operator": "Schutz & Rettung Zürich"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5239156,
+          47.3708422
+        ]
+      },
+      "id": "node/7820028703"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7820028704",
+        "access": "yes",
+        "defibrillator:location": "EG Feuerpolizei",
+        "description": "Bei Feuerwehr melden",
+        "emergency": "defibrillator",
+        "emergency:phone": "144",
+        "operator": "Schutz & Rettung Zürich"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5412409,
+          47.375807
+        ]
+      },
+      "id": "node/7820028704"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7820028708",
+        "access": "yes",
+        "defibrillator:location": "3. OG Verwaltung",
+        "description": "Bei Feuerwehr melden",
+        "emergency": "defibrillator",
+        "emergency:phone": "144",
+        "opening_hours": "24/7",
+        "operator": "Schutz & Rettung Zürich"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5247762,
+          47.3691742
+        ]
+      },
+      "id": "node/7820028708"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7836915810",
+        "access": "yes",
+        "defibrillator:location": "hängt an der Hauswand",
+        "description": "24h öffentlich zugänglich",
+        "emergency": "defibrillator",
+        "emergency:phone": "144",
+        "indoor": "no",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4877483,
+          47.3766954
+        ]
+      },
+      "id": "node/7836915810"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7840576748",
+        "defibrillator:location": "Haupteingang Parterre",
+        "description": "während Betriebszeiten",
+        "emergency": "defibrillator",
+        "emergency:phone": "144"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5245485,
+          47.3875604
+        ]
+      },
+      "id": "node/7840576748"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7920139394",
+        "defibrillator:location": "Empfang Intercomestibles Getränke",
+        "description": "während Öffnungszeiten verfügbar",
+        "emergency": "defibrillator",
+        "emergency:phone": "144",
+        "name": "Intercomestibles",
+        "opening_hours": "Mo-Fr 06:00-18:00",
+        "operator": "Intercomestibles"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5138279,
+          47.3620683
+        ]
+      },
+      "id": "node/7920139394"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8083446424",
+        "access": "yes",
+        "defibrillator:location": "hängt an der Hauswand",
+        "description": "24h öffentlich zugänglich",
+        "emergency": "defibrillator",
+        "emergency:phone": "144",
+        "indoor": "no",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4893805,
+          47.3770975
+        ]
+      },
+      "id": "node/8083446424"
+    }
+  ]
+}

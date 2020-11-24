@@ -1,0 +1,41 @@
+name: Get data from Overpass
+
+on:
+  workflow_dispatch: ~
+
+jobs:
+  query_overpass:
+    runs-on: ubuntu-18.04
+    continue-on-error: false
+    timeout-minutes: 10
+
+    steps:
+    - uses: actions/checkout@v2
+ 
+    - name: Set up Python 3.7
+      uses: actions/setup-python@v1
+      with:
+        python-version: 3.7
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+
+    - name: Get data from Overpass API
+      run: |
+        cat queries/defis_stadt_zh.txt | python query_overpass.py > data/defis_stadt_zh.geojson
+        
+    - name: Check if there are changes in the repo
+      id: changes
+      uses: UnicornGlobal/has-changes-action@v1.0.11
+      
+    - name: Commit and push to repo
+      if: steps.changes.outputs.changed == 1 # only try to commit if there are actually changes
+      uses: github-actions-x/commit@v2.6
+      with:
+        github-token: ${{ secrets.GITHUB_TOKEN }}
+        push-branch: master
+        name: GitHub Action
+        email: opendata@zuerich.ch
+        commit-message: Update overpass query results
+        rebase: 'true'
