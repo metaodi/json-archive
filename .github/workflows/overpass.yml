@@ -24,7 +24,7 @@ jobs:
 
     - name: Get data from Overpass API
       run: |
-        cat queries/defis_stadt_zh.txt | python overpass_query.py | osmtogeojson > data/defis_stadt_zh.geojson
+        ./run_queries.sh
     
     - uses: stefanzweifel/git-auto-commit-action@v4
       with:
