@@ -31,3 +31,6 @@ jobs:
     - uses: stefanzweifel/git-auto-commit-action@v4
       with:
         commit_message: Update overpass query results
+        commit_user_name: GitHub Action Bot
+        commit_user_email: opendata@zuerich.ch
+        commit_author: GitHub Action Bot <opendata@zuerich.ch>
