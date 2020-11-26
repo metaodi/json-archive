@@ -5129,6 +5129,7 @@
   "properties": {
     "amenity": "fire_station",
     "name": "Feuerwehr Pfäffikon",
+    "operator": "Gemeinde Pfäffikon",
     "id": "node/1516304507"
   },
   "geometry": {
