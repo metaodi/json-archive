@@ -7750,6 +7750,46 @@
       47.4939317
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/8167231832",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Im Migros-Gebäude, an der Wand neben Mister Minit",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "Mo-Sa 07:30-20:00",
+    "phone": "144",
+    "id": "node/8167231832"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5639631,
+      47.2941968
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8168710814",
+  "properties": {
+    "defibrillator:location": "Eingang Zollstelle",
+    "emergency": "defibrillator",
+    "indoor": "no",
+    "operator": "SUSV",
+    "id": "node/8168710814"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6037694,
+      47.6475475
+    ]
+  }
 }
 ]
 }
