@@ -8535,6 +8535,98 @@
       47.393485
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/8178867247",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Masoala Halle: Im Sanitätszimmer",
+    "description": "Verwendung durch Betriebssanität Zoo Zürich AG",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Su 09:00-17:00",
+    "operator": "Zoo Zürich AG",
+    "phone": "044 254 25 00",
+    "id": "node/8178867247"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5779029,
+      47.3843038
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8178867248",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Aufgang Thai Lodge",
+    "description": "Verwendung durch Betriebssanität Zoo Zürich AG",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Su 09:00-17:00",
+    "operator": "Zoo Zürich AG",
+    "phone": "044 254 25 00",
+    "id": "node/8178867248"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5770044,
+      47.3883135
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8178867249",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Büro Abteilungsleitung Tierpflege",
+    "description": "Verwendung durch Betriebssanität Zoo Zürich AG",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Su 09:00-17:00",
+    "operator": "Zoo Zürich AG",
+    "phone": "044 254 25 00",
+    "id": "node/8178867249"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5739252,
+      47.3886259
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8178867250",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Sanitätszimmer Hauptkasse Betriebssanität Zoo Zürich AG",
+    "description": "Verwendung durch Betriebssanität Zoo Zürich AG",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Su 09:00-17:00",
+    "operator": "Zoo Zürich AG",
+    "phone": "044 254 25 00",
+    "id": "node/8178867250"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5744214,
+      47.3844228
+    ]
+  }
 }
 ]
 }
