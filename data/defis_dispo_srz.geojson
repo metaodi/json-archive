@@ -793,8 +793,14 @@
   "type": "Feature",
   "id": "node/5486406921",
   "properties": {
+    "access": "yes",
+    "defibrillator:location": "Alter Bahnhof Westseite",
+    "description": "24h verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Seegräben",
     "id": "node/5486406921"
   },
   "geometry": {
@@ -1101,9 +1107,14 @@
   "type": "Feature",
   "id": "node/5928704287",
   "properties": {
+    "access": "yes",
+    "defibrillator:location": "Badehaus im Zwischengang Garderobe",
+    "description": "24h verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Seegräben",
     "id": "node/5928704287"
   },
   "geometry": {
@@ -16790,6 +16801,158 @@
     "coordinates": [
       8.5210575,
       47.3709616
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8186231091",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Lungenfachzentrum: an der Empfangstheke der Praxis",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Fr 08:00-12:00,13:30-17:30; We 08:00-12:00,13:30-19:30",
+    "id": "node/8186231091"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7692893,
+      47.3350682
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8186231092",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "direkt hinter der Kasse im Museum",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Tu-Sa 10:00-17:00; Su 10:00-18:00",
+    "id": "node/8186231092"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7621948,
+      47.33873
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8186231093",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Dorfladen Parkplatzseite",
+    "description": "24h verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Seegräben",
+    "id": "node/8186231093"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7680756,
+      47.3441935
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8186231094",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Milchhütte Sack, neben Infokasten",
+    "description": "24h verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Seegräben",
+    "id": "node/8186231094"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7609261,
+      47.3317989
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8186231095",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Kindergarten an der Fassade zur Strasse",
+    "description": "24h verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Seegräben",
+    "id": "node/8186231095"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7623289,
+      47.3337885
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8186231096",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Turnhalleneingang, in kleiner Nische",
+    "description": "24h verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Seegräben",
+    "id": "node/8186231096"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7701261,
+      47.3412183
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8186231097",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Juckerhof, im Innenhof bei Bürotreppe",
+    "description": "24h verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Seegräben",
+    "id": "node/8186231097"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7728021,
+      47.3437458
     ]
   }
 }
