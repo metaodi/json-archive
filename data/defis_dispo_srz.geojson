@@ -801,6 +801,7 @@
     "indoor": "no",
     "opening_hours": "24/7",
     "operator": "Gemeinde Seegräben",
+    "phone": "043 477 40 90",
     "id": "node/5486406921"
   },
   "geometry": {
@@ -1115,6 +1116,7 @@
     "indoor": "no",
     "opening_hours": "24/7",
     "operator": "Gemeinde Seegräben",
+    "phone": "043 477 40 90",
     "id": "node/5928704287"
   },
   "geometry": {
@@ -16858,6 +16860,7 @@
     "indoor": "no",
     "opening_hours": "24/7",
     "operator": "Gemeinde Seegräben",
+    "phone": "043 477 40 90",
     "id": "node/8186231093"
   },
   "geometry": {
@@ -16880,6 +16883,7 @@
     "indoor": "no",
     "opening_hours": "24/7",
     "operator": "Gemeinde Seegräben",
+    "phone": "043 477 40 90",
     "id": "node/8186231094"
   },
   "geometry": {
@@ -16902,6 +16906,7 @@
     "indoor": "no",
     "opening_hours": "24/7",
     "operator": "Gemeinde Seegräben",
+    "phone": "043 477 40 90",
     "id": "node/8186231095"
   },
   "geometry": {
@@ -16924,6 +16929,7 @@
     "indoor": "no",
     "opening_hours": "24/7",
     "operator": "Gemeinde Seegräben",
+    "phone": "043 477 40 90",
     "id": "node/8186231096"
   },
   "geometry": {
@@ -16945,7 +16951,8 @@
     "emergency:phone": "144",
     "indoor": "no",
     "opening_hours": "24/7",
-    "operator": "Gemeinde Seegräben",
+    "operator": "Jucker Farm AG",
+    "phone": "044 934 34 84",
     "id": "node/8186231097"
   },
   "geometry": {
@@ -16953,6 +16960,534 @@
     "coordinates": [
       8.7728021,
       47.3437458
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8190623269",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "ZUI A, B, E + H bei Lift, 6 Standorte",
+    "description": "während Gebäudeöffnungszeiten (tagsüber) verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Betriebssanität UZH",
+    "phone": "044 635 41 41",
+    "id": "node/8190623269"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5531703,
+      47.3747241
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8190623270",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Y52-E-03 / Rechtsmedizin, bei Anmeldung (Tasche)",
+    "description": "während Gebäudeöffnungszeiten (tagsüber) verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Betriebssanität UZH",
+    "phone": "044 635 41 41",
+    "id": "node/8190623270"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5492904,
+      47.3987995
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8190623271",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Y30-E-100 / HSA Irchel Eingangshalle",
+    "description": "während Gebäudeöffnungszeiten (tagsüber) verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Betriebssanität UZH",
+    "phone": "044 635 41 41",
+    "id": "node/8190623271"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5461643,
+      47.3984672
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8190623272",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Y24-G-110 / Lichthof Irchel, Infosäule",
+    "description": "während Gebäudeöffnungszeiten (tagsüber) verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Betriebssanität UZH",
+    "phone": "044 635 41 41",
+    "id": "node/8190623272"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5491872,
+      47.3969131
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8190623273",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "WIL-E-400 / Treppenhaus neben Hinterausgang",
+    "description": "während Gebäudeöffnungszeiten (tagsüber) verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Betriebssanität UZH",
+    "phone": "044 635 41 41",
+    "id": "node/8190623273"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.554038,
+      47.3701096
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8190623274",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "WAD-E-402 / Eingangshalle, gegenüber Lifte",
+    "description": "während Gebäudeöffnungszeiten (tagsüber) verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Betriebssanität UZH",
+    "phone": "044 635 41 41",
+    "id": "node/8190623274"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4579009,
+      47.399011
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8190623275",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "TNU 10.60 / Korridor 1. OG, neben Lift",
+    "description": "während Gebäudeöffnungszeiten (tagsüber) verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Betriebssanität UZH",
+    "phone": "044 635 41 41",
+    "id": "node/8190623275"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5522234,
+      47.3998171
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8190623276",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "TKK-00-400 / bei Anmeldung, hinter Glastüre",
+    "description": "während Gebäudeöffnungszeiten (tagsüber) verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Betriebssanität UZH",
+    "phone": "044 635 41 41",
+    "id": "node/8190623276"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5505336,
+      47.3998307
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8190623277",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "neben TFA 00.46 / Geschoss 00, neben Lift",
+    "description": "während Gebäudeöffnungszeiten (tagsüber) verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Betriebssanität UZH",
+    "phone": "044 635 41 41",
+    "id": "node/8190623277"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5512002,
+      47.4006794
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8190623278",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "TDI 10.00 / im Haupttreppenhaus, höhe Hörsaal",
+    "description": "während Gebäudeöffnungszeiten (tagsüber) verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Betriebssanität UZH",
+    "phone": "044 635 41 41",
+    "id": "node/8190623278"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5536343,
+      47.4005133
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8190623279",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "STB-E-820 / vor Cafeteria (STB E 020)",
+    "description": "während Gebäudeöffnungszeiten (tagsüber) verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Betriebssanität UZH",
+    "phone": "044 635 41 41",
+    "id": "node/8190623279"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5414866,
+      47.381774
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8190623280",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "SPO-E-31A / HSA Fluntern, Eingangshalle",
+    "description": "während Gebäudeöffnungszeiten (tagsüber) verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Betriebssanität UZH",
+    "phone": "044 635 41 41",
+    "id": "node/8190623280"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5739265,
+      47.383561
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8190623281",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "SCA-E-427B / Eingangshalle, neben Validierstation",
+    "description": "während Gebäudeöffnungszeiten (tagsüber) verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Betriebssanität UZH",
+    "phone": "044 635 41 41",
+    "id": "node/8190623281"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5464688,
+      47.4020247
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8190623282",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "RAI-E-435 / neben Eingang Cafeteria, RAI-E-041",
+    "description": "während Gebäudeöffnungszeiten (tagsüber) verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Betriebssanität UZH",
+    "phone": "044 635 41 41",
+    "id": "node/8190623282"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5506356,
+      47.3732147
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8190623283",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "RAA-E-400 / Eingangshalle bei Cafeteria, Lift",
+    "description": "während Gebäudeöffnungszeiten (tagsüber) verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Betriebssanität UZH",
+    "phone": "044 635 41 41",
+    "id": "node/8190623283"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5499208,
+      47.3720721
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8190623284",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "PEA-E-410 / Eingangshalle, gegenüber Lift",
+    "description": "während Gebäudeöffnungszeiten (tagsüber) verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Betriebssanität UZH",
+    "phone": "044 635 41 41",
+    "id": "node/8190623284"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5343391,
+      47.3708287
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8190623285",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "HRS-E-400 / Eingangsbereich",
+    "description": "während Gebäudeöffnungszeiten (tagsüber) verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Betriebssanität UZH",
+    "phone": "044 635 41 41",
+    "id": "node/8190623285"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5478766,
+      47.372088
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8190623286",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "GLL-F / Eingangsbereich F",
+    "description": "während Gebäudeöffnungszeiten (tagsüber) verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Betriebssanität UZH",
+    "phone": "044 635 41 41",
+    "id": "node/8190623286"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5534532,
+      47.3764061
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8190623287",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "KOL-E-41A / neben VD Büro, KOL-E-1A",
+    "description": "während Gebäudeöffnungszeiten (tagsüber) verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Betriebssanität UZH",
+    "phone": "044 635 41 41",
+    "id": "node/8190623287"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5487285,
+      47.3745661
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8190623288",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "BOT-0-78 / beim Haupteingang",
+    "description": "während Gebäudeöffnungszeiten (tagsüber) verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Betriebssanität UZH",
+    "phone": "044 635 41 41",
+    "id": "node/8190623288"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5600877,
+      47.358916
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8190623289",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "BIN-0-L.03 / neben Postschalter, vor BD-Büro",
+    "description": "während Gebäudeöffnungszeiten (tagsüber) verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Betriebssanität UZH",
+    "phone": "044 635 41 41",
+    "id": "node/8190623289"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5496205,
+      47.4143659
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8190623290",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "AND-2-408 / Vorraum Warenlifte 2. Stock",
+    "description": "während Gebäudeöffnungszeiten (tagsüber) verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Betriebssanität UZH",
+    "phone": "044 635 41 41",
+    "id": "node/8190623290"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5487518,
+      47.4131862
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8190623291",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "AFL-E-070 / Eingangshalle, nähe Postfächer",
+    "description": "während Gebäudeöffnungszeiten (tagsüber) verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Betriebssanität UZH",
+    "phone": "044 635 41 41",
+    "id": "node/8190623291"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5402105,
+      47.4107906
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8190630344",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "in der HWZ (Empfang)",
+    "description": "während Ferien gelten die Öffnungszeiten nicht",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Fr 07:00-21:30; Sa 07:00-16:00",
+    "operator": "HWZ",
+    "id": "node/8190630344"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5338181,
+      47.3768048
     ]
   }
 }
