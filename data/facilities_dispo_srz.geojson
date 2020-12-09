@@ -27930,6 +27930,55 @@
 },
 {
   "type": "Feature",
+  "id": "way/833404852",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "65",
+    "addr:postcode": "8409",
+    "addr:street": "Ohrbühlstrasse",
+    "amenity": "social_facility",
+    "building": "yes",
+    "building:levels": "6",
+    "email": "info@vivale-neuhegi.ch",
+    "name": "Vivale Neuhegi",
+    "operator": "Reliva AG",
+    "phone": "043 268 17 00",
+    "social_facility": "nursing_home",
+    "social_facility:for": "senior",
+    "website": "http://www.vivale-neuhegi.ch",
+    "wheelchair": "yes",
+    "id": "way/833404852"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.768283,
+          47.5029732
+        ],
+        [
+          8.768508,
+          47.5023912
+        ],
+        [
+          8.7688984,
+          47.5024601
+        ],
+        [
+          8.7686733,
+          47.5030421
+        ],
+        [
+          8.768283,
+          47.5029732
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/838169016",
   "properties": {
     "addr:city": "Rümlang",

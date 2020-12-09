@@ -4527,6 +4527,64 @@
 },
 {
   "type": "Feature",
+  "id": "way/373675370",
+  "properties": {
+    "addr:city": "Embrach",
+    "addr:housenumber": "10",
+    "addr:postcode": "8424",
+    "addr:street": "Nordstrasse",
+    "amenity": "fire_station",
+    "building": "yes",
+    "name": "Feuerwehr Embrachertal",
+    "website": "https://feuerwehr-embrachertal.ch",
+    "id": "way/373675370"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5929593,
+          47.5226667
+        ],
+        [
+          8.5929586,
+          47.5226291
+        ],
+        [
+          8.5929111,
+          47.5226295
+        ],
+        [
+          8.5929055,
+          47.5223286
+        ],
+        [
+          8.5932606,
+          47.5223256
+        ],
+        [
+          8.5932662,
+          47.5226088
+        ],
+        [
+          8.593205,
+          47.5226095
+        ],
+        [
+          8.593206,
+          47.5226646
+        ],
+        [
+          8.5929593,
+          47.5226667
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/419356316",
   "properties": {
     "addr:housenumber": "1a",

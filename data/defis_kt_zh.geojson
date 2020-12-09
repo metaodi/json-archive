@@ -711,7 +711,9 @@
   "type": "Feature",
   "id": "node/5719351201",
   "properties": {
+    "access": "no",
     "defibrillator:location": "durch Drehtüre, dann gleich rechts.",
+    "description": "nur mit Flughafenausweis erreichbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
@@ -4600,8 +4602,9 @@
   "type": "Feature",
   "id": "node/7804012233",
   "properties": {
+    "access": "no",
     "defibrillator:location": "im Schulungsraum Flughafenfeuerwehr",
-    "description": "Notfallklingel betätigen",
+    "description": "nur mit Flughafenausweis erreichbar / Notfallklingel betätigen",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
@@ -5174,12 +5177,11 @@
   "type": "Feature",
   "id": "node/7820028705",
   "properties": {
-    "access": "yes",
+    "access": "no",
     "defibrillator:location": "Fahrzeughalle",
-    "description": "Notfallklingel betätigen",
+    "description": "nur mit Flughafenausweis erreichbar / Notfallklingel betätigen",
     "emergency": "defibrillator",
     "emergency:phone": "144",
-    "opening_hours": "24/7",
     "operator": "Schutz & Rettung Zürich",
     "id": "node/7820028705"
   },
@@ -6718,7 +6720,7 @@
     "description": "Zugänglich während Öffnungszeiten der Gemeindeverwaltung.",
     "emergency": "defibrillator",
     "emergency:phone": "144",
-    "opening_hours": "Mo 08:00-11:30, 14:00-16:30; Tu 08:00-11:30, 14:00-18:30; We-Th 08:00-11:30, 14:00-16:30; Fr 07:00-13:00; PH off",
+    "opening_hours": "Mo 08:00-11:30,14:00-16:30; Tu 08:00-11:30,14:00-18:30; We-Th 08:00-11:30,14:00-16:30; Fr 07:00-13:00; PH off",
     "phone": "+41 44 701 95 00",
     "id": "node/8062414468"
   },
@@ -6739,7 +6741,7 @@
     "description": "Zugänglich während Öffnungszeiten des Betreibungsamtes.",
     "emergency": "defibrillator",
     "emergency:phone": "144",
-    "opening_hours": "Mo 08:00-11:30, 14:00-16:30; Tu 08:00-11:30, 14:00-18:30; We-Th 08:00-11:30, 14:00-16:30; Fr 07:00-13:00; PH off",
+    "opening_hours": "Mo 08:00-11:30,14:00-16:30; Tu 08:00-11:30,14:00-18:30; We-Th 08:00-11:30,14:00-16:30; Fr 07:00-13:00; PH off",
     "phone": "+41 44 701 95 45",
     "id": "node/8062414469"
   },
@@ -7444,6 +7446,7 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
+    "opening_hours": "Mo-Fr 07:00-17:00",
     "operator": "Feuerwehr Uster",
     "id": "node/8099632605"
   },
