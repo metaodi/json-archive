@@ -15553,6 +15553,7 @@
     "defibrillator:location": "Im Foyer von Bibliothek und Mehrzwecksaal. Rechts an der Wand.",
     "emergency": "defibrillator",
     "emergency:phone": "144",
+    "indoor": "yes",
     "opening_hours": "24/7",
     "phone": "+41 79 345 47 76",
     "id": "node/8118585120"
@@ -17491,6 +17492,51 @@
     "coordinates": [
       8.5338181,
       47.3768048
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8208569902",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Auf Briefkastenanlage rechts neben Eingang vor der Gemeindeverwaltung Wettswil.",
+    "description": "24h verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Gemeindeverwaltung Wettswil",
+    "phone": "+41 44 700 06 42",
+    "id": "node/8208569902"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4732311,
+      47.3388862
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8211174058",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "vor der WC-Anlage im Innern des Gebäudes",
+    "description": "nur während FC Spielen verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "FC Wettswil-Bonstetten",
+    "phone": "044 701 16 90",
+    "id": "node/8211174058"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4647285,
+      47.3356829
     ]
   }
 }
