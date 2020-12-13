@@ -471,7 +471,9 @@
   "type": "Feature",
   "id": "way/31827427",
   "properties": {
+    "addr:city": "Horgen",
     "addr:housenumber": "21",
+    "addr:postcode": "8810",
     "addr:street": "Waldeggstrasse",
     "amenity": "fire_station",
     "building": "yes",
