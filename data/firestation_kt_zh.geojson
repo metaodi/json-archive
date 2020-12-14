@@ -169,6 +169,7 @@
     "amenity": "fire_station",
     "building": "yes",
     "name": "Stützpunktfeuerwehr Meilen",
+    "operator": "Gemeinde Meilen",
     "id": "way/24388711"
   },
   "geometry": {
