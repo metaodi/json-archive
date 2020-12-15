@@ -5103,14 +5103,20 @@
   "type": "Feature",
   "id": "node/1210603047",
   "properties": {
+    "addr:city": "Schönenberg",
+    "addr:housenumber": "2",
+    "addr:postcode": "8824",
+    "addr:street": "Hüttnerstrasse",
     "amenity": "fire_station",
+    "name": "Feuerwehr Wädenswil - Depot Schönenberg",
+    "operator": "Stadt Wädenswil",
     "id": "node/1210603047"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.6439633,
-      47.1925721
+      8.6439952,
+      47.1925276
     ]
   }
 },

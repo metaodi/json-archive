@@ -527,8 +527,8 @@
     "addr:postcode": "8006",
     "addr:street": "Neumühlequai",
     "emergency": "ambulance_station",
-    "name": "Hauptwache RD SRZ",
-    "operator": "Schutz & Rettung",
+    "name": "Schutz & Rettung Zürich - Hauptwache Neumühlequai",
+    "operator": "Schutz & Rettung Zürich",
     "phone": "144",
     "website": "https://www.stadt-zuerich.ch/pd/de/index/schutz_u_rettung_zuerich/sanitaet.html",
     "id": "node/7274104579"
@@ -702,6 +702,95 @@
     "coordinates": [
       8.588467,
       47.4517901
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8227050913",
+  "properties": {
+    "emergency": "ambulance_station",
+    "name": "Rettungsdienst Horgen - Wache Kilchberg",
+    "operator": "Rettungsdienst Horgen",
+    "id": "node/8227050913"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5355905,
+      47.3208167
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8227050914",
+  "properties": {
+    "emergency": "ambulance_station",
+    "name": "Schutz & Rettung Zürich - Wache Neunbrunnen",
+    "operator": "Schutz & Rettung Zürich",
+    "website": "https://www.stadt-zuerich.ch/pd/de/index/schutz_u_rettung_zuerich/sanitaet.html",
+    "id": "node/8227050914"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5374051,
+      47.4172237
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8227050915",
+  "properties": {
+    "emergency": "ambulance_station",
+    "name": "Schutz & Rettung Zürich - Wache Flughafen",
+    "operator": "Schutz & Rettung Zürich",
+    "website": "https://www.stadt-zuerich.ch/pd/de/index/schutz_u_rettung_zuerich/sanitaet.html",
+    "id": "node/8227050915"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5526642,
+      47.4454122
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8227050916",
+  "properties": {
+    "emergency": "ambulance_station",
+    "name": "Schutz & Rettung Zürich - Wache Zollikerberg",
+    "operator": "Schutz & Rettung Zürich",
+    "website": "https://www.stadt-zuerich.ch/pd/de/index/schutz_u_rettung_zuerich/sanitaet.html",
+    "id": "node/8227050916"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5993202,
+      47.3499927
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8227059017",
+  "properties": {
+    "emergency": "ambulance_station",
+    "name": "Schutz & Rettung Zürich - Wache Triemli",
+    "operator": "Schutz & Rettung Zürich",
+    "website": "https://www.stadt-zuerich.ch/pd/de/index/schutz_u_rettung_zuerich/sanitaet.html",
+    "id": "node/8227059017"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4970815,
+      47.3677057
     ]
   }
 }

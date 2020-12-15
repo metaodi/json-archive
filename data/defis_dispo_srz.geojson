@@ -17540,6 +17540,52 @@
       47.3356829
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/8226599064",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "vor der Feuerwehrgarage",
+    "description": "24h öffentlich verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "SV Schönenberg-Hütten",
+    "phone": "044 788 11 45",
+    "id": "node/8226599064"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6440612,
+      47.1926178
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8226599065",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Eingang Seite Pausenplatz (Beschilderung beachten!)",
+    "description": "24h verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "SV Schönenberg-Hütten",
+    "phone": "044 788 11 45",
+    "id": "node/8226599065"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6663027,
+      47.1752877
+    ]
+  }
 }
 ]
 }
