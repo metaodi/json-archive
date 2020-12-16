@@ -17586,6 +17586,48 @@
       47.1752877
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/8230591073",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Treppenhaus, 1. Stock",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Fr 07:30-12:00, 13:00-16:30",
+    "operator": "Stadtpolizei Zürich",
+    "phone": "044 411 71 17",
+    "id": "node/8230591073"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5304761,
+      47.3753553
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8231260483",
+  "properties": {
+    "defibrillator:location": "Am WC-Häuschen zwischen den beiden Eingangstüren",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "opening_hours": "24/7",
+    "wheelchair": "yes",
+    "id": "node/8231260483"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4558258,
+      47.391226
+    ]
+  }
 }
 ]
 }
