@@ -27427,7 +27427,6 @@
   "id": "way/703439905",
   "properties": {
     "amenity": "social_facility",
-    "building": "yes",
     "name": "Alterszentrum Rosengarten",
     "operator": "Stadt Zürich",
     "social_facility": "nursing_home",
