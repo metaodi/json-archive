@@ -4299,6 +4299,7 @@
     "short_name": "KZU Bassersdorf",
     "social_facility": "nursing_home",
     "social_facility:for": "senior",
+    "website": "https://www.k-z-u.ch/angebot/orte/pflegezentrum-baechli.html",
     "id": "way/36006850"
   },
   "geometry": {
