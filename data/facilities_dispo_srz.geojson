@@ -13993,6 +13993,88 @@
 },
 {
   "type": "Feature",
+  "id": "way/192553690",
+  "properties": {
+    "addr:city": "Unterägeri",
+    "addr:country": "CH",
+    "addr:housenumber": "1",
+    "addr:postcode": "6314",
+    "addr:street": "Chlösterli",
+    "amenity": "social_facility",
+    "building": "yes",
+    "name": "Chlösterli",
+    "social_facility": "nursing_home",
+    "social_facility:for": "senior",
+    "website": "https://chloesterli.ch/",
+    "wheelchair": "yes",
+    "id": "way/192553690"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5762612,
+          47.1307505
+        ],
+        [
+          8.5769785,
+          47.1307281
+        ],
+        [
+          8.5770199,
+          47.1307268
+        ],
+        [
+          8.5770321,
+          47.1309068
+        ],
+        [
+          8.5767294,
+          47.1309162
+        ],
+        [
+          8.5767641,
+          47.13143
+        ],
+        [
+          8.5769464,
+          47.1314243
+        ],
+        [
+          8.5769195,
+          47.1310257
+        ],
+        [
+          8.5771331,
+          47.1310191
+        ],
+        [
+          8.5771707,
+          47.1315759
+        ],
+        [
+          8.5765465,
+          47.1315954
+        ],
+        [
+          8.5765011,
+          47.1309234
+        ],
+        [
+          8.5762733,
+          47.1309305
+        ],
+        [
+          8.5762612,
+          47.1307505
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/192704208",
   "properties": {
     "addr:city": "Schaffhausen",
