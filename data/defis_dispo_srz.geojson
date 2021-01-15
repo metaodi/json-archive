@@ -488,10 +488,6 @@
   "type": "Feature",
   "id": "node/5030710122",
   "properties": {
-    "addr:city": "Pfäffikon ZH",
-    "addr:housenumber": "1",
-    "addr:postcode": "8330",
-    "addr:street": "Hochstrasse",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
@@ -11890,7 +11886,7 @@
   "id": "node/7928159873",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "Alte Käsere an der Hausfassade",
+    "defibrillator:location": "Alte Käserei an der Hausfassade",
     "description": "24h verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",

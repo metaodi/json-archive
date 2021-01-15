@@ -7875,6 +7875,8 @@
   "type": "Feature",
   "id": "way/96356379",
   "properties": {
+    "addr:housenumber": "20",
+    "addr:street": "Lindenstrasse",
     "amenity": "social_facility",
     "building": "yes",
     "building:roof": "flat",
