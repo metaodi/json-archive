@@ -18519,6 +18519,7 @@
     "name": "Clienia Schlössli",
     "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "operator": "Clienia",
+    "website": "https://www.clienia.ch/",
     "id": "way/263135458"
   },
   "geometry": {
@@ -22060,7 +22061,7 @@
     "addr:postcode": "8618",
     "addr:street": "Willikonerstrasse",
     "amenity": "social_facility",
-    "building": "construction",
+    "building": "yes",
     "name": "Oase Oetwil am See",
     "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "operator": "Oase Service AG",
@@ -28319,7 +28320,7 @@
     "addr:postcode": "8618",
     "addr:street": "Willikonerstrasse",
     "amenity": "social_facility",
-    "building": "construction",
+    "building": "yes",
     "name": "Oase Oetwil am See",
     "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "operator": "Oase Service AG",
