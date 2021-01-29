@@ -2603,6 +2603,7 @@
     "defibrillator:location": "Seeanlage",
     "emergency": "defibrillator",
     "emergency:phone": "144",
+    "indoor": "no",
     "name": "AED Seeanlage",
     "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "opening_hours": "24/7",
@@ -3164,8 +3165,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5355981,
-      47.0558843
+      8.5356205,
+      47.0558885
     ]
   }
 },
