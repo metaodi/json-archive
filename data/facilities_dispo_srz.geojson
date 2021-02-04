@@ -31147,6 +31147,30 @@
       47.1706647
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/8390977067",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "21",
+    "addr:postcode": "8400",
+    "addr:street": "Eichwaldstrasse",
+    "amenity": "social_facility",
+    "name": "Hardoskop",
+    "operator": "Kanton Zürich",
+    "operator:type": "public",
+    "social_facility": "group_home",
+    "social_facility:for": "mental_health",
+    "id": "node/8390977067"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7351796,
+      47.5102928
+    ]
+  }
 }
 ]
 }
