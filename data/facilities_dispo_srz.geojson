@@ -27281,6 +27281,7 @@
     "addr:street": "Rietstrasse",
     "alt_name": "Hirslanden Klinik Belair",
     "amenity": "hospital",
+    "healthcare": "hospital",
     "name": "Privatklinik Belair",
     "phone": "+41 52 632 19 00",
     "website": "https://www.hirslanden.ch/de/klinik-belair/home.html",
