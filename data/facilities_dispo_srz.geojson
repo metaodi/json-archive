@@ -5638,6 +5638,92 @@
 },
 {
   "type": "Feature",
+  "id": "way/47248898",
+  "properties": {
+    "addr:city": "Andelfingen",
+    "addr:housenumber": "44",
+    "addr:postcode": "8450",
+    "addr:street": "Landstrasse",
+    "amenity": "social_facility",
+    "building": "yes",
+    "name": "Mosaik Sozialtherapie AG",
+    "operator": "Mosaik Sozialtherapie AG",
+    "phone": "0523043030",
+    "social_facility": "group_home",
+    "social_facility:for": "mental_health",
+    "website": "https://www.wg-mosaik.ch/",
+    "id": "way/47248898"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6771818,
+          47.5946894
+        ],
+        [
+          8.677344,
+          47.5947098
+        ],
+        [
+          8.6772937,
+          47.5948916
+        ],
+        [
+          8.6770978,
+          47.594867
+        ],
+        [
+          8.6771007,
+          47.5948566
+        ],
+        [
+          8.6770935,
+          47.5948557
+        ],
+        [
+          8.6770996,
+          47.5948338
+        ],
+        [
+          8.6771077,
+          47.5948348
+        ],
+        [
+          8.6771209,
+          47.5947869
+        ],
+        [
+          8.6771547,
+          47.5947912
+        ],
+        [
+          8.6771605,
+          47.5947703
+        ],
+        [
+          8.677147,
+          47.5947686
+        ],
+        [
+          8.6771557,
+          47.5947373
+        ],
+        [
+          8.6771681,
+          47.5947389
+        ],
+        [
+          8.6771818,
+          47.5946894
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/48045183",
   "properties": {
     "addr:city": "Kleinandelfingen",
