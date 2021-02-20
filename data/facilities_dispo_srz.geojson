@@ -5732,11 +5732,14 @@
     "addr:street": "Schaffhauserstrasse",
     "amenity": "social_facility",
     "building": "yes",
-    "name": "Wohn- und Pflegeheim Rosengarten",
+    "email": "info@wpz-rosengarten.ch",
+    "name": "Wohn- und Pflegezentrum Rosengarten",
     "operator": "Fürsorgeverband Andelfingen",
+    "phone": "+41 52 305 22 88",
     "social_facility": "group_home",
     "social_facility:for": "senior",
     "source": "yahoo! Aerial imagery",
+    "website": "https://www.wpz-rosengarten.ch/",
     "id": "way/48045183"
   },
   "geometry": {
@@ -17847,9 +17850,12 @@
     "addr:street": "Melchior-Hirzel-Weg",
     "amenity": "social_facility",
     "building": "hospital",
-    "name": "Haus Rigi",
+    "email": "info@pflegezentrum-sonnenberg.ch",
+    "name": "Pflegezentrum Sonnenberg - Haus Rigi",
     "operator": "Spital Affoltern",
+    "phone": "+41 44 714 27 25",
     "social_facility": "nursing_home",
+    "website": "https://www.pflegezentrum-sonnenberg.ch/home-pflegezentrum-sonnenberg.html",
     "id": "way/251502065"
   },
   "geometry": {
@@ -21454,9 +21460,12 @@
     "addr:street": "Melchior-Hirzel-Weg",
     "amenity": "social_facility",
     "building": "hospital",
-    "name": "Haus Pilatus",
+    "email": "info@pflegezentrum-sonnenberg.ch",
+    "name": "Pflegezentrum Sonnenberg - Haus Pilatus",
     "operator": "Spital Affoltern",
+    "phone": "+41 44 714 27 25",
     "social_facility": "nursing_home",
+    "website": "https://www.pflegezentrum-sonnenberg.ch/home-pflegezentrum-sonnenberg.html",
     "id": "way/350839527"
   },
   "geometry": {
