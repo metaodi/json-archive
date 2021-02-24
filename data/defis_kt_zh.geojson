@@ -11751,6 +11751,92 @@
       47.4123344
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/8448182917",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "neue Hard 9 bei der Loge 7/24h",
+    "description": "rund um die Uhr",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "24/7",
+    "operator": "Zürcher Kantonalbank",
+    "id": "node/8448182917"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5198691,
+      47.386347
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8450413517",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Gemeinde Rafz neben Gebäude",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "id": "node/8450413517"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5363613,
+      47.6136889
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8450614817",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "1. Stock Aussentreppe",
+    "description": "während den Kurs-/Bürozeiten zugänglich",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Fr 7-17 Uhr",
+    "operator": "Samariter Zürich 2",
+    "phone": "+41432446123",
+    "id": "node/8450614817"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5317253,
+      47.3557061
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8450820917",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "feuerwehr Depot",
+    "description": "unter Tel. Nummer 118 Anfordern",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Feuerwehr Männedorf",
+    "phone": "0449205500",
+    "id": "node/8450820917"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7018527,
+      47.257809
+    ]
+  }
 }
 ]
 }
