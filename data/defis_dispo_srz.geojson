@@ -20359,6 +20359,52 @@
       47.257809
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/8453143076",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Im 2. Stock beim Lift",
+    "description": "während",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Fr 7:30 - 12:00, 13:30 - 17:00",
+    "operator": "Stadt Schaffhausen, Fritz Rüttimann",
+    "phone": "052 632 73 73",
+    "id": "node/8453143076"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6296868,
+      47.7047323
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8455469019",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Feuerwehr-Depot, Einstellhalle auf Fzg.-Sanität",
+    "description": "während Aktivbesetzung Zugang möglich",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Fr: 07:00-17:00",
+    "operator": "Gemeindeverw. Dietlikon, Feuerwehr",
+    "phone": "+41448358321",
+    "id": "node/8455469019"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6206545,
+      47.4240535
+    ]
+  }
 }
 ]
 }
