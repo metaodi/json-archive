@@ -2490,6 +2490,7 @@
     "building": "retail",
     "building:levels": "1",
     "name": "Feuerwehr Urdorf",
+    "roof:shape": "flat",
     "id": "way/114205218"
   },
   "geometry": {
@@ -5793,6 +5794,10 @@
   "type": "Feature",
   "id": "node/7147229681",
   "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "10",
+    "addr:postcode": "8091",
+    "addr:street": "Frauenklinikstrasse",
     "amenity": "fire_station",
     "name": "Betriebsfeuerwehr USZ",
     "operator": "USZ",
