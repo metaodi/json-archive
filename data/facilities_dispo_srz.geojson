@@ -692,7 +692,6 @@
     "addr:housenumber": "75",
     "addr:postcode": "8032",
     "addr:street": "Steinwiesstrasse",
-    "alt_name": "Kispi",
     "amenity": "hospital",
     "description": "Specialized on hospitalized children.",
     "email": "info@kispi.uzh.ch",
@@ -2520,7 +2519,6 @@
     "addr:housenumber": "51",
     "addr:postcode": "8424",
     "addr:street": "Römerweg",
-    "alt_name": "Klinik Hard",
     "amenity": "hospital",
     "healthcare": "hospital",
     "healthcare:speciality": "psychiatry",
@@ -4946,6 +4944,109 @@
 },
 {
   "type": "Feature",
+  "id": "way/42826205",
+  "properties": {
+    "addr:city": "Bülach",
+    "addr:housenumber": "7",
+    "addr:postcode": "8180",
+    "addr:street": "Rössligasse",
+    "amenity": "social_facility",
+    "building": "yes",
+    "name": "Alters- und Pflegeheim Rössligasse",
+    "operator": "Stiftung Alterszentrum Region Bülach",
+    "phone": "+41 44 861 82 00",
+    "social_facility": "nursing_home",
+    "social_facility:for": "senior",
+    "source": "Yahoo aerial images",
+    "website": "https://www.heiminfo.ch/institution/alters-und-pflegeheim-roessligasse/lgGwBCB",
+    "id": "way/42826205"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5396358,
+          47.5175725
+        ],
+        [
+          8.5396199,
+          47.5173532
+        ],
+        [
+          8.53971,
+          47.5173502
+        ],
+        [
+          8.5397846,
+          47.5173478
+        ],
+        [
+          8.5397918,
+          47.5174457
+        ],
+        [
+          8.5398356,
+          47.5174364
+        ],
+        [
+          8.5399052,
+          47.5174356
+        ],
+        [
+          8.5399839,
+          47.5173091
+        ],
+        [
+          8.5400183,
+          47.5173131
+        ],
+        [
+          8.540103,
+          47.5171625
+        ],
+        [
+          8.5402593,
+          47.5172295
+        ],
+        [
+          8.5402179,
+          47.5172845
+        ],
+        [
+          8.5401594,
+          47.5173623
+        ],
+        [
+          8.5401782,
+          47.5173681
+        ],
+        [
+          8.5400729,
+          47.5175635
+        ],
+        [
+          8.539896,
+          47.5175327
+        ],
+        [
+          8.5398115,
+          47.5175335
+        ],
+        [
+          8.5398139,
+          47.5175666
+        ],
+        [
+          8.5396358,
+          47.5175725
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/43041351",
   "properties": {
     "addr:city": "Bülach",
@@ -5879,7 +5980,6 @@
     "addr:housenumber": "81",
     "addr:postcode": "8208",
     "addr:street": "Geissbergstrasse",
-    "alt_name": "Spitäler Schaffhausen Kantonsspital",
     "amenity": "hospital",
     "emergency": "yes",
     "healthcare": "hospital",
@@ -16532,7 +16632,6 @@
     "addr:housenumber": "10",
     "addr:postcode": "8708",
     "addr:street": "Asylstrasse",
-    "alt_name": "Kreisspital Männedorf",
     "amenity": "hospital",
     "contact:phone": "+41 44 922 22 11",
     "emergency": "yes",
@@ -20047,7 +20146,6 @@
     "addr:housenumber": "57",
     "addr:postcode": "8462",
     "addr:street": "Alleestrasse",
-    "alt_name": "PUK Rheinau",
     "amenity": "hospital",
     "emergency": "no",
     "healthcare": "hospital",
@@ -21112,7 +21210,6 @@
     "addr:housenumber": "19",
     "addr:postcode": "8810",
     "addr:street": "Asylstrasse",
-    "alt_name": "Spital Zimmerberg",
     "amenity": "hospital",
     "emergency": "yes",
     "healthcare": "hospital",
@@ -21786,7 +21883,6 @@
     "addr:housenumber": "41",
     "addr:postcode": "8853",
     "addr:street": "Oberdorfstrasse",
-    "alt_name": "Regionalspital Lachen",
     "amenity": "hospital",
     "emergency": "yes",
     "healthcare": "hospital",
@@ -22007,6 +22103,69 @@
         [
           8.7642028,
           47.4290776
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/431788976",
+  "properties": {
+    "addr:city": "Bassersdorf",
+    "addr:housenumber": "25",
+    "addr:postcode": "8303",
+    "addr:street": "Breitistrasse",
+    "amenity": "social_facility",
+    "building": "yes",
+    "email": "gemeinde@bassersdorf.ch",
+    "name": "Alters- und Pflegezentrum Breiti",
+    "operator": "Gemeinde Bassersdorf",
+    "phone": "+41 44 838 85 85",
+    "social_facility": "nursing_home",
+    "social_facility:for": "senior",
+    "website": "https://www.bassersdorf.ch/lebenslagen/senioren/wohnen-im-alter/altersheim.html/314",
+    "id": "way/431788976"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6332504,
+          47.4425542
+        ],
+        [
+          8.6333581,
+          47.4424957
+        ],
+        [
+          8.6332149,
+          47.4423751
+        ],
+        [
+          8.6333725,
+          47.4422894
+        ],
+        [
+          8.633676,
+          47.442545
+        ],
+        [
+          8.6334508,
+          47.4426674
+        ],
+        [
+          8.6333974,
+          47.4426224
+        ],
+        [
+          8.6333573,
+          47.4426442
+        ],
+        [
+          8.6332504,
+          47.4425542
         ]
       ]
     ]
@@ -23473,7 +23632,6 @@
     "addr:housenumber": "51",
     "addr:postcode": "8044",
     "addr:street": "Toblerstrasse",
-    "alt_name": "Bethanien",
     "amenity": "hospital",
     "email": "info@klinikbethanien.ch",
     "emergency": "no",
@@ -24001,7 +24159,6 @@
     "addr:housenumber": "99",
     "addr:postcode": "8037",
     "addr:street": "Tièchestrasse",
-    "alt_name": "Waidspital",
     "amenity": "hospital",
     "healthcare": "hospital",
     "healthcare:speciality": "intensive",
@@ -25588,7 +25745,6 @@
     "addr:housenumber": "104",
     "addr:postcode": "8910",
     "addr:street": "Mühlebergstrasse",
-    "alt_name": "Rehabilitationszentrum Affoltern",
     "amenity": "hospital",
     "email": "rehab@kispi.uzh.ch",
     "fax": "+41 44 762 51 22",
@@ -26514,7 +26670,6 @@
     "addr:housenumber": "11",
     "addr:postcode": "8157",
     "addr:street": "Breitestrasse",
-    "alt_name": "Gesundheitszentrum Dielsdorf",
     "amenity": "hospital",
     "emergency": "no",
     "healthcare": "hospital",
@@ -27217,7 +27372,6 @@
     "addr:housenumber": "71",
     "addr:postcode": "6314",
     "addr:street": "Höhenweg",
-    "alt_name": "Klinik Adelheid Rehazentrum Zentralschweiz",
     "amenity": "hospital",
     "email": "info@klinik-adelheid.ch",
     "name": "Klinik Adelheid",
@@ -27297,7 +27451,6 @@
     "addr:housenumber": "111",
     "addr:postcode": "8200",
     "addr:street": "Nordstrasse",
-    "alt_name": "Spitäler Schaffhausen Psychiatriezentrum Breitenau",
     "amenity": "hospital",
     "email": "psychiatriezentrum@spitaeler-sh.ch",
     "healthcare:speciality": "psychiatry",
@@ -27464,7 +27617,6 @@
     "addr:housenumber": "30",
     "addr:postcode": "8201",
     "addr:street": "Rietstrasse",
-    "alt_name": "Hirslanden Klinik Belair",
     "amenity": "hospital",
     "healthcare": "hospital",
     "name": "Privatklinik Belair",

@@ -155,7 +155,6 @@
   "type": "Feature",
   "id": "way/199578656",
   "properties": {
-    "alt_name": "RDSH",
     "building:part": "yes",
     "emergency": "ambulance_station",
     "name": "Rettungsdienst Schaffhausen",
