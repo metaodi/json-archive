@@ -4908,7 +4908,9 @@
     "addr:street": "Gringglenstrasse",
     "amenity": "social_facility",
     "building": "yes",
-    "name": "Stiftung Alterszentrum Region Bülach",
+    "name": "Alterszentrum - Pflegewohngruppe Gringglen",
+    "operator": "Stiftung Alterszentrum Region Bülach",
+    "phone": "+41 44 861 83 11",
     "social_facility": "group_home",
     "social_facility:for": "senior",
     "source": "Yahoo aerial images",
@@ -31510,6 +31512,154 @@
     "coordinates": [
       8.7351796,
       47.5102928
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8481783758",
+  "properties": {
+    "addr:city": "Bülach",
+    "addr:housenumber": "32",
+    "addr:postcode": "8180",
+    "addr:street": "Soligänterstrasse",
+    "amenity": "social_facility",
+    "name": "Alterszentrum - Pflegewohngruppe Soligänter",
+    "operator": "Stiftung Alterszentrum Region Bülach",
+    "phone": "+41 44 861 83 72",
+    "social_facility": "nursing_home",
+    "social_facility:for": "senior",
+    "website": "https://stiftung-alterszentrum-region-buelach.ch/stiftung/standorte-sarb#so",
+    "wheelchair": "yes",
+    "id": "node/8481783758"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5421825,
+      47.5281337
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8481826087",
+  "properties": {
+    "addr:city": "Bülach",
+    "addr:housenumber": "1",
+    "addr:postcode": "8180",
+    "addr:street": "Trottenstrasse",
+    "amenity": "social_facility",
+    "name": "Alterszentrum - Pflegewohngruppe Bergli",
+    "operator": "Stiftung Alterszentrum Region Bülach",
+    "phone": "+41 44 861 83 72",
+    "social_facility": "nursing_home",
+    "social_facility:for": "senior",
+    "wheelchair": "yes",
+    "id": "node/8481826087"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5477339,
+      47.5228598
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8481826515",
+  "properties": {
+    "addr:city": "Eglisau",
+    "addr:housenumber": "15",
+    "addr:postcode": "8193",
+    "addr:street": "Murstrasse",
+    "amenity": "social_facility",
+    "name": "Seniorenzentrum Oase am Rhein",
+    "operator": "Oase Gruppe",
+    "phone": "+41 44 868 12 12",
+    "social_facility": "nursing_home",
+    "social_facility:for": "senior",
+    "website": "https://oaseamrhein.ch/ueber-uns/",
+    "wheelchair": "yes",
+    "id": "node/8481826515"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.517549,
+      47.5773789
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8481828562",
+  "properties": {
+    "addr:city": "Bachenbülach",
+    "addr:housenumber": "4",
+    "addr:postcode": "8184",
+    "addr:street": "Schulhausstrasse",
+    "amenity": "social_facility",
+    "name": "Alterszentrum - Pflegewohngruppe Im Baumgarten",
+    "operator": "Stiftung Alterszentrum Region Bülach",
+    "phone": "+41 44 861 83 60",
+    "social_facility": "nursing_home",
+    "social_facility:for": "senior",
+    "id": "node/8481828562"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5473909,
+      47.5030839
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8482426412",
+  "properties": {
+    "addr:city": "Eglisau",
+    "addr:housenumber": "3",
+    "addr:postcode": "8193",
+    "addr:street": "burgstrasse",
+    "amenity": "social_facility",
+    "name": "Riiburg, Wohngruppe für demenz-kranke Menschen",
+    "phone": "+41 43 422 53 70",
+    "social_facility": "group_home",
+    "social_facility:for": "senior",
+    "id": "node/8482426412"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5288971,
+      47.5749738
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8482536442",
+  "properties": {
+    "addr:city": "Hüntwangen",
+    "addr:housenumber": "77",
+    "addr:postcode": "8194",
+    "addr:street": "Bahnhofstrasse",
+    "amenity": "social_facility",
+    "name": "Alterswohnheim - Pflegewohngruppe Rössli",
+    "operator": "Pflegewohngruppe Rössli AG",
+    "phone": "+41 43 433 53 07",
+    "social_facility": "group_home",
+    "social_facility:for": "senior",
+    "id": "node/8482536442"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4922584,
+      47.5948436
     ]
   }
 }
