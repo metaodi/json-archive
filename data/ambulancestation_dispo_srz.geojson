@@ -215,6 +215,7 @@
     "emergency": "ambulance_station",
     "name": "Rettungswache Winterthur",
     "operator": "Kantonsspital Winterthur",
+    "roof:shape": "flat",
     "id": "way/233903417"
   },
   "geometry": {
