@@ -3899,6 +3899,7 @@
     "defibrillator:location": "Bahnhof SBB",
     "emergency": "defibrillator",
     "emergency:phone": "144",
+    "indoor": "no",
     "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "opening_hours": "24/7",
     "operator": "Gemeinde Freienbach",
@@ -3908,8 +3909,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.778266,
-      47.2028972
+      8.7782241,
+      47.2029025
     ]
   }
 },
@@ -20803,6 +20804,44 @@
     "coordinates": [
       8.5733847,
       47.3520173
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8513619268",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Beim Eingangstor bei der Parkuhr",
+    "description": "24h verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Cham",
+    "id": "node/8513619268"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4570237,
+      47.1959097
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8514493947",
+  "properties": {
+    "access": "yes",
+    "emergency": "defibrillator",
+    "id": "node/8514493947"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4361362,
+      47.4822148
     ]
   }
 }

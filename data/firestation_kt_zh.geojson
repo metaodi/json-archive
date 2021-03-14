@@ -1752,48 +1752,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/54253309",
-  "properties": {
-    "addr:city": "Hütten",
-    "addr:housenumber": "15",
-    "addr:postcode": "8825",
-    "addr:street": "Vordere Hanfländer",
-    "amenity": "fire_station",
-    "building": "yes",
-    "name": "Feuerwehr Wädenswil - Depot Hütten",
-    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
-    "id": "way/54253309"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.6637797,
-          47.1752475
-        ],
-        [
-          8.6636583,
-          47.1749461
-        ],
-        [
-          8.6638835,
-          47.1749042
-        ],
-        [
-          8.6640049,
-          47.1752056
-        ],
-        [
-          8.6637797,
-          47.1752475
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/61540529",
   "properties": {
     "addr:city": "Zollikon",
@@ -4723,6 +4681,56 @@
         [
           8.5525828,
           47.4451701
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/916580212",
+  "properties": {
+    "addr:city": "Hütten",
+    "addr:housenumber": "15",
+    "addr:postcode": "8825",
+    "addr:street": "Vordere Hanfländer",
+    "amenity": "fire_station",
+    "building": "yes",
+    "name": "Feuerwehr Wädenswil - Depot Hütten",
+    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
+    "id": "way/916580212"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6644032,
+          47.1749586
+        ],
+        [
+          8.6644392,
+          47.1748017
+        ],
+        [
+          8.6644708,
+          47.174805
+        ],
+        [
+          8.6644785,
+          47.1747716
+        ],
+        [
+          8.6645343,
+          47.1747775
+        ],
+        [
+          8.6644905,
+          47.1749678
+        ],
+        [
+          8.6644032,
+          47.1749586
         ]
       ]
     ]
