@@ -913,10 +913,12 @@
   "type": "Feature",
   "id": "node/5706235894",
   "properties": {
+    "defibrillator:location": "Neben Portierloge",
+    "description": "während Öffnungszeiten verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
-    "operator": "V-Zug",
+    "operator": "V-ZUG AG",
     "id": "node/5706235894"
   },
   "geometry": {
@@ -3874,6 +3876,7 @@
   "id": "node/6976938443",
   "properties": {
     "access": "yes",
+    "colour": "green",
     "defibrillator:location": "Am Gebäude der Apotheke Rütli",
     "emergency": "defibrillator",
     "emergency:phone": "144",
@@ -3881,13 +3884,14 @@
     "opening_hours": "24/7",
     "operator": "Gemeinde Ingenbohl-Brunnen",
     "phone": "+41 41 825 05 62",
+    "wheelchair": "no",
     "id": "node/6976938443"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.6054192,
-      46.9942565
+      8.6054351,
+      46.9942522
     ]
   }
 },
@@ -20864,6 +20868,47 @@
     "coordinates": [
       8.4026321,
       47.470658
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8520333804",
+  "properties": {
+    "defibrillator:location": "Im Eingangsbereich Zugorama",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "V-ZUG AG",
+    "id": "node/8520333804"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5199393,
+      47.1815063
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8520579317",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "In der Werkstatt vom Reissverschluss",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Do: 07:45-12:00, 13:00-17:00, Fr: 07:45-14:00",
+    "operator": "Reissverschluss Bülach",
+    "id": "node/8520579317"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5396299,
+      47.5200717
     ]
   }
 }
