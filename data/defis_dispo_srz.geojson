@@ -46,6 +46,27 @@
 },
 {
   "type": "Feature",
+  "id": "node/2098935833",
+  "properties": {
+    "access": "yes",
+    "addr:street": "Zürcherstrasse/Paradiesweg",
+    "defibrillator:location": "Zürcherstrasse/Paradiesweg\nneben Garagengebäude",
+    "emergency": "defibrillator",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Galgenen",
+    "id": "node/2098935833"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8886364,
+      47.1775667
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/2450774413",
   "properties": {
     "emergency": "defibrillator",
@@ -1501,12 +1522,13 @@
   "id": "node/6796313255",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "Ostseite von Carosserie Steiner",
+    "defibrillator:location": "Brestenburgstr. 2, Carosserie Steiner\nOstseite",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
     "level": "0",
     "opening_hours": "24/7",
+    "operator": "resQshock GmbH",
     "id": "node/6796313255"
   },
   "geometry": {
@@ -1962,9 +1984,10 @@
   "id": "node/6976909957",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "Schwyzer Kantonalbank",
+    "defibrillator:location": "Glarnerstrasse 7, Schwyzer Kantonalbank\nVorraum, Karte nötig",
     "emergency": "defibrillator",
     "emergency:phone": "144",
+    "indoor": "yes",
     "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "opening_hours": "24/7",
     "operator": "Schwyzer Kantonalbank",
@@ -2595,7 +2618,7 @@
   "id": "node/6976938385",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "Baumgartenweg 2",
+    "defibrillator:location": "Baumgartenweg 2\nneben Garageneinfahrt",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "note": "Für Schutz & Rettung u.a einsatzrelevant.",
@@ -4159,16 +4182,19 @@
   "type": "Feature",
   "id": "node/6992954768",
   "properties": {
+    "defibrillator:location": "Postplatz 1\nvor Bistro Kiosk Post",
     "emergency": "defibrillator",
     "emergency:phone": "144",
+    "indoor": "no",
     "opening_hours": "24/7",
+    "operator": "ResQshock GmbH",
     "id": "node/6992954768"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.9291304,
-      47.173111
+      8.9291321,
+      47.1731335
     ]
   }
 },
@@ -4176,8 +4202,10 @@
   "type": "Feature",
   "id": "node/6992994100",
   "properties": {
+    "defibrillator:location": "Gutenbrunnen 20\nvor Schwanen Apotheke",
     "emergency": "defibrillator",
     "emergency:phone": "144",
+    "indoor": "no",
     "opening_hours": "24/7",
     "id": "node/6992994100"
   },
@@ -4212,9 +4240,12 @@
   "type": "Feature",
   "id": "node/7041623546",
   "properties": {
+    "defibrillator:location": "Kantonsstrasse 15\nvor Haupteingang",
     "emergency": "defibrillator",
     "emergency:phone": "144",
+    "indoor": "no",
     "opening_hours": "24/7",
+    "operator": "MuKidi Familienzentrum am Park",
     "id": "node/7041623546"
   },
   "geometry": {
@@ -18251,7 +18282,7 @@
   "id": "node/8421253581",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "Beim Hornbach-Eingang",
+    "defibrillator:location": "Kantonsstrasse 61, Hornbach\nvor Seiteneingang",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
@@ -20962,6 +20993,197 @@
     "coordinates": [
       8.7380262,
       47.3872141
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8540767887",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Beim Karton / Glas Sammelplatz",
+    "description": "24h verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Aeugst am Albis",
+    "phone": "044 763 50 60",
+    "id": "node/8540767887"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.486286,
+      47.2676568
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8540855917",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Eingang Amberg Engineering",
+    "description": "während Öffnungszeiten",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "mo-fr:08.00-17.00",
+    "operator": "amberg Engineering",
+    "phone": "+41448709112",
+    "id": "node/8540855917"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4743742,
+      47.4397975
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8540858718",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "mehrzweckgebäude",
+    "description": "wenn Mehrzweckgebäude belegt",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Gemeinde,Samariterverein",
+    "id": "node/8540858718"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.438138,
+      47.6777342
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8541281018",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "EVA Haus",
+    "description": "Neben Parkplatz am Haus \n24 Std. zugänglich",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Altendorf",
+    "id": "node/8541281018"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8454023,
+      47.173962
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8541299123",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Trüllikon Gemeindehaus. Rechts neben dem Eingang um die Hausecke. Es hat ein Schild",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "operator": "Gemeinde Trüllikon",
+    "id": "node/8541299123"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6939173,
+      47.6380056
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8541316518",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "EW Haus",
+    "description": "24 zugänglich",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Altendorf",
+    "id": "node/8541316518"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.852769,
+      47.1818228
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8541361717",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Bei Travohaus",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "id": "node/8541361717"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8464422,
+      47.1741435
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8541501541",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Grünhaldenstrasse 3, Gemeindehaus\nvor Eingang",
+    "emergency": "defibrillator",
+    "image": "https://firstresponder-siebnen.ch/images/AED_Standorte/Schbelbach_Grnhaldenstr_3_Gemeindehaus.jpg",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Schübelbach",
+    "id": "node/8541501541"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9256908,
+      47.1747907
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8541552038",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Ruchweid 4\nSkihaus Ruchweid, in Garage unterhalb Gebäude",
+    "emergency": "defibrillator",
+    "indoor": "yes",
+    "opening_hours": "24/7",
+    "operator": "Skiclub Galgenen",
+    "id": "node/8541552038"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8629904,
+      47.1541801
     ]
   }
 }

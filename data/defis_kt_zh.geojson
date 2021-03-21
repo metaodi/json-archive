@@ -12320,6 +12320,72 @@
       47.3872141
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/8540767887",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Beim Karton / Glas Sammelplatz",
+    "description": "24h verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Aeugst am Albis",
+    "phone": "044 763 50 60",
+    "id": "node/8540767887"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.486286,
+      47.2676568
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8540855917",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Eingang Amberg Engineering",
+    "description": "während Öffnungszeiten",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "mo-fr:08.00-17.00",
+    "operator": "amberg Engineering",
+    "phone": "+41448709112",
+    "id": "node/8540855917"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4743742,
+      47.4397975
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8541299123",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Trüllikon Gemeindehaus. Rechts neben dem Eingang um die Hausecke. Es hat ein Schild",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "operator": "Gemeinde Trüllikon",
+    "id": "node/8541299123"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6939173,
+      47.6380056
+    ]
+  }
 }
 ]
 }
