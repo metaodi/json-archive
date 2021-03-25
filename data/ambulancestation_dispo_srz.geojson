@@ -518,8 +518,8 @@
           47.3937856
         ],
         [
-          8.4292141,
-          47.3939486
+          8.4292056,
+          47.3939449
         ],
         [
           8.4290581,
@@ -684,17 +684,22 @@
   "type": "Feature",
   "id": "node/7465975605",
   "properties": {
+    "addr:city": "Regensdorf",
+    "addr:housenumber": "125",
+    "addr:postcode": "8105",
+    "addr:street": "Riedthofstrasse",
     "emergency": "ambulance_station",
     "name": "Rettungsdienst Limmattal - Wache Regensdorf",
     "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "operator": "Rettungsdienst Limmattal",
+    "source": "local knowledge",
     "id": "node/7465975605"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4639654,
-      47.4384274
+      8.4635453,
+      47.4386107
     ]
   }
 },
