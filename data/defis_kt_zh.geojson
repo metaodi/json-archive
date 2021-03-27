@@ -3108,7 +3108,10 @@
     "description": "An der Hausfassade, immer zugänglich",
     "emergency": "defibrillator",
     "emergency:phone": "144",
+    "indoor": "no",
     "opening_hours": "24/7",
+    "operator": "Gemeinde Oberembrach",
+    "phone": "044 866 26 00",
     "id": "node/7636233554"
   },
   "geometry": {
@@ -3128,7 +3131,10 @@
     "description": "An der Hausfassade, immer zugänglich",
     "emergency": "defibrillator",
     "emergency:phone": "144",
+    "indoor": "no",
     "opening_hours": "24/7",
+    "operator": "Gemeinde Oberembrach",
+    "phone": "044 866 26 00",
     "id": "node/7636233555"
   },
   "geometry": {
@@ -3148,7 +3154,10 @@
     "description": "An der Hausfassade, immer zugänglich",
     "emergency": "defibrillator",
     "emergency:phone": "144",
+    "indoor": "no",
     "opening_hours": "24/7",
+    "operator": "Gemeinde Oberembrach",
+    "phone": "044 866 26 00",
     "id": "node/7636233556"
   },
   "geometry": {
@@ -13028,11 +13037,10 @@
   "properties": {
     "access": "yes",
     "defibrillator:location": "Eingang Lehrerzimmer",
-    "description": "24h verfügbar",
+    "description": "während Schulbetrieb verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
-    "indoor": "no",
-    "opening_hours": "24/7",
+    "indoor": "yes",
     "operator": "Gemeinde Weisslingen",
     "phone": "052 397 31 00",
     "id": "node/8556585556"
@@ -14414,7 +14422,7 @@
     "emergency:phone": "144",
     "indoor": "yes",
     "opening_hours": "Mo-Fr 09:00-18:00; Sa-Su 09:00-12:00",
-    "operator": "Evang.-ref. Kirchgemeinde Stäfa / Andreas Erni",
+    "operator": "Evang.-ref. Kirchgemeinde Stäfa",
     "phone": "044 927 10 90",
     "id": "node/8561231768"
   },
@@ -14423,6 +14431,517 @@
     "coordinates": [
       8.7302104,
       47.2394061
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8562506992",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "2. Stock rechts bei Eingangstüre in der Garderobe",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "Mo-Fr 08:00-17:00",
+    "id": "node/8562506992"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5520075,
+      47.3633441
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8562538644",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Schulgelände",
+    "description": "24h verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Niederhasli, Marion Engeler",
+    "phone": "043 411 22 00",
+    "id": "node/8562538644"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4945425,
+      47.472982
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8562538645",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Beim Bademeister",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "operator": "Gemeinde Niederhasli, Marion Engeler",
+    "phone": "043 411 22 00",
+    "id": "node/8562538645"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4909162,
+      47.4733169
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8562538646",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Gemeindehaus, beim Eingang",
+    "description": "24h verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Niederhasli, Marion Engeler",
+    "phone": "043 411 22 00",
+    "id": "node/8562538646"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.485828,
+      47.4801678
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8562553021",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Treppenhaus 2.OG",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Fr 06:45-18:00",
+    "operator": "Herbert Heeb, Preisig AG 079 692 28 74",
+    "phone": "044 315 41 41",
+    "id": "node/8562553021"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5480653,
+      47.4124015
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8562579133",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Unter dem gedeckten Durchgang beim Werkhof.",
+    "description": "24h verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Urs Altorfer",
+    "phone": "079 327 95 53",
+    "id": "node/8562579133"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.675939,
+      47.4729391
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8562579134",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Durchgang Windfang Schulhaus - Turnhalle",
+    "description": "24h verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Schulhauswart Bernhard Koch",
+    "phone": "079 336 06 87",
+    "id": "node/8562579134"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6758733,
+      47.4754431
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8562579135",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "im TLF der Feuerwehr Altbach",
+    "description": "über Notruf erreichbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Feuerwehr Altbach",
+    "phone": "0448384050",
+    "id": "node/8562579135"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6465722,
+      47.448653
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8562579137",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Im EEF der Feuerwehr Altbach",
+    "description": "über Notruf erreichbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Feuerwehr Altbach",
+    "phone": "0448384050",
+    "id": "node/8562579137"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.67577,
+      47.4729045
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8562583189",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Eingangshalle Gemeindeverwaltung, links",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Materialwart Feuerwehr Stäfa, Vinzenco Costandini",
+    "phone": "044 926 15 93",
+    "id": "node/8562583189"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7234778,
+      47.2411257
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8562588563",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Vom Haupteingang durch den Eingang in die Prüfhalle, rechts in der Ecke.",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Fr 07:10-17:00; Fr 07:10-16:00",
+    "operator": "Marianne Schurter / Ingo Masola",
+    "id": "node/8562588563"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4614364,
+      47.4417906
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8562594674",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "An der Wand im Eingangsbereich beim Treppenaufgang",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Fr 07:00-16:30",
+    "operator": "Thür + Co. AG",
+    "phone": "044 807 44 09",
+    "id": "node/8562594674"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6259624,
+      47.4133274
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8562606047",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Familie Auf der Maur",
+    "description": "nur bei Anwesenheit Bewohner verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Willi auf der Maur",
+    "phone": "+41 79 585 76 77",
+    "id": "node/8562606047"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6394073,
+      47.5169688
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8562609161",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Im Vorraum der ZKB-Filiale",
+    "description": "24h verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "24/7",
+    "operator": "Zürcher Kantonalbank",
+    "id": "node/8562609161"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8451522,
+      47.4379226
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8562609162",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Grosshalle, links im Eingang",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "id": "node/8562609162"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8362037,
+      47.4417201
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8562615971",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Hinter dem Clubhaus an der Hauswand, Südseite, beschildert",
+    "description": "24h verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Beim TC Brütten: Michael Vogt",
+    "phone": "079 234 20 27",
+    "id": "node/8562615971"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6777213,
+      47.4758836
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8562637924",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "im Schulhaus",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "id": "node/8562637924"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7298065,
+      47.6122319
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8562698067",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Gebäude Empa Akademie",
+    "description": "interne Betriebssanität aufbieten 058 765 88 88",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Empa Zentrale, nach Renato Figi fragen",
+    "phone": "058 765 11 11",
+    "id": "node/8562698067"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6135696,
+      47.4033082
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8562698068",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Eawag Gebaude Forurm Chriesbach (= Empfang Eawag)",
+    "description": "interne Betriebssanität aufbieten 058 765 88 88",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Empa Zentrale, nach Renato Figi fragen",
+    "phone": "058 765 11 11",
+    "id": "node/8562698068"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6096093,
+      47.403901
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8562698069",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Empa Gebäude NEST (= Empfang Empa)",
+    "description": "interne Betriebssanität aufbieten 058 765 88 88",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Empa Zentrale, nach Renato Figi fragen",
+    "phone": "058 765 11 11",
+    "id": "node/8562698069"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6127555,
+      47.4028063
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8562819833",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "m Eingangsbereich, auf der Innenseite, hinter einer Glasscheibe sichtbar. Am Tag frei zugänglich, in der Nacht muss geläutet werden, dass die Nachtwache den Defi aushändigen kann",
+    "description": "24h verfügbar / über Nachtwache",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "24/7",
+    "operator": "Senevita Im Rebberg",
+    "phone": "044 915 80 50",
+    "id": "node/8562819833"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6131644,
+      47.2889647
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8562820772",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Im Treppenhaus vom EG bis 5. OG jeweils ein Defi",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Fr 07:00-18:00",
+    "operator": "Horst Ritzel Alterszentren Stadt Zürich",
+    "phone": "044 412 47 48",
+    "id": "node/8562820772"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.542493,
+      47.4160394
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8563291289",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Empfang 3. OG, links 10m der Wand des Gebäudekerns entlang zur Kaffeeküche, Defi links neben dem Wasserspender",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Fr 08:00-19:00",
+    "operator": "Citytrans GmbH, Silvio Libera",
+    "phone": "044 732 14 32",
+    "id": "node/8563291289"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4377736,
+      47.3996092
     ]
   }
 }

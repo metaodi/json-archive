@@ -7566,6 +7566,62 @@
 },
 {
   "type": "Feature",
+  "id": "way/90506934",
+  "properties": {
+    "addr:city": "Hombrechtikon",
+    "addr:country": "CH",
+    "addr:housenumber": "5",
+    "addr:postcode": "8634",
+    "addr:street": "Mürtschenweg",
+    "amenity": "social_facility",
+    "building": "yes",
+    "email": "kontakt@refugium-hombrechtikon.ch",
+    "name": "Wohn- und Pflegeheim Refugium",
+    "operator": "Refugium Hombrechtikon",
+    "phone": "+41 55 244 37 00",
+    "social_facility": "nursing_home",
+    "source": "bing",
+    "website": "https://www.refugium-hombrechtikon.ch/wohnheim_pflegeheim/1.0.0/home.html",
+    "id": "way/90506934"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7783576,
+          47.2572017
+        ],
+        [
+          8.7783868,
+          47.2570775
+        ],
+        [
+          8.7785856,
+          47.257099
+        ],
+        [
+          8.7785798,
+          47.2571236
+        ],
+        [
+          8.7786981,
+          47.2571365
+        ],
+        [
+          8.7786747,
+          47.2572361
+        ],
+        [
+          8.7783576,
+          47.2572017
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/91736343",
   "properties": {
     "addr:city": "Russikon",
@@ -15998,6 +16054,130 @@
 },
 {
   "type": "Feature",
+  "id": "way/222100895",
+  "properties": {
+    "addr:city": "Küsnacht",
+    "addr:housenumber": "23/25",
+    "addr:postcode": "8700",
+    "addr:street": "Rietstrasse",
+    "alt_name": "Pflegeheim Bethesda",
+    "amenity": "social_facility",
+    "building": "apartments",
+    "email": "info.residenz@bethesda-alterszentren.ch",
+    "name": "Residenz Küsnacht",
+    "operator": "Bethesda Alterszentren AG",
+    "phone": "+41 44 913 21 11",
+    "social_facility": "nursing_home",
+    "source": "bing",
+    "website": "https://www.bethesda-alterszentren.ch/residenz-kuesnacht/ueber-uns/index.html",
+    "id": "way/222100895"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6029685,
+          47.3324711
+        ],
+        [
+          8.6029324,
+          47.3321601
+        ],
+        [
+          8.6033292,
+          47.3321389
+        ],
+        [
+          8.6033222,
+          47.3320886
+        ],
+        [
+          8.6033124,
+          47.3319953
+        ],
+        [
+          8.603289,
+          47.3319965
+        ],
+        [
+          8.6032506,
+          47.3316676
+        ],
+        [
+          8.6035535,
+          47.3316513
+        ],
+        [
+          8.6036056,
+          47.3320974
+        ],
+        [
+          8.6039365,
+          47.3320797
+        ],
+        [
+          8.6038822,
+          47.3316147
+        ],
+        [
+          8.6042045,
+          47.3315974
+        ],
+        [
+          8.6042235,
+          47.3317599
+        ],
+        [
+          8.6041379,
+          47.3317645
+        ],
+        [
+          8.6041795,
+          47.3321223
+        ],
+        [
+          8.6039226,
+          47.332136
+        ],
+        [
+          8.6039341,
+          47.332235
+        ],
+        [
+          8.6041476,
+          47.3322236
+        ],
+        [
+          8.60416,
+          47.3323298
+        ],
+        [
+          8.603674,
+          47.3323557
+        ],
+        [
+          8.6036884,
+          47.3324798
+        ],
+        [
+          8.603487,
+          47.3324905
+        ],
+        [
+          8.6034815,
+          47.3324438
+        ],
+        [
+          8.6029685,
+          47.3324711
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/223124991",
   "properties": {
     "addr:city": "Schlieren",
@@ -20628,6 +20808,53 @@
         [
           8.8202628,
           47.2697444
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/295032884",
+  "properties": {
+    "addr:city": "Hirzel",
+    "addr:housenumber": "1a",
+    "addr:postcode": "8816",
+    "addr:street": "Bergstrasse",
+    "amenity": "social_facility",
+    "building": "yes",
+    "email": "info@spyrigarten.ch",
+    "name": "Spyrigarten Wohn- und Pflegeheim",
+    "operator": "Spyrigarten",
+    "phone": "+41 44 729 80 32",
+    "social_facility": "nursing_home",
+    "social_facility:for": "senior",
+    "website": "https://spyrigarten.ch/",
+    "id": "way/295032884"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6062557,
+          47.2177768
+        ],
+        [
+          8.6061917,
+          47.2175452
+        ],
+        [
+          8.6063739,
+          47.2175219
+        ],
+        [
+          8.606438,
+          47.2177535
+        ],
+        [
+          8.6062557,
+          47.2177768
         ]
       ]
     ]
@@ -26007,10 +26234,18 @@
   "type": "Feature",
   "id": "way/662349659",
   "properties": {
+    "addr:city": "Horgen",
+    "addr:housenumber": "2",
+    "addr:postcode": "8810",
+    "addr:street": "Schärbächlistrasse",
     "amenity": "social_facility",
-    "name": "Haus Tabea",
+    "email": "info@tabea.ch",
+    "name": "Alterszentrum Haus Tabea",
+    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
+    "phone": "+41 44 718 44 44",
     "social_facility": "nursing_home",
     "social_facility:for": "senior",
+    "website": "https://www.tabea.ch/",
     "id": "way/662349659"
   },
   "geometry": {
@@ -31933,6 +32168,55 @@
     "coordinates": [
       8.7775997,
       47.5059132
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8563139816",
+  "properties": {
+    "addr:city": "Effretikon",
+    "addr:housenumber": "2",
+    "addr:postcode": "8307",
+    "addr:street": "Schlimpergstrasse",
+    "amenity": "social_facility",
+    "name": "Dezentrale Wohngruppe",
+    "operator": "Alters- und Pflegezentrum Bruggwiesen",
+    "phone": "+41 52 355 56 56",
+    "social_facility": "nursing_home",
+    "website": "https://www.apzb.ch/angebot/pflege-und-betreuung/dezentrale-wohngruppe/index.html",
+    "id": "node/8563139816"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6879812,
+      47.4299774
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8563180616",
+  "properties": {
+    "addr:city": "Kilchberg",
+    "addr:housenumber": "60",
+    "addr:postcode": "8802",
+    "addr:street": "Grütstrasse",
+    "amenity": "social_facility",
+    "name": "Wohn- und Pflegeheim See-Spital",
+    "operator": "See-Spital",
+    "phone": "+41 44 728 63 06",
+    "social_facility": "nursing_home",
+    "social_facility:for": "senior",
+    "website": "https://www.heiminfo.ch/institution/wohn-und-pflegeheim-see-spital/2OK1HuF",
+    "id": "node/8563180616"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5361434,
+      47.3201591
     ]
   }
 }

@@ -1317,46 +1317,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/47122254",
-  "properties": {
-    "addr:housenumber": "6",
-    "addr:street": "Brüelgasse",
-    "amenity": "fire_station",
-    "building": "yes",
-    "name": "Feuerwehr Altbach - Depot Brütten",
-    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
-    "id": "way/47122254"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.6745559,
-          47.4725318
-        ],
-        [
-          8.6747513,
-          47.4724512
-        ],
-        [
-          8.6748737,
-          47.4725868
-        ],
-        [
-          8.6746783,
-          47.4726674
-        ],
-        [
-          8.6745559,
-          47.4725318
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/47248106",
   "properties": {
     "amenity": "fire_station",
@@ -6083,6 +6043,25 @@
     "coordinates": [
       8.5358651,
       47.2402652
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8562579136",
+  "properties": {
+    "addr:housenumber": "7",
+    "addr:street": "Brüelgasse",
+    "amenity": "fire_station",
+    "name": "Feuerwehr Altbach - Depot Brütten",
+    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
+    "id": "node/8562579136"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6757043,
+      47.4729076
     ]
   }
 }

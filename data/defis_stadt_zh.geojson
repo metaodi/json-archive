@@ -2710,6 +2710,73 @@
       47.3830087
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/8562506992",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "2. Stock rechts bei Eingangstüre in der Garderobe",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "Mo-Fr 08:00-17:00",
+    "id": "node/8562506992"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5520075,
+      47.3633441
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8562553021",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Treppenhaus 2.OG",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Fr 06:45-18:00",
+    "operator": "Herbert Heeb, Preisig AG 079 692 28 74",
+    "phone": "044 315 41 41",
+    "id": "node/8562553021"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5480653,
+      47.4124015
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8562820772",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Im Treppenhaus vom EG bis 5. OG jeweils ein Defi",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Fr 07:00-18:00",
+    "operator": "Horst Ritzel Alterszentren Stadt Zürich",
+    "phone": "044 412 47 48",
+    "id": "node/8562820772"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.542493,
+      47.4160394
+    ]
+  }
 }
 ]
 }
