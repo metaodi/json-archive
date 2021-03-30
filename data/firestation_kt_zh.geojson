@@ -4449,6 +4449,50 @@
 },
 {
   "type": "Feature",
+  "id": "way/296898634",
+  "properties": {
+    "addr:city": "Ossingen",
+    "addr:housenumber": "1",
+    "addr:postcode": "8475",
+    "addr:street": "Neuwiesstrasse",
+    "amenity": "fire_station",
+    "building": "yes",
+    "building:levels": "1",
+    "name": "Stützpunktfeuerwehr Weinland - Depot Ossingen",
+    "roof:levels": "1",
+    "roof:shape": "gabled",
+    "id": "way/296898634"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7350839,
+          47.6123506
+        ],
+        [
+          8.7351083,
+          47.6122012
+        ],
+        [
+          8.7355933,
+          47.6122371
+        ],
+        [
+          8.7355689,
+          47.6123865
+        ],
+        [
+          8.7350839,
+          47.6123506
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/297976439",
   "properties": {
     "amenity": "fire_station",
@@ -5623,10 +5667,11 @@
   "id": "node/5282136023",
   "properties": {
     "addr:city": "Marthalen",
+    "addr:housenumber": "10",
     "addr:postcode": "8460",
     "addr:street": "Ruedelfingerstrass",
     "amenity": "fire_station",
-    "name": "Feuerwehr Weinland - Depot Marthalen",
+    "name": "Stützpunktfeuerwehr Weinland - Depot Marthalen",
     "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "id": "node/5282136023"
   },

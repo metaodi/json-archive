@@ -2940,12 +2940,20 @@
   "type": "Feature",
   "id": "way/28529589",
   "properties": {
+    "addr:city": "Langnau am Albis",
     "addr:housenumber": "2",
+    "addr:postcode": "8135",
     "addr:street": "Sihlwaldstrasse",
+    "alt_name": "Altersheim Sonnegg",
     "amenity": "social_facility",
     "building": "residential",
+    "email": "info@sonnegg-langnau.ch",
+    "name": "Sonnegg Wohn- und Pflegezentrum",
+    "operator": "Stiftung Sonnegg",
+    "phone": "+41 44 714 74 74",
     "social_facility": "group_home",
     "social_facility:for": "senior",
+    "website": "https://www.sonnegg-langnau.ch/",
     "id": "way/28529589"
   },
   "geometry": {
@@ -8787,6 +8795,116 @@
         [
           8.5325583,
           47.3705373
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/103641432",
+  "properties": {
+    "addr:city": "Rikon",
+    "addr:housenumber": "5",
+    "addr:postcode": "8486",
+    "addr:street": "Im Spiegel",
+    "amenity": "social_facility",
+    "building": "yes",
+    "email": "info@pflegezentren-toesstal.ch",
+    "name": "Alters- und Pflegeheim Im Spiegel",
+    "phone": "+41 52 397 07 70",
+    "social_facility": "nursing_home",
+    "social_facility:for": "senior",
+    "website": "https://www.zell.ch/alter/8651",
+    "id": "way/103641432"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7988149,
+          47.4460211
+        ],
+        [
+          8.7987533,
+          47.4459395
+        ],
+        [
+          8.7988605,
+          47.4458996
+        ],
+        [
+          8.7988284,
+          47.4458579
+        ],
+        [
+          8.7991422,
+          47.4457527
+        ],
+        [
+          8.7990242,
+          47.445593
+        ],
+        [
+          8.7991931,
+          47.4455295
+        ],
+        [
+          8.7990456,
+          47.4453264
+        ],
+        [
+          8.7991288,
+          47.4452774
+        ],
+        [
+          8.7992387,
+          47.4452502
+        ],
+        [
+          8.7993916,
+          47.4452502
+        ],
+        [
+          8.7993728,
+          47.4454679
+        ],
+        [
+          8.7994184,
+          47.4454715
+        ],
+        [
+          8.7994184,
+          47.4455803
+        ],
+        [
+          8.7993836,
+          47.4455948
+        ],
+        [
+          8.7993621,
+          47.4458089
+        ],
+        [
+          8.7992575,
+          47.4458488
+        ],
+        [
+          8.7989115,
+          47.4459721
+        ],
+        [
+          8.7989237,
+          47.4459852
+        ],
+        [
+          8.7988737,
+          47.4459999
+        ],
+        [
+          8.7988149,
+          47.4460211
         ]
       ]
     ]
@@ -17975,6 +18093,62 @@
 },
 {
   "type": "Feature",
+  "id": "way/243636232",
+  "properties": {
+    "addr:city": "Schwerzenbach",
+    "addr:country": "CH",
+    "addr:housenumber": "8",
+    "addr:postcode": "8603",
+    "addr:street": "In der Halden",
+    "amenity": "social_facility",
+    "building": "yes",
+    "email": "info@laerchenbaum.ch",
+    "name": "Alters- und Pflegeheim Zum Lärchenbaum",
+    "operator": "Alters- und Pflegeheim AG Zum Lärchenbaum",
+    "phone": "+41 44 825 33 82",
+    "social_facility": "nursing_home",
+    "social_facility:for": "senior",
+    "website": "https://www.heiminfo.ch/institution/alters-und-pflegeheim-ag-zum-laerchenbaum/aK0tlgG",
+    "id": "way/243636232"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6492196,
+          47.3826857
+        ],
+        [
+          8.6492161,
+          47.382625
+        ],
+        [
+          8.6493388,
+          47.3826225
+        ],
+        [
+          8.6493371,
+          47.3825359
+        ],
+        [
+          8.6494235,
+          47.3824728
+        ],
+        [
+          8.6494252,
+          47.3826845
+        ],
+        [
+          8.6492196,
+          47.3826857
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/244603381",
   "properties": {
     "addr:city": "Volketswil",
@@ -21426,6 +21600,73 @@
         [
           8.5831542,
           47.3550015
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/311974884",
+  "properties": {
+    "addr:city": "Schöfflisdorf",
+    "addr:housenumber": "14",
+    "addr:postcode": "8165",
+    "addr:street": "Chileweg",
+    "amenity": "social_facility",
+    "building": "yes",
+    "email": "info@alterszentrum-wehntal.ch",
+    "name": "Alterszentrum Wehntal",
+    "operator": "Stiftung Alterszentrum Wehnta",
+    "phone": "+41 44 857 14 14",
+    "social_facility": "nursing_home",
+    "social_facility:for": "senior",
+    "website": "https://www.alterszentrum-wehntal.ch/alterszentrum.html",
+    "id": "way/311974884"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.4134271,
+          47.5011052
+        ],
+        [
+          8.4133995,
+          47.5009584
+        ],
+        [
+          8.4139708,
+          47.5009341
+        ],
+        [
+          8.4139684,
+          47.5009041
+        ],
+        [
+          8.4142037,
+          47.5008911
+        ],
+        [
+          8.4142025,
+          47.5009706
+        ],
+        [
+          8.4141809,
+          47.5009884
+        ],
+        [
+          8.4142001,
+          47.5011295
+        ],
+        [
+          8.4137139,
+          47.5011474
+        ],
+        [
+          8.4134271,
+          47.5011052
         ]
       ]
     ]
@@ -32335,6 +32576,32 @@
     "coordinates": [
       8.5361434,
       47.3201591
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8570528588",
+  "properties": {
+    "addr:city": "Männedorf",
+    "addr:housenumber": "227",
+    "addr:postcode": "8708",
+    "addr:street": "Seestrasse",
+    "amenity": "social_facility",
+    "email": "pflege.seerose@bethesda-alterszentren.ch",
+    "name": "Altersheim Seerose",
+    "operator": "Bethesda Alterszentren AG",
+    "phone": "+41 44 920 05 64",
+    "social_facility": "nursing_home",
+    "social_facility:for": "senior",
+    "website": "https://www.bethesda-alterszentren.ch/seerosespan-maennedorf/ueber-uns/index.html",
+    "id": "node/8570528588"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6922246,
+      47.252136
     ]
   }
 }
