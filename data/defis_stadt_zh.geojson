@@ -2823,6 +2823,94 @@
       47.3898698
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/8573701621",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "3. Stock bei Reavita",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Fr 07:00-19:00",
+    "operator": "Reavita AG",
+    "phone": "044 466 80 66",
+    "id": "node/8573701621"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5106298,
+      47.3628967
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8573989124",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Hauseingang",
+    "description": "24h verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "id": "node/8573989124"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5496002,
+      47.4044888
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8574001445",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Hauseingang",
+    "description": "24h verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "id": "node/8574001445"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5501089,
+      47.4040901
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8575469417",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Migros Witikon, bei Selfcheck-Kasse",
+    "description": "während Öffnungszeiten verfügbsr",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Sa 08h-20h",
+    "operator": "Migros",
+    "phone": "0585635270",
+    "id": "node/8575469417"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5857016,
+      47.3591075
+    ]
+  }
 }
 ]
 }

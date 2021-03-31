@@ -7328,6 +7328,58 @@
 },
 {
   "type": "Feature",
+  "id": "node/1501669606",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "9",
+    "addr:postcode": "8051",
+    "addr:street": "Dübendorfstrasse",
+    "amenity": "social_facility",
+    "email": "haeuptli@wohnsch.ch",
+    "name": "Wohnpflegeheim Häuptli",
+    "operator": "Wohnsch Wohnpflegeheime Schwamendingen",
+    "phone": "+41 44 325 38 00",
+    "social_facility": "nursing_home",
+    "social_facility:for": "senior",
+    "website": "https://wohnsch.ch/haeuptli/",
+    "id": "node/1501669606"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5752102,
+      47.4038897
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2335063551",
+  "properties": {
+    "addr:housenumber": "11",
+    "addr:postcode": "8050",
+    "addr:street": "Schörlistrasse",
+    "alt_name": "Altersheim Schörli",
+    "amenity": "social_facility",
+    "email": "schoerli@wohnsch.ch",
+    "name": "Pflegeheim Schörli Für Menschen mit Demenz",
+    "operator": "Wohnsch (Wohnpflegeheime Schwamendingen)",
+    "phone": "+41 44 325 38 70",
+    "social_facility": "nursing_home",
+    "social_facility:for": "senior",
+    "id": "node/2335063551"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5624212,
+      47.4068623
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/2628766568",
   "properties": {
     "amenity": "nursing_home",

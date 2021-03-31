@@ -3233,6 +3233,55 @@
 },
 {
   "type": "Feature",
+  "id": "way/29161925",
+  "properties": {
+    "addr:city": "Volketswil",
+    "addr:country": "CH",
+    "addr:housenumber": "1",
+    "addr:postcode": "8604",
+    "addr:street": "Neuwiesenstrasse",
+    "amenity": "social_facility",
+    "building": "yes",
+    "email": "kontakt@prixsante.ch",
+    "name": "Altersheim Pflege im Zentrum",
+    "operator": "Prix Santé AG",
+    "phone": "+41 43 466 94 64",
+    "social_facility": "nursing_home",
+    "social_facility:for": "senior",
+    "source": "Yahoo",
+    "website": "https://www.prixsante.ch/",
+    "id": "way/29161925"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6874366,
+          47.3889174
+        ],
+        [
+          8.6876213,
+          47.3889278
+        ],
+        [
+          8.6875957,
+          47.3891355
+        ],
+        [
+          8.6874111,
+          47.3891251
+        ],
+        [
+          8.6874366,
+          47.3889174
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/29881598",
   "properties": {
     "addr:housenumber": "10",
@@ -5504,6 +5553,137 @@
         [
           8.518288,
           47.1944324
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/46735638",
+  "properties": {
+    "addr:city": "Thalwil",
+    "addr:housenumber": "8",
+    "addr:postcode": "8800",
+    "addr:street": "Asylstrasse",
+    "alt_name": "Altersheim Oeggisbüel",
+    "amenity": "social_facility",
+    "building": "yes",
+    "name": "Serata Oeggisbüel",
+    "operator": "Serata, Stiftung für das Alter",
+    "phone": "+41 44 723 71 39",
+    "social_facility": "nursing_home",
+    "social_facility:for": "senior",
+    "website": "https://www.serata.ch/de/Wohnen/Betreutes-Wohnen",
+    "id": "way/46735638"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5696502,
+          47.2863077
+        ],
+        [
+          8.5696131,
+          47.2862037
+        ],
+        [
+          8.5696644,
+          47.2861957
+        ],
+        [
+          8.5696531,
+          47.286165
+        ],
+        [
+          8.5698271,
+          47.2861338
+        ],
+        [
+          8.5701072,
+          47.2860847
+        ],
+        [
+          8.5701661,
+          47.2860744
+        ],
+        [
+          8.5702103,
+          47.2862086
+        ],
+        [
+          8.5702838,
+          47.2864317
+        ],
+        [
+          8.5702404,
+          47.2865
+        ],
+        [
+          8.5701661,
+          47.2864727
+        ],
+        [
+          8.5701057,
+          47.2865651
+        ],
+        [
+          8.5700716,
+          47.2865567
+        ],
+        [
+          8.5700375,
+          47.286624
+        ],
+        [
+          8.5698346,
+          47.2865662
+        ],
+        [
+          8.5698594,
+          47.2865168
+        ],
+        [
+          8.569816,
+          47.2865063
+        ],
+        [
+          8.5698656,
+          47.286417
+        ],
+        [
+          8.5698934,
+          47.2864243
+        ],
+        [
+          8.5699151,
+          47.2863834
+        ],
+        [
+          8.5700205,
+          47.2863623
+        ],
+        [
+          8.5700003,
+          47.2863055
+        ],
+        [
+          8.5699724,
+          47.2862268
+        ],
+        [
+          8.5697974,
+          47.2862562
+        ],
+        [
+          8.5698067,
+          47.2862793
+        ],
+        [
+          8.5696502,
+          47.2863077
         ]
       ]
     ]
@@ -9616,6 +9796,63 @@
         [
           8.7611955,
           47.5070892
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/113718545",
+  "properties": {
+    "addr:city": "Regensberg",
+    "addr:housenumber": "23",
+    "addr:postcode": "8158",
+    "addr:street": "Unterburg",
+    "alt_name": "Altersheim Hirzelheim",
+    "amenity": "social_facility",
+    "building": "yes",
+    "email": "info@hirzelheim.ch",
+    "name": "Hirzelheim Regensberg",
+    "operator": "Stiftung Hirzelheim Regensberg",
+    "phone": "+41 44 853 12 32",
+    "social_facility": "nursing_home",
+    "social_facility:for": "senior",
+    "source": "Bing",
+    "website": "https://hirzelheim.ch/",
+    "id": "way/113718545"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.4367972,
+          47.4823078
+        ],
+        [
+          8.4369201,
+          47.4821905
+        ],
+        [
+          8.4371393,
+          47.4822225
+        ],
+        [
+          8.4371236,
+          47.4822493
+        ],
+        [
+          8.4370434,
+          47.4823782
+        ],
+        [
+          8.4370336,
+          47.4823931
+        ],
+        [
+          8.4367972,
+          47.4823078
         ]
       ]
     ]
@@ -16054,6 +16291,70 @@
 },
 {
   "type": "Feature",
+  "id": "way/220702374",
+  "properties": {
+    "addr:city": "Wolfhausen",
+    "addr:housenumber": "7",
+    "addr:postcode": "8633",
+    "addr:street": "Wisshaldenstrasse",
+    "alt_name": "Altersheim Haus zum Birkenhof",
+    "amenity": "social_facility",
+    "building": "yes",
+    "email": "birkenhof@sfgb.ch",
+    "name": "Pflegeheim Haus zum Birkenhof",
+    "operator": "Stiftung für ganzheitliche Betreuung",
+    "phone": "+41 55 251 04 20",
+    "social_facility": "nursing_home",
+    "social_facility:for": "senior",
+    "website": "https://www.sfgb.ch/de/bei-uns-betreut-wohnen/haus-zum-birkenhof.html",
+    "id": "way/220702374"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.8009899,
+          47.2597604
+        ],
+        [
+          8.8009866,
+          47.2597787
+        ],
+        [
+          8.8008619,
+          47.2597685
+        ],
+        [
+          8.8008806,
+          47.2596624
+        ],
+        [
+          8.8011111,
+          47.2596812
+        ],
+        [
+          8.8010874,
+          47.2598156
+        ],
+        [
+          8.8010079,
+          47.2598091
+        ],
+        [
+          8.8010162,
+          47.2597626
+        ],
+        [
+          8.8009899,
+          47.2597604
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/221044976",
   "properties": {
     "addr:city": "Wangen",
@@ -17720,9 +18021,17 @@
   "type": "Feature",
   "id": "way/239132473",
   "properties": {
+    "addr:city": "Wald",
+    "addr:housenumber": "5",
+    "addr:postcode": "8636",
+    "addr:street": "Sackstrasse",
     "amenity": "nursing_home",
     "building": "yes",
+    "email": "altersheim@stiftungdreitannen.ch",
     "name": "Altersheim Drei Tannen",
+    "operator": "Stiftung DREITANNEN",
+    "phone": "+41 55 2561414",
+    "website": "https://www.stiftungdreitannen.ch/",
     "id": "way/239132473"
   },
   "geometry": {
@@ -18156,11 +18465,16 @@
     "addr:housenumber": "5",
     "addr:postcode": "8604",
     "addr:street": "In der Au",
+    "alt_name": "Altersheim vitafutura",
     "amenity": "social_facility",
     "building": "yes",
+    "email": "info@vitafutura.ch",
+    "name": "vitafutura Pflegezentrum",
     "operator": "Volketswil",
+    "phone": "+41 43 399 36 00",
     "social_facility": "group_home",
     "social_facility:for": "senior",
+    "website": "https://www.vitafutura.ch/",
     "id": "way/244603381"
   },
   "geometry": {
@@ -22573,6 +22887,73 @@
         [
           8.7642028,
           47.4290776
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/413521545",
+  "properties": {
+    "addr:city": "Wiesendangen",
+    "addr:housenumber": "6b",
+    "addr:postcode": "8542",
+    "addr:street": "Schulstrasse",
+    "alt_name": "Altersheim Zentrum Wiesental",
+    "amenity": "social_facility",
+    "building": "yes",
+    "name": "Pflegeheim Zentrum Wiesental",
+    "operator": "Pflege Eulachtal",
+    "phone": "+41 52 338 21 46",
+    "social_facility": "nursing_home",
+    "social_facility:for": "senior",
+    "website": "https://www.eulachtal.ch/index.php?pageID=477",
+    "id": "way/413521545"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7841827,
+          47.5225817
+        ],
+        [
+          8.7841389,
+          47.5224589
+        ],
+        [
+          8.7843193,
+          47.5224268
+        ],
+        [
+          8.7844172,
+          47.5224142
+        ],
+        [
+          8.7844552,
+          47.5225365
+        ],
+        [
+          8.78435,
+          47.5225526
+        ],
+        [
+          8.7843461,
+          47.5225416
+        ],
+        [
+          8.7842815,
+          47.5225522
+        ],
+        [
+          8.784286,
+          47.5225649
+        ],
+        [
+          8.7841827,
+          47.5225817
         ]
       ]
     ]
@@ -31006,6 +31387,33 @@
 },
 {
   "type": "Feature",
+  "id": "node/1501669606",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "9",
+    "addr:postcode": "8051",
+    "addr:street": "Dübendorfstrasse",
+    "amenity": "social_facility",
+    "email": "haeuptli@wohnsch.ch",
+    "name": "Wohnpflegeheim Häuptli",
+    "operator": "Wohnsch Wohnpflegeheime Schwamendingen",
+    "phone": "+41 44 325 38 00",
+    "social_facility": "nursing_home",
+    "social_facility:for": "senior",
+    "website": "https://wohnsch.ch/haeuptli/",
+    "id": "node/1501669606"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5752102,
+      47.4038897
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/1755262684",
   "properties": {
     "addr:housenumber": "22",
@@ -31038,6 +31446,31 @@
     "coordinates": [
       8.7979357,
       47.498699
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2335063551",
+  "properties": {
+    "addr:housenumber": "11",
+    "addr:postcode": "8050",
+    "addr:street": "Schörlistrasse",
+    "alt_name": "Altersheim Schörli",
+    "amenity": "social_facility",
+    "email": "schoerli@wohnsch.ch",
+    "name": "Pflegeheim Schörli Für Menschen mit Demenz",
+    "operator": "Wohnsch (Wohnpflegeheime Schwamendingen)",
+    "phone": "+41 44 325 38 70",
+    "social_facility": "nursing_home",
+    "social_facility:for": "senior",
+    "id": "node/2335063551"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5624212,
+      47.4068623
     ]
   }
 },
