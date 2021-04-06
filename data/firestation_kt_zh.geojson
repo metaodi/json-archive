@@ -1087,6 +1087,7 @@
     "building": "yes",
     "building:levels": "2",
     "name": "Betriebsfeuerwehr Mettler Toledo",
+    "name:de": "Betriebsfeuerwehr Mettler Toledo",
     "name:en": "Plant Fire Department Mettler Toledo",
     "id": "way/45521213"
   },
