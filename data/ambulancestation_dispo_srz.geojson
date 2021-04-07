@@ -10,7 +10,6 @@
     "building": "hospital",
     "emergency": "ambulance_station",
     "name": "Rettungsdienst Bülach",
-    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "operator": "Spital Bülach",
     "id": "way/27594555"
   },
@@ -103,7 +102,6 @@
     "building": "yes",
     "emergency": "ambulance_station",
     "name": "Rettungsdienst Uster",
-    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "operator": "Rettungsdienst Spital Uster",
     "id": "way/189298288"
   },
@@ -158,7 +156,6 @@
     "building:part": "yes",
     "emergency": "ambulance_station",
     "name": "Rettungsdienst Schaffhausen",
-    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "operator": "Kantonsspital Schaffhausen",
     "id": "way/199578656"
   },
@@ -297,7 +294,6 @@
     "building": "hospital",
     "emergency": "ambulance_station",
     "name": "Rettungsdienst Affoltern am Albis",
-    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "operator": "Spital Affoltern am Albis AG",
     "id": "way/251502068"
   },
@@ -352,7 +348,6 @@
     "building": "yes",
     "emergency": "ambulance_station",
     "name": "Rettungsdienst Lachen",
-    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "operator": "Spital Lachen",
     "id": "way/318817393"
   },
@@ -505,7 +500,6 @@
     "building": "yes",
     "emergency": "ambulance_station",
     "name": "Rettungsdienst Limmattal",
-    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "operator": "Spital Limmattal",
     "id": "way/862861748"
   },
@@ -543,7 +537,6 @@
   "properties": {
     "emergency": "ambulance_station",
     "name": "Rettungsdienst Einsiedeln",
-    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "operator": "Spital Einsiedeln",
     "id": "node/800658573"
   },
@@ -582,7 +575,6 @@
   "properties": {
     "emergency": "ambulance_station",
     "name": "Rettungsdienst See-Spital",
-    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "operator": "See-Spital Horgen",
     "id": "node/6209722205"
   },
@@ -605,7 +597,6 @@
     "emergency": "ambulance_station",
     "government": "healthcare",
     "name": "Rettungsdienst Zug (RDZ)",
-    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "office": "government",
     "opening_hours": "Mo-Fr 08:00-11:30, 13:15-17:15",
     "operator": "Kanton Zug",
@@ -650,7 +641,6 @@
   "properties": {
     "emergency": "ambulance_station",
     "name": "Rettungsdienst Schwyz",
-    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "operator": "Rettungsdienst Schwyz",
     "id": "node/7463260938"
   },
@@ -668,7 +658,6 @@
   "properties": {
     "emergency": "ambulance_station",
     "name": "Rettungsdienst Uster - Wache Dübendorf",
-    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "operator": "Rettungsdienst Spital Uster",
     "id": "node/7465975604"
   },
@@ -690,7 +679,6 @@
     "addr:street": "Riedthofstrasse",
     "emergency": "ambulance_station",
     "name": "Rettungsdienst Limmattal - Wache Regensdorf",
-    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "operator": "Rettungsdienst Limmattal",
     "source": "local knowledge",
     "id": "node/7465975605"
@@ -709,7 +697,6 @@
   "properties": {
     "emergency": "ambulance_station",
     "name": "Rettungsdienst Winterthur - Wache Kemptthal",
-    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "operator": "Rettungsdienst Winterthur",
     "id": "node/7465975607"
   },
@@ -727,7 +714,6 @@
   "properties": {
     "emergency": "ambulance_station",
     "name": "Rettungsdienst Männedorf - Wache Oetwil am See",
-    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "operator": "Rettungsdienst Spital Uster",
     "id": "node/7465975608"
   },

@@ -479,7 +479,6 @@
     "amenity": "fire_station",
     "building": "yes",
     "name": "Feuerwehr Horgen-Hirzel - Depot Horgen",
-    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "id": "way/31827427"
   },
   "geometry": {
@@ -631,7 +630,6 @@
     "amenity": "fire_station",
     "building": "yes",
     "name": "Feuerwehr Stäfa",
-    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "id": "way/32893880"
   },
   "geometry": {
@@ -693,7 +691,6 @@
     "amenity": "fire_station",
     "building": "yes",
     "name": "Feuerwehr Glastawei - Depot Glattfelden",
-    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "id": "way/32942803"
   },
   "geometry": {
@@ -733,7 +730,6 @@
     "amenity": "fire_station",
     "building": "yes",
     "name": "Feuerwehr Thalwil",
-    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "id": "way/33919479"
   },
   "geometry": {
@@ -775,7 +771,6 @@
     "amenity": "fire_station",
     "building": "yes",
     "name": "Feuerwehr Hettlingen-Dägerlen - Depot Hettlingen",
-    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "id": "way/35994734"
   },
   "geometry": {
@@ -825,7 +820,6 @@
     "amenity": "fire_station",
     "building": "yes",
     "name": "Feuerwehr Adliswil",
-    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "source": "Übersichtsplan Zürich",
     "id": "way/37145253"
   },
@@ -969,7 +963,6 @@
     "amenity": "fire_station",
     "building": "yes",
     "name": "Feuerwehr Birmensdorf",
-    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "id": "way/44045429"
   },
   "geometry": {
@@ -1035,7 +1028,6 @@
     "amenity": "fire_station",
     "building": "yes",
     "name": "Feuerwehr Greifensee",
-    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "id": "way/45521049"
   },
   "geometry": {
@@ -1195,7 +1187,6 @@
     "amenity": "fire_station",
     "building": "yes",
     "name": "Feuerwehr Flaachtal - Hauptdepot",
-    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "id": "way/46345492"
   },
   "geometry": {
@@ -1235,7 +1226,6 @@
     "amenity": "fire_station",
     "building": "yes",
     "name": "Feuerwehr Altbach - Depot Nürensdorf",
-    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "id": "way/46974264"
   },
   "geometry": {
@@ -1323,7 +1313,6 @@
     "amenity": "fire_station",
     "building": "yes",
     "name": "Feuerwehr Andelfingen - Depot Henggart",
-    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "id": "way/47248106"
   },
   "geometry": {
@@ -1365,7 +1354,6 @@
     "amenity": "fire_station",
     "building": "yes",
     "name": "Feuerwehr Andelfingen",
-    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "id": "way/47298400"
   },
   "geometry": {
@@ -1439,7 +1427,6 @@
     "amenity": "fire_station",
     "building": "yes",
     "name": "Feuerwehr Rafz-Wil - Depot Rafz",
-    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "id": "way/49749980"
   },
   "geometry": {
@@ -1574,7 +1561,6 @@
     "amenity": "fire_station",
     "building": "yes",
     "name": "Feuerwehr Aeugst am Albis",
-    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "id": "way/52924472"
   },
   "geometry": {
@@ -1765,7 +1751,6 @@
     "amenity": "fire_station",
     "building": "yes",
     "name": "Feuerwehr Küsnacht ZH",
-    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "id": "way/66986858"
   },
   "geometry": {
@@ -1864,7 +1849,6 @@
     "amenity": "fire_station",
     "building": "yes",
     "name": "Feuerwehr Weisslingen",
-    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "id": "way/93119271"
   },
   "geometry": {
@@ -1984,7 +1968,6 @@
     "amenity": "fire_station",
     "building": "yes",
     "name": "Feuerwehr Dielsdorf",
-    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "id": "way/96279458"
   },
   "geometry": {
@@ -2051,7 +2034,6 @@
     "amenity": "fire_station",
     "building": "yes",
     "name": "Werkhof",
-    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "id": "way/96385104"
   },
   "geometry": {
@@ -2210,7 +2192,6 @@
     "building": "yes",
     "building:levels": "2",
     "name": "Feuerwehr Gossau ZH",
-    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "website": "https://www.feuerwehrgossau.ch",
     "id": "way/99840709"
   },
@@ -2252,7 +2233,6 @@
     "amenity": "fire_station",
     "building": "yes",
     "name": "Feuerwehr Richterswil - Depot Richterswil",
-    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "id": "way/100309601"
   },
   "geometry": {
@@ -2366,7 +2346,6 @@
     "amenity": "fire_station",
     "building": "yes",
     "name": "Feuerwehr Bassersdorf",
-    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "id": "way/114188576"
   },
   "geometry": {
@@ -2476,7 +2455,6 @@
     "building": "yes",
     "building:roof": "tile",
     "name": "Feuerwehr Wiesendangen",
-    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "id": "way/115963467"
   },
   "geometry": {
@@ -2533,7 +2511,6 @@
     "building": "yes",
     "building:roof": "flat",
     "name": "Feuerwehr Elsau-Schlatt",
-    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "id": "way/117708071"
   },
   "geometry": {
@@ -2740,7 +2717,6 @@
     "amenity": "fire_station",
     "building": "yes",
     "name": "Feuerwehr Seuzach",
-    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "id": "way/135309646"
   },
   "geometry": {
@@ -2950,7 +2926,6 @@
     "amenity": "fire_station",
     "building": "yes",
     "name": "Feuerwehr Ausseramt - Depot Feuerthalen",
-    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "id": "way/151296092"
   },
   "geometry": {
@@ -3053,7 +3028,6 @@
     "amenity": "fire_station",
     "building": "yes",
     "name": "Feuerwehr Meilen - Depot Herrliberg",
-    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "id": "way/152254116"
   },
   "geometry": {
@@ -3438,7 +3412,6 @@
     "amenity": "fire_station",
     "building": "public",
     "name": "Feuerwehr Wehntal - Depot Niederweningen",
-    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "id": "way/199007574"
   },
   "geometry": {
@@ -3496,7 +3469,6 @@
     "amenity": "fire_station",
     "building": "yes",
     "name": "Feuerwehr Hittnau",
-    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "id": "way/202055788"
   },
   "geometry": {
@@ -3538,7 +3510,6 @@
     "amenity": "fire_station",
     "building": "yes",
     "name": "Feuerwehr Zumikon",
-    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "id": "way/204034408"
   },
   "geometry": {
@@ -3800,7 +3771,6 @@
     "amenity": "fire_station",
     "building": "yes",
     "name": "Feuerwehr Fischenthal",
-    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "id": "way/226338375"
   },
   "geometry": {
@@ -3886,7 +3856,6 @@
     "amenity": "fire_station",
     "building": "yes",
     "name": "Feuerwehr Ausseramt - Depot Flurlingen",
-    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "id": "way/242107296"
   },
   "geometry": {
@@ -3934,7 +3903,6 @@
     "amenity": "fire_station",
     "building": "yes",
     "name": "Feuerwehr Bauma - Depot Sternenberg",
-    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "roof:shape": "gabled",
     "id": "way/250881492"
   },
@@ -4282,7 +4250,6 @@
     "amenity": "fire_station",
     "building": "yes",
     "name": "Feuerwehr Ottenbach",
-    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "id": "way/274902818"
   },
   "geometry": {
@@ -4352,7 +4319,6 @@
     "amenity": "fire_station",
     "building": "yes",
     "name": "Feuerwehr Wald",
-    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "id": "way/292183488"
   },
   "geometry": {
@@ -4393,7 +4359,6 @@
     "amenity": "fire_station",
     "building": "yes",
     "name": "Feuerwehr Horgen-Hirzel - Depot Hitzel",
-    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "id": "way/295033726"
   },
   "geometry": {
@@ -4630,7 +4595,6 @@
     "building": "yes",
     "building:roof": "tile",
     "name": "Feuerwehr Zell",
-    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "id": "way/419356316"
   },
   "geometry": {
@@ -4772,7 +4736,6 @@
     "amenity": "fire_station",
     "building": "yes",
     "name": "Feuerwehr Wädenswil - Depot Hütten",
-    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "id": "way/916580212"
   },
   "geometry": {
@@ -4817,7 +4780,6 @@
   "properties": {
     "amenity": "fire_station",
     "name": "Feuerwehr Langnau am Albis",
-    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "id": "node/298540366"
   },
   "geometry": {
@@ -4853,7 +4815,6 @@
     "addr:street": "Industriestrasse",
     "amenity": "fire_station",
     "name": "Feuerwehr Niederhasli",
-    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "id": "node/310859339"
   },
   "geometry": {
@@ -4890,7 +4851,6 @@
     "addr:street": "Dammstrasse",
     "amenity": "fire_station",
     "name": "Feuerwehr Uster",
-    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "id": "node/320133207"
   },
   "geometry": {
@@ -4929,7 +4889,6 @@
   "properties": {
     "amenity": "fire_station",
     "name": "Feuerwehr unteres Furttal - Depot Otelfingen",
-    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "id": "node/370747057"
   },
   "geometry": {
@@ -5002,7 +4961,6 @@
     "addr:street": "Grabenstrasse",
     "amenity": "fire_station",
     "name": "Feuerwehr Bachenbülach-Winkel, Depot Bachenbülach",
-    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "id": "node/471957872"
   },
   "geometry": {
@@ -5038,7 +4996,6 @@
     "addr:street": "Schulhausstrasse",
     "amenity": "fire_station",
     "name": "Feuerwehr Fehraltorf",
-    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "id": "node/579651429"
   },
   "geometry": {
@@ -5246,7 +5203,6 @@
     "addr:street": "Rutschbergstrasse",
     "amenity": "fire_station",
     "name": "Feuerwehr Wetzikon-Seegräben, Depot Seegräben",
-    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "id": "node/1420531806"
   },
   "geometry": {
@@ -5346,7 +5302,6 @@
     "addr:street": "Kaiserstuhlerstrasse",
     "amenity": "fire_station",
     "name": "Feuerwehr Glastawei - Depot Stadel",
-    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "id": "node/1999821206"
   },
   "geometry": {
@@ -5382,7 +5337,6 @@
     "addr:street": "Gublenstrasse",
     "amenity": "fire_station",
     "name": "Feuerwehr Bauma",
-    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "id": "node/2399897496"
   },
   "geometry": {
@@ -5488,7 +5442,6 @@
   "properties": {
     "amenity": "fire_station",
     "name": "Feuerwehr Rüti",
-    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "id": "node/3770461790"
   },
   "geometry": {
@@ -5546,7 +5499,6 @@
     "addr:street": "Riedweg",
     "amenity": "fire_station",
     "name": "Feuerwehr Russikon",
-    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "id": "node/4367651591"
   },
   "geometry": {
@@ -5579,7 +5531,6 @@
   "properties": {
     "amenity": "fire_station",
     "name": "Feuerwehr Uitikon-Waldegg",
-    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "id": "node/4849218475"
   },
   "geometry": {
@@ -5673,7 +5624,6 @@
     "addr:street": "Ruedelfingerstrass",
     "amenity": "fire_station",
     "name": "Stützpunktfeuerwehr Weinland - Depot Marthalen",
-    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "id": "node/5282136023"
   },
   "geometry": {
@@ -5693,7 +5643,6 @@
     "addr:street": "In der Breiti",
     "amenity": "fire_station",
     "name": "Feuerwehr Bachenbülach-Winkel, Depot Winkel",
-    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "id": "node/5309142421"
   },
   "geometry": {
@@ -5938,7 +5887,6 @@
     "addr:street": "Hauptstrasse",
     "amenity": "fire_station",
     "name": "Feuerwehr Stammertal - Depot Oberstammheim",
-    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "id": "node/7462551852"
   },
   "geometry": {
@@ -5958,7 +5906,6 @@
     "addr:street": "Bärenbrügglistrasse",
     "amenity": "fire_station",
     "name": "Feuerwehr Richterswil - Depot Samstagern",
-    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "id": "node/7462551853"
   },
   "geometry": {
@@ -5979,7 +5926,6 @@
     "addr:street": "Schützenhausstrasse",
     "amenity": "fire_station",
     "name": "Feuerwehr Rafz-Wil - Depot Wil",
-    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "id": "node/7462551854"
   },
   "geometry": {
@@ -6000,7 +5946,6 @@
     "addr:street": "Wassergasse",
     "amenity": "fire_station",
     "name": "Feuerwehr Kohlfirst",
-    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "id": "node/7462551855"
   },
   "geometry": {
@@ -6021,7 +5966,6 @@
     "addr:street": "Schulhausstrasse",
     "amenity": "fire_station",
     "name": "Feuerwehr Höri-Hochfelden - Depot Höri",
-    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "id": "node/7462551856"
   },
   "geometry": {
@@ -6042,7 +5986,6 @@
     "addr:street": "Nauenstrasse",
     "amenity": "fire_station",
     "name": "Feuerwehr Dürnten",
-    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "website": "http://www.feuerwehr-duernten.ch/",
     "id": "node/7462946206"
   },
@@ -6100,7 +6043,6 @@
     "addr:street": "Brüelgasse",
     "amenity": "fire_station",
     "name": "Feuerwehr Altbach - Depot Brütten",
-    "note": "Für Schutz & Rettung u.a einsatzrelevant.",
     "id": "node/8562579136"
   },
   "geometry": {
