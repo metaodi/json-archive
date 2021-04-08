@@ -4659,11 +4659,17 @@
   "type": "Feature",
   "id": "node/7442277478",
   "properties": {
+    "access": "yes",
     "addr:housenumber": "8",
     "addr:street": "Technikumstrasse",
+    "defibrillator:location": "Beim Haupteingang innen links gleich beim Eingang.",
+    "description": "während Öffnungszeiten verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
+    "indoor": "yes",
     "opening_hours": "Mo-Fr 8:00–23:00; Sa 9:00–23:00",
+    "operator": "Stadt Winterthur Alte Kaserne Kulturzentrum / Kilian Schmid",
+    "phone": "052 267 57 75",
     "id": "node/7442277478"
   },
   "geometry": {
@@ -5574,18 +5580,21 @@
   "type": "Feature",
   "id": "node/7569750798",
   "properties": {
+    "access": "yes",
     "defibrillator:location": "Beim EW",
     "emergency": "defibrillator",
     "emergency:phone": "144",
+    "indoor": "no",
     "name": "EW Wald",
     "opening_hours": "24/7",
+    "operator": "EW Wald",
     "id": "node/7569750798"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.9114785,
-      47.278159
+      8.9119399,
+      47.2783612
     ]
   }
 },
@@ -17429,7 +17438,7 @@
     "emergency:phone": "144",
     "indoor": "no",
     "opening_hours": "24/7",
-    "operator": "Samariterverein Wädenswi",
+    "operator": "Samariterverein Wädenswil",
     "phone": "077 848 03 47",
     "id": "node/8226599064"
   },
@@ -21092,14 +21101,12 @@
   "id": "node/8554653118",
   "properties": {
     "access": "no",
-    "defibrillator:location": "beim bademeister ",
-    "description": "wärend öffunungszeiten verfügbar \n",
+    "defibrillator:location": "Beim Bademeister",
+    "description": "während Öffnungszeiten verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "opening_hours": "24/7",
-    "operator": "hallenbad wädenswil",
-    "phone": "0799138486",
+    "operator": "Hallenbad Wädenswil",
     "id": "node/8554653118"
   },
   "geometry": {
@@ -25749,6 +25756,564 @@
     "coordinates": [
       8.6378112,
       47.6959385
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8601199303",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Haupteingang Mehrzweckgebäude, Turnhalle",
+    "description": "24h verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Primarschule Aesch",
+    "phone": "0447391091",
+    "id": "node/8601199303"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.432729,
+      47.3360866
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8601206591",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "U1 Turnhalle 3",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Eduard Konstantin",
+    "phone": "0522671755",
+    "id": "node/8601206591"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7672642,
+      47.5041483
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8601206592",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "In der Turnhalle auf der Galerie auf der linken Seite",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Susanne Müller",
+    "phone": "0795165622",
+    "id": "node/8601206592"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7715168,
+      47.4782575
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8601206593",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Im Foyer /Eingangsbereich",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Eishalle",
+    "phone": "052 267 39 39",
+    "id": "node/8601206593"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.74836,
+      47.4952002
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8601206594",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Beim Haupteingang links",
+    "description": "24h verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Roger Auer",
+    "phone": "079 621 97 17",
+    "id": "node/8601206594"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7568492,
+      47.5039354
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8601206595",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Bei den Aussen-WC`s rechts",
+    "description": "24h verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Roger Auer",
+    "phone": "079 621 97 17",
+    "id": "node/8601206595"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7690854,
+      47.5135613
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8601206596",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Im Clubhaus im EG auf der rechten Seite",
+    "description": "nur mit Schlüssel erreichbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Nino Nardi",
+    "phone": "079 276 79 81",
+    "id": "node/8601206596"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7080196,
+      47.4730119
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8601206597",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Fixe Station draussen neben dem Clubhaus",
+    "description": "24h verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "24/7",
+    "operator": "Andrea Heller",
+    "phone": "0796604328",
+    "id": "node/8601206597"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6919115,
+      47.5178628
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8601206598",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Im Hauptgebäude nach dem Eingang auf der rechten Seite",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Andrea Heller",
+    "phone": "0796604328",
+    "id": "node/8601206598"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7066483,
+      47.5067769
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8601206599",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "unten Links neben dem Sanitätsraum",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Pascal Giger",
+    "phone": "0788172650",
+    "id": "node/8601206599"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.758782,
+      47.5218845
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8601206600",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Haupteingang links",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Pascal Giger",
+    "phone": "0788172650",
+    "id": "node/8601206600"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7543735,
+      47.4867445
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8601206601",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Badmeisterkanzel",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Hallenbad Geiselweid",
+    "phone": "0522674040",
+    "id": "node/8601206601"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7414654,
+      47.495472
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8601206602",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Beim Haupteingang hinter der Türe links",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Cosimo Monteleone",
+    "phone": "0797087552",
+    "id": "node/8601206602"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.71811,
+      47.5006448
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8601768088",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Beim Empfang",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Fr 07:30-17:00",
+    "operator": "Sonova AG, Betriebssanität, Esther Hagen (Leitung Betriebssanität)",
+    "phone": "0589280101",
+    "id": "node/8601768088"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7439813,
+      47.2382822
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8601768098",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Richtung Eingang Migros linkerhand an einer schwarzen Säule",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Sa 08:00-20:00",
+    "id": "node/8601768098"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4875473,
+      47.3882836
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8601893894",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Im EG bei den Toilettenanlagen",
+    "description": "Beim Hintereingang bei den Garderoben",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Tu-Su 10:00-17:00",
+    "operator": "Stadt Winterthur DKD Thierry Schalcher",
+    "phone": "052 267 51 75",
+    "id": "node/8601893894"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7302819,
+      47.5018425
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8601893895",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Im EG bei den Toilettenanlagen",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Tu-Su 10:00-17:00",
+    "operator": "Stadt Winterthur DKD Thierry Schalcher",
+    "phone": "052 267 51 75",
+    "id": "node/8601893895"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7290246,
+      47.5004169
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8602157935",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Im Kasten bei der Kasse beim Eingang des Freibades",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Urs Bösch",
+    "phone": "052 222 28 00",
+    "id": "node/8602157935"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6848795,
+      47.5120753
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8602157936",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Im Sanitätsraum neben dem Eingang des Freibades",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Matteo Taormina",
+    "phone": "052 212 55 92",
+    "id": "node/8602157936"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7153621,
+      47.5135815
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8602157937",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Garderobengebäude vor dem Büro auf der rechten Seite",
+    "description": "24h verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Tino Imfeld",
+    "phone": "079 962 39 99",
+    "id": "node/8602157937"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.74617,
+      47.495704
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8602157938",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Ost Eingang Richtung Stadt",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Tharmalingam",
+    "phone": "052 267 82 00",
+    "id": "node/8602157938"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.71684,
+      47.5009845
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8602157939",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "AED neben dem Sanitätszimmer",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Rolf Alder",
+    "phone": "079 755 62 56",
+    "id": "node/8602157939"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7117746,
+      47.503462
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8602206179",
+  "properties": {
+    "access": "044 911 11 11",
+    "defibrillator:location": "Im Treppenhaus auf höhe Hochparterre",
+    "description": "Tagsüber frei verfügbar, Nachts via Hauptnummer",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Spital Uster - Medizintechnik",
+    "phone": "yes",
+    "id": "node/8602206179"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7228334,
+      47.3537844
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8602255717",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Spital Zollikerberg, Notfallstation",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "24/7",
+    "operator": "Notfall Spital Zollikerberg",
+    "phone": "+41443972111",
+    "id": "node/8602255717"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5978588,
+      47.3489942
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8603436717",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Hertistrasse 19",
+    "description": "Shop an der Kasse",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Fr 06:30-16:30",
+    "operator": "HG Commerciale ",
+    "phone": "0432333232",
+    "id": "node/8603436717"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5777291,
+      47.4139662
     ]
   }
 }
