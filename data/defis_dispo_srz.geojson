@@ -26054,21 +26054,21 @@
   "id": "node/8601768088",
   "properties": {
     "access": "no",
-    "defibrillator:location": "Beim Empfang",
+    "defibrillator:location": "Sonova AG, beim Empfang.",
     "description": "während Öffnungszeiten verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
     "opening_hours": "Mo-Fr 07:30-17:00",
-    "operator": "Sonova AG, Betriebssanität, Esther Hagen (Leitung Betriebssanität)",
+    "operator": "Sonova AG, Betriebssanität",
     "phone": "0589280101",
     "id": "node/8601768088"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.7439813,
-      47.2382822
+      8.7440522,
+      47.2388397
     ]
   }
 },
@@ -26314,6 +26314,164 @@
     "coordinates": [
       8.5777291,
       47.4139662
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8605084028",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Künstlereingang neben dem Haupteingang benutzen. Dann Treppenhaus 1 Etage tiefer im Flur 1.UG",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Theater Winterthur / Urban Dudle",
+    "phone": "052 267 50 20",
+    "id": "node/8605084028"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7275941,
+      47.5020188
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8605102717",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Waagtalstrassenseite, Hausmitte\nIn einer Nische (ehem. Hauseingang).",
+    "description": "24h verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Unteriberg",
+    "phone": "+4178317023",
+    "id": "node/8605102717"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8016048,
+      47.0583142
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8605600235",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Eingangsbereich des CrossFit Studios CrossFit Second Home",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Fr 17:00-20:00; Su  09:00-12:00",
+    "operator": "CrossFit Second Home, Martin Hitz",
+    "phone": "079 945 87 44",
+    "id": "node/8605600235"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7804294,
+      47.2482764
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8606368117",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Nordfassade Gemeindesaal neben Eingangstüre Gewölbekeller",
+    "description": "24h verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Altikon, Peter Kägi",
+    "phone": "052 336 12 26",
+    "id": "node/8606368117"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7812131,
+      47.5728631
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8606368118",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Untergeschoss Primarschulhaus",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Gemeinde Altikon, Peter Kägi",
+    "phone": "052 336 12 26",
+    "id": "node/8606368118"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7831301,
+      47.5717754
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8608015417",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Warenausgabe Eingang links",
+    "description": "während den Öffnungszeiten",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "09:00-21:00",
+    "operator": "IKEA",
+    "id": "node/8608015417"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.623201,
+      47.4146048
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8608023217",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Sicherheitsloge",
+    "description": "Mo-Sa. ",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Sa. 0:00-23:00",
+    "operator": "IKEA",
+    "phone": "0588532100",
+    "id": "node/8608023217"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6238565,
+      47.4143255
     ]
   }
 }

@@ -4023,6 +4023,42 @@
 },
 {
   "type": "Feature",
+  "id": "way/253470336",
+  "properties": {
+    "amenity": "fire_station",
+    "building": "yes",
+    "id": "way/253470336"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.8076275,
+          47.3983309
+        ],
+        [
+          8.807706,
+          47.3982686
+        ],
+        [
+          8.8077886,
+          47.3983163
+        ],
+        [
+          8.8077101,
+          47.3983785
+        ],
+        [
+          8.8076275,
+          47.3983309
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/255026614",
   "properties": {
     "addr:city": "Wetzikon",
@@ -5275,21 +5311,6 @@
     "coordinates": [
       8.41655,
       47.2606411
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/1735154167",
-  "properties": {
-    "amenity": "fire_station",
-    "id": "node/1735154167"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.8077204,
-      47.3983044
     ]
   }
 },
