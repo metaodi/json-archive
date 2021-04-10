@@ -526,8 +526,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.7826703,
-      47.3671608
+      8.7826874,
+      47.367158
     ]
   }
 },
@@ -21765,7 +21765,7 @@
   "id": "node/8556585558",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "Bei Eingang von Parkplatz",
+    "defibrillator:location": "Eingang Gebäude/Windfang",
     "description": "24h verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
@@ -26472,6 +26472,69 @@
     "coordinates": [
       8.6238565,
       47.4143255
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8610194017",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Pfarrweid 4 Altendorf",
+    "description": "Links neben Hauseingang",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Altendorf",
+    "id": "node/8610194017"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8275247,
+      47.1865777
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8610901717",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Feuerwhrlokal Steinen",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "operator": "Gemeinde Steinen",
+    "id": "node/8610901717"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6070065,
+      47.0486667
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8611714217",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Feuerwehrlokal Steinerberg ",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Steinerberg",
+    "id": "node/8611714217"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5856931,
+      47.0539194
     ]
   }
 }

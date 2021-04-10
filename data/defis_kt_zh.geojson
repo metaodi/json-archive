@@ -387,8 +387,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.7826703,
-      47.3671608
+      8.7826874,
+      47.367158
     ]
   }
 },
@@ -13054,7 +13054,7 @@
   "id": "node/8556585558",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "Bei Eingang von Parkplatz",
+    "defibrillator:location": "Eingang Gebäude/Windfang",
     "description": "24h verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",

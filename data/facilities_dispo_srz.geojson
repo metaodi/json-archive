@@ -8371,8 +8371,8 @@
     "addr:street": "Lindenstrasse",
     "amenity": "social_facility",
     "building": "yes",
-    "building:roof": "flat",
     "name": "Alterszentrum Sophie Guyer",
+    "roof:shape": "flat",
     "social_facility": "group_home",
     "social_facility:for": "senior",
     "id": "way/96356379"
