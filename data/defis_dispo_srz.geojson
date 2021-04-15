@@ -26774,6 +26774,120 @@
       47.421011
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/8628031037",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "An Wand rechts von Eingang (nicht Wohnhaus!)",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Terresta Immobilien- & Verwaltungs AG",
+    "phone": "052 209 01 31",
+    "id": "node/8628031037"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7176138,
+      47.5077874
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8628031046",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Rechts vom rechten Empfang",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Fr 07:30-17:00",
+    "operator": "Terresta Immobilien- & Verwaltungs AG",
+    "phone": "052 209 01 31",
+    "id": "node/8628031046"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7181596,
+      47.4999779
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8628038058",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Eingang zur Kläranlage",
+    "description": "24h verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Mönchaltorf",
+    "phone": "0449494010",
+    "id": "node/8628038058"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7159703,
+      47.3141226
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8629053217",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Schulhaus Berufsbildungsschule Winterthur BBW",
+    "description": "Erdgeschoss beim Treppenhaus Nord",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Sa 07:00-19:00",
+    "operator": "Kanton Zürich",
+    "phone": "0522678601",
+    "id": "node/8629053217"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7199846,
+      47.5038888
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8629993020",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Alters- und Pflegezentrum Herrenbergli",
+    "description": "24 h verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "24/7",
+    "operator": "Alterszentrum",
+    "phone": "+41434348073",
+    "id": "node/8629993020"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4684112,
+      47.3911458
+    ]
+  }
 }
 ]
 }
