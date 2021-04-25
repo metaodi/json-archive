@@ -20155,7 +20155,7 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "opening_hours": "Mo-Fr 7-17 Uhr",
+    "opening_hours": "Mo-Fr 07:00-17:00",
     "operator": "Samariter Zürich 2",
     "phone": "+41432446123",
     "id": "node/8450614817"
@@ -26286,14 +26286,13 @@
   "type": "Feature",
   "id": "node/8602206179",
   "properties": {
-    "access": "044 911 11 11",
     "defibrillator:location": "Im Treppenhaus auf höhe Hochparterre",
     "description": "Tagsüber frei verfügbar, Nachts via Hauptnummer",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
     "operator": "Spital Uster - Medizintechnik",
-    "phone": "yes",
+    "phone": "044 911 11 11",
     "id": "node/8602206179"
   },
   "geometry": {
