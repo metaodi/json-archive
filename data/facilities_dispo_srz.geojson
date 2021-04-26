@@ -29919,7 +29919,6 @@
   "id": "way/874684879",
   "properties": {
     "amenity": "social_facility",
-    "building": "yes",
     "layer": "-1",
     "name": "Pflege- und Betreuungszentrum Sonnhalde",
     "operator": "di Gaöllo Gruppe",
@@ -29949,6 +29948,10 @@
           47.2795905
         ],
         [
+          8.7622996,
+          47.2797533
+        ],
+        [
           8.7624074,
           47.2799212
         ],
@@ -29957,8 +29960,8 @@
           47.280288
         ],
         [
-          8.7608741,
-          47.280507
+          8.7607936,
+          47.2805415
         ],
         [
           8.7607421,
