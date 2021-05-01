@@ -16140,8 +16140,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.6912557,
-      47.3425414
+      8.6913737,
+      47.3409442
     ]
   }
 },
@@ -18223,6 +18223,29 @@
     "coordinates": [
       8.5605996,
       47.4796214
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8684208036",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Links von den Parkplätzen unter dem Vordach",
+    "description": "24h verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "EMOTT AG",
+    "phone": "+41 44 881 20 10",
+    "id": "node/8684208036"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5959336,
+      47.3834051
     ]
   }
 }
