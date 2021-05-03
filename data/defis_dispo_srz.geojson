@@ -1428,8 +1428,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5929317,
-      47.1795433
+      8.5931185,
+      47.1794911
     ]
   }
 },
@@ -27462,6 +27462,26 @@
     "coordinates": [
       8.5959336,
       47.3834051
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8689833017",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Telefonkabine, Schulhaus 3",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "id": "node/8689833017"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8946078,
+      47.1929326
     ]
   }
 }
