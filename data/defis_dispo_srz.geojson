@@ -27484,6 +27484,50 @@
       47.1929326
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/8700623817",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Apotheke Zollikon, nach dem Eingang rechts",
+    "description": "während den Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "8:00-12:30, 13:30-18:30",
+    "operator": "Apotheke Zollikon",
+    "id": "node/8700623817"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5775693,
+      47.3409888
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8702057865",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "im Befundraum 1, links unten im weissen Regal",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Dr. med. Claude Mair-Noack",
+    "phone": "041 511 26 26",
+    "id": "node/8702057865"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5147433,
+      47.1730873
+    ]
+  }
 }
 ]
 }
