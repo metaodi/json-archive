@@ -13067,6 +13067,53 @@
 },
 {
   "type": "Feature",
+  "id": "way/148855272",
+  "properties": {
+    "addr:city": "Au",
+    "addr:housenumber": "3",
+    "addr:postcode": "8804",
+    "addr:street": "Toblerweg",
+    "amenity": "social_facility",
+    "building": "yes",
+    "email": "info@gruenau.org",
+    "name": "Kinderheim Grünau",
+    "operator": "Stiftung Kinderheim Grünau",
+    "phone": "+41 44 782 23 00",
+    "social_facility": "group_home",
+    "social_facility:for": "child",
+    "website": "https://www.gruenau.org/",
+    "id": "way/148855272"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6498849,
+          47.2436378
+        ],
+        [
+          8.6497976,
+          47.2435309
+        ],
+        [
+          8.6499619,
+          47.243469
+        ],
+        [
+          8.6500493,
+          47.2435759
+        ],
+        [
+          8.6498849,
+          47.2436378
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/148855277",
   "properties": {
     "amenity": "social_facility",
