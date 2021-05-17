@@ -14349,10 +14349,6 @@
   "type": "Feature",
   "id": "way/183425080",
   "properties": {
-    "addr:city": "Dietlikon",
-    "addr:housenumber": "41",
-    "addr:postcode": "8305",
-    "addr:street": "Schwerzelbodenstrasse",
     "amenity": "social_facility",
     "building": "yes",
     "name": "Pflegezentrum Rotacher",
