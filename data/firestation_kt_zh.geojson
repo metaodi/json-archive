@@ -3125,12 +3125,13 @@
   "id": "way/159971535",
   "properties": {
     "addr:city": "Wallisellen",
-    "addr:housenumber": "13",
+    "addr:housenumber": "11",
     "addr:postcode": "8304",
     "addr:street": "Industriestrasse",
     "amenity": "fire_station",
     "building": "yes",
     "name": "Stützpunktfeuerwehr Wallisellen",
+    "operator": "Gemeinde Wallisellen",
     "id": "way/159971535"
   },
   "geometry": {
