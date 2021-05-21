@@ -9730,9 +9730,13 @@
   "type": "Feature",
   "id": "node/7777533524",
   "properties": {
-    "defibrillator:location": "bei Weimann Medical Services",
+    "access": "no",
+    "defibrillator:location": "bei Weimann Medical Services in der Wohnung, in wenigen Fällen unterwegs",
     "emergency": "defibrillator",
     "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Medical Services Weimann, Kontaktperson: Tobias Weimann",
+    "phone": "032 510 75 67",
     "id": "node/7777533524"
   },
   "geometry": {
@@ -27632,6 +27636,70 @@
     "coordinates": [
       8.7233584,
       47.349524
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8748371319",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Allmendstrasse 5",
+    "description": "während Öffnungszeiten",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo - Fr 06:00 - 18:00 Uhr",
+    "operator": "Schenker Schweiz AG",
+    "phone": "+41585895210",
+    "id": "node/8748371319"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6324961,
+      47.5180188
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8748818317",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Urs Trachsler Bauunternehmung AG, Halle D Nebeneingang (Grüne Türe) rechts vom Hallentor",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Fr 06:00-18:00",
+    "operator": "Urs Trachsler Bauunternehmung AG",
+    "id": "node/8748818317"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7367967,
+      47.2666931
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8750041512",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Im Gebäude",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "id": "node/8750041512"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6888081,
+      47.0297241
     ]
   }
 }

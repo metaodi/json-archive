@@ -17225,6 +17225,107 @@
 },
 {
   "type": "Feature",
+  "id": "way/229219652",
+  "properties": {
+    "addr:city": "Hünenberg",
+    "addr:housenumber": "1",
+    "addr:postcode": "6331",
+    "addr:street": "Lindenpark",
+    "amenity": "nursing_home",
+    "building": "yes",
+    "email": "info@lindenpark-huenenberg.ch",
+    "name": "Lindenpark Wohnen im Alter",
+    "operator": "Stiftung für das Alter Hünenberg",
+    "phone": "+41 41 747 02 02",
+    "website": "https://lindenpark-huenenberg.ch/",
+    "id": "way/229219652"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.4259133,
+          47.1775192
+        ],
+        [
+          8.4261417,
+          47.1771272
+        ],
+        [
+          8.4263924,
+          47.1771947
+        ],
+        [
+          8.4261782,
+          47.1775624
+        ],
+        [
+          8.4262355,
+          47.1775779
+        ],
+        [
+          8.4260457,
+          47.1779038
+        ],
+        [
+          8.4260931,
+          47.1779165
+        ],
+        [
+          8.4259581,
+          47.1781482
+        ],
+        [
+          8.4258244,
+          47.1780915
+        ],
+        [
+          8.4258437,
+          47.1780583
+        ],
+        [
+          8.4257364,
+          47.1780294
+        ],
+        [
+          8.4257734,
+          47.1779659
+        ],
+        [
+          8.425818,
+          47.1779779
+        ],
+        [
+          8.4259194,
+          47.1778038
+        ],
+        [
+          8.4258826,
+          47.1777939
+        ],
+        [
+          8.4259816,
+          47.1776239
+        ],
+        [
+          8.4260132,
+          47.1776324
+        ],
+        [
+          8.4260567,
+          47.1775578
+        ],
+        [
+          8.4259133,
+          47.1775192
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/231441438",
   "properties": {
     "addr:city": "Saland",
@@ -21960,6 +22061,108 @@
         [
           8.8596111,
           47.1960476
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/308276272",
+  "properties": {
+    "addr:city": "Menzingen",
+    "addr:country": "CH",
+    "addr:housenumber": "11a",
+    "addr:postcode": "6313",
+    "addr:street": "Seminarstrasse",
+    "amenity": "nursing_home",
+    "building": "yes",
+    "email": "franziskus@institut-menzingen.ch",
+    "name": "Pflegeheim St. Franziskus",
+    "operator": "Schwestern vom Heiligen Kreuz",
+    "phone": "+41 41 757 44 44",
+    "website": "https://www.kloster-menzingen.ch/uber-uns/",
+    "id": "way/308276272"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5845845,
+          47.1807842
+        ],
+        [
+          8.5845871,
+          47.1806605
+        ],
+        [
+          8.584562,
+          47.1806603
+        ],
+        [
+          8.5845707,
+          47.1802311
+        ],
+        [
+          8.5845478,
+          47.1802309
+        ],
+        [
+          8.5845496,
+          47.1801418
+        ],
+        [
+          8.584692,
+          47.1801431
+        ],
+        [
+          8.5846919,
+          47.180152
+        ],
+        [
+          8.585267,
+          47.1801574
+        ],
+        [
+          8.5852668,
+          47.1801681
+        ],
+        [
+          8.5853099,
+          47.1801685
+        ],
+        [
+          8.5853084,
+          47.1802389
+        ],
+        [
+          8.5852682,
+          47.1802386
+        ],
+        [
+          8.585267,
+          47.1803003
+        ],
+        [
+          8.585033,
+          47.1802981
+        ],
+        [
+          8.5850251,
+          47.1806856
+        ],
+        [
+          8.5849841,
+          47.1806852
+        ],
+        [
+          8.584982,
+          47.1807879
+        ],
+        [
+          8.5845845,
+          47.1807842
         ]
       ]
     ]
@@ -30117,6 +30320,52 @@
         [
           8.6838048,
           47.2715637
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/944995062",
+  "properties": {
+    "addr:city": "Dübendorf",
+    "addr:housenumber": "1-3",
+    "addr:postcode": "8600",
+    "addr:street": "Giessenplatz",
+    "amenity": "social_facility",
+    "building": "yes",
+    "email": "giessenturm@tertianum.ch",
+    "name": "Tertianum Giessenturm",
+    "operator": "Tertianum Management AG Dübendorf",
+    "phone": "+41 43 549 03 03",
+    "social_facility": "nursing_home",
+    "website": "https://www.tertianum.ch/de/tertianum-giessenturm-duebendorf",
+    "id": "way/944995062"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6135634,
+          47.4008128
+        ],
+        [
+          8.6134785,
+          47.4006023
+        ],
+        [
+          8.6145339,
+          47.4004072
+        ],
+        [
+          8.6146188,
+          47.4006177
+        ],
+        [
+          8.6135634,
+          47.4008128
         ]
       ]
     ]
