@@ -27628,7 +27628,7 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "opening_hours": "Mo - Fr 06:00 - 18:00 Uhr",
+    "opening_hours": "Mo-Fr 06:00-18:00",
     "operator": "Schenker Schweiz AG",
     "phone": "+41585895210",
     "id": "node/8748371319"
@@ -27695,6 +27695,47 @@
     "coordinates": [
       8.461255,
       47.2232819
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8758086821",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Bahnhof Sihlwald",
+    "description": "öffentlich zugänglich",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "operator": "SZU",
+    "id": "node/8758086821"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5576766,
+      47.2683249
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8758166417",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Bahnhof Langnau-Gattikon",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "operator": "SZU",
+    "id": "node/8758166417"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5439684,
+      47.2872371
     ]
   }
 }
