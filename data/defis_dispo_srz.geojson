@@ -27586,6 +27586,7 @@
   "properties": {
     "defibrillator:location": "To the right of lift doors",
     "emergency": "defibrillator",
+    "emergency:phone": "144",
     "indoor": "no",
     "id": "node/8736845296"
   },
@@ -27687,6 +27688,7 @@
   "id": "node/8754970096",
   "properties": {
     "emergency": "defibrillator",
+    "emergency:phone": "144",
     "indoor": "no",
     "id": "node/8754970096"
   },
@@ -27736,6 +27738,71 @@
     "coordinates": [
       8.5439684,
       47.2872371
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8764092303",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Beim Bademeister",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Stadt Wädenswil, Sicherheit und Gesundheit, Dienststelle Bäder",
+    "phone": "+41434779663",
+    "id": "node/8764092303"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.660118,
+      47.2390935
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8764092304",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Bademeister Bretterbadi",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Stadt Wädenswil, Sicherheit und Gesundheit, Dienststelle Bäder",
+    "phone": "+41434779663",
+    "id": "node/8764092304"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6735277,
+      47.2314472
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8764109657",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Links neben dem Eingang",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Pascal Giger",
+    "phone": "078 817 26 50",
+    "id": "node/8764109657"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7539282,
+      47.4861273
     ]
   }
 }
