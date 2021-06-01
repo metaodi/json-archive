@@ -8625,6 +8625,85 @@
 },
 {
   "type": "Feature",
+  "id": "way/97003718",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "21",
+    "addr:postcode": "8002",
+    "addr:street": "Bellariastrasse",
+    "amenity": "social_facility",
+    "building": "yes",
+    "email": "sekretariat@birkenrain.ch",
+    "name": "Alters- und Pflegeheim Birkenrain",
+    "operator": "Birkenrain - Stiftung für sinnerfülltes Altern",
+    "phone": "+41 44 206 47 00",
+    "social_facility": "nursing_home",
+    "source": "Stadt Zürich Open Government Data;Geomatik + Vermessung;Tiefbau- und Entsorgungsdepartement",
+    "website": "https://www.birkenrain.ch/",
+    "id": "way/97003718"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5311102,
+          47.3537012
+        ],
+        [
+          8.5311398,
+          47.3538047
+        ],
+        [
+          8.5309785,
+          47.3538259
+        ],
+        [
+          8.5309113,
+          47.3535911
+        ],
+        [
+          8.5309026,
+          47.3535923
+        ],
+        [
+          8.5308945,
+          47.3535639
+        ],
+        [
+          8.5309023,
+          47.3535629
+        ],
+        [
+          8.5308844,
+          47.3535005
+        ],
+        [
+          8.5310407,
+          47.3534799
+        ],
+        [
+          8.5310573,
+          47.3535378
+        ],
+        [
+          8.5310401,
+          47.3535401
+        ],
+        [
+          8.5310871,
+          47.3537043
+        ],
+        [
+          8.5311102,
+          47.3537012
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/99044489",
   "properties": {
     "addr:city": "Gossau (ZH)",
