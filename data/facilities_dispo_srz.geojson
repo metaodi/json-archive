@@ -19512,109 +19512,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/256573296",
-  "properties": {
-    "addr:city": "Baar",
-    "addr:country": "CH",
-    "addr:housenumber": "17",
-    "addr:postcode": "6340",
-    "addr:street": "Landhausstrasse",
-    "amenity": "social_facility",
-    "building": "hospital",
-    "email": "info@pflegezentrum-baar.ch",
-    "name": "Pflegezentrum Baar Haus 1",
-    "operator": "Stiftung Pflegezentrum Baar",
-    "phone": "+41 41 767 51 51",
-    "social_facility": "nursing_home",
-    "website": "https://www.pflegezentrum-baar.ch/",
-    "id": "way/256573296"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.5172442,
-          47.1948395
-        ],
-        [
-          8.5173353,
-          47.1946658
-        ],
-        [
-          8.5174107,
-          47.194684
-        ],
-        [
-          8.51742,
-          47.1946664
-        ],
-        [
-          8.5174476,
-          47.194673
-        ],
-        [
-          8.5174718,
-          47.1946269
-        ],
-        [
-          8.5173688,
-          47.1946019
-        ],
-        [
-          8.5174604,
-          47.1944274
-        ],
-        [
-          8.5181985,
-          47.1946062
-        ],
-        [
-          8.5181073,
-          47.1947799
-        ],
-        [
-          8.5180043,
-          47.194755
-        ],
-        [
-          8.517992,
-          47.1947786
-        ],
-        [
-          8.5180319,
-          47.1947882
-        ],
-        [
-          8.5180104,
-          47.1948293
-        ],
-        [
-          8.5180734,
-          47.1948446
-        ],
-        [
-          8.5179823,
-          47.1950183
-        ],
-        [
-          8.5177414,
-          47.1949599
-        ],
-        [
-          8.5176806,
-          47.1949452
-        ],
-        [
-          8.5172442,
-          47.1948395
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/256857069",
   "properties": {
     "amenity": "social_facility",
@@ -20371,61 +20268,6 @@
         [
           8.8081845,
           47.3314679
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/269098174",
-  "properties": {
-    "addr:city": "Baar",
-    "addr:country": "CH",
-    "addr:housenumber": "19",
-    "addr:postcode": "6340",
-    "addr:street": "Landhausstrasse",
-    "amenity": "social_facility",
-    "building": "hospital",
-    "email": "info@pflegezentrum-baar.ch",
-    "name": "Pflegezentrum Baar Haus 2",
-    "operator": "Stiftung Pflegezentrum Baar",
-    "phone": "+41 41 767 51 51",
-    "social_facility": "nursing_home",
-    "website": "https://www.pflegezentrum-baar.ch/",
-    "id": "way/269098174"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.5170956,
-          47.1952671
-        ],
-        [
-          8.5172286,
-          47.1950119
-        ],
-        [
-          8.5175983,
-          47.1951019
-        ],
-        [
-          8.5176592,
-          47.1951167
-        ],
-        [
-          8.5179698,
-          47.1951921
-        ],
-        [
-          8.5178382,
-          47.1954466
-        ],
-        [
-          8.5170956,
-          47.1952671
         ]
       ]
     ]
@@ -30608,6 +30450,91 @@
         [
           8.6135634,
           47.4008128
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/953932809",
+  "properties": {
+    "addr:city": "Baar",
+    "addr:housenumber": "17",
+    "addr:postcode": "6340",
+    "addr:street": "Landhausstrasse",
+    "amenity": "social_facility",
+    "email": "info@pflegezentrum-baar.ch",
+    "name": "Pflegezentrum Baar",
+    "operator": "Stiftung Pflegezentrum Baar",
+    "phone": "+41 41 767 51 51",
+    "social_facility": "nursing_home",
+    "website": "https://www.pflegezentrum-baar.ch/",
+    "id": "way/953932809"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5183198,
+          47.1946256
+        ],
+        [
+          8.5178387,
+          47.1955229
+        ],
+        [
+          8.5173305,
+          47.1953969
+        ],
+        [
+          8.516925,
+          47.1952679
+        ],
+        [
+          8.5170656,
+          47.1950029
+        ],
+        [
+          8.5170829,
+          47.1948716
+        ],
+        [
+          8.5170389,
+          47.1948411
+        ],
+        [
+          8.5169362,
+          47.1946552
+        ],
+        [
+          8.5168957,
+          47.1944406
+        ],
+        [
+          8.5169198,
+          47.1943533
+        ],
+        [
+          8.5169379,
+          47.1943228
+        ],
+        [
+          8.5169733,
+          47.1943128
+        ],
+        [
+          8.5170225,
+          47.1943075
+        ],
+        [
+          8.5173426,
+          47.1943908
+        ],
+        [
+          8.5183198,
+          47.1946256
         ]
       ]
     ]
