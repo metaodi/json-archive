@@ -102,7 +102,7 @@
     "building": "yes",
     "emergency": "ambulance_station",
     "name": "Rettungsdienst Uster",
-    "operator": "Rettungsdienst Spital Uster",
+    "operator": "Spital Uster",
     "id": "way/189298288"
   },
   "geometry": {
@@ -291,10 +291,10 @@
   "type": "Feature",
   "id": "way/251502068",
   "properties": {
-    "building": "hospital",
+    "building": "yes",
     "emergency": "ambulance_station",
-    "name": "Rettungsdienst Affoltern am Albis",
-    "operator": "Spital Affoltern am Albis AG",
+    "name": "Schutz & Rettung Zürich - Wache Affoltern am Albis",
+    "operator": "Schutz & Rettung Zürich",
     "id": "way/251502068"
   },
   "geometry": {

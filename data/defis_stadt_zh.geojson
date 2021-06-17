@@ -3252,6 +3252,117 @@
       47.4157701
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/8838291617",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Beim Empfangsdesk;Eingang links gleich an der Wand  (Zoll Defibrillator)",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Fr 08:00-17:00",
+    "operator": "Sanitas Krankenversicherung Facility Management",
+    "phone": "+41765669621",
+    "id": "node/8838291617"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5318261,
+      47.3774582
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8838495918",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Büro 1 Stock",
+    "description": "vom 7.00 uhr bis 17.00 ",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "24/7",
+    "operator": "Firma",
+    "phone": "0442588888",
+    "id": "node/8838495918"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5622782,
+      47.3812898
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8838505917",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Büro 1 stock ",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "24/7",
+    "operator": "Firma ",
+    "phone": "0442588888",
+    "id": "node/8838505917"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5537522,
+      47.3676549
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8840651017",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Kantonale Verwaltung, Stsmofenbachstrasse 12",
+    "description": "während Öffnungszeiten der Verwaltung verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Fr 08:00-12:00 und 13:30-17:00 Uhr",
+    "operator": "Kantonale Verwaltung",
+    "phone": "0432593271",
+    "id": "node/8840651017"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5437994,
+      47.3784945
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8840773017",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Schulhaus EG, Vorbereitungszimmer",
+    "description": "Nur mit Schlüssel zugänglich, Personal fragen",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "id": "node/8840773017"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.499976,
+      47.3640093
+    ]
+  }
 }
 ]
 }
