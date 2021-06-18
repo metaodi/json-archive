@@ -2251,18 +2251,22 @@
   "type": "Feature",
   "id": "node/7569750796",
   "properties": {
-    "defibrillator:location": "Von der Strasse zugänglich",
-    "description": "Privater Defi, im Winter beheizt",
+    "access": "yes",
+    "defibrillator:location": "Direkt an Strasse, frei zugänglich",
+    "description": "Unter Dach, beleuchtet",
     "emergency": "defibrillator",
     "emergency:phone": "144",
+    "indoor": "no",
     "opening_hours": "24/7",
+    "operator": "Diener",
+    "phone": "0794202353",
     "id": "node/7569750796"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.9069563,
-      47.2758643
+      8.9071259,
+      47.2758452
     ]
   }
 },
@@ -3260,7 +3264,9 @@
     "description": "während Öffnungszeiten zugänglich, Ausnahme Feiertage und ausserordentliche Öffnungszeiten",
     "emergency": "defibrillator",
     "emergency:phone": "144",
+    "indoor": "yes",
     "opening_hours": "Mo-Fr 08:00-11:30, 14:00-16:30, We 08:00-11:30, 14:00-18:00",
+    "operator": "Gemeindeverwaltung Stallikon",
     "id": "node/7636269858"
   },
   "geometry": {
@@ -19733,6 +19739,799 @@
     "coordinates": [
       8.4349827,
       47.4201352
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8840804118",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Migros Effimärt, Kundendienst",
+    "description": "Während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Mi 08.30 - 19.00, Do-Fr 08.30 - 20.00, Sa 08.00 - 18.00",
+    "operator": "Migros",
+    "phone": "+41587128400",
+    "id": "node/8840804118"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6851098,
+      47.4286388
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8840851118",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "GEWOBAG Siedlung Burg-/Heusser-Staub-Strasse 9",
+    "description": "Aussen neben dem Hauswart Büro",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "GEWOBAG Gewerkschaftliche Wohn- und Baugenossenschaft",
+    "id": "node/8840851118"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7210923,
+      47.3420455
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8840853517",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Baur au Lac Garage",
+    "description": "Während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Baur au Lac",
+    "phone": "+41442205020",
+    "id": "node/8840853517"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5386215,
+      47.3667519
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8840856418",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Baur au Lac",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Baur au Lac",
+    "phone": "+41442205020",
+    "id": "node/8840856418"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5389178,
+      47.3675822
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8840866217",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Baur au Lac Haupteingang",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "24/7",
+    "operator": "Baur au Lac",
+    "phone": "+41442205020",
+    "id": "node/8840866217"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5394229,
+      47.3670468
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8840906917",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Planzer Transport AG",
+    "description": "1. OG bei IT",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "24/7",
+    "operator": "Planzer Transport AG",
+    "id": "node/8840906917"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3993117,
+      47.419176
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8840924728",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Gebäude Z, 1. Stock, Public-Schalter (Hinweis DEFI im Gang), gleich hinter der Tür, Kasse-Seitig. Unglücklicherweise muss man seit dem Umbau erst die Türe wieder etwas schliessen, um in zu entnehmen.",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "Mo-Fr 07:30-12:00, 12:45-17:00",
+    "operator": "Eidgenössische Zollverwaltung EZV",
+    "phone": "058 481 30 80",
+    "id": "node/8840924728"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5915071,
+      47.5188998
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8840931820",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Nach dem Eintritt links an der Wand, neben dem Getränkeautomat",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "Mo-Fr 07:30-22:00",
+    "operator": "Basefit",
+    "id": "node/8840931820"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.712873,
+      47.4947045
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8840954801",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Eingang der Dreifachturnhalle, an der gegenüberliegenden Wand",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Schule Fehraltorf",
+    "id": "node/8840954801"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7544486,
+      47.3902602
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8841003517",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "The Metropolitans West",
+    "description": "Privatwohngebäude / Schärenmoosstr. 76 / Aufzüge A / Etage 7 / Defi in Feuerwehrschrank auf Etagenvorplatz zu den Wohnungen A, B und C / Nur mit Hausschlüssel erreichbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "24/7",
+    "operator": "Privatperson",
+    "phone": "+41762020807",
+    "id": "node/8841003517"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5567311,
+      47.4189692
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8841032838",
+  "properties": {
+    "access": "044 299 32 no",
+    "defibrillator:location": "Im Büro im EG",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "MNSB GmbH / Fam. Nordmann - Marc Nordmann",
+    "phone": "044 299 32 23",
+    "id": "node/8841032838"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6480527,
+      47.3930483
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8841099017",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Dachser Spedition Niederlassung Regensdorf, Althardstr. 355, 8105 Regensdorf, Fahrertreppenhaus EG",
+    "description": "während Betriebszeiten zugänglich",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Fr: 05:00 - 22:00 Uhr",
+    "operator": "Dachser Spedition AG",
+    "phone": "+41448721190",
+    "id": "node/8841099017"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4556028,
+      47.4483644
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8841121217",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Übungsgelände HFRB - Aufenthaltsraum",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Fr:08:00-17:00",
+    "operator": "Schutz und Rettung Zürich",
+    "id": "node/8841121217"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5671161,
+      47.4193118
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8841209217",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Praxis Felsenau, 1.Stock",
+    "description": "während Praxisöffnungszeiten",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo, Di, Mi, Fr 8-12 und 14-18, Do 8-12",
+    "operator": "Praxis",
+    "phone": "0552461855",
+    "id": "node/8841209217"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9105455,
+      47.2720832
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8841327418",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Stadt Zürich Wasserversorgung",
+    "description": "Während den Öffnnungszeiten",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Stadt Zürich Wasserversorgung",
+    "id": "node/8841327418"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.496719,
+      47.3979036
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8841334217",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Stadt Zürich Wasserversorgung ",
+    "description": "Während den Öffnungszeiten",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Stadt Zürich Wasserversorgung",
+    "id": "node/8841334217"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4961395,
+      47.3979677
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8841334220",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Stadt Zürich Wasserversorgung",
+    "description": "während der Öffnungszeiten",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Stadt Zürich Wasserversorgung",
+    "id": "node/8841334220"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5319136,
+      47.3310996
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8841345318",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Wasserversorgung Stadt Zürich",
+    "description": "Während den Öffnungszeiten",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Stadt Zürich Wasserversorgung",
+    "id": "node/8841345318"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5726037,
+      47.3498687
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8841354417",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Stadt Zürich Wasserversorgung",
+    "description": "Während Öffnungszeiten",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Stadt Zürich Wasserversorgung",
+    "id": "node/8841354417"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5314432,
+      47.3330879
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8841370960",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Der Defibrillator befindet sich im Treppenhaus im 1. OG (Empfang) innerhalb des Gebäudes.",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Fr 08:00-17:00",
+    "operator": "record / Samuel Hedinger (SIBE)",
+    "phone": "+41 44 954 9191",
+    "id": "node/8841370960"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7421989,
+      47.3926298
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8841401617",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Baur au Lac Vins",
+    "description": "Während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Baur au Lac Vins",
+    "phone": "+41447770505",
+    "id": "node/8841401617"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4657627,
+      47.4428039
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8841690490",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Im 3.Stock beim Sozialdienst Bezirk Affoltern",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Sozialdienst Bezirk Affoltern, Sicherheitsbeauftragter",
+    "phone": "0447624545",
+    "id": "node/8841690490"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4418935,
+      47.2718879
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8841711317",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Elibag Elgger Innenausbau AG",
+    "description": "während Öffnungszeit verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Fr 07:00-17:00 Uhr",
+    "operator": "Firma",
+    "phone": "+41523686161",
+    "id": "node/8841711317"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8620885,
+      47.490573
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8841733017",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Bezirksgebäude Dietikon, hinter den Liften",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "id": "node/8841733017"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4037283,
+      47.4067903
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8841893617",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Warteraum SZU Bahnhof Uitikon Waldegg",
+    "description": "immer zugänglich",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "24/7",
+    "operator": "SZU",
+    "id": "node/8841893617"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4655872,
+      47.3662513
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8841909017",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Ringstrasse 7, 1. Stock",
+    "description": "Bürozeiten",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Fr",
+    "operator": "Firma",
+    "phone": "+41586663636",
+    "id": "node/8841909017"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6543694,
+      47.388012
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8842064218",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Bergpraxis/Spyrigarten, Bergstrasse 1",
+    "description": "Im Eingangsbereich neben 2. Glastür rechts",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo- So 7-20Uhr",
+    "operator": "Gemeinde Hirzel, Bergpraxis und Spyrigarten",
+    "phone": "0447287272",
+    "id": "node/8842064218"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6062658,
+      47.2179801
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8842619822",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Nüschelerstrasse 45. 2. OG. Eingangsbereich med. Rücken-Center",
+    "description": "während Öffnungszeit",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Fr 8 bis 20 Uhr\nSa 10 bis 13 Uhr",
+    "operator": "med. Rücken-Center, Therapie & Training",
+    "phone": "+41442116080",
+    "id": "node/8842619822"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5342129,
+      47.3735711
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8842863018",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Schule Steinacker, am Eingang Singsaal",
+    "description": "Draussen",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "id": "node/8842863018"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.779193,
+      47.3722803
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8842886717",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Wylandhalle, Henggart",
+    "description": "an Aussenwand",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "id": "node/8842886717"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6822844,
+      47.5606209
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8843827096",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Defi ist beim Haupteingang in das Gebäude Schulhaus Rotflue 2 angebracht",
+    "description": "24h verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Primarschule Dänikon-Hüttikon",
+    "phone": "+41 43 495 36 16",
+    "id": "node/8843827096"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3964756,
+      47.4476563
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8843853656",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Beim Tennisclub, am Geräte-Häuschen, neben der Tenniswand - schaut Richtung Norden, ist vom Haupteingang in den Tennisclub gut sichtbar.",
+    "description": "24h verfügbar (einfach über Türchen klettern)",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Tennisclub Oberrieden",
+    "id": "node/8843853656"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5776823,
+      47.2690574
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8843856190",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Pfarreizentrum / Saal / Foyer",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Fr 09:00-11:00, 14:00-16:00",
+    "operator": "Kirche und Pfarreizentrum St. Felix und Regula",
+    "phone": "044 722 70 80",
+    "id": "node/8843856190"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5590812,
+      47.2973681
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8843870678",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "1. UG, an der Wand zwischen Garderobe und Seiteneingang Süd",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Hauswart (Michael Schlegel)",
+    "phone": "044 884 72 98",
+    "id": "node/8843870678"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.402638,
+      47.4689533
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8843871246",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Am Empfang, im schwarzen Schrank, dort wo der erste Hilfe Koffer ist.",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Th 07:30-12:00, 13:00-17:00; Fr 07:30-12:00, 13:00-15:30",
+    "operator": "Marcel Pfund",
+    "phone": "052 368 60 00",
+    "id": "node/8843871246"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4379439,
+      47.4030813
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8843874872",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Küche Bistro im Durchgang zum Restaurant",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "ALMAS Industries",
+    "phone": "021 637 02 30",
+    "id": "node/8843874872"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4552901,
+      47.3696577
     ]
   }
 }
