@@ -23098,10 +23098,17 @@
   "type": "Feature",
   "id": "way/355779426",
   "properties": {
+    "addr:city": "Steinerberg",
+    "addr:housenumber": "6",
+    "addr:postcode": "6416",
+    "addr:street": "Sattelstrasse",
     "amenity": "social_facility",
     "building": "yes",
+    "email": "leitung@stanna.ch",
     "name": "Pflegeheim St. Anna",
+    "phone": "+41 41 833 84 84",
     "social_facility": "nursing_home",
+    "website": "http://www.stanna.ch/",
     "id": "way/355779426"
   },
   "geometry": {
@@ -23236,6 +23243,135 @@
         [
           8.8579795,
           47.1887608
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/385368247",
+  "properties": {
+    "addr:city": "Küssnacht am Rigi",
+    "addr:housenumber": "2",
+    "addr:postcode": "6403",
+    "addr:street": "Seemattzopfweg",
+    "amenity": "social_facility",
+    "building": "yes",
+    "email": "info@pflegezentrum-seematt.ch",
+    "name": "Pflegezentrum Seematt",
+    "phone": "+41 41 854 24 24",
+    "social_facility": "nursing_home",
+    "website": "https://www.pflegezentrum-seematt.ch/",
+    "id": "way/385368247"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.437511,
+          47.0762215
+        ],
+        [
+          8.4374551,
+          47.076286
+        ],
+        [
+          8.4374218,
+          47.0762726
+        ],
+        [
+          8.4373755,
+          47.0763262
+        ],
+        [
+          8.4375004,
+          47.0763763
+        ],
+        [
+          8.4374828,
+          47.0763966
+        ],
+        [
+          8.4375002,
+          47.0764036
+        ],
+        [
+          8.4374438,
+          47.0764687
+        ],
+        [
+          8.4375296,
+          47.0765031
+        ],
+        [
+          8.43748,
+          47.0765605
+        ],
+        [
+          8.4374442,
+          47.0765461
+        ],
+        [
+          8.4374047,
+          47.0765917
+        ],
+        [
+          8.4372108,
+          47.0765139
+        ],
+        [
+          8.4372307,
+          47.0764909
+        ],
+        [
+          8.4370324,
+          47.0764112
+        ],
+        [
+          8.4370413,
+          47.0764009
+        ],
+        [
+          8.436956,
+          47.0763666
+        ],
+        [
+          8.437033,
+          47.0762777
+        ],
+        [
+          8.4371013,
+          47.0763051
+        ],
+        [
+          8.4371226,
+          47.0762804
+        ],
+        [
+          8.4372664,
+          47.0763381
+        ],
+        [
+          8.4373716,
+          47.0762165
+        ],
+        [
+          8.4373063,
+          47.0761903
+        ],
+        [
+          8.4373755,
+          47.0761104
+        ],
+        [
+          8.4375474,
+          47.0761794
+        ],
+        [
+          8.437511,
+          47.0762215
         ]
       ]
     ]
@@ -25542,6 +25678,75 @@
         [
           8.5314725,
           47.4495197
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/604585050",
+  "properties": {
+    "addr:city": "Ibach",
+    "addr:housenumber": "124",
+    "addr:postcode": "6438",
+    "addr:street": "Gotthardstrasse",
+    "amenity": "social_facility",
+    "building": "yes",
+    "email": "alterszentrum.rubiswil@gemeindeschwyz.ch",
+    "name": "Alterszentrum Rubiswil",
+    "phone": "+41 41 818 36 66",
+    "social_facility": "nursing_home",
+    "website": "https://www.alterszentrum-schwyz.ch/#",
+    "id": "way/604585050"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6437088,
+          47.0177016
+        ],
+        [
+          8.6434896,
+          47.0176065
+        ],
+        [
+          8.6437287,
+          47.0173186
+        ],
+        [
+          8.6435979,
+          47.0172568
+        ],
+        [
+          8.6438087,
+          47.0170596
+        ],
+        [
+          8.6439828,
+          47.0171266
+        ],
+        [
+          8.6441709,
+          47.0169465
+        ],
+        [
+          8.6443819,
+          47.0170407
+        ],
+        [
+          8.644104,
+          47.0173958
+        ],
+        [
+          8.6440316,
+          47.017374
+        ],
+        [
+          8.6437088,
+          47.0177016
         ]
       ]
     ]
@@ -30522,6 +30727,84 @@
 },
 {
   "type": "Feature",
+  "id": "way/955759170",
+  "properties": {
+    "addr:city": "Steinen",
+    "addr:housenumber": "17",
+    "addr:postcode": "6422",
+    "addr:street": "Aazopfweg",
+    "amenity": "social_facility",
+    "building": "yes",
+    "email": "m.sommerhalder@apz-au.ch",
+    "name": "Alters- und Pflegezentrum Au",
+    "operator": "Alters- und Pflegezentrum Au AG",
+    "phone": "+41 41 833 85 00",
+    "social_facility": "nursing_home",
+    "website": "https://www.apz-au.ch/",
+    "id": "way/955759170"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.605735,
+          47.0400499
+        ],
+        [
+          8.6055662,
+          47.0402441
+        ],
+        [
+          8.6054426,
+          47.0401969
+        ],
+        [
+          8.6055285,
+          47.04009
+        ],
+        [
+          8.6054335,
+          47.0400541
+        ],
+        [
+          8.6054169,
+          47.0400736
+        ],
+        [
+          8.605322,
+          47.0400366
+        ],
+        [
+          8.605337,
+          47.0400202
+        ],
+        [
+          8.6052315,
+          47.039976
+        ],
+        [
+          8.6053009,
+          47.0398989
+        ],
+        [
+          8.6056943,
+          47.040052
+        ],
+        [
+          8.6057064,
+          47.0400397
+        ],
+        [
+          8.605735,
+          47.0400499
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/199578656",
   "properties": {
     "id": "way/199578656"
@@ -32740,22 +33023,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/5670151745",
-  "properties": {
-    "amenity": "nursing_home",
-    "name": "Seematt",
-    "id": "node/5670151745"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.4373444,
-      47.0763127
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/5681710884",
   "properties": {
     "addr:city": "Winterberg",
@@ -33612,6 +33879,31 @@
     "coordinates": [
       8.5287966,
       47.3057552
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8845721801",
+  "properties": {
+    "addr:city": "Brunnen",
+    "addr:housenumber": "10",
+    "addr:postcode": "6440",
+    "addr:street": "Klosterstrasse",
+    "amenity": "social_facility",
+    "email": "info@kloster-ingenbohl.ch",
+    "name": "Pflegeheim St. Josef Kloster Ingenbohl",
+    "operator": "Kloster Ingenbohl",
+    "phone": "+41 41 825 20 00",
+    "social_facility": "nursing_home",
+    "website": "https://www.kloster-ingenbohl.ch/",
+    "id": "node/8845721801"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6169253,
+      46.9994787
     ]
   }
 }
