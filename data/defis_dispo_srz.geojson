@@ -13180,7 +13180,7 @@
     "emergency:phone": "144",
     "indoor": "no",
     "opening_hours": "24/7",
-    "perator": "Gemeinde Steinhausen",
+    "operator": "Gemeinde Steinhausen",
     "id": "node/7930563036"
   },
   "geometry": {
@@ -16858,7 +16858,7 @@
     "emergency:phone": "144",
     "indoor": "yes",
     "operator": "Betriebssanität UZH",
-    "phone": "044 635 41 41",
+    "phone": "+41 44 635 41 41",
     "id": "node/8190623270"
   },
   "geometry": {
@@ -16880,7 +16880,7 @@
     "emergency:phone": "144",
     "indoor": "yes",
     "operator": "Betriebssanität UZH",
-    "phone": "044 635 41 41",
+    "phone": "+41 44 635 41 41",
     "id": "node/8190623271"
   },
   "geometry": {
@@ -16902,7 +16902,7 @@
     "emergency:phone": "144",
     "indoor": "yes",
     "operator": "Betriebssanität UZH",
-    "phone": "044 635 41 41",
+    "phone": "+41 44 635 41 41",
     "id": "node/8190623272"
   },
   "geometry": {
@@ -16968,7 +16968,7 @@
     "emergency:phone": "144",
     "indoor": "yes",
     "operator": "Betriebssanität UZH",
-    "phone": "044 635 41 41",
+    "phone": "+41 44 635 41 41",
     "id": "node/8190623275"
   },
   "geometry": {
@@ -16990,7 +16990,7 @@
     "emergency:phone": "144",
     "indoor": "yes",
     "operator": "Betriebssanität UZH",
-    "phone": "044 635 41 41",
+    "phone": "+41 44 635 41 41",
     "id": "node/8190623276"
   },
   "geometry": {
@@ -17012,7 +17012,7 @@
     "emergency:phone": "144",
     "indoor": "yes",
     "operator": "Betriebssanität UZH",
-    "phone": "044 635 41 41",
+    "phone": "+41 44 635 41 41",
     "id": "node/8190623277"
   },
   "geometry": {
@@ -17034,7 +17034,7 @@
     "emergency:phone": "144",
     "indoor": "yes",
     "operator": "Betriebssanität UZH",
-    "phone": "044 635 41 41",
+    "phone": "+41 44 635 41 41",
     "id": "node/8190623278"
   },
   "geometry": {
@@ -17100,7 +17100,7 @@
     "emergency:phone": "144",
     "indoor": "yes",
     "operator": "Betriebssanität UZH",
-    "phone": "044 635 41 41",
+    "phone": "+41 44 635 41 41",
     "id": "node/8190623281"
   },
   "geometry": {
@@ -17276,7 +17276,7 @@
     "emergency:phone": "144",
     "indoor": "yes",
     "operator": "Betriebssanität UZH",
-    "phone": "044 635 41 41",
+    "phone": "+41 44 635 41 41",
     "id": "node/8190623289"
   },
   "geometry": {
@@ -17298,7 +17298,7 @@
     "emergency:phone": "144",
     "indoor": "yes",
     "operator": "Betriebssanität UZH",
-    "phone": "044 635 41 41",
+    "phone": "+41 44 635 41 41",
     "id": "node/8190623290"
   },
   "geometry": {
@@ -23256,7 +23256,7 @@
     "indoor": "yes",
     "opening_hours": "Mo-Fr 06:45-18:00",
     "operator": "Herbert Heeb, Preisig AG 079 692 28 74",
-    "phone": "044 315 41 41",
+    "phone": "+41 44 315 41 41",
     "id": "node/8562553021"
   },
   "geometry": {
@@ -30261,6 +30261,89 @@
     "coordinates": [
       8.618566,
       47.4133827
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8847807517",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "im Eingangsbereich, rechts beim Micasa-Eingang",
+    "description": "während Öffnungszeiten zugänglich",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Fr 9-20; Sa 9-18",
+    "id": "node/8847807517"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.603634,
+      47.401421
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8848381217",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Badi Rafz-Wil",
+    "description": "während der Freibad Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "operator": "Zweckverband Badi Rafz-Wil",
+    "id": "node/8848381217"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5252962,
+      47.6113224
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8848381627",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Migros, im Eingang",
+    "description": "während Öffnungszeiten verfügbar ",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Sa 8.00 - 20.00 Uhr",
+    "id": "node/8848381627"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5130193,
+      47.5804382
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8848384118",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Foyer Turnhalle",
+    "description": "Während  Öffnungszeiten verfügbar ",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "id": "node/8848384118"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5071633,
+      47.5993117
     ]
   }
 }
