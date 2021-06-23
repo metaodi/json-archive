@@ -28411,8 +28411,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5450013,
-      47.3096346
+      8.5450095,
+      47.3095998
     ]
   }
 },
@@ -29878,7 +29878,7 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "opening_hours": "Mo-Fr 07:00-17:00 Uhr",
+    "opening_hours": "Mo-Fr 07:00-17:00",
     "operator": "Firma",
     "phone": "+41523686161",
     "id": "node/8841711317"
@@ -30457,6 +30457,48 @@
     "coordinates": [
       8.5415623,
       47.3693595
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8856390409",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "3. OG\nEingang rechts,\ndirekt nach der Eingangstür links an der Wand vis à vis Zimmer Nr. M 316.",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Th 07:30-12:00, 13:00-17:00; Fr 07:30-12:00, 13:00-15:30",
+    "operator": "Marcel Pfund",
+    "phone": "052 368 60 00",
+    "id": "node/8856390409"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4379245,
+      47.4031806
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8858907317",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "casinotheater winterthur",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "id": "node/8858907317"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7266168,
+      47.4997416
     ]
   }
 }
