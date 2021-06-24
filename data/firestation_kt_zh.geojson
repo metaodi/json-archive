@@ -1749,64 +1749,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/66986858",
-  "properties": {
-    "addr:city": "Küsnacht",
-    "addr:country": "CH",
-    "addr:housenumber": "139",
-    "addr:postcode": "8700",
-    "addr:street": "Alte Landstrasse",
-    "amenity": "fire_station",
-    "building": "yes",
-    "name": "Feuerwehr Küsnacht ZH",
-    "id": "way/66986858"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.5846144,
-          47.3189017
-        ],
-        [
-          8.5846248,
-          47.3186548
-        ],
-        [
-          8.5848913,
-          47.31866
-        ],
-        [
-          8.5848873,
-          47.3187543
-        ],
-        [
-          8.5847854,
-          47.3187523
-        ],
-        [
-          8.5847824,
-          47.318824
-        ],
-        [
-          8.5848355,
-          47.3188251
-        ],
-        [
-          8.5848321,
-          47.3189059
-        ],
-        [
-          8.5846144,
-          47.3189017
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/78502623",
   "properties": {
     "addr:city": "Bachs",
@@ -6080,6 +6022,28 @@
     "coordinates": [
       8.6757043,
       47.4729076
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8859864018",
+  "properties": {
+    "addr:city": "Küsnacht",
+    "addr:country": "CH",
+    "addr:housenumber": "30a",
+    "addr:postcode": "8700",
+    "addr:street": "Freihofstrasse",
+    "amenity": "fire_station",
+    "building": "yes",
+    "name": "Feuerwehr Küsnacht ZH",
+    "id": "node/8859864018"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5863561,
+      47.310052
     ]
   }
 }
