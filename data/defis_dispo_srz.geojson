@@ -30767,6 +30767,70 @@
       47.4983996
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/8867381720",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "im Auto",
+    "description": "im Auto",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "privat ",
+    "phone": "+41796654687",
+    "id": "node/8867381720"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6339631,
+      47.3623125
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8867584417",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Werkhof",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo - Fr 08:00 - 16:00",
+    "operator": "Gemeinde",
+    "id": "node/8867584417"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4586487,
+      47.4498221
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8867625917",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Gemeindehaus Henggart",
+    "description": "zwischen Gemeindehaus und Spitex an der Aussenwand",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "id": "node/8867625917"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6811613,
+      47.5658877
+    ]
+  }
 }
 ]
 }
