@@ -3227,55 +3227,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/29161925",
-  "properties": {
-    "addr:city": "Volketswil",
-    "addr:country": "CH",
-    "addr:housenumber": "1",
-    "addr:postcode": "8604",
-    "addr:street": "Neuwiesenstrasse",
-    "amenity": "social_facility",
-    "building": "yes",
-    "email": "kontakt@prixsante.ch",
-    "name": "Altersheim Pflege im Zentrum",
-    "operator": "Prix Santé AG",
-    "phone": "+41 43 466 94 64",
-    "social_facility": "nursing_home",
-    "social_facility:for": "senior",
-    "source": "Yahoo",
-    "website": "https://www.prixsante.ch/",
-    "id": "way/29161925"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.6874366,
-          47.3889174
-        ],
-        [
-          8.6876213,
-          47.3889278
-        ],
-        [
-          8.6875957,
-          47.3891355
-        ],
-        [
-          8.6874111,
-          47.3891251
-        ],
-        [
-          8.6874366,
-          47.3889174
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/29881598",
   "properties": {
     "addr:housenumber": "10",
@@ -14925,6 +14876,63 @@
         [
           8.6364474,
           47.6970079
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/192947494",
+  "properties": {
+    "addr:city": "Uster",
+    "addr:country": "CH",
+    "addr:housenumber": "1",
+    "addr:postcode": "8610",
+    "addr:street": "Neuwiesenstrasse",
+    "amenity": "social_facility",
+    "building": "yes",
+    "email": "kontakt@prixsante.ch",
+    "name": "Altersheim Pflege im Zentrum",
+    "operator": "Prix Santé AG",
+    "phone": "+41 43 466 94 64",
+    "social_facility": "nursing_home",
+    "social_facility:for": "senior",
+    "source": "Yahoo",
+    "website": "https://www.prixsante.ch/",
+    "id": "way/192947494"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7208171,
+          47.3502548
+        ],
+        [
+          8.7209079,
+          47.3502162
+        ],
+        [
+          8.7209188,
+          47.3502279
+        ],
+        [
+          8.7210512,
+          47.3501711
+        ],
+        [
+          8.7211301,
+          47.3502594
+        ],
+        [
+          8.7209127,
+          47.3503524
+        ],
+        [
+          8.7208171,
+          47.3502548
         ]
       ]
     ]

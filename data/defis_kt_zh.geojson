@@ -21127,6 +21127,49 @@
       47.4067667
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/8871080945",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Eingang Schwimmbad und Turnhalle",
+    "description": "24h verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Primarschule Otelfingen Martin Heimo, Schulleiter",
+    "id": "node/8871080945"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3919883,
+      47.4623957
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8871980818",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "OBI erster Stock",
+    "description": "währen Öffnungszeit im ersten Stock neben den Toiletten",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Fr: 09:00-20:00\nSa: 08:00-20:00",
+    "id": "node/8871980818"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6753404,
+      47.3802652
+    ]
+  }
 }
 ]
 }
