@@ -31007,6 +31007,92 @@
       47.2975355
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/8881911690",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Rechts vom Eingang des Schulhauses",
+    "emergency": "defibrillator",
+    "indoor": "yes",
+    "operator": "Gemeinde Männedorf, Hausdienst Schule",
+    "phone": "+41 44 921 68 11",
+    "id": "node/8881911690"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6987143,
+      47.2564594
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8881911691",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Rechts vom Eingang des Schulhauses",
+    "emergency": "defibrillator",
+    "indoor": "yes",
+    "operator": "Gemeinde Männedorf, Hausdienst Schule",
+    "phone": "+41 44 921 68 11",
+    "id": "node/8881911691"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6963506,
+      47.254116
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8882039632",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Neben den Briefkästen",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "24/7",
+    "phone": "144",
+    "wheelchair": "yes",
+    "id": "node/8882039632"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5818376,
+      47.4509666
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8882971239",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Restaurant Fischerstube, Hauptgebäude, nach Windfang des Haupteingangs links in der Wand",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Su 11:00-23:30",
+    "operator": "Restaurant Fischerstube",
+    "phone": "+41442505950",
+    "id": "node/8882971239"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5505658,
+      47.3530315
+    ]
+  }
 }
 ]
 }
