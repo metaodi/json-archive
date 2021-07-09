@@ -478,7 +478,7 @@
     "addr:street": "Waldeggstrasse",
     "amenity": "fire_station",
     "building": "yes",
-    "name": "Feuerwehr Horgen-Hirzel - Depot Horgen",
+    "name": "Feuerwehr Horgen - Depot Horgen",
     "id": "way/31827427"
   },
   "geometry": {
@@ -4345,7 +4345,7 @@
     "addr:street": "Vorderi Siten",
     "amenity": "fire_station",
     "building": "yes",
-    "name": "Feuerwehr Horgen-Hirzel - Depot Hitzel",
+    "name": "Feuerwehr Horgen - Depot Hirzel",
     "id": "way/295033726"
   },
   "geometry": {
