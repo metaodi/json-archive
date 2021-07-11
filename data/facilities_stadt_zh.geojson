@@ -3883,7 +3883,7 @@
     "building": "yes",
     "name": "Pflegeheim Rehalp",
     "operator": "Stiftung Diakoniewerk Neumünster",
-    "phone": "+41 44 387 55 55",
+    "phone": "+41 44 387 55 55",
     "source": "Stadt Zürich Open Government Data; Geomatik + Vermessung; Tiefbau- und Entsorgungsdepartement",
     "website": "https://www.az-hottingen-rehalp.ch/pflegeheimrehalp",
     "id": "way/125417750"
@@ -5402,8 +5402,8 @@
           47.3654708
         ],
         [
-          8.4942666,
-          47.3650873
+          8.4942716,
+          47.3650863
         ],
         [
           8.4944993,
@@ -5448,6 +5448,10 @@
         [
           8.4966934,
           47.365091
+        ],
+        [
+          8.4967363,
+          47.3650886
         ],
         [
           8.4969082,
@@ -5582,20 +5586,28 @@
           47.3665579
         ],
         [
-          8.4946743,
-          47.3663437
+          8.4946831,
+          47.3663363
         ],
         [
-          8.4945729,
-          47.3661282
+          8.4946644,
+          47.3662954
         ],
         [
-          8.4944416,
-          47.3658581
+          8.4945739,
+          47.3661139
         ],
         [
-          8.4943064,
-          47.3655597
+          8.4944572,
+          47.3658591
+        ],
+        [
+          8.4944474,
+          47.3658403
+        ],
+        [
+          8.4943116,
+          47.3655534
         ],
         [
           8.4943581,
@@ -7497,7 +7509,7 @@
     "capacity": "89",
     "name": "Pflegezentrum Erlenhof",
     "operator": "Diakonie Nidelbad",
-    "phone": "+41 44 298 39 00",
+    "phone": "+41 44 298 39 00",
     "website": "https://www.erlenhof.ch/",
     "id": "node/1240990718"
   },
