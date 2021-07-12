@@ -11863,6 +11863,7 @@
   "properties": {
     "emergency": "defibrillator",
     "emergency:phone": "144",
+    "indoor": "no",
     "id": "node/8480125218"
   },
   "geometry": {
@@ -21473,6 +21474,29 @@
     "coordinates": [
       8.5372599,
       47.318474
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8911187817",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Swisscom Shop, bei der Kasse",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Fr: 09.00-18.30; Sa 09.00-16.00",
+    "operator": "Swisscom Shop",
+    "phone": "+41447744848",
+    "id": "node/8911187817"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4029278,
+      47.4051795
     ]
   }
 }
