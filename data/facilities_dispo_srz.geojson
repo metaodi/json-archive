@@ -18380,103 +18380,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/239132473",
-  "properties": {
-    "addr:city": "Wald",
-    "addr:housenumber": "5",
-    "addr:postcode": "8636",
-    "addr:street": "Sackstrasse",
-    "amenity": "nursing_home",
-    "building": "yes",
-    "email": "altersheim@stiftungdreitannen.ch",
-    "name": "Altersheim Drei Tannen",
-    "operator": "Stiftung DREITANNEN",
-    "phone": "+41 55 2561414",
-    "website": "https://www.stiftungdreitannen.ch/",
-    "id": "way/239132473"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.9132961,
-          47.2802871
-        ],
-        [
-          8.9130423,
-          47.2802336
-        ],
-        [
-          8.9130653,
-          47.2801834
-        ],
-        [
-          8.9127758,
-          47.2801223
-        ],
-        [
-          8.9127911,
-          47.2800889
-        ],
-        [
-          8.9127175,
-          47.2800733
-        ],
-        [
-          8.9124893,
-          47.2800234
-        ],
-        [
-          8.9125352,
-          47.2799269
-        ],
-        [
-          8.9128255,
-          47.2799904
-        ],
-        [
-          8.912814,
-          47.2800146
-        ],
-        [
-          8.9129387,
-          47.2800419
-        ],
-        [
-          8.9129831,
-          47.2799484
-        ],
-        [
-          8.9131417,
-          47.2799832
-        ],
-        [
-          8.9130914,
-          47.2800889
-        ],
-        [
-          8.9131537,
-          47.2801026
-        ],
-        [
-          8.9131277,
-          47.2801572
-        ],
-        [
-          8.9133362,
-          47.2802029
-        ],
-        [
-          8.9132961,
-          47.2802871
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/239983188",
   "properties": {
     "addr:city": "Greifensee",
@@ -29656,6 +29559,62 @@
         [
           8.8137769,
           47.2664341
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/689514499",
+  "properties": {
+    "addr:city": "Wald ZH",
+    "addr:housenumber": "2",
+    "addr:postcode": "8636",
+    "addr:street": "Rosenthalstrasse",
+    "amenity": "social_facility",
+    "building": "yes",
+    "name": "Altersheim Drei Tannen/Ärztezentrum Rosenthal",
+    "note": "Hier befindet sich das neue Alters- und Pflegeheim Drei Tannen sowie das Ärztezentrum Rosenthal; es ist bereits seit Ende Juni 2021 in Betrieb gegangen.\nhttps://www.stiftungdreitannen.ch/",
+    "opening_date": "2021-07-01",
+    "operator": "Stiftung Drei Tannen, Wald",
+    "operator:type": "private_non_profit",
+    "social_facility": "nursing_home",
+    "social_facility:for": "senior",
+    "wheelchair": "yes",
+    "id": "way/689514499"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.9108177,
+          47.273044
+        ],
+        [
+          8.9107107,
+          47.2727603
+        ],
+        [
+          8.9111194,
+          47.2726462
+        ],
+        [
+          8.9111557,
+          47.2725387
+        ],
+        [
+          8.9121812,
+          47.2724804
+        ],
+        [
+          8.912376,
+          47.2727603
+        ],
+        [
+          8.9108177,
+          47.273044
         ]
       ]
     ]
