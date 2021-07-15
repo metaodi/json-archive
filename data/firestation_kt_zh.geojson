@@ -5035,8 +5035,12 @@
   "type": "Feature",
   "id": "node/703218511",
   "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "48",
+    "addr:postcode": "8006",
+    "addr:street": "Stapferstrasse",
     "amenity": "fire_station",
-    "name": "Depot Oberstrass",
+    "name": "Milizefeuerwehr Kompanie Ost",
     "operator": "Schutz und Rettung Zürich",
     "id": "node/703218511"
   },
@@ -5364,12 +5368,12 @@
     "amenity": "fire_station",
     "contact:email": "kdt@kp-glattal.ch",
     "contact:emergency": "112",
-    "contact:website": "http://www.kp-glattal.ch/",
-    "name": "Feuerwehrdepot Baumackerstrasse",
+    "contact:website": "https://www.kp-zhnord.ch/",
+    "name": "Milizfeuerwehr Kompanie Nord - Depot Baumacker",
     "old_name": "Pikett Glattal",
-    "operator": "Feuerwehr Kompanie Glattal - Schutz & Rettung Zürich",
+    "operator": "Schutz & Rettung Zürich",
     "source": "survey and website",
-    "website": "http://www.kp-glattal.ch/",
+    "website": "https://www.kp-zhnord.ch/",
     "id": "node/3426244260"
   },
   "geometry": {
@@ -5573,21 +5577,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/5173009429",
-  "properties": {
-    "amenity": "fire_station",
-    "id": "node/5173009429"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.4842175,
-      47.3850549
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/5282136023",
   "properties": {
     "addr:city": "Marthalen",
@@ -5643,22 +5632,6 @@
     "coordinates": [
       8.4718553,
       47.315067
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/5346949290",
-  "properties": {
-    "amenity": "fire_station",
-    "name": "Feuerwehr Kp 32 Industrie",
-    "id": "node/5346949290"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5305057,
-      47.3867373
     ]
   }
 },
@@ -6044,6 +6017,45 @@
     "coordinates": [
       8.5863561,
       47.310052
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8919425871",
+  "properties": {
+    "amenity": "fire_station",
+    "name": "Milizfeuerwehr Kompanie Süd",
+    "operator": "Schutz & Rettung Zürich",
+    "id": "node/8919425871"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5230129,
+      47.3657054
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8919435288",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "42",
+    "addr:postcode": "8050",
+    "addr:street": "Neunbrunnenstrasse",
+    "amenity": "fire_station",
+    "name": "Milizfeuerwehr Kompanie Nord - Depot Neunbrunnen",
+    "operator": "Schutz & Rettung Zürich",
+    "website": "https://www.kp-zhnord.ch/",
+    "id": "node/8919435288"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5373393,
+      47.4172255
     ]
   }
 }
