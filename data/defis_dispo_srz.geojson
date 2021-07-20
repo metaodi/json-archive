@@ -31866,6 +31866,50 @@
       47.1617531
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/8931903560",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Pistolenstand - Büro",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Reavita AG",
+    "phone": "+41 44 466 80 66",
+    "id": "node/8931903560"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.727983,
+      47.3615959
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8933690617",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Migros ",
+    "description": "Während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Fr: 8-20 Uhr",
+    "operator": "Migros",
+    "id": "node/8933690617"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4535415,
+      47.278272
+    ]
+  }
 }
 ]
 }
