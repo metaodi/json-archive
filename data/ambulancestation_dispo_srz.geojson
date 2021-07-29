@@ -443,9 +443,9 @@
     "addr:street": "Oberdorfstrasse",
     "building": "yes",
     "emergency": "ambulance_station",
+    "emergency:phone": "144",
     "name": "Rettungsdienst Spital Lachen",
     "operator": "Spital Lachen",
-    "phone": "144",
     "website": "https://rettungsdienst-lachen.ch/",
     "id": "way/843565567"
   },
@@ -621,9 +621,9 @@
     "addr:postcode": "8006",
     "addr:street": "Neumühlequai",
     "emergency": "ambulance_station",
+    "emergency:phone": "144",
     "name": "Schutz & Rettung Zürich - Hauptwache Neumühlequai",
     "operator": "Schutz & Rettung Zürich",
-    "phone": "144",
     "website": "https://www.stadt-zuerich.ch/pd/de/index/schutz_u_rettung_zuerich/sanitaet.html",
     "id": "node/7274104579"
   },

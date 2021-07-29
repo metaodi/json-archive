@@ -5947,7 +5947,7 @@
     "building": "yes",
     "name": "Mosaik Sozialtherapie AG",
     "operator": "Mosaik Sozialtherapie AG",
-    "phone": "0523043030",
+    "phone": "+41 52 304 30 30",
     "social_facility": "group_home",
     "social_facility:for": "mental_health",
     "website": "https://www.wg-mosaik.ch/",
@@ -24475,144 +24475,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/511346905",
-  "properties": {
-    "amenity": "social_facility",
-    "building": "yes",
-    "name": "WohnenPlus Im Baumgarten",
-    "operator": "Stiftung Alterszentrum Region Bülach",
-    "phone": "+41 44 861 83 60",
-    "social_facility": "nursing_home",
-    "social_facility:for": "senior",
-    "source": "Kanton Zürich Orthofotos 2015",
-    "id": "way/511346905"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.5472771,
-          47.503166
-        ],
-        [
-          8.5471087,
-          47.5030879
-        ],
-        [
-          8.5470234,
-          47.5031727
-        ],
-        [
-          8.5469863,
-          47.5031556
-        ],
-        [
-          8.5469271,
-          47.5032143
-        ],
-        [
-          8.5467583,
-          47.5031368
-        ],
-        [
-          8.546929,
-          47.5029672
-        ],
-        [
-          8.5469646,
-          47.5029761
-        ],
-        [
-          8.5470256,
-          47.5029147
-        ],
-        [
-          8.5472017,
-          47.5029946
-        ],
-        [
-          8.5471829,
-          47.5030136
-        ],
-        [
-          8.5472255,
-          47.5030329
-        ],
-        [
-          8.5472875,
-          47.5029706
-        ],
-        [
-          8.5476523,
-          47.503136
-        ],
-        [
-          8.54755,
-          47.503239
-        ],
-        [
-          8.5474765,
-          47.5032057
-        ],
-        [
-          8.5474651,
-          47.5032173
-        ],
-        [
-          8.5473891,
-          47.5031838
-        ],
-        [
-          8.5472474,
-          47.5032922
-        ],
-        [
-          8.5472714,
-          47.5033057
-        ],
-        [
-          8.5470732,
-          47.5034693
-        ],
-        [
-          8.5470406,
-          47.5034512
-        ],
-        [
-          8.5469676,
-          47.5035115
-        ],
-        [
-          8.5468067,
-          47.5034226
-        ],
-        [
-          8.5470133,
-          47.503252
-        ],
-        [
-          8.5470495,
-          47.503272
-        ],
-        [
-          8.5471225,
-          47.5032117
-        ],
-        [
-          8.547185,
-          47.5032393
-        ],
-        [
-          8.5472771,
-          47.503166
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/527550642",
   "properties": {
     "addr:city": "Uster",
@@ -27622,7 +27484,7 @@
     "building": "yes",
     "email": "info@rosenpark-gersau.ch",
     "name": "Alters- und Pflegeheim Rosenpark",
-    "phone": "041 829 81 84",
+    "phone": "+41 41 829 81 84",
     "social_facility": "nursing_home",
     "social_facility:for": "senior",
     "website": "https://rosenparkgersau.ch/",
@@ -30394,7 +30256,7 @@
     "email": "info@vivale-neuhegi.ch",
     "name": "Vivale Neuhegi",
     "operator": "Reliva AG",
-    "phone": "043 268 17 00",
+    "phone": "+41 43 268 17 00",
     "social_facility": "nursing_home",
     "social_facility:for": "senior",
     "website": "http://www.vivale-neuhegi.ch",
