@@ -3786,19 +3786,21 @@
     "access": "yes",
     "colour": "green",
     "defibrillator:location": "Am Gebäude der Apotheke Rütli",
+    "description": "Apotheke Rütli",
     "emergency": "defibrillator",
     "emergency:phone": "144",
+    "indoor": "no",
     "opening_hours": "24/7",
     "operator": "Gemeinde Ingenbohl-Brunnen",
     "phone": "+41 41 825 05 62",
-    "wheelchair": "no",
+    "wheelchair": "yes",
     "id": "node/6976938443"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.6054351,
-      46.9942522
+      8.6054391,
+      46.9942414
     ]
   }
 },
@@ -32706,6 +32708,49 @@
     "coordinates": [
       8.4909081,
       47.3852409
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8979456935",
+  "properties": {
+    "access": "private",
+    "defibrillator:location": "Neben dem Ausgang",
+    "description": "Lehrerzimmer Fondli",
+    "emergency": "defibrillator",
+    "indoor": "yes",
+    "operator": "Schuleinheit Fondli",
+    "phone": "+41 44 741 22 50",
+    "wheelchair": "no",
+    "id": "node/8979456935"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3868373,
+      47.4082097
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8979969617",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "beim Eingang Restaurant Alpenhof",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Restaurant Alpenhof",
+    "id": "node/8979969617"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4475237,
+      47.0762507
     ]
   }
 }
