@@ -4188,6 +4188,27 @@
 },
 {
   "type": "Feature",
+  "id": "node/7085949166",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Freier Platz, Verkaufshäuschen Schifffahrt",
+    "description": "Öffentlich zugänglich",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "opening_hours": "24/7",
+    "wheelchair": "yes",
+    "id": "node/7085949166"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6406943,
+      47.6954141
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/7089666582",
   "properties": {
     "defibrillator:location": "An Säule zu Gaststube neben Küche",
@@ -7611,26 +7632,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/7644000281",
-  "properties": {
-    "access": "yes",
-    "defibrillator:location": "Freier Platz",
-    "description": "Öffentlich zugänglich",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "opening_hours": "24/7",
-    "id": "node/7644000281"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.6407464,
-      47.6953796
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/7644000282",
   "properties": {
     "access": "yes",
@@ -8167,17 +8168,18 @@
   "id": "node/7644008610",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "Munot",
+    "defibrillator:location": "Munotzinne neben Ausschank rechts",
     "description": "nur zugänglich wenn Gebäude geöffnet sind",
     "emergency": "defibrillator",
     "emergency:phone": "144",
+    "level": "1",
     "id": "node/7644008610"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.639929,
-      47.6969033
+      8.6401494,
+      47.696932
     ]
   }
 },
@@ -20429,8 +20431,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.6293405,
-      47.4433797
+      8.6293045,
+      47.4433841
     ]
   }
 },
@@ -32799,6 +32801,50 @@
     "coordinates": [
       8.7640764,
       47.4955001
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8989520817",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "ref. Kirchgemeinde",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "ref. Kirchgemeinde",
+    "id": "node/8989520817"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.40249,
+      47.4003421
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8989529256",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "1.OG beim Durchgang zur Garderobe",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Fr 07:00-16:00",
+    "operator": "Stadt Zürich, Dienstabteilung Verkehr",
+    "phone": "+41 44 411 88 88",
+    "id": "node/8989529256"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5557988,
+      47.4151284
     ]
   }
 }
