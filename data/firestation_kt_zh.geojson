@@ -1749,47 +1749,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/78502623",
-  "properties": {
-    "addr:city": "Bachs",
-    "addr:country": "CH",
-    "addr:housenumber": "10",
-    "addr:postcode": "8164",
-    "addr:street": "Bachsertalstrasse",
-    "amenity": "fire_station",
-    "building": "yes",
-    "id": "way/78502623"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.4380491,
-          47.5268724
-        ],
-        [
-          8.4379985,
-          47.5267833
-        ],
-        [
-          8.4381504,
-          47.526744
-        ],
-        [
-          8.4382009,
-          47.5268331
-        ],
-        [
-          8.4380491,
-          47.5268724
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/93119271",
   "properties": {
     "addr:city": "Weisslingen",
