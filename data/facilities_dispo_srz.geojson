@@ -14538,6 +14538,59 @@
 },
 {
   "type": "Feature",
+  "id": "way/190250185",
+  "properties": {
+    "addr:city": "Schaffhausen",
+    "addr:housenumber": "12",
+    "addr:street": "J.J. Wepfer-Strasse",
+    "amenity": "social_facility",
+    "building": "yes",
+    "building:levels": "4",
+    "name": "Pflegezentrum - Spitäer Schaffhausen",
+    "operator": "Spitäler Schaffhausen",
+    "phone": "+41 52 634 34 34",
+    "social_facility": "nursing_home",
+    "website": "https://www.heiminfo.ch/institution/spitaeler-schaffhausen-pflegezentrum/pRLcyvp",
+    "id": "way/190250185"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6392272,
+          47.7153783
+        ],
+        [
+          8.6392586,
+          47.7152102
+        ],
+        [
+          8.6405688,
+          47.7153208
+        ],
+        [
+          8.6405365,
+          47.7154894
+        ],
+        [
+          8.6403671,
+          47.7154741
+        ],
+        [
+          8.6393857,
+          47.7153917
+        ],
+        [
+          8.6392272,
+          47.7153783
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/190257056",
   "properties": {
     "addr:city": "Freienbach",
@@ -15356,6 +15409,96 @@
         [
           8.8305322,
           47.3646653
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/202068144",
+  "properties": {
+    "addr:city": "Pfäffikon (SZ)",
+    "addr:housenumber": "18",
+    "addr:postcode": "8808",
+    "addr:street": "Etzelstrasse",
+    "alt_name": "Pflegeheim Pfäffikon Sz",
+    "amenity": "social_facility",
+    "building": "yes",
+    "name": "Pflegezentrum Roswitha",
+    "operator": "Gemeinde Freienbach",
+    "phone": "+41 55 415 07 07",
+    "social_facility": "nursing_home",
+    "website": "https://www.freienbach.ch/pflegezentren/plegezentrumroswitha",
+    "id": "way/202068144"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7787718,
+          47.1999114
+        ],
+        [
+          8.7786046,
+          47.199759
+        ],
+        [
+          8.7785881,
+          47.1997674
+        ],
+        [
+          8.7784603,
+          47.1996509
+        ],
+        [
+          8.7786288,
+          47.1995655
+        ],
+        [
+          8.778697,
+          47.1996277
+        ],
+        [
+          8.778666,
+          47.1996434
+        ],
+        [
+          8.7789065,
+          47.1998626
+        ],
+        [
+          8.7789271,
+          47.1998522
+        ],
+        [
+          8.7792728,
+          47.2001673
+        ],
+        [
+          8.7792064,
+          47.2002009
+        ],
+        [
+          8.7790544,
+          47.200278
+        ],
+        [
+          8.77881,
+          47.2000552
+        ],
+        [
+          8.7788454,
+          47.2000373
+        ],
+        [
+          8.7787304,
+          47.1999324
+        ],
+        [
+          8.7787718,
+          47.1999114
         ]
       ]
     ]

@@ -2218,6 +2218,7 @@
   "properties": {
     "amenity": "fire_station",
     "building": "yes",
+    "name": "Feuerwehr Höri-Hochfelden - Depot Hochfelden",
     "id": "way/103534432"
   },
   "geometry": {
@@ -5662,7 +5663,7 @@
   "id": "node/6179280239",
   "properties": {
     "amenity": "fire_station",
-    "name": "Stadtfeuerwehr Dübendorf",
+    "name": "Feuerwehr Dübendorf - Wangen-Brüttisellen",
     "id": "node/6179280239"
   },
   "geometry": {
