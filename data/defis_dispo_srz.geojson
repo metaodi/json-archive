@@ -2328,6 +2328,7 @@
     "defibrillator:location": "Firma RE/MAX Stern Lachen",
     "emergency": "defibrillator",
     "emergency:phone": "144",
+    "indoor": "no",
     "opening_hours": "24/7",
     "operator": "resQshock GmbH",
     "phone": "+41 55 460 22 44",
@@ -33136,6 +33137,27 @@
     "coordinates": [
       8.6256451,
       47.4047473
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9026173017",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Lieni Park",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Lieni Park",
+    "id": "node/9026173017"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8261474,
+      47.5458154
     ]
   }
 }
