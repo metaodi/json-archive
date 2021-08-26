@@ -33256,6 +33256,49 @@
       47.3594819
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/9034189817",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Büch AG Uster",
+    "description": "während Öffnungszeit über Betriebssanität verfügbar.",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Fr: 08:00-12:00 13:30-17:00",
+    "operator": "Büchi AG",
+    "phone": "+41449055111",
+    "id": "node/9034189817"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7101408,
+      47.3559549
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9036239617",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Urania Parkhaus",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "24/7",
+    "id": "node/9036239617"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5413583,
+      47.3740263
+    ]
+  }
 }
 ]
 }
