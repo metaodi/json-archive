@@ -4365,6 +4365,7 @@
   "id": "way/296898634",
   "properties": {
     "addr:city": "Ossingen",
+    "addr:country": "CH",
     "addr:housenumber": "1",
     "addr:postcode": "8475",
     "addr:street": "Neuwiesstrasse",
