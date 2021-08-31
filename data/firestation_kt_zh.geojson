@@ -2251,6 +2251,64 @@
 },
 {
   "type": "Feature",
+  "id": "way/114160836",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "15",
+    "addr:postcode": "8032",
+    "addr:street": "Asylstrasse",
+    "amenity": "fire_station",
+    "building": "yes",
+    "source": "Stadt Zürich Open Government Data;Geomatik + Vermessung;Tiefbau- und Entsorgungsdepartement",
+    "id": "way/114160836"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5577958,
+          47.3694421
+        ],
+        [
+          8.5579287,
+          47.369309
+        ],
+        [
+          8.5579766,
+          47.369331
+        ],
+        [
+          8.5579951,
+          47.3693125
+        ],
+        [
+          8.5580403,
+          47.3693333
+        ],
+        [
+          8.5580233,
+          47.3693503
+        ],
+        [
+          8.5580751,
+          47.369374
+        ],
+        [
+          8.5579408,
+          47.3695085
+        ],
+        [
+          8.5577958,
+          47.3694421
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/114188576",
   "properties": {
     "amenity": "fire_station",
@@ -4535,6 +4593,72 @@
 },
 {
   "type": "Feature",
+  "id": "way/388184123",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "29a",
+    "addr:postcode": "8053",
+    "addr:street": "Loorenstrasse",
+    "amenity": "fire_station",
+    "building": "yes",
+    "source": "Stadt Zürich Open Government Data; Geomatik + Vermessung; Tiefbau- und Entsorgungsdepartement",
+    "id": "way/388184123"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5947509,
+          47.3589903
+        ],
+        [
+          8.5946418,
+          47.3589557
+        ],
+        [
+          8.5946571,
+          47.3589335
+        ],
+        [
+          8.5946661,
+          47.3589363
+        ],
+        [
+          8.5947246,
+          47.3588514
+        ],
+        [
+          8.5948667,
+          47.3588964
+        ],
+        [
+          8.5948482,
+          47.3589233
+        ],
+        [
+          8.5948248,
+          47.3589159
+        ],
+        [
+          8.5947817,
+          47.3589783
+        ],
+        [
+          8.5947632,
+          47.3589724
+        ],
+        [
+          8.5947509,
+          47.3589903
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/419356316",
   "properties": {
     "addr:housenumber": "1a",
@@ -6017,6 +6141,24 @@
     "coordinates": [
       8.5373393,
       47.4172255
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9048123934",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:street": "Zähringerstrasse",
+    "amenity": "fire_station",
+    "operator": "Schutz & Rettung Zürich",
+    "id": "node/9048123934"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5445489,
+      47.3746242
     ]
   }
 }
