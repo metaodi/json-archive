@@ -32118,7 +32118,6 @@
   "properties": {
     "access": "yes",
     "defibrillator:location": "direkt neben Haupt-Eingang Haus Bundesplatz 7",
-    "description": "24h verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
@@ -32130,8 +32129,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5143728,
-      47.1710314
+      8.5144021,
+      47.171041
     ]
   }
 },
@@ -33444,6 +33443,28 @@
     "coordinates": [
       8.6529238,
       47.6259615
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9051421817",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Russikon-Wilhof Gentenwisstr. 40",
+    "description": "nur wenn Bus vor Ort",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "24/7",
+    "operator": "Sirmed",
+    "id": "node/9051421817"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.782386,
+      47.3825785
     ]
   }
 }
