@@ -3323,6 +3323,7 @@
     "defibrillator:location": "Schwyzer Kantonalbank",
     "emergency": "defibrillator",
     "emergency:phone": "144",
+    "indoor": "no",
     "opening_hours": "24/7",
     "operator": "Schwyzer Kantonalbank",
     "phone": "+41 58 800 20 20",
@@ -3801,8 +3802,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.6054391,
-      46.9942414
+      8.6054458,
+      46.9942327
     ]
   }
 },
@@ -22571,28 +22572,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/8559839544",
-  "properties": {
-    "access": "yes",
-    "defibrillator:location": "Gewerblich-Industrielles Bildungszentrum",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "no",
-    "opening_hours": "24/7",
-    "operator": "Hochbauamt, Kanton Zug",
-    "phone": "041 728 54 00",
-    "id": "node/8559839544"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.519013,
-      47.1793379
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/8560010417",
   "properties": {
     "access": "yes",
@@ -33465,6 +33444,51 @@
     "coordinates": [
       8.782386,
       47.3825785
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9053956917",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Haus Stadthof",
+    "description": "zu Bürozeiten",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Fr: 07 bis 19 Uhr\nSa: 09 bis 16 Uhr",
+    "operator": "Privat",
+    "id": "node/9053956917"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5405329,
+      47.3764068
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9054269709",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Dorfhuus Wasterkingen, Feuerwehrgebäude, Aussenfassade",
+    "description": "24h verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Politische Gemeinde Wasterkingen",
+    "phone": "+41 44 869 10 89",
+    "id": "node/9054269709"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4681367,
+      47.5904103
     ]
   }
 }

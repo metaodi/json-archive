@@ -23304,6 +23304,51 @@
       47.3825785
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/9053956917",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Haus Stadthof",
+    "description": "zu Bürozeiten",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Fr: 07 bis 19 Uhr\nSa: 09 bis 16 Uhr",
+    "operator": "Privat",
+    "id": "node/9053956917"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5405329,
+      47.3764068
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9054269709",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Dorfhuus Wasterkingen, Feuerwehrgebäude, Aussenfassade",
+    "description": "24h verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Politische Gemeinde Wasterkingen",
+    "phone": "+41 44 869 10 89",
+    "id": "node/9054269709"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4681367,
+      47.5904103
+    ]
+  }
 }
 ]
 }
