@@ -4321,9 +4321,15 @@
   "type": "Feature",
   "id": "way/292183488",
   "properties": {
+    "addr:city": "Wald ZH",
+    "addr:housenumber": "1",
+    "addr:postcode": "8636",
+    "addr:street": "Eschenstrasse",
     "amenity": "fire_station",
     "building": "yes",
     "name": "Feuerwehr Wald",
+    "name:gsw": "Feuerwehrdepot Wald",
+    "operator": "Feuerwehr Wald",
     "id": "way/292183488"
   },
   "geometry": {
