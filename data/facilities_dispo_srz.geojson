@@ -23441,6 +23441,88 @@
 },
 {
   "type": "Feature",
+  "id": "way/398238825",
+  "properties": {
+    "addr:city": "Oberwil b. Zug",
+    "addr:housenumber": "3",
+    "addr:postcode": "6317",
+    "addr:street": "Mülimatt",
+    "amenity": "social_facility",
+    "operator": "Bürgergemeinde Zug",
+    "social_facility": "nursing_home",
+    "social_facility:for": "senior",
+    "id": "way/398238825"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.509221,
+          47.1464005
+        ],
+        [
+          8.5092171,
+          47.1461621
+        ],
+        [
+          8.5093518,
+          47.1461611
+        ],
+        [
+          8.5094579,
+          47.1461603
+        ],
+        [
+          8.5095434,
+          47.1461596
+        ],
+        [
+          8.5095447,
+          47.1462405
+        ],
+        [
+          8.5096562,
+          47.1462397
+        ],
+        [
+          8.5096584,
+          47.1463768
+        ],
+        [
+          8.509848,
+          47.1463754
+        ],
+        [
+          8.5098489,
+          47.1464294
+        ],
+        [
+          8.5099197,
+          47.1464289
+        ],
+        [
+          8.5099206,
+          47.1464817
+        ],
+        [
+          8.5095022,
+          47.1464849
+        ],
+        [
+          8.5095007,
+          47.1463984
+        ],
+        [
+          8.509221,
+          47.1464005
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/405651571",
   "properties": {
     "addr:city": "Weisslingen",
