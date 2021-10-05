@@ -1331,10 +1331,16 @@
   "type": "Feature",
   "id": "node/7080244210",
   "properties": {
+    "access": "yes",
     "defibrillator:location": "Beim Eingang links bei den Schliessfächern",
+    "description": "währen Öffnungszeit verfügbar",
+    "destination": "währen Öffnungszeit verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
+    "level": "0",
+    "opening_hours": "Mo-Sa 09:00-21:00",
+    "operator": "IKEA AG",
     "wheelchair": "yes",
     "id": "node/7080244210"
   },
@@ -15224,8 +15230,11 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "opening_hours": "Mo-Mi: 08:30-20:00\nDo-Fr: 08:40-21:00\nSa: 08:00-20:00",
-    "operator": "Jumbo",
+    "level": "0",
+    "opening_hours": "Mo-We 08:30-20:00; Th-Fr 08:40-21:00; Sa 08:00-20:00",
+    "operator": "Jumbo-Markt AG",
+    "phone": "+848 11 33 11",
+    "wheelchair": "yes",
     "id": "node/8571598717"
   },
   "geometry": {
@@ -24045,6 +24054,70 @@
     "coordinates": [
       8.5157669,
       47.5776114
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9144102517",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Schulhaus im Birch",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "id": "node/9144102517"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5397238,
+      47.4160244
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9144584317",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Medbase Apotheke Winterthur Altstadt",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Fr: 08:00-18:30\nSa: 08:00-17:00",
+    "operator": "Medbase Apotheke",
+    "phone": "+41522691920",
+    "id": "node/9144584317"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7256249,
+      47.4996187
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9146287020",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Beim Ausgang in der Migros",
+    "description": "nur während den Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Sa 8.00-20.00",
+    "operator": "Migros",
+    "id": "node/9146287020"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6679192,
+      47.2290073
     ]
   }
 }
