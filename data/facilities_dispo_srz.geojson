@@ -701,6 +701,7 @@
     "name": "Kinderspital Zürich",
     "operator": "Eleonorenstiftung",
     "phone": "+41 44 266 71 11",
+    "short_name": "Kispi ZH",
     "type": "multipolygon",
     "website": "https://www.kispi.uzh.ch/",
     "wikidata": "Q1374004",
