@@ -2216,6 +2216,11 @@
   "type": "Feature",
   "id": "way/103534432",
   "properties": {
+    "addr:city": "Hochfelden",
+    "addr:country": "CH",
+    "addr:housenumber": "2",
+    "addr:postcode": "8182",
+    "addr:street": "Industriestrasse",
     "amenity": "fire_station",
     "building": "yes",
     "name": "Feuerwehr Höri-Hochfelden - Depot Hochfelden",

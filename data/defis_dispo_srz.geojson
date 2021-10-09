@@ -2270,6 +2270,7 @@
     "defibrillator:location": "Mehrzweckanlage",
     "emergency": "defibrillator",
     "emergency:phone": "144",
+    "indoor": "yes",
     "opening_hours": "24/7",
     "operator": "Gemeinde Alpthal",
     "phone": "+41 78 707 41 95",
@@ -34452,6 +34453,27 @@
     "coordinates": [
       8.7715953,
       47.5041446
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9159456417",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Parkplatz Ticketautomat",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde",
+    "id": "node/9159456417"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8541984,
+      47.1970744
     ]
   }
 }
