@@ -19068,10 +19068,10 @@
     "addr:housenumber": "12",
     "addr:postcode": "8340",
     "addr:street": "Dürntnerstrasse",
-    "alt_name": "Haus Schätti Wohnen im Alter",
+    "alt_name": "Wohnen im Alter Hinwil",
     "amenity": "social_facility",
     "building": "yes",
-    "name": "Stiftung Wohnen im Alter Hinwil",
+    "name": "Haus Schätti",
     "phone": "+41 44 938 32 32",
     "social_facility": "group_home",
     "social_facility:for": "senior",
@@ -27020,48 +27020,6 @@
         [
           8.5955064,
           47.4003693
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/626667788",
-  "properties": {
-    "addr:city": "Menzingen",
-    "addr:housenumber": "38",
-    "addr:postcode": "6313",
-    "addr:street": "Eustrasse",
-    "amenity": "social_facility",
-    "building": "residential",
-    "name": "Luegeten Alters- und Pflegezentrum (temporäre Adresse)",
-    "social_facility": "nursing_home",
-    "id": "way/626667788"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.5920839,
-          47.1766466
-        ],
-        [
-          8.5919555,
-          47.176534
-        ],
-        [
-          8.5928037,
-          47.1760871
-        ],
-        [
-          8.5929321,
-          47.1761997
-        ],
-        [
-          8.5920839,
-          47.1766466
         ]
       ]
     ]
