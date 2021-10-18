@@ -23340,8 +23340,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4681367,
-      47.5904103
+      8.4689147,
+      47.5907626
     ]
   }
 },
@@ -24186,6 +24186,23 @@
     "coordinates": [
       8.7762053,
       47.5020115
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9178451953",
+  "properties": {
+    "emergency": "defibrillator",
+    "indoor": "yes",
+    "operator": "Booster Transform - Studio Seefeld",
+    "id": "node/9178451953"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5637351,
+      47.348429
     ]
   }
 }
