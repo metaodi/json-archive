@@ -3153,82 +3153,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/188782340",
-  "properties": {
-    "addr:city": "Unteregngstringen",
-    "addr:housenumber": "30",
-    "addr:postcode": "8103",
-    "addr:street": "Dorfstrasse",
-    "amenity": "fire_station",
-    "building": "yes",
-    "name": "Feuerwehr Engstringen",
-    "operator": "Gemeinden Ober- & Unterengstringen",
-    "source": "WMS Amtliche Vermessung (AVWMS) (OGD)",
-    "website": "https://www.feuerwehr-engstringen.ch/",
-    "id": "way/188782340"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.4455213,
-          47.4118464
-        ],
-        [
-          8.445516,
-          47.4118092
-        ],
-        [
-          8.4455322,
-          47.4118082
-        ],
-        [
-          8.4455168,
-          47.4117002
-        ],
-        [
-          8.4455442,
-          47.4116984
-        ],
-        [
-          8.4455254,
-          47.4115666
-        ],
-        [
-          8.4457015,
-          47.4115551
-        ],
-        [
-          8.4457242,
-          47.4117145
-        ],
-        [
-          8.445663,
-          47.4117185
-        ],
-        [
-          8.4456658,
-          47.4117382
-        ],
-        [
-          8.4456841,
-          47.411737
-        ],
-        [
-          8.4456981,
-          47.4118349
-        ],
-        [
-          8.4455213,
-          47.4118464
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/194305659",
   "properties": {
     "amenity": "fire_station",
@@ -6170,6 +6094,29 @@
     "coordinates": [
       8.5445489,
       47.3746242
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9179384242",
+  "properties": {
+    "addr:city": "Unteregngstringen",
+    "addr:housenumber": "30",
+    "addr:postcode": "8103",
+    "addr:street": "Dorfstrasse",
+    "amenity": "fire_station",
+    "name": "Feuerwehr Engstringen",
+    "operator": "Gemeinden Ober- & Unterengstringen",
+    "source": "WMS Amtliche Vermessung (AVWMS) (OGD)",
+    "website": "https://www.feuerwehr-engstringen.ch/",
+    "id": "node/9179384242"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4455942,
+      47.4116301
     ]
   }
 }
