@@ -27544,10 +27544,11 @@
   "type": "Feature",
   "id": "node/8736845296",
   "properties": {
-    "defibrillator:location": "To the right of lift doors",
+    "defibrillator:location": "Rechts bei der unteren Lifttüre",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
+    "operator": "144",
     "id": "node/8736845296"
   },
   "geometry": {
@@ -27640,23 +27641,6 @@
     "coordinates": [
       8.6888081,
       47.0297241
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/8754970096",
-  "properties": {
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "no",
-    "id": "node/8754970096"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.461255,
-      47.2232819
     ]
   }
 },
@@ -34696,8 +34680,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4612805,
-      47.2231575
+      8.4612137,
+      47.2233034
     ]
   }
 }
