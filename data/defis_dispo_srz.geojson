@@ -1104,8 +1104,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.894607,
-      47.1932893
+      8.8945908,
+      47.1932953
     ]
   }
 },
@@ -1314,9 +1314,13 @@
   "type": "Feature",
   "id": "node/6497155938",
   "properties": {
+    "access": "yes",
+    "defibrillator:location": "Am Friedhofsgebäude",
+    "description": "24h verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
+    "opening_hours": "24/7",
     "operator": "Friedhofwesen Rorbas-Freienstein-Teufen",
     "id": "node/6497155938"
   },
@@ -1332,9 +1336,13 @@
   "type": "Feature",
   "id": "node/6497172539",
   "properties": {
+    "access": "yes",
+    "defibrillator:location": "Bei der Schiffanlegestelle",
+    "description": "24h verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
+    "opening_hours": "24/7",
     "operator": "Politische Gemeinde Freienstein-Teufen",
     "id": "node/6497172539"
   },
@@ -28226,8 +28234,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4461018,
-      47.404884
+      8.4464398,
+      47.4043103
     ]
   }
 },
@@ -34496,6 +34504,7 @@
   "id": "node/9178451953",
   "properties": {
     "emergency": "defibrillator",
+    "emergency:phone": "144",
     "indoor": "yes",
     "operator": "Booster Transform - Studio Seefeld",
     "id": "node/9178451953"
@@ -34692,6 +34701,7 @@
   "properties": {
     "access": "yes",
     "emergency": "defibrillator",
+    "emergency:phone": "144",
     "indoor": "no",
     "id": "node/9205141659"
   },
@@ -34831,6 +34841,97 @@
     "coordinates": [
       8.601442,
       47.6753611
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9215556164",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Standort Werkhof, Türe ganz rechts, Zugang Gemeindestube",
+    "description": "24h verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Ellikon an der Thur",
+    "phone": "+41 52 375 11 35",
+    "id": "node/9215556164"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8261058,
+      47.5618021
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9215556181",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "In der Apotheke (Beratungsraum)",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Fr 7:30-18:30, Sa 9:00-17:00",
+    "operator": "A. Endrass-Korach / S. Allen",
+    "phone": "+41 44 201 17 25",
+    "id": "node/9215556181"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5348984,
+      47.3678875
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9215585439",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Der Defi befindet sich im Parterre im Technikraum",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Fr 07:30-12:00, 13:15-17:00",
+    "operator": "Jolanda Zwyer",
+    "phone": "+41 41 819 79 23",
+    "id": "node/9215585439"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6506035,
+      47.0180569
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9217034117",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Flughofstrasse 51, 8152 Glattbrugg",
+    "description": "während Bürozeiten",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Fr. 07:00-16:30",
+    "operator": "SWARCO SCHWEIZ AG",
+    "id": "node/9217034117"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5640875,
+      47.4392087
     ]
   }
 }
