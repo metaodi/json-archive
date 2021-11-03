@@ -30410,6 +30410,65 @@
 },
 {
   "type": "Feature",
+  "id": "way/929856034",
+  "properties": {
+    "amenity": "social_facility",
+    "name": "Stiftung Züriwerk",
+    "social_facility": "group_home",
+    "social_facility:for": "disabled",
+    "website": "https://www.zueriwerk.ch/",
+    "id": "way/929856034"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.8143606,
+          47.2770296
+        ],
+        [
+          8.8138992,
+          47.2771042
+        ],
+        [
+          8.8137544,
+          47.2766366
+        ],
+        [
+          8.8145591,
+          47.2762963
+        ],
+        [
+          8.8150794,
+          47.2762326
+        ],
+        [
+          8.8153959,
+          47.2765874
+        ],
+        [
+          8.8152806,
+          47.2768149
+        ],
+        [
+          8.8149078,
+          47.2769259
+        ],
+        [
+          8.8147844,
+          47.2769532
+        ],
+        [
+          8.8143606,
+          47.2770296
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/944995062",
   "properties": {
     "addr:city": "Dübendorf",
