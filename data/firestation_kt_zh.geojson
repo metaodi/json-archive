@@ -4783,6 +4783,43 @@
 },
 {
   "type": "Feature",
+  "id": "way/999980306",
+  "properties": {
+    "amenity": "fire_station",
+    "building": "yes",
+    "name": "Feuerwehr Zumikon",
+    "id": "way/999980306"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6206968,
+          47.3388076
+        ],
+        [
+          8.6203699,
+          47.3390179
+        ],
+        [
+          8.6201989,
+          47.3388959
+        ],
+        [
+          8.6205258,
+          47.3386856
+        ],
+        [
+          8.6206968,
+          47.3388076
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/298540366",
   "properties": {
     "amenity": "fire_station",
