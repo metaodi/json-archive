@@ -30845,9 +30845,11 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
+    "level": "0",
     "opening_hours": "Mo-Fr 08:00-19:00; Sa 08:00-17:00",
     "operator": "Mietervereinigung",
-    "phone": "+41447500174",
+    "phone": "+41 44 750 01 74",
+    "wheelchair": "limited",
     "id": "node/8874117371"
   },
   "geometry": {
@@ -35141,6 +35143,29 @@
     "coordinates": [
       8.7917489,
       47.3189956
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9243611517",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Praxis Rosengasse",
+    "description": "während Öffungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Fr: 08:00-12:00, 14:00-18:00",
+    "operator": "Praxis Rosengasse",
+    "phone": "+41449542111",
+    "id": "node/9243611517"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7757629,
+      47.3953639
     ]
   }
 }
