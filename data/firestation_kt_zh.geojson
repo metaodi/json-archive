@@ -1426,40 +1426,38 @@
 },
 {
   "type": "Feature",
-  "id": "way/49749980",
+  "id": "way/49749961",
   "properties": {
-    "addr:city": "Rafz",
-    "addr:housenumber": "6",
-    "addr:postcode": "8197",
+    "addr:housenumber": "6.4",
     "addr:street": "Tannewäg",
     "amenity": "fire_station",
     "building": "yes",
-    "name": "Werkgebäude",
-    "id": "way/49749980"
+    "name": "Feuerwehr Rafz-Wil - Depot Rafz",
+    "id": "way/49749961"
   },
   "geometry": {
     "type": "Polygon",
     "coordinates": [
       [
         [
-          8.5387369,
-          47.6090091
+          8.5384604,
+          47.6093038
         ],
         [
-          8.5385158,
-          47.6089473
+          8.5382819,
+          47.6092557
         ],
         [
-          8.5386241,
-          47.6087712
+          8.5383751,
+          47.6090985
         ],
         [
-          8.5388452,
-          47.6088329
+          8.5385537,
+          47.6091466
         ],
         [
-          8.5387369,
-          47.6090091
+          8.5384604,
+          47.6093038
         ]
       ]
     ]
