@@ -10859,6 +10859,7 @@
     "addr:housenumber": "186",
     "addr:postcode": "8005",
     "addr:street": "Limmatstrasse",
+    "alt_name": "Alterszentrum Limmat",
     "amenity": "social_facility",
     "building": "residential",
     "capacity": "91+8",
@@ -14314,6 +14315,74 @@
         [
           8.9257302,
           47.1777719
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/175713225",
+  "properties": {
+    "addr:city": "Regensdorf",
+    "addr:housenumber": "17",
+    "addr:postcode": "8105",
+    "addr:street": "Feldblumenstrasse",
+    "amenity": "social_facility",
+    "building": "yes",
+    "name": "Altersheim- und Pflegeheim Furttal",
+    "social_facility": "nursing_home",
+    "social_facility:for": "senior",
+    "wheelchair": "yes",
+    "id": "way/175713225"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.4673765,
+          47.4342054
+        ],
+        [
+          8.4673503,
+          47.4340743
+        ],
+        [
+          8.4673919,
+          47.4340481
+        ],
+        [
+          8.4671935,
+          47.4338558
+        ],
+        [
+          8.4671358,
+          47.4338848
+        ],
+        [
+          8.4670339,
+          47.4337868
+        ],
+        [
+          8.4674067,
+          47.433599
+        ],
+        [
+          8.4676508,
+          47.4338313
+        ],
+        [
+          8.4675354,
+          47.4338921
+        ],
+        [
+          8.4676964,
+          47.4340463
+        ],
+        [
+          8.4673765,
+          47.4342054
         ]
       ]
     ]

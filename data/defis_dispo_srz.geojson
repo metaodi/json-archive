@@ -33935,11 +33935,10 @@
   "properties": {
     "access": "no",
     "defibrillator:location": "Eingang Links",
-    "description": "während Öffnungszeiten",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "opening_hours": "Montag bis Freitag 07.15 - 18.15 Uhr",
+    "opening_hours": "Mo-Fr 07:15-18:15",
     "operator": "A. Bruhin AG",
     "id": "node/9117239117"
   },
@@ -35642,6 +35641,190 @@
     "coordinates": [
       8.6283834,
       47.3568071
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9277140586",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Feuerwehrgebäude, direkt rechts neben dem Eingang",
+    "description": "24h verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "First Responder Reichenburg",
+    "phone": "+41 78 800 20 20",
+    "id": "node/9277140586"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9847243,
+      47.1701042
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9277140587",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Im Velounterstand der Liegenschaft Obere Allmeind 2a",
+    "description": "24h verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Reichenburg",
+    "phone": "+41 55 464 30 60",
+    "id": "node/9277140587"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9840135,
+      47.1671948
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9277221704",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Beim Haupteingang der Turnhalle.",
+    "description": "24h verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Gemeindeverwaltung Neuheim, Dorfplatz 5, 6345 Neuheim",
+    "phone": "+41 41 757 21 30",
+    "id": "node/9277221704"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5772029,
+      47.2052419
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9277221705",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Beim Kindergarteneingang, welcher in der Nähe des Spielplatzes ist.",
+    "description": "24h verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Gemeindeverwaltung Neuheim, Dorfplatz 5, 6345 Neuheim",
+    "phone": "+41 41 757 21 30",
+    "id": "node/9277221705"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5717499,
+      47.2016101
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9277221706",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Beim Kindergarteneingang, welcher in der Nähe des Spielplatzes ist.",
+    "description": "24h verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Gemeindeverwaltung Neuheim, Dorfplatz 5, 6345 Neuheim",
+    "phone": "+41 41 757 21 30",
+    "id": "node/9277221706"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5748184,
+      47.2059981
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9277816171",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Haupteingang Gemeinde Maur",
+    "description": "24h verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Maur, Zürichstrasse 8, 8124 Maur",
+    "phone": "+41 43 366 13 66",
+    "id": "node/9277816171"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6678461,
+      47.3404917
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9277816172",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Der Defibrillator befindet sich am Gebäude der Schulanlage aber strassenseitig zur Zollikonerstrasse/Zürichstrasse",
+    "description": "24h verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Maur, Zürichstrasse 8, 8124 Maur",
+    "phone": "+41 43 366 13 66",
+    "id": "node/9277816172"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6290781,
+      47.3570558
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9277816173",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Der Defibrillator befindet sich an der Aussenwand der Badanstalt zum Fussgängerweg und ist frei zugänglich.",
+    "description": "24h verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Maur, Zürichstrasse 8, 8124 Maur",
+    "phone": "+41 43 366 13 66",
+    "id": "node/9277816173"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6753774,
+      47.3451597
     ]
   }
 }
