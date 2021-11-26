@@ -20706,27 +20706,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/8520579317",
-  "properties": {
-    "access": "no",
-    "defibrillator:location": "In der Werkstatt vom Reissverschluss",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "yes",
-    "opening_hours": "Mo-Th 07:45-12:00,13:00-17:00;Fr 07:45-14:00",
-    "operator": "Reissverschluss Bülach",
-    "id": "node/8520579317"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5396299,
-      47.5200717
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/8532132297",
   "properties": {
     "defibrillator:location": "im Restaurant",
@@ -25751,28 +25730,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/8601206593",
-  "properties": {
-    "access": "yes",
-    "defibrillator:location": "Im Foyer /Eingangsbereich",
-    "description": "während Öffnungszeiten verfügbar",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "yes",
-    "operator": "Eishalle",
-    "phone": "+41 52 267 39 39",
-    "id": "node/8601206593"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.74836,
-      47.4952002
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/8601206594",
   "properties": {
     "access": "yes",
@@ -28734,28 +28691,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/8818340499",
-  "properties": {
-    "access": "yes",
-    "defibrillator:location": "Im Foyer bei der Kasse an der Wand",
-    "description": "während Öffnungszeiten verfügbar",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "yes",
-    "operator": "Fritz Morf",
-    "phone": "+41 52 267 39 39",
-    "id": "node/8818340499"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.7483841,
-      47.4951866
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/8820883648",
   "properties": {
     "access": "yes",
@@ -29038,8 +28973,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.8898852,
-      47.1912017
+      8.8898829,
+      47.1912273
     ]
   }
 },
@@ -35895,6 +35830,28 @@
     "coordinates": [
       8.5819271,
       47.4064077
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9284402017",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Sonne Auslikon",
+    "description": "Bei der Sammelstelle neben Briefeinwurf",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "phone": "0764722709",
+    "id": "node/9284402017"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8073979,
+      47.3443195
     ]
   }
 }
