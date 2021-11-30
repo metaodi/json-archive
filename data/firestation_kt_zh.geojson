@@ -393,7 +393,7 @@
     "amenity": "fire_station",
     "building": "yes",
     "name": "Berufsfeuerwehr Zürich",
-    "operator": "Stadt Zürich",
+    "operator": "SRZ Schutz & Rettung Zürich",
     "id": "way/29856072"
   },
   "geometry": {
@@ -3448,7 +3448,7 @@
     "amenity": "fire_station",
     "building": "yes",
     "name": "Berufsfeuerwehr Zürich",
-    "operator": "Stadt Zürich",
+    "operator": "SRZ Schutz & Rettung Zürich",
     "id": "way/212379418"
   },
   "geometry": {
