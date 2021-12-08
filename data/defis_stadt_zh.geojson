@@ -4480,8 +4480,8 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "opening_hours": "Mo-Fr: 07 bis 19 Uhr\nSa: 09 bis 16 Uhr",
-    "operator": "Privat",
+    "opening_hours": "Mo-Fr 07:00-19:00; Sa 09:00-16:00",
+    "operator:type": "private",
     "id": "node/9053956917"
   },
   "geometry": {
@@ -5116,6 +5116,30 @@
     "coordinates": [
       8.5206854,
       47.3418944
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9318224972",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Gesundhaus Falken Apotheke, Sprechzimmer",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "Mo-Sa 08:00-20:00",
+    "operator": "Rotpunkt Pharma",
+    "phone": "+41 44 308 80 10",
+    "wheelchair": "yes",
+    "id": "node/9318224972"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.548634,
+      47.41962
     ]
   }
 }

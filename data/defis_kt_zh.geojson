@@ -1341,7 +1341,6 @@
   "properties": {
     "access": "yes",
     "defibrillator:location": "Beim Eingang links bei den Schliessfächern",
-    "description": "währen Öffnungszeit verfügbar",
     "destination": "währen Öffnungszeit verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
@@ -17711,8 +17710,10 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
+    "level": "1",
     "opening_hours": "Mo-Sa: 09:00-20:00",
     "operator": "Migros",
+    "wheelchair": "yes",
     "id": "node/8638161317"
   },
   "geometry": {
@@ -20519,11 +20520,11 @@
   "properties": {
     "access": "no",
     "defibrillator:location": "Migros, im Eingang",
-    "description": "während Öffnungszeiten verfügbar ",
+    "description": "während Öffnungszeiten verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "opening_hours": "Mo-Sa 8.00 - 20.00 Uhr",
+    "opening_hours": "Mo-Sa 08:00-20:00",
     "id": "node/8848381627"
   },
   "geometry": {
@@ -23221,8 +23222,8 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "opening_hours": "Mo-Fr: 07 bis 19 Uhr\nSa: 09 bis 16 Uhr",
-    "operator": "Privat",
+    "opening_hours": "Mo-Fr 07:00-19:00; Sa 09:00-16:00",
+    "operator:type": "private",
     "id": "node/9053956917"
   },
   "geometry": {
@@ -26014,6 +26015,53 @@
     "coordinates": [
       8.4714606,
       47.3222359
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9318224972",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Gesundhaus Falken Apotheke, Sprechzimmer",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "Mo-Sa 08:00-20:00",
+    "operator": "Rotpunkt Pharma",
+    "phone": "+41 44 308 80 10",
+    "wheelchair": "yes",
+    "id": "node/9318224972"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.548634,
+      47.41962
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9318452134",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Im Gebäude 'Turicum' an der Zürcherstrasse 48 im Eingangsbereich (EG), vom Eingang aus gut sichtbar.",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Fr 07:00-18:00",
+    "operator": "RegioSpitex Limmattal",
+    "phone": "+41 43 322 30 30",
+    "id": "node/9318452134"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4032556,
+      47.4039164
     ]
   }
 }
