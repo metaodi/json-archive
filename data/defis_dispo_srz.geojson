@@ -31852,6 +31852,7 @@
     "description": "Inside, innen",
     "emergency": "defibrillator",
     "emergency:phone": "144",
+    "indoor": "yes",
     "name": "Defibrillator",
     "opening_hours": "Mo-Fr 07:00-18:00",
     "id": "node/8952337842"
@@ -35548,8 +35549,8 @@
   "id": "node/9274752717",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "bei der Kreuzung / in der Kurve ",
-    "description": "Aussen an Gebäudx.",
+    "defibrillator:location": "bei der Kreuzung / in der Kurve",
+    "description": "Aussen an Gebäude.",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
@@ -35560,8 +35561,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.6283834,
-      47.3568071
+      8.6284765,
+      47.3568084
     ]
   }
 },
@@ -36827,13 +36828,14 @@
   "id": "node/9320396117",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "Säntisweg 4, 8618 Oetwil am See, Garage",
+    "defibrillator:location": "Säntisweg 4, Garage, Wandkasten",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
     "opening_hours": "24/7",
-    "operator": "Privatperson",
+    "operator": "Thomas Kuschel (Privatperson)",
     "phone": "+41786283390",
+    "start_date": "2021-12-08",
     "id": "node/9320396117"
   },
   "geometry": {
@@ -36841,6 +36843,94 @@
     "coordinates": [
       8.7278205,
       47.2660339
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9327261917",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Lettenstrasse 7/9 am Gebäude angebracht",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "id": "node/9327261917"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4318343,
+      47.1470452
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9327269903",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Im Amt für Militär, Zivilschutz und Feuerwehr",
+    "description": "24h verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "AMFZ",
+    "id": "node/9327269903"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6432415,
+      47.032658
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9327286058",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "3. OG Küche / Aufenthaltsraum",
+    "description": "24h verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "24/7",
+    "operator": "Daniel Wyss",
+    "phone": "+41 41 499 72 72",
+    "id": "node/9327286058"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4465766,
+      47.1105094
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9327330425",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "1. Stock, hintere grosse Büroeingangstüre angeschrieben mit Zivilschutz, geradeaus Garderobe, Türe mit Defi Sticker markiert",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Th 07:00-17:00; Fr 07:00-14:00",
+    "operator": "Zivilschutz Zimmerberg, Beat Klingelfuss",
+    "phone": "+41 44 727 64 00",
+    "id": "node/9327330425"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6221007,
+      47.230669
     ]
   }
 }
