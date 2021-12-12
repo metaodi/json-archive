@@ -31046,7 +31046,6 @@
   "type": "Feature",
   "id": "way/1009849339",
   "properties": {
-    "IPW": "Integrierte Psychiatrie Winterthur - Zürcher Unterland Zentrum Hard",
     "amenity": "hospital",
     "healthcare": "hospital",
     "healthcare:speciality": "psychiatry",
