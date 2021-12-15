@@ -16874,52 +16874,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/226338922",
-  "properties": {
-    "addr:city": "Wetzikon",
-    "addr:country": "CH",
-    "addr:housenumber": "2",
-    "addr:postcode": "8620",
-    "addr:street": "Weststrasse",
-    "amenity": "social_facility",
-    "building": "yes",
-    "capacity": "13",
-    "name": "Wohn- und Pflegeheim \"uf em Wäg\"",
-    "phone": "+41 44 932 56 36",
-    "social_facility": "nursing_home",
-    "social_facility:for": "disabled;mental_health",
-    "id": "way/226338922"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.7868328,
-          47.3240651
-        ],
-        [
-          8.7869572,
-          47.3240958
-        ],
-        [
-          8.7868869,
-          47.3242267
-        ],
-        [
-          8.7867625,
-          47.324196
-        ],
-        [
-          8.7868328,
-          47.3240651
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/226339955",
   "properties": {
     "addr:city": "Wetzikon",
@@ -18540,7 +18494,7 @@
     "addr:country": "CH",
     "addr:housenumber": "40",
     "addr:postcode": "8910",
-    "addr:street": "Melchior-Hirzel-Weg",
+    "addr:street": "Melchior Hirzel-Weg",
     "amenity": "social_facility",
     "building": "hospital",
     "email": "info@pflegezentrum-sonnenberg.ch",
@@ -22510,7 +22464,7 @@
     "addr:country": "CH",
     "addr:housenumber": "42",
     "addr:postcode": "8910",
-    "addr:street": "Melchior-Hirzel-Weg",
+    "addr:street": "Melchior Hirzel-Weg",
     "amenity": "social_facility",
     "building": "hospital",
     "email": "info@pflegezentrum-sonnenberg.ch",
