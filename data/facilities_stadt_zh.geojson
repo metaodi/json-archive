@@ -8153,6 +8153,50 @@
       47.3766411
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/8610065436",
+  "properties": {
+    "amenity": "social_facility",
+    "email": "info.dialogweg@zkj.ch",
+    "level": "1",
+    "name": "Dialogweg Kinder- und Jugendheim",
+    "operator": "Stiftung Zürcher Kinder- und Jugendheime",
+    "phone": "+41 43 251 39 93",
+    "social_facility": "group_home",
+    "website": "https://www.dialogweg.ch/kontakt/standort-dialogweg/",
+    "id": "node/8610065436"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.560436,
+      47.4133111
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9362260380",
+  "properties": {
+    "amenity": "social_facility",
+    "email": "info.dialogweg@zkj.ch",
+    "level": "1",
+    "name": "Dialogweg Kinder- und Jugendheim",
+    "operator": "Stiftung Zürcher Kinder- und Jugendheime",
+    "phone": "+41 43 251 39 93",
+    "social_facility": "group_home",
+    "website": "https://www.dialogweg.ch/kontakt/standort-dialogweg/",
+    "id": "node/9362260380"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5599634,
+      47.4134397
+    ]
+  }
 }
 ]
 }
