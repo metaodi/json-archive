@@ -60,8 +60,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.8886364,
-      47.1775667
+      8.888641,
+      47.1775874
     ]
   }
 },
@@ -29763,6 +29763,7 @@
     "description": "immer zugänglich, rechts an der Wand unter dem Vordach",
     "emergency": "defibrillator",
     "emergency:phone": "144",
+    "indoor": "yes",
     "level": "0",
     "opening_hours": "24/7",
     "operator": "SZU",
