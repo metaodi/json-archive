@@ -4689,6 +4689,7 @@
     "defibrillator:location": "Im Erdgeschosse neben der Treppe zur Garage.",
     "emergency": "defibrillator",
     "emergency:phone": "144",
+    "indoor": "yes",
     "opening_hours": "24/7",
     "wheelchair": "yes",
     "id": "node/7380050795"
@@ -37382,6 +37383,69 @@
     "coordinates": [
       8.7234186,
       47.5009631
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9394069017",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Steinel Solutions AG",
+    "description": "während Bürozeiten",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Steinel Solutions AG",
+    "id": "node/9394069017"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7408102,
+      47.1234383
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9395215218",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "St. Gabriel Kirche",
+    "description": "von aussen zugänglich",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "id": "node/9395215218"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6512167,
+      47.3813887
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9395239117",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Pfarreizentrum St. Gabriel",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Katholische Kirche",
+    "id": "node/9395239117"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6511241,
+      47.38137
     ]
   }
 }
