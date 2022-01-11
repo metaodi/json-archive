@@ -19192,8 +19192,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.7905089,
-      47.6364898
+      8.7953685,
+      47.633609
     ]
   }
 },
@@ -25282,7 +25282,7 @@
   "type": "Feature",
   "id": "node/9285761503",
   "properties": {
-    "access": "ys",
+    "access": "yes",
     "defibrillator:location": "Garderobengebäude Sportplatz Talgut, neben dem Clubhaus",
     "description": "24h verfügbar",
     "emergency": "defibrillator",
