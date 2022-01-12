@@ -834,6 +834,27 @@
       47.3677057
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/9409295869",
+  "properties": {
+    "addr:city": "Andelfingen",
+    "addr:housenumber": "5",
+    "addr:postcode": "8450",
+    "addr:street": "Im Bilg",
+    "emergency": "ambulance_station",
+    "name": "Rettungsdienst Winterthur - Wache Andelfingen",
+    "operator": "Rettungsdienst Winterthur",
+    "id": "node/9409295869"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6878577,
+      47.5945909
+    ]
+  }
 }
 ]
 }
