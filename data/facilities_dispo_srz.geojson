@@ -28991,7 +28991,6 @@
     "building": "yes",
     "email": "info@stiftungdreitannen.ch",
     "name": "Altersheim Drei Tannen/Ärztezentrum Rosenthal",
-    "note": "Hier befindet sich das neue Alters- und Pflegeheim Drei Tannen sowie das Ärztezentrum Rosenthal; es ist bereits seit Ende Juni 2021 in Betrieb gegangen. https://www.stiftungdreitannen.ch/",
     "opening_date": "2021-07-01",
     "operator": "Stiftung Drei Tannen, Wald",
     "operator:type": "private_non_profit",
@@ -29007,32 +29006,56 @@
     "coordinates": [
       [
         [
-          8.9108177,
-          47.273044
+          8.9109088,
+          47.2729956
         ],
         [
-          8.9107107,
-          47.2727603
+          8.9108038,
+          47.2727737
         ],
         [
-          8.9111194,
-          47.2726462
+          8.9112263,
+          47.2726852
         ],
         [
-          8.9111557,
-          47.2725387
+          8.9112567,
+          47.2725454
         ],
         [
-          8.9121812,
-          47.2724804
+          8.911714,
+          47.2725881
         ],
         [
-          8.912376,
-          47.2727603
+          8.9117585,
+          47.2726538
         ],
         [
-          8.9108177,
-          47.273044
+          8.9121594,
+          47.272518
+        ],
+        [
+          8.9122948,
+          47.2727079
+        ],
+        [
+          8.9117213,
+          47.272827
+        ],
+        [
+          8.9116911,
+          47.2727693
+        ],
+        [
+          8.9113481,
+          47.2728056
+        ],
+        [
+          8.9113314,
+          47.2729079
+        ],
+        [
+          8.9109088,
+          47.2729956
         ]
       ]
     ]
