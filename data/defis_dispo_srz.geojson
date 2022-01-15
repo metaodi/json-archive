@@ -37657,6 +37657,52 @@
       47.6908309
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/9417889397",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "1. OG Zugang über Westecke des Gebäudes. In der Mitte des Trainingsraums.",
+    "description": "24h verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Fr 06:00-22:00; Sa-Su 08:00-20:00",
+    "operator": "Fitnesspark Glattpark",
+    "phone": "+41 58 568 90 00",
+    "id": "node/9417889397"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5577156,
+      47.4211988
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9417976882",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Praxis, Parterre",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Fr 08:00-12:00, 13:30-18:00",
+    "operator": "Ärzte-Walchwil AG",
+    "phone": "+41 41 758 10 60",
+    "id": "node/9417976882"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5175136,
+      47.0991213
+    ]
+  }
 }
 ]
 }
