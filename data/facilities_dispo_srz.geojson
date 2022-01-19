@@ -23053,6 +23053,7 @@
     "name": "Pflegezentrum Seematt",
     "phone": "+41 41 854 24 24",
     "social_facility": "nursing_home",
+    "social_facility:for": "senior",
     "website": "https://www.pflegezentrum-seematt.ch/",
     "id": "way/385368247"
   },
@@ -34402,6 +34403,52 @@
     "coordinates": [
       8.5599634,
       47.4134397
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9427621128",
+  "properties": {
+    "addr:city": "Immensee",
+    "addr:housenumber": "10",
+    "addr:postcode": "6405",
+    "addr:street": "Bethlehemweg",
+    "amenity": "social_facility",
+    "name": "Betlehem Mission",
+    "phone": "+41 41 854 13 31",
+    "social_facility": "nursing_home",
+    "social_facility:for": "senior",
+    "id": "node/9427621128"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4547554,
+      47.0928103
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9427624010",
+  "properties": {
+    "addr:city": "Immensee",
+    "addr:housenumber": "15",
+    "addr:postcode": "6405",
+    "addr:street": "Immo-Strasse",
+    "amenity": "social_facility",
+    "name": "Sunnehof",
+    "phone": "+41 41 854 19 19",
+    "social_facility": "nursing_home",
+    "social_facility:for": "senior",
+    "id": "node/9427624010"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4632133,
+      47.0993822
     ]
   }
 }
