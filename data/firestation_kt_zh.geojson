@@ -2316,7 +2316,9 @@
   "properties": {
     "amenity": "fire_station",
     "building": "yes",
+    "building:levels": "2",
     "name": "Feuerwehr Bassersdorf",
+    "roof:colour": "brown",
     "id": "way/114188576"
   },
   "geometry": {
