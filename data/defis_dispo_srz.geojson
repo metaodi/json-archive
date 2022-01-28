@@ -20221,7 +20221,7 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "opening_hours": "Mo-Do 08.00-12.00 13.00-17.00\nFr 08.00-12.00 13.00-16.15",
+    "opening_hours": "Mo-Th 08:00-12:00,13:00-17:00; Fr 08:00-12:00,13:00-16:15",
     "operator": "Betrebssanität Bachofen AG",
     "phone": "+41449441270",
     "id": "node/8457452918"
@@ -37947,6 +37947,29 @@
     "coordinates": [
       8.5641324,
       47.480335
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9452225817",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Zentrum für Ausbildung im Gesundheitswesen Zürich",
+    "description": "Rechts neben dem Eingang beim Bistro",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Fr 7:00 Uhr -18:00 Uhr",
+    "operator": "Schlue",
+    "phone": "0522660909",
+    "id": "node/9452225817"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7179905,
+      47.4979592
     ]
   }
 }
