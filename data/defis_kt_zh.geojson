@@ -27011,6 +27011,51 @@
       47.2575085
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/9463108217",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Schwimmbad Stammheim",
+    "description": "links neben dem Eingang",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Stammheim",
+    "id": "node/9463108217"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.782163,
+      47.6373513
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9464349744",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Medbase Wetzikon",
+    "description": "während Öffnungszeiten 1. Stock Empfang",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Fr. 08.00-12.00 und 14.00-18.00Uhr",
+    "operator": "Medbase Wetzikon",
+    "phone": "0449343030",
+    "id": "node/9464349744"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7941612,
+      47.3210692
+    ]
+  }
 }
 ]
 }
