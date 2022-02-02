@@ -3276,14 +3276,14 @@
   "type": "Feature",
   "id": "node/7636269858",
   "properties": {
-    "access": "no",
-    "defibrillator:location": "Eingangsbereich im Erdgeschoss",
-    "description": "während ordentlichen Öffnungszeiten zugänglich. Ausnahme: Während Schulferien, Feiertage und ausserordentliche Öffnungszeiten",
+    "access": "yes",
+    "defibrillator:location": "Gemeindeverwaltung",
+    "description": "An der Fassade beim Eingang der Gemeindeverwaltung befestigt - jederzeit zugänglich",
     "emergency": "defibrillator",
     "emergency:phone": "144",
-    "indoor": "yes",
+    "indoor": "no",
     "level": "0",
-    "opening_hours": "Mo,Th 08:00-11:30, 14:00-16:00, Tu/Fr 08:00-11.30, We 08:00-11:30, 14:00-17.30,",
+    "opening_hours": "24/7",
     "operator": "Gemeindeverwaltung Stallikon",
     "id": "node/7636269858"
   },
@@ -16082,7 +16082,7 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "opening_hours": "Mo-Do 9.00-19.00 Fr 9.00-20.00 Sa 8.00-17.00",
+    "opening_hours": "Mo-Th 09:00-19:00; Fr 09:00-20:00; Sa 08:00-17:00",
     "operator": "Zänti Volketswil",
     "id": "node/8574472017"
   },
@@ -24027,7 +24027,7 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "opening_hours": "Mo-Sa 8.00-20.00",
+    "opening_hours": "Mo-Sa 08:00-20:00",
     "operator": "Migros",
     "id": "node/9146287020"
   },
@@ -26747,9 +26747,9 @@
   "type": "Feature",
   "id": "node/9417889397",
   "properties": {
-    "access": "no",
+    "access": "customers",
     "defibrillator:location": "1. OG Zugang über Westecke des Gebäudes. In der Mitte des Trainingsraums.",
-    "description": "24h verfügbar",
+    "description": "Während Öffnungszeiten des Fitnesscenters im Zentrum des Trainingsraums.",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
@@ -26761,8 +26761,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5577156,
-      47.4211988
+      8.5577244,
+      47.4210976
     ]
   }
 },
@@ -27054,6 +27054,75 @@
     "coordinates": [
       8.7941612,
       47.3210692
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9465639435",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Rechts von Volg- und Hauseingang, oberhalb Post-Briefkasten",
+    "description": "24h verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Benken, 8463 Benken ZH",
+    "phone": "+41 52 319 11 80",
+    "id": "node/9465639435"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6535928,
+      47.6529261
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9465639436",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Rechts vom Turnhalleneingang/Mehrzweckgebäude",
+    "description": "24h verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Benken, 8463 Benken ZH",
+    "phone": "+41 52 319 11 80",
+    "id": "node/9465639436"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.654885,
+      47.6514169
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9465688647",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Praxis des CheckupZentrums der Klinik Hirslanden - Forchstrasse 420 (Nähe Tramstation Rehalp)",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Fr 08:00-12:00, 13:00-17:00",
+    "operator": "Klinik Hirslanden Zürich / Alfons Url",
+    "phone": "+41 44 387 35 79",
+    "id": "node/9465688647"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5844032,
+      47.3501094
     ]
   }
 }
