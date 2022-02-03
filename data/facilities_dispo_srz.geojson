@@ -14084,47 +14084,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/174288816",
-  "properties": {
-    "addr:housenumber": "30",
-    "addr:postcode": "8862",
-    "addr:street": "Haslenstrasse",
-    "amenity": "nursing_home",
-    "building": "yes",
-    "name": "BSZ Stiftung",
-    "website": "http://www.bsz-stiftung.ch/",
-    "id": "way/174288816"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.9257302,
-          47.1777719
-        ],
-        [
-          8.9254904,
-          47.1775595
-        ],
-        [
-          8.9263188,
-          47.1771274
-        ],
-        [
-          8.9265586,
-          47.1773398
-        ],
-        [
-          8.9257302,
-          47.1777719
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/175713225",
   "properties": {
     "addr:city": "Regensdorf",
@@ -33590,24 +33549,6 @@
     "coordinates": [
       8.5336991,
       47.4054804
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/7096245524",
-  "properties": {
-    "amenity": "social_facility",
-    "operator": "BSZ Stiftung",
-    "social_facility": "group_home",
-    "social_facility:for": "disabled",
-    "id": "node/7096245524"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.7426194,
-      47.1275987
     ]
   }
 },
