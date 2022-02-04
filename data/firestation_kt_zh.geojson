@@ -3399,47 +3399,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/204034408",
-  "properties": {
-    "addr:city": "Zumikon",
-    "addr:housenumber": "5",
-    "addr:postcode": "8126",
-    "addr:street": "Mettelacher",
-    "amenity": "fire_station",
-    "building": "yes",
-    "name": "Feuerwehr Zumikon",
-    "id": "way/204034408"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.6259231,
-          47.3319332
-        ],
-        [
-          8.6258058,
-          47.3318573
-        ],
-        [
-          8.6261364,
-          47.3316224
-        ],
-        [
-          8.6262537,
-          47.3316982
-        ],
-        [
-          8.6259231,
-          47.3319332
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/212379418",
   "properties": {
     "addr:city": "Zürich",
@@ -4785,6 +4744,10 @@
   "type": "Feature",
   "id": "way/999980306",
   "properties": {
+    "addr:city": "Zumikon",
+    "addr:housenumber": "8",
+    "addr:postcode": "8126",
+    "addr:street": "Schwäntenmos",
     "amenity": "fire_station",
     "building": "yes",
     "name": "Feuerwehr Zumikon-Küsnachterberg",
@@ -4795,24 +4758,24 @@
     "coordinates": [
       [
         [
-          8.6206968,
-          47.3388076
+          8.6207823,
+          47.3388064
         ],
         [
-          8.6203699,
-          47.3390179
+          8.6204003,
+          47.3390437
         ],
         [
-          8.6201989,
-          47.3388959
+          8.6201756,
+          47.3388754
         ],
         [
-          8.6205258,
-          47.3386856
+          8.6205557,
+          47.3386394
         ],
         [
-          8.6206968,
-          47.3388076
+          8.6207823,
+          47.3388064
         ]
       ]
     ]

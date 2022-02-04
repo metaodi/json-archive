@@ -9758,26 +9758,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/7798090755",
-  "properties": {
-    "access": "no",
-    "defibrillator:location": "Im Fahrzeug Sanität",
-    "description": "Notruf wählen",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "no",
-    "id": "node/7798090755"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.6260135,
-      47.3317818
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/7798090756",
   "properties": {
     "access": "no",
@@ -33736,7 +33716,7 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "opening_hours": "Mo-Fr: 07.30-22.00",
+    "opening_hours": "Mo-Fr 07:30-22:00",
     "operator": "Schule",
     "phone": "0041786019606",
     "id": "node/9105841317"
@@ -37960,7 +37940,7 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "opening_hours": "Mo-Fr 7:00 Uhr -18:00 Uhr",
+    "opening_hours": "Mo-Fr 07:00-18:00",
     "operator": "Schlue",
     "phone": "0522660909",
     "id": "node/9452225817"
@@ -38173,6 +38153,186 @@
     "coordinates": [
       8.4019459,
       47.4548293
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9472030173",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Haupteingang links im Foyer",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Fr 07:00-22:00; Sa 07:00-17:00; Su closed",
+    "operator": "Bildungszentrum Uster / Hausdienst",
+    "phone": "+41 44 943 64 00",
+    "id": "node/9472030173"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7079069,
+      47.3494647
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9472039994",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Im Foyer (bei Portierloge melden)",
+    "description": "nur über Security erreichbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Israelitische Cultusgemeinde Zürich",
+    "phone": "+41 44 283 22 88",
+    "id": "node/9472039994"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5328203,
+      47.3629172
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9472051980",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Foyer Sporthallen",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Fr 07:00-22:00; Sa 07:00-17:00; Su closed",
+    "operator": "Bildungszentrum Uster / Hausdienst",
+    "phone": "+41 44 943 64 00",
+    "id": "node/9472051980"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7068998,
+      47.3490931
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9472051981",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "2. Stock Zimmer 216A",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Fr 07:00-22:00; Sa 07:00-17:00; Su closed",
+    "operator": "Bildungszentrum Uster / Hausdienst",
+    "phone": "+41 44 943 64 00",
+    "id": "node/9472051981"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7077795,
+      47.348617
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9472051982",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "1. Stock Zimmer 114A",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Fr 07:00-22:00; Sa 07:00-17:00; Su closed",
+    "operator": "Bildungszentrum Uster / Hausdienst",
+    "phone": "+41 44 943 64 00",
+    "id": "node/9472051982"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7081805,
+      47.3486706
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9472051983",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Lehrerzimmer",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Fr 07:00-22:00; Sa 07:00-17:00; Su closed",
+    "operator": "Kantonsschule Uster / Hausdienst",
+    "phone": "+41 44 943 64 00",
+    "id": "node/9472051983"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7081068,
+      47.3482262
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9472051984",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Haupteingang rechts im Gang",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Fr 07:00-22:00; Sa 07:00-17:00; Su closed",
+    "operator": "Bildungszentrum Uster / Hausdienst",
+    "phone": "+41 44 943 64 00",
+    "id": "node/9472051984"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7074992,
+      47.3494403
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9472852417",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "ewz-Werkhof Herdern",
+    "description": "07:00-17:00 Uhr",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "id": "node/9472852417"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5119797,
+      47.3887868
     ]
   }
 }
