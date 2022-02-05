@@ -11711,152 +11711,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/129220690",
-  "properties": {
-    "addr:city": "Zollikerberg",
-    "addr:country": "CH",
-    "addr:housenumber": "12",
-    "addr:postcode": "8125",
-    "addr:street": "Neuweg",
-    "amenity": "social_facility",
-    "building": "yes",
-    "name": "Haus Brunnenhof",
-    "operator": "Stiftung Diakoniewerk Neumünster – Schweizerische Pflegerinnenschule",
-    "social_facility": "group_home",
-    "social_facility:for": "senior",
-    "id": "way/129220690"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.6005468,
-          47.3478758
-        ],
-        [
-          8.6005907,
-          47.3476716
-        ],
-        [
-          8.6003054,
-          47.3476435
-        ],
-        [
-          8.6002984,
-          47.3473768
-        ],
-        [
-          8.6005167,
-          47.3473895
-        ],
-        [
-          8.6006148,
-          47.3475
-        ],
-        [
-          8.6007913,
-          47.3475174
-        ],
-        [
-          8.6007972,
-          47.3474901
-        ],
-        [
-          8.6008672,
-          47.347497
-        ],
-        [
-          8.6008607,
-          47.3475271
-        ],
-        [
-          8.6009024,
-          47.3475312
-        ],
-        [
-          8.6008678,
-          47.3476921
-        ],
-        [
-          8.6008155,
-          47.347687
-        ],
-        [
-          8.6007702,
-          47.3478979
-        ],
-        [
-          8.6005468,
-          47.3478758
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/129220691",
-  "properties": {
-    "addr:city": "Zollikerberg",
-    "addr:country": "CH",
-    "addr:housenumber": "14",
-    "addr:postcode": "8125",
-    "addr:street": "Neuweg",
-    "amenity": "social_facility",
-    "building": "yes",
-    "name": "Haus Baumgarten",
-    "operator": "Stiftung Diakoniewerk Neumünster – Schweizerische Pflegerinnenschule",
-    "social_facility": "group_home",
-    "social_facility:for": "senior",
-    "id": "way/129220691"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.5994294,
-          47.34784
-        ],
-        [
-          8.5996973,
-          47.3478693
-        ],
-        [
-          8.5999253,
-          47.3477358
-        ],
-        [
-          8.599964,
-          47.3475601
-        ],
-        [
-          8.6001224,
-          47.3475761
-        ],
-        [
-          8.6000529,
-          47.3478917
-        ],
-        [
-          8.5998635,
-          47.347988
-        ],
-        [
-          8.5994061,
-          47.3479379
-        ],
-        [
-          8.5994294,
-          47.34784
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/131119656",
   "properties": {
     "addr:city": "Seuzach",
@@ -32910,10 +32764,11 @@
     "addr:housenumber": "16-18",
     "addr:postcode": "8001",
     "addr:street": "Leonhardstrasse",
+    "alt_name": "Alterszentrum Bürgerasyl-Pfrundhaus",
     "amenity": "social_facility",
     "capacity": "55+16",
     "email": "asz­buergerasyl-pfrundhaus@zuerich.ch",
-    "name": "Alterszentrum Bürgerasyl-Pfrundhaus",
+    "name": "Gesundheitszentrum Bürgerasyl-Pfrundhaus",
     "operator": "Stadt Zürich, GUD",
     "phone": "+41 44 414 11 11",
     "social_facility": "group_home",
