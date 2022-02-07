@@ -34212,6 +34212,7 @@
     "addr:street": "Bethlehemweg",
     "amenity": "social_facility",
     "name": "Betlehem Mission",
+    "operator": "Verein Missionshaus Bethlehem",
     "phone": "+41 41 854 13 31",
     "social_facility": "nursing_home",
     "social_facility:for": "senior",
