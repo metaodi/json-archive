@@ -3216,39 +3216,51 @@
           47.3205538
         ],
         [
+          8.8008777,
+          47.3205596
+        ],
+        [
           8.8009665,
           47.3205486
         ],
         [
-          8.8012082,
-          47.3204821
+          8.8010514,
+          47.3205252
+        ],
+        [
+          8.8012136,
+          47.3204837
+        ],
+        [
+          8.8013145,
+          47.3204625
         ],
         [
           8.8014328,
           47.320448
         ],
         [
-          8.8017333,
-          47.3204429
+          8.801581,
+          47.3204414
         ],
         [
-          8.8017695,
-          47.3204464
+          8.8017333,
+          47.3204429
         ],
         [
           8.8020614,
           47.3204837
         ],
         [
-          8.8022985,
-          47.3205308
+          8.802297,
+          47.3205329
         ],
         [
           8.8026932,
           47.3206538
         ],
         [
-          8.8027494,
+          8.8027586,
           47.3206954
         ],
         [
@@ -3284,20 +3296,32 @@
           47.3222464
         ],
         [
-          8.8028536,
-          47.3223916
+          8.8028382,
+          47.3224028
         ],
         [
-          8.8028128,
-          47.3224854
+          8.8027976,
+          47.3224889
         ],
         [
-          8.8025612,
-          47.3224533
+          8.8027138,
+          47.3224741
+        ],
+        [
+          8.8026162,
+          47.3224638
+        ],
+        [
+          8.8025548,
+          47.3224545
         ],
         [
           8.8020884,
           47.3223468
+        ],
+        [
+          8.8018234,
+          47.3222972
         ],
         [
           8.8017414,
@@ -3312,24 +3336,28 @@
           47.3222487
         ],
         [
-          8.8011326,
-          47.3221989
+          8.8012298,
+          47.3222094
         ],
         [
-          8.8009737,
-          47.3221897
+          8.8009724,
+          47.3221938
         ],
         [
-          8.8005823,
-          47.3221671
+          8.800583,
+          47.3221789
         ],
         [
-          8.8003857,
-          47.3221589
+          8.8003777,
+          47.322163
         ],
         [
-          8.8001503,
-          47.3221264
+          8.8001884,
+          47.3221376
+        ],
+        [
+          8.800031,
+          47.3221065
         ],
         [
           8.7999387,
@@ -14412,7 +14440,8 @@
     "addr:street": "Chlösterli",
     "amenity": "social_facility",
     "building": "yes",
-    "name": "Chlösterli",
+    "name": "Alters- und Pflegehiem Chlösterli",
+    "phone": "+41 41 754 66 00",
     "social_facility": "nursing_home",
     "social_facility:for": "senior",
     "website": "https://chloesterli.ch/",
@@ -14480,16 +14509,16 @@
           47.1312544
         ],
         [
-          8.5771251,
-          47.1314694
+          8.5771242,
+          47.131466
         ],
         [
-          8.5771126,
-          47.1314696
+          8.5772675,
+          47.1314638
         ],
         [
-          8.5771175,
-          47.1315836
+          8.5772711,
+          47.1315819
         ],
         [
           8.5769848,
@@ -16860,8 +16889,8 @@
           47.3205655
         ],
         [
-          8.7976441,
-          47.3205164
+          8.797717,
+          47.3205563
         ],
         [
           8.7974978,
@@ -19777,12 +19806,12 @@
           47.3302281
         ],
         [
-          8.8079591,
-          47.3301571
+          8.8079521,
+          47.3301551
         ],
         [
-          8.8081837,
-          47.3301122
+          8.8081705,
+          47.3301156
         ],
         [
           8.8087685,
@@ -30068,78 +30097,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/892391269",
-  "properties": {
-    "amenity": "social_facility",
-    "contact:city": "Unterägeri",
-    "contact:email": "info@chloesterli.ch",
-    "contact:housenumber": "1",
-    "contact:phone": "+41 41 754 66 00",
-    "contact:postcode": "6314",
-    "contact:street": "Chlösterli",
-    "contact:website": "https://www.chloesterli.ch/",
-    "name": "Alters- und Pflegehiem Chlösterli",
-    "social_facility": "nursing_home",
-    "id": "way/892391269"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.5761107,
-          47.1313949
-        ],
-        [
-          8.5759734,
-          47.1311995
-        ],
-        [
-          8.5759177,
-          47.1309939
-        ],
-        [
-          8.5759188,
-          47.1308598
-        ],
-        [
-          8.5763513,
-          47.1305719
-        ],
-        [
-          8.5765771,
-          47.1305627
-        ],
-        [
-          8.5766841,
-          47.1305583
-        ],
-        [
-          8.5770594,
-          47.1306935
-        ],
-        [
-          8.5773877,
-          47.1319244
-        ],
-        [
-          8.576491,
-          47.1318969
-        ],
-        [
-          8.5761594,
-          47.1314597
-        ],
-        [
-          8.5761107,
-          47.1313949
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/929856034",
   "properties": {
     "amenity": "social_facility",
@@ -34235,7 +34192,8 @@
     "addr:postcode": "6405",
     "addr:street": "Immo-Strasse",
     "amenity": "social_facility",
-    "name": "Sunnehof",
+    "name": "Alters- und Pflegeheim Sunnehof",
+    "operator": "Der Bezirk Küssnacht ist Träger des Sunnehofs",
     "phone": "+41 41 854 19 19",
     "social_facility": "nursing_home",
     "social_facility:for": "senior",
@@ -34246,6 +34204,32 @@
     "coordinates": [
       8.4632133,
       47.0993822
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9485936604",
+  "properties": {
+    "addr:city": "Küssnacht am Rigi",
+    "addr:housenumber": "2",
+    "addr:postcode": "6403",
+    "addr:street": "Seemattzopfweg",
+    "amenity": "social_facility",
+    "email": "info@pflegezentrum-seematt.ch",
+    "name": "Pflegezentrum Seematt",
+    "operator": "Gemeinde Küssnacht / Öffentlich rechtliche Anstalt",
+    "phone": "+41 41 854 24 24",
+    "social_facility": "nursing_home",
+    "social_facility:for": "senior",
+    "website": "https://www.pflegezentrum-seematt.ch/",
+    "id": "node/9485936604"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4371534,
+      47.0763537
     ]
   }
 }
