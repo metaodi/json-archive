@@ -35493,8 +35493,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.7255165,
-      47.5050561
+      8.7255288,
+      47.5050413
     ]
   }
 },
@@ -38755,6 +38755,120 @@
     "coordinates": [
       8.5398048,
       47.5052943
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9529344026",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Im Gebäude drin.",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Fr 08:00-18:30, Sa 08:00-16:00",
+    "operator": "Apotheke Wülflingen",
+    "phone": "+41 52 222 32 79",
+    "id": "node/9529344026"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6935868,
+      47.510686
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9529769217",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Gemeindehaus Gächlingen",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "id": "node/9529769217"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.497589,
+      47.7026026
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9529770617",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Eingang Turnhalle Gächlingen",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "id": "node/9529770617"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4944706,
+      47.7018404
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9530483217",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Bushaltestelle Zeughaus",
+    "description": "Fahrtrichtung Schindellegi",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "id": "node/9530483217"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7702282,
+      47.1981633
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9530626434",
+  "properties": {
+    "emergency": "defibrillator",
+    "indoor": "no",
+    "id": "node/9530626434"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5331617,
+      47.1978943
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9530681359",
+  "properties": {
+    "defibrillator:location": "Wall mounted inside lobby",
+    "emergency": "defibrillator",
+    "indoor": "yes",
+    "id": "node/9530681359"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5365306,
+      47.3729532
     ]
   }
 }
