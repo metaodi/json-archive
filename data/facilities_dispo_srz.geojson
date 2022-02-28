@@ -2136,8 +2136,8 @@
   "properties": {
     "addr:city": "Hinteregg",
     "addr:housenumber": "9",
+    "addr:place": "Ober Halden",
     "addr:postcode": "8132",
-    "addr:street": "Ober Halden",
     "amenity": "social_facility",
     "building": "yes",
     "name": "Durchgangszentrum Ober Halden",
@@ -5513,10 +5513,13 @@
     "addr:street": "Landhausstrasse",
     "amenity": "hospital",
     "building": "hospital",
+    "building:levels": "4",
     "healthcare": "hospital",
     "healthcare:speciality": "intensive",
     "name": "Zuger Kantonsspital",
+    "roof:levels": "0",
     "website": "https://www.zgks.ch/",
+    "wheelchair": "yes",
     "id": "way/46511032"
   },
   "geometry": {
@@ -33757,8 +33760,8 @@
   "properties": {
     "addr:city": "Hinteregg",
     "addr:housenumber": "5",
+    "addr:place": "Ober Halden",
     "addr:postcode": "8132",
-    "addr:street": "Ober Halden 5",
     "amenity": "social_facility",
     "name": "Pflegestation Sunegarte",
     "operator": "SOZIALWERK PFARRER SIEBER",
