@@ -5518,6 +5518,7 @@
     "healthcare:speciality": "intensive",
     "name": "Zuger Kantonsspital",
     "roof:levels": "0",
+    "roof:shape": "flat",
     "website": "https://www.zgks.ch/",
     "wheelchair": "yes",
     "id": "way/46511032"
