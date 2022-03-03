@@ -27578,6 +27578,7 @@
     "access": "private",
     "defibrillator:location": "Neben dem Büro",
     "emergency": "defibrillator",
+    "emergency:phone": "144",
     "indoor": "yes",
     "level": "0",
     "opening_hours": "24/7",
@@ -27601,6 +27602,7 @@
     "access": "customers",
     "defibrillator:location": "Hautspezialisten am Glattpark",
     "emergency": "defibrillator",
+    "emergency:phone": "144",
     "indoor": "yes",
     "level": "1",
     "opening_hours": "24/7",
@@ -27690,6 +27692,7 @@
   "properties": {
     "defibrillator:location": "Wall mounted inside lobby",
     "emergency": "defibrillator",
+    "emergency:phone": "144",
     "indoor": "yes",
     "id": "node/9530681359"
   },
@@ -27899,6 +27902,47 @@
     "coordinates": [
       8.5264891,
       47.5105174
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9547220643",
+  "properties": {
+    "access": "customers",
+    "defibrillator:location": "EG, beim Empfang",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "operator": "AFRY Schweiz AG",
+    "id": "node/9547220643"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4864075,
+      47.3938664
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9549418239",
+  "properties": {
+    "access": "customers",
+    "defibrillator:location": "EG, beim Empfang",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "id": "node/9549418239"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4838898,
+      47.3947831
     ]
   }
 }
