@@ -39168,6 +39168,49 @@
       47.3947831
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/9555922164",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "An der Wand rechts neben dem Eingang zur Life Hall aussen an der Fassade.",
+    "emergency": "defibrillator",
+    "level": "0",
+    "opening_hours": "24/7",
+    "operator": "Life Church",
+    "wheelchair": "yes",
+    "id": "node/9555922164"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6439486,
+      47.7216215
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9556061017",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "COOP",
+    "description": "während Öffnungszeiten",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo. - Sa. 7 - 20 Uhr\nSo. 8 - 13 Uhr",
+    "operator": "Waldegg Center",
+    "id": "node/9556061017"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6083586,
+      47.2452176
+    ]
+  }
 }
 ]
 }
