@@ -9569,13 +9569,15 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
+    "level": "0",
+    "opening_hours": "Mo-Fr 08:00-20:00, Sa 08:00-18:00; PH off",
     "id": "node/7723731355"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.7459158,
-      47.1287372
+      8.7458995,
+      47.1287195
     ]
   }
 },
@@ -39276,6 +39278,72 @@
     "coordinates": [
       8.4822344,
       47.1811326
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9572289517",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Industriestrasse 20, 8155 Niederhasli",
+    "description": "Im Feuerwehrdepot",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "24/7",
+    "operator": "Feuerwehr Niederhasli",
+    "phone": "+41 44 850 25 70",
+    "id": "node/9572289517"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4912719,
+      47.4793876
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9572961417",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Diebold Nixdorf,1.OG Defi,2.OG klingeln für Zugang",
+    "description": "während Öffnungszeiten,am Besten Tel",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Fr 8uhr-17Uhr",
+    "operator": "Firma Diebold Nixdorf",
+    "phone": "+41448353400",
+    "id": "node/9572961417"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6299039,
+      47.4195176
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9573104917",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Musikinsel Rheinau",
+    "description": "nur während Öffnungszeiten",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "id": "node/9573104917"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6079508,
+      47.6424278
     ]
   }
 }
