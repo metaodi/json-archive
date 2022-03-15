@@ -17912,8 +17912,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5898403,
-      47.0243342
+      8.5898813,
+      47.0243252
     ]
   }
 },
@@ -39411,6 +39411,49 @@
     "coordinates": [
       8.6579707,
       47.2392761
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9577041917",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Uster West 32",
+    "description": "in der Arztpraxis whrd der Öffnungszeiten",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Fr: \t08:30–11:30, 13:30–16:30",
+    "operator": "Frauenpraxis Uster",
+    "phone": "+41449400631",
+    "id": "node/9577041917"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7086167,
+      47.3594949
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9579223617",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Bei Eingang ",
+    "description": "Immer zugänglich ",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "id": "node/9579223617"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6074096,
+      46.9998193
     ]
   }
 }
