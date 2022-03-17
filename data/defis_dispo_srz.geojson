@@ -37556,8 +37556,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5242703,
-      47.4130164
+      8.5241974,
+      47.4131163
     ]
   }
 },
@@ -39454,6 +39454,72 @@
     "coordinates": [
       8.6074096,
       46.9998193
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9582238317",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Huawei Technology AG",
+    "description": "Seiteneingang Hochbordstrasse,  Reception 5.Stock",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Huawei Technology AG",
+    "phone": "+41 44 525 42 00",
+    "id": "node/9582238317"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5994345,
+      47.3969331
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9582788079",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "An der Säule neben dem Lift",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "Mo-Sa 07:30-21:00",
+    "wheelchair": "limited",
+    "id": "node/9582788079"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5406871,
+      47.4134873
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9582788317",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Bahnhofstrasse 44",
+    "description": "während Öffnungszeiten ",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "24/7",
+    "operator": "Montag-Freitag 10:00-19:00 Samstag 10:00-18:00",
+    "id": "node/9582788317"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5347014,
+      47.3660722
     ]
   }
 }
