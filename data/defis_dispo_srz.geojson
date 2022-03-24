@@ -39792,7 +39792,7 @@
     "indoor": "yes",
     "opening_hours": "Mo-Fr 07:00-12:00, 13:00-17:00",
     "operator": "Stucky Holzprofilleisten AG",
-    "phone": "+41 44 905 95 87",
+    "phone": "+41 44 905 95 95",
     "id": "node/9596963160"
   },
   "geometry": {
@@ -39800,6 +39800,71 @@
     "coordinates": [
       8.4215502,
       47.3925363
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9599632717",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "EG Warenannahme Schleuse",
+    "description": "während den Öffnungszeiten",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "24/7",
+    "operator": "Distrelec Schweiz AG",
+    "id": "node/9599632717"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6835556,
+      47.3713788
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9600080617",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Rubiswil Turnhalle",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "id": "node/9600080617"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6459831,
+      47.0177742
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9600113917",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Grabenstr. 6 Warenannahme",
+    "description": "wärend Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo - Fr 07:00 bis 18:00",
+    "operator": "Distrelec Schweiz AG",
+    "phone": "0798427075",
+    "id": "node/9600113917"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6835184,
+      47.3719229
     ]
   }
 }
