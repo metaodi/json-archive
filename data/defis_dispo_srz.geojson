@@ -4719,7 +4719,7 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "opening_hours": "Mo-Fr 08:00–23:00; Sa 09:00–23:00",
+    "opening_hours": "Mo-Fr 08:00-23:00; Sa 09:00-23:00",
     "operator": "Stadt Winterthur Alte Kaserne Kulturzentrum / Kilian Schmid",
     "phone": "+41 52 267 57 75",
     "id": "node/7442277478"
@@ -39865,6 +39865,28 @@
     "coordinates": [
       8.6835184,
       47.3719229
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9602912117",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Schulhaus Mösli, Turnhalle Eingang, Trakt D",
+    "description": "während Öffnungszeiten Turnhalle",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Schulhaus Möslu",
+    "phone": "+41448776524",
+    "id": "node/9602912117"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6051156,
+      47.4138524
     ]
   }
 }
