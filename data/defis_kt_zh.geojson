@@ -25239,8 +25239,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.8073979,
-      47.3443195
+      8.8075814,
+      47.3442763
     ]
   }
 },
@@ -28372,11 +28372,13 @@
   "type": "Feature",
   "id": "node/9587532200",
   "properties": {
+    "Tel Betriebssanität": "044 275 45 55",
     "access": "no",
-    "defibrillator:location": "Defi bei Betriebssanität",
+    "defibrillator:location": "Beim Empfang im Gebäude",
     "description": "während Öffnungszeiten verfügbar",
     "emergency": "defibrillator",
     "indoor": "yes",
+    "operator": "COOP Betriebssanität",
     "id": "node/9587532200"
   },
   "geometry": {
@@ -28765,6 +28767,73 @@
     "coordinates": [
       8.8002497,
       47.316833
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9625588450",
+  "properties": {
+    "Tel. Betriebssanität: 044 275 4555": "044 275 45 55",
+    "access": "no",
+    "defibrillator:location": "Am Empfang beim Eingang",
+    "description": "24h verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "24/7",
+    "operator": "COOP Verteilzentrale",
+    "id": "node/9625588450"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4011775,
+      47.415687
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9625633024",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Schalterhalle Erdgeschoss (Haupteingang; Säule Seeseite)",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Gemeindeverwaltung Horgen / Neidhart Monika",
+    "phone": "+41 44 728 41 11",
+    "id": "node/9625633024"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5977881,
+      47.2609212
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9625633025",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "im unteren Foyer des Gemeindesaals (Schinzenhofsaal)",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Gemeindeverwaltung Horgen / Neidhart Monika",
+    "phone": "+41 44 728 41 11",
+    "id": "node/9625633025"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.596901,
+      47.2604024
     ]
   }
 }
