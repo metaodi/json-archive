@@ -28707,6 +28707,7 @@
     "addr:street": "Bürgstrasse",
     "amenity": "social_facility",
     "building": "yes",
+    "building:levels": "4",
     "email": "info@zentrum-sunnegarte.ch",
     "name": "Zentrum Sunnegarte",
     "note": "Die Zentrum Sunnegarte AG ist eine gemeinnützige Aktiengesellschaft und wird geführt als Kompetenzzentrum für Pflege und Betreuung (stationär und ambulant), Wohnen im Alter und verschiedene Serviceleistungen.",
