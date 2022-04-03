@@ -27915,7 +27915,7 @@
     "access": "customers",
     "defibrillator:location": "EG, beim Empfang",
     "emergency": "defibrillator",
-    "emergency:phone": "144",
+    "emergency:phone": "112",
     "indoor": "yes",
     "level": "0",
     "operator": "AFRY Schweiz AG",
@@ -27936,7 +27936,7 @@
     "access": "customers",
     "defibrillator:location": "EG, beim Empfang",
     "emergency": "defibrillator",
-    "emergency:phone": "144",
+    "emergency:phone": "112",
     "indoor": "yes",
     "level": "0",
     "id": "node/9549418239"
@@ -28878,6 +28878,26 @@
     "coordinates": [
       8.6922379,
       47.5933436
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9631144217",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "SwissRe Next",
+    "description": "Reception",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "id": "node/9631144217"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5352689,
+      47.3599096
     ]
   }
 }
