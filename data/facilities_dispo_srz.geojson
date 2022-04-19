@@ -30848,6 +30848,45 @@
 },
 {
   "type": "Feature",
+  "id": "way/1052631331",
+  "properties": {
+    "amenity": "social_facility",
+    "name": "Residenz Stadtpark",
+    "note": "Bezug ab Herbst 2023",
+    "social_facility": "group_home",
+    "social_facility:for": "senior",
+    "id": "way/1052631331"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7148409,
+          47.349468
+        ],
+        [
+          8.7145068,
+          47.3488385
+        ],
+        [
+          8.7149438,
+          47.3487321
+        ],
+        [
+          8.715278,
+          47.3493615
+        ],
+        [
+          8.7148409,
+          47.349468
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/199578656",
   "properties": {
     "id": "way/199578656"
