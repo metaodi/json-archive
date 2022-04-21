@@ -769,6 +769,7 @@
   "properties": {
     "emergency": "ambulance_station",
     "name": "Schutz & Rettung Zürich - Wache Neunbrunnen",
+    "opening_hours": "24/7",
     "operator": "Schutz & Rettung Zürich",
     "website": "https://www.stadt-zuerich.ch/pd/de/index/schutz_u_rettung_zuerich/sanitaet.html",
     "id": "node/8227050914"
@@ -776,8 +777,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5368959,
-      47.4173013
+      8.5369077,
+      47.4171694
     ]
   }
 },
