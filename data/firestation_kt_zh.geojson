@@ -2890,6 +2890,43 @@
 },
 {
   "type": "Feature",
+  "id": "way/149038775",
+  "properties": {
+    "amenity": "fire_station",
+    "building": "yes",
+    "name": "Feuerwehr Niederglatt",
+    "id": "way/149038775"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.4935674,
+          47.4986731
+        ],
+        [
+          8.4936461,
+          47.4988455
+        ],
+        [
+          8.4934435,
+          47.4988877
+        ],
+        [
+          8.4933648,
+          47.4987153
+        ],
+        [
+          8.4935674,
+          47.4986731
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/151296092",
   "properties": {
     "addr:city": "Feuerthalen",
@@ -5100,22 +5137,6 @@
     "coordinates": [
       8.7926479,
       47.5508779
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/1084287329",
-  "properties": {
-    "amenity": "fire_station",
-    "name": "Feuerwehr Niederglatt",
-    "id": "node/1084287329"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.4935468,
-      47.4987927
     ]
   }
 },

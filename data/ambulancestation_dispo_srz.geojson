@@ -852,8 +852,25 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.6878577,
-      47.5945909
+      8.6880991,
+      47.5944388
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9684466882",
+  "properties": {
+    "emergency": "ambulance_station",
+    "name": "Rettungsdienst Bülach - Wache Niederglatt",
+    "operator": "Rettungsdienst Bülach",
+    "id": "node/9684466882"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.493526,
+      47.4987357
     ]
   }
 }

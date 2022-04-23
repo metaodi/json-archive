@@ -24851,6 +24851,7 @@
     "amenity": "hospital",
     "email": "info@klinikbethanien.ch",
     "emergency": "no",
+    "healthcare": "hospital",
     "name": "Klinik Bethanien",
     "operator": "Swiss Medical Network",
     "phone": "+41 43 268 70 70",
