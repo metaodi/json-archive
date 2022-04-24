@@ -34204,6 +34204,28 @@
       47.0763537
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/9687374412",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "11",
+    "addr:postcode": "8002",
+    "addr:street": "Sternenstrasse",
+    "amenity": "hospital",
+    "healthcare": "speech_therapist",
+    "healthcare:speciality": "hypnosis;psychotherapy;mental_health;health;wellness;therapy;theta;psychotherapist",
+    "name": "Federleicht Hypnose- & Theta-Therapien",
+    "id": "node/9687374412"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.533829,
+      47.360082
+    ]
+  }
 }
 ]
 }
