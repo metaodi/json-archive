@@ -31,6 +31,7 @@
   "properties": {
     "emergency": "defibrillator",
     "emergency:phone": "144",
+    "indoor": "yes",
     "id": "node/2450774413"
   },
   "geometry": {
@@ -21933,7 +21934,6 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "name": "Defibrillator",
     "opening_hours": "Mo-Fr 07:00-18:00",
     "id": "node/8952337842"
   },
