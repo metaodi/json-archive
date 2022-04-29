@@ -392,9 +392,10 @@
     "email": "info@regio144.ch",
     "emergency": "ambulance_station",
     "fax": "+41 55 220 41 42",
-    "name": "Regio 144 Rettung",
-    "operator": "REGIO 144 AG",
+    "name": "Regio 144 Rettung AG",
+    "operator": "REGIO 144  RETTUNG AG",
     "phone": "+41 55 220 41 41",
+    "website": "www.regio144.ch",
     "id": "way/357486503"
   },
   "geometry": {
