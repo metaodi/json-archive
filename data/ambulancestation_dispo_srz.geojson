@@ -872,6 +872,29 @@
       47.4987357
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/9710403481",
+  "properties": {
+    "addr:city": "Küssnacht am Rigi",
+    "addr:housenumber": "54",
+    "addr:postcode": "6403",
+    "addr:street": "Oberdorf",
+    "availability": "year round",
+    "emergency": "ambulance_station",
+    "name": "Rettungsdienst Küssnacht a.R.",
+    "opening_hours": "24/7",
+    "operator": "Bezirk Küssnacht a.R. SZ",
+    "id": "node/9710403481"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4438289,
+      47.084532
+    ]
+  }
 }
 ]
 }

@@ -803,22 +803,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/5768039654",
-  "properties": {
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "id": "node/5768039654"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.6234386,
-      47.4145629
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/5779894269",
   "properties": {
     "emergency": "defibrillator",
@@ -29417,6 +29401,28 @@
     "coordinates": [
       8.6880545,
       47.2191455
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9709437317",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "PIMCO (Schweiz) AG",
+    "description": "1. Stock",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Fr: 08.00 - 19.00 Uhr",
+    "phone": "+41445124900",
+    "id": "node/9709437317"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5321789,
+      47.3689056
     ]
   }
 }
