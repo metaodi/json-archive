@@ -8699,13 +8699,14 @@
     "opening_hours": "24/7",
     "operator": "Jucker Farm AG",
     "phone": "+41 44 934 34 84",
+    "wheelchair": "limited",
     "id": "node/8186231097"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.7728021,
-      47.3437458
+      8.7728487,
+      47.3436523
     ]
   }
 },
@@ -29423,6 +29424,71 @@
     "coordinates": [
       8.5321789,
       47.3689056
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9711337117",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Hornbach Affoltern am Albis, Hauswand Einfahrt Schranke",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Hornbach Affoltern am Albis",
+    "phone": "+41442044970",
+    "id": "node/9711337117"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4402592,
+      47.272415
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9711485602",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Neben den Liften",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "-1",
+    "opening_hours": "Mo-Sa 08:00-20:00; PH off",
+    "wheelchair": "limited",
+    "id": "node/9711485602"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5427817,
+      47.41051
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9711832817",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Hobelwerkweg, gegenüber Schulhaus Hegifeld",
+    "description": "Im Innenhof, immer zugänglich",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "operator": "defibrillator.ch",
+    "id": "node/9711832817"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7632998,
+      47.5093373
     ]
   }
 }
