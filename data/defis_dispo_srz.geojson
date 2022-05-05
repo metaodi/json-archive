@@ -41494,6 +41494,88 @@
       47.5093373
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/9713806617",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Eingang Kantine auf der linken Seite beim Windfang",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "operator": "Ausbildungszentrum Riedikon",
+    "id": "node/9713806617"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7165204,
+      47.3309614
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9716238617",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Reismühle Nutrex, neben Eingang",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Reismühle Nutrex",
+    "id": "node/9716238617"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6112227,
+      47.0020384
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9716243917",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Fussballplatz, beim Kassahaus",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "id": "node/9716243917"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5979722,
+      46.9981834
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9716245517",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Grand Palais, beim Eingang",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "id": "node/9716245517"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.609104,
+      46.9927402
+    ]
+  }
 }
 ]
 }
