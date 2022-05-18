@@ -5218,8 +5218,14 @@
   "type": "Feature",
   "id": "node/1305692978",
   "properties": {
+    "addr:city": "Dällikon",
+    "addr:housenumber": "11",
+    "addr:postcode": "8108",
+    "addr:street": "Dorfstrasse",
     "amenity": "fire_station",
+    "description": "Feuerwehrdepot",
     "name": "Feuerwehr Buchs-Dällikon",
+    "website": "https://www.fwbd.ch",
     "id": "node/1305692978"
   },
   "geometry": {
