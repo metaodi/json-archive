@@ -15720,7 +15720,7 @@
     "amenity": "social_facility",
     "building": "yes",
     "name": "Alterszentrum Breitenhof",
-    "social_facility": "group_home",
+    "social_facility": "nursing_home",
     "social_facility:for": "senior",
     "id": "way/204444065"
   },
@@ -18754,9 +18754,10 @@
     "alt_name": "Wohnen im Alter Hinwil",
     "amenity": "social_facility",
     "building": "yes",
-    "name": "Haus Schätti",
+    "name": "Alters- und Pflegeheim Hinwil, Haus Schätti",
+    "operator": "Stiftung Wohnen im Alter Hinwil",
     "phone": "+41 44 938 32 32",
-    "social_facility": "group_home",
+    "social_facility": "nursing_home",
     "social_facility:for": "senior",
     "website": "http://www.aph-hinwil.ch",
     "id": "way/252131853"
@@ -18832,9 +18833,10 @@
     "alt_name": "Haus Meiligut Wohnen im Alter",
     "amenity": "social_facility",
     "building": "yes",
-    "name": "Stiftung Wohnen im Alter Hinwil",
-    "phone": "+41 44 938 32 32",
-    "social_facility": "group_home",
+    "name": "Alters- und Pflegeheim Hinwil, Haus Meiligut",
+    "operator": "Stiftung Wohnen im Alter Hinwil",
+    "phone": "+41449383247",
+    "social_facility": "nursing_home",
     "social_facility:for": "senior",
     "website": "http://www.aph-hinwil.ch",
     "id": "way/252131858"
@@ -19222,6 +19224,131 @@
         [
           8.6151684,
           47.6816757
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/259524669",
+  "properties": {
+    "amenity": "social_facility",
+    "building": "yes",
+    "social_facility": "nursing_home",
+    "source": "bing",
+    "id": "way/259524669"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.8548315,
+          47.2735354
+        ],
+        [
+          8.8548369,
+          47.2734535
+        ],
+        [
+          8.8551212,
+          47.2734572
+        ],
+        [
+          8.8551265,
+          47.2735773
+        ],
+        [
+          8.8549307,
+          47.2735846
+        ],
+        [
+          8.8548315,
+          47.2735354
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/259524720",
+  "properties": {
+    "amenity": "social_facility",
+    "building": "yes",
+    "social_facility": "nursing_home",
+    "source": "bing",
+    "id": "way/259524720"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.8546115,
+          47.2739132
+        ],
+        [
+          8.8545929,
+          47.2737402
+        ],
+        [
+          8.85478,
+          47.273731
+        ],
+        [
+          8.8547986,
+          47.273904
+        ],
+        [
+          8.8546115,
+          47.2739132
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/259524742",
+  "properties": {
+    "addr:city": "Tann",
+    "addr:housenumber": "3",
+    "addr:postcode": "8632",
+    "addr:street": "Knecht-Wethli-Weg",
+    "amenity": "social_facility",
+    "building": "yes",
+    "name": "Alters- und Pflegeheim Nauengut",
+    "phone": "+41 55 250 81 11",
+    "social_facility": "nursing_home",
+    "source": "bing",
+    "website": "http://www.nauengut.ch/xml_3/internet/de/application/d447/f454.cfm",
+    "id": "way/259524742"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.8545938,
+          47.2736417
+        ],
+        [
+          8.8547383,
+          47.2735112
+        ],
+        [
+          8.8548903,
+          47.2735886
+        ],
+        [
+          8.8547458,
+          47.2737191
+        ],
+        [
+          8.8545938,
+          47.2736417
         ]
       ]
     ]
@@ -21782,6 +21909,87 @@
 },
 {
   "type": "Feature",
+  "id": "way/299214366",
+  "properties": {
+    "amenity": "social_facility",
+    "building": "yes",
+    "name": "Tertianum Grünegg",
+    "phone": "+41 55 256 78 78",
+    "social_facility": "nursing_home",
+    "social_facility:for": "senior",
+    "website": "https://www.tertianum.ch/de/tertianum-gruenegg-wald_url-correct",
+    "id": "way/299214366"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.9176426,
+          47.273202
+        ],
+        [
+          8.9174958,
+          47.273075
+        ],
+        [
+          8.9175038,
+          47.2730708
+        ],
+        [
+          8.9174643,
+          47.2730366
+        ],
+        [
+          8.9174721,
+          47.2730325
+        ],
+        [
+          8.9174442,
+          47.2730083
+        ],
+        [
+          8.9174485,
+          47.2730059
+        ],
+        [
+          8.9173808,
+          47.2729474
+        ],
+        [
+          8.9174474,
+          47.272912
+        ],
+        [
+          8.9174449,
+          47.2729098
+        ],
+        [
+          8.9175316,
+          47.2728636
+        ],
+        [
+          8.9176455,
+          47.2729622
+        ],
+        [
+          8.9176073,
+          47.2729824
+        ],
+        [
+          8.9177779,
+          47.27313
+        ],
+        [
+          8.9176426,
+          47.273202
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/303065442",
   "properties": {
     "addr:city": "Lachen",
@@ -22902,6 +23110,50 @@
         [
           8.8579795,
           47.1887608
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/378942284",
+  "properties": {
+    "addr:city": "Rüti (ZH)",
+    "addr:housenumber": "4",
+    "addr:postcode": "8630",
+    "addr:street": "Werkstrasse",
+    "amenity": "social_facility",
+    "building": "yes",
+    "name": "Pflegewohnung Bruggacher",
+    "phone": "+41 55 260 14 28",
+    "social_facility": "nursing_home",
+    "website": "https://www.pwg-rb.ch/content/191/138/bruggacher-rueti",
+    "id": "way/378942284"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.851398,
+          47.2579861
+        ],
+        [
+          8.8510175,
+          47.2580028
+        ],
+        [
+          8.8510076,
+          47.2578994
+        ],
+        [
+          8.8513881,
+          47.2578827
+        ],
+        [
+          8.851398,
+          47.2579861
         ]
       ]
     ]
@@ -28861,82 +29113,81 @@
 },
 {
   "type": "Feature",
-  "id": "way/689514499",
+  "id": "way/686878008",
   "properties": {
-    "addr:city": "Wald ZH",
-    "addr:housenumber": "2",
-    "addr:postcode": "8636",
-    "addr:street": "Rosenthalstrasse",
-    "alt_name": "Pflegezentrum Rosenthal",
+    "addr:city": "Grüningen",
+    "addr:housenumber": "6",
+    "addr:postcode": "8627",
+    "addr:street": "Niderwisstrasse",
+    "alt_name": "Pflegewohnung Spitex Grüningen",
     "amenity": "social_facility",
-    "building": "yes",
-    "email": "info@stiftungdreitannen.ch",
-    "name": "Altersheim Drei Tannen/Ärztezentrum Rosenthal",
-    "opening_date": "2021-07-01",
-    "operator": "Stiftung Drei Tannen, Wald",
-    "operator:type": "private_non_profit",
-    "phone": "+41 55 256 11 11",
+    "building": "dormitory",
+    "building:levels": "4",
+    "name": "Pflegewohnung SEWO",
+    "roof:levels": "0",
     "social_facility": "nursing_home",
-    "social_facility:for": "senior",
-    "website": "https://www.stiftungdreitannen.ch/",
-    "wheelchair": "yes",
-    "id": "way/689514499"
+    "website": "https://www.spitex-grueningen.ch/pflegewohnung/",
+    "id": "way/686878008"
   },
   "geometry": {
     "type": "Polygon",
     "coordinates": [
       [
         [
-          8.9109088,
-          47.2729956
+          8.758531,
+          47.2807057
         ],
         [
-          8.9108038,
-          47.2727737
+          8.7585144,
+          47.2805655
         ],
         [
-          8.9112263,
-          47.2726852
+          8.7587171,
+          47.2805074
         ],
         [
-          8.9112567,
-          47.2725454
+          8.7588438,
+          47.280391
         ],
         [
-          8.911714,
-          47.2725881
+          8.7587483,
+          47.2802932
         ],
         [
-          8.9117585,
-          47.2726538
+          8.7587727,
+          47.2802019
         ],
         [
-          8.9121594,
-          47.272518
+          8.7589705,
+          47.2801755
         ],
         [
-          8.9122948,
-          47.2727079
+          8.7590319,
+          47.2804737
         ],
         [
-          8.9117213,
-          47.272827
+          8.7590572,
+          47.280473
         ],
         [
-          8.9116911,
-          47.2727693
+          8.759105,
+          47.2805616
         ],
         [
-          8.9113481,
-          47.2728056
+          8.7589529,
+          47.2806178
         ],
         [
-          8.9113314,
-          47.2729079
+          8.7588477,
+          47.2806429
         ],
         [
-          8.9109088,
-          47.2729956
+          8.7587551,
+          47.2806905
+        ],
+        [
+          8.758531,
+          47.2807057
         ]
       ]
     ]
@@ -33210,7 +33461,7 @@
     "email": "wohnheim@sandbueel.ch",
     "name": "Sandbüel",
     "phone": "+41 55 240 22 64",
-    "social_facility": "group_home",
+    "social_facility": "nursing_home",
     "social_facility:for": "senior",
     "website": "http://www.sandbueel.ch/",
     "id": "node/6263487302"
@@ -34228,6 +34479,33 @@
     "coordinates": [
       8.4371534,
       47.0763537
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9754019575",
+  "properties": {
+    "alt_name": "Pflegezentrum Rosenthal Pflegeheim Wald Altersheim Wald Wohnen Rosenthal",
+    "amenity": "social_facility",
+    "building": "yes",
+    "email": "info@stiftungdreitannen.ch",
+    "name": "Stiftung Drei Tannen / Pflegezentrum Rosenthal",
+    "opening_date": "2021-07-01",
+    "operator": "Stiftung Drei Tannen, Wald",
+    "operator:type": "private_non_profit",
+    "phone": "+41 55 256 11 11",
+    "social_facility": "nursing_home",
+    "social_facility:for": "senior",
+    "website": "https://www.stiftungdreitannen.ch/",
+    "wheelchair": "yes",
+    "id": "node/9754019575"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9115226,
+      47.2727259
     ]
   }
 }
