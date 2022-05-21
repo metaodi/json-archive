@@ -18923,6 +18923,52 @@
 },
 {
   "type": "Feature",
+  "id": "way/252866752",
+  "properties": {
+    "addr:city": "Wetzikon",
+    "addr:country": "CH",
+    "addr:housenumber": "7",
+    "addr:postcode": "8620",
+    "addr:street": "Alte Notariatsstrasse",
+    "amenity": "social_facility",
+    "building": "yes",
+    "name": "Alterswohnheim am Wildbach",
+    "note": "Aussenwohngruppe Alterswohnheim am Wildbach - Zufahrt nur via Alte Notariatsstrasse möglich!",
+    "social_facility": "group_home",
+    "social_facility:for": "senior",
+    "wheelchair": "yes",
+    "id": "way/252866752"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7966112,
+          47.3208011
+        ],
+        [
+          8.7967186,
+          47.3207053
+        ],
+        [
+          8.7968832,
+          47.32079
+        ],
+        [
+          8.7967759,
+          47.3208859
+        ],
+        [
+          8.7966112,
+          47.3208011
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/255270071",
   "properties": {
     "amenity": "social_facility",
