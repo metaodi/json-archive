@@ -15107,6 +15107,85 @@
 },
 {
   "type": "Feature",
+  "id": "way/200986361",
+  "properties": {
+    "addr:city": "Bäretswil",
+    "addr:housenumber": "71",
+    "addr:postcode": "8344",
+    "addr:street": "Rüeggenthalstrasse",
+    "alt_name": "Kinderheim Sunnemätteli",
+    "amenity": "social_facility",
+    "building": "yes",
+    "email": "sunnemaetteli@heilsarmee.ch",
+    "name": "Entlastungsheim Sunnemätteli",
+    "phone": "+41 44 939 99 80",
+    "social_facility": "group_home",
+    "social_facility:for": "child",
+    "website": "https://www.entlastungsheim-sunnemaetteli.ch/",
+    "id": "way/200986361"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.8878608,
+          47.3392463
+        ],
+        [
+          8.8883806,
+          47.3392688
+        ],
+        [
+          8.8884291,
+          47.3393497
+        ],
+        [
+          8.8884663,
+          47.3394117
+        ],
+        [
+          8.8887277,
+          47.339333
+        ],
+        [
+          8.8887955,
+          47.3393126
+        ],
+        [
+          8.88887,
+          47.339443
+        ],
+        [
+          8.8883712,
+          47.3395224
+        ],
+        [
+          8.8883225,
+          47.3394515
+        ],
+        [
+          8.8882811,
+          47.3393892
+        ],
+        [
+          8.8882664,
+          47.3393671
+        ],
+        [
+          8.8878475,
+          47.3393383
+        ],
+        [
+          8.8878608,
+          47.3392463
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/201086275",
   "properties": {
     "addr:housenumber": "1",
@@ -34552,6 +34631,27 @@
     "coordinates": [
       8.9115226,
       47.2727259
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9759476430",
+  "properties": {
+    "alt_name": "Pflegewohnung Spitex Bäretswil",
+    "amenity": "social_facility",
+    "name": "Pflegewohnung Bäretswil",
+    "operator": "Spitex Bäretswil",
+    "social_facility": "nursing_home",
+    "social_facility:for": "senior",
+    "website": "https://www.spitex-baeretswil.ch/pflegewohnung",
+    "id": "node/9759476430"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8564191,
+      47.3369974
     ]
   }
 }
