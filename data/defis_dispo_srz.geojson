@@ -42613,6 +42613,66 @@
       47.1277762
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/9761344225",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "PVA AG Eingang Süd",
+    "description": "während Öffnungszeiten verfügbar ",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Fr 7.00-21.00 Uhr",
+    "operator": "Firma",
+    "phone": "+41787126834",
+    "id": "node/9761344225"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8156815,
+      47.1924945
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9761651454",
+  "properties": {
+    "emergency": "defibrillator",
+    "indoor": "no",
+    "id": "node/9761651454"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6522372,
+      47.3378636
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9761953850",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "An der Aussenwand des Milchhüsli in einem Kasten.",
+    "emergency": "defibrillator",
+    "indoor": "no",
+    "level": "0",
+    "opening_hours": "24/7",
+    "wheelchair": "yes",
+    "id": "node/9761953850"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5970132,
+      47.6050289
+    ]
+  }
 }
 ]
 }
