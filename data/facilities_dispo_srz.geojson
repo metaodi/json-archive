@@ -15854,9 +15854,12 @@
     "addr:street": "Breitenhofstrasse",
     "amenity": "social_facility",
     "building": "yes",
+    "email": "info@breitenhof.ch",
     "name": "Alterszentrum Breitenhof",
+    "phone": "+41 55 250 75 75",
     "social_facility": "nursing_home",
     "social_facility:for": "senior",
+    "website": "https://www.breitenhof.ch/",
     "id": "way/204444065"
   },
   "geometry": {
@@ -18892,184 +18895,6 @@
         [
           8.8033306,
           47.0585533
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/252131853",
-  "properties": {
-    "addr:city": "Hinwil",
-    "addr:housenumber": "12",
-    "addr:postcode": "8340",
-    "addr:street": "Dürntnerstrasse",
-    "alt_name": "Wohnen im Alter Hinwil",
-    "amenity": "social_facility",
-    "building": "yes",
-    "name": "Alters- und Pflegeheim Hinwil, Haus Schätti",
-    "operator": "Stiftung Wohnen im Alter Hinwil",
-    "phone": "+41 44 938 32 32",
-    "social_facility": "nursing_home",
-    "social_facility:for": "senior",
-    "website": "http://www.aph-hinwil.ch",
-    "id": "way/252131853"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.8412941,
-          47.3006152
-        ],
-        [
-          8.8414668,
-          47.3007058
-        ],
-        [
-          8.8413111,
-          47.3008344
-        ],
-        [
-          8.841394,
-          47.3008746
-        ],
-        [
-          8.8413703,
-          47.3008976
-        ],
-        [
-          8.8417597,
-          47.3010893
-        ],
-        [
-          8.8420661,
-          47.3008321
-        ],
-        [
-          8.8421727,
-          47.3008941
-        ],
-        [
-          8.841758,
-          47.3012431
-        ],
-        [
-          8.8417106,
-          47.3012178
-        ],
-        [
-          8.841675,
-          47.3012523
-        ],
-        [
-          8.8409759,
-          47.3008907
-        ],
-        [
-          8.8412941,
-          47.3006152
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/252131858",
-  "properties": {
-    "addr:city": "Hinwil",
-    "addr:housenumber": "4",
-    "addr:postcode": "8340",
-    "addr:street": "Gemeindehausstrasse",
-    "alt_name": "Haus Meiligut Wohnen im Alter",
-    "amenity": "social_facility",
-    "building": "yes",
-    "name": "Alters- und Pflegeheim Hinwil, Haus Meiligut",
-    "operator": "Stiftung Wohnen im Alter Hinwil",
-    "phone": "+41449383247",
-    "social_facility": "nursing_home",
-    "social_facility:for": "senior",
-    "website": "http://www.aph-hinwil.ch",
-    "id": "way/252131858"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.8425752,
-          47.3022038
-        ],
-        [
-          8.8423239,
-          47.3021904
-        ],
-        [
-          8.8423369,
-          47.3020788
-        ],
-        [
-          8.842481,
-          47.3020079
-        ],
-        [
-          8.8425166,
-          47.3020412
-        ],
-        [
-          8.8426309,
-          47.3019849
-        ],
-        [
-          8.842587,
-          47.3019438
-        ],
-        [
-          8.8426297,
-          47.3019228
-        ],
-        [
-          8.8426703,
-          47.3019606
-        ],
-        [
-          8.8428218,
-          47.301886
-        ],
-        [
-          8.842899,
-          47.3019581
-        ],
-        [
-          8.8427026,
-          47.3020548
-        ],
-        [
-          8.8426709,
-          47.3020252
-        ],
-        [
-          8.8426242,
-          47.3020482
-        ],
-        [
-          8.842692,
-          47.3021116
-        ],
-        [
-          8.8425976,
-          47.302158
-        ],
-        [
-          8.8425806,
-          47.3021571
-        ],
-        [
-          8.8425752,
-          47.3022038
         ]
       ]
     ]
@@ -34692,7 +34517,6 @@
   "properties": {
     "alt_name": "Pflegezentrum Rosenthal Pflegeheim Wald Altersheim Wald Wohnen Rosenthal",
     "amenity": "social_facility",
-    "building": "yes",
     "email": "info@stiftungdreitannen.ch",
     "name": "Stiftung Drei Tannen / Pflegezentrum Rosenthal",
     "opening_date": "2021-07-01",
@@ -34708,8 +34532,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.9115226,
-      47.2727259
+      8.9112447,
+      47.2727464
     ]
   }
 },
@@ -34731,6 +34555,50 @@
     "coordinates": [
       8.8564191,
       47.3369974
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9767986693",
+  "properties": {
+    "alt_name": "Wohnen im Alter Hinwil; Alters- und Pflegeheim Hinwil; APH Hinwil",
+    "amenity": "social_facility",
+    "name": "Haus Schätti",
+    "operator": "Stiftung Wohnen im Alter Hinwil",
+    "phone": "+41 44 938 32 32",
+    "social_facility": "nursing_home",
+    "social_facility:for": "senior",
+    "website": "http://www.aph-hinwil.ch",
+    "id": "node/9767986693"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8415909,
+      47.301097
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9767986694",
+  "properties": {
+    "alt_name": "Alters- und Pflegeheim Hinwil; Haus Meiligut Wohnen im Alter",
+    "amenity": "social_facility",
+    "name": "Haus Meiligut",
+    "operator": "Stiftung Wohnen im Alter Hinwil",
+    "phone": "+41449383247",
+    "social_facility": "nursing_home",
+    "social_facility:for": "senior",
+    "website": "http://www.aph-hinwil.ch",
+    "id": "node/9767986694"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8425404,
+      47.3020956
     ]
   }
 }
