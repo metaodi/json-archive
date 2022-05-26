@@ -3869,7 +3869,7 @@
     "addr:postcode": "8340",
     "addr:street": "Eisweiherstrasse",
     "amenity": "fire_station",
-    "building": "yes",
+    "building": "fire_station",
     "name": "Stützpunkt Feuerwehr Hinwil",
     "phone": "+41 44 937 20 24",
     "website": "http://www.feuerwehr-hinwil.ch/",
