@@ -5098,6 +5098,7 @@
     "defibrillator:location": "Eingang Gemeindehaus Hüttikon",
     "emergency": "defibrillator",
     "emergency:phone": "144",
+    "indoor": "no",
     "opening_hours": "24/7",
     "id": "node/7565178710"
   },
@@ -12265,18 +12266,19 @@
   "type": "Feature",
   "id": "node/7928195412",
   "properties": {
-    "defibrillator:location": "Beim Bademeister",
-    "description": "während Öffnungszeiten verfügbar",
+    "defibrillator:location": "Eingang, Badi Hünenberg",
+    "description": "Aussenwand, links vor Eingang",
     "emergency": "defibrillator",
     "emergency:phone": "144",
-    "level": "0",
+    "opening_hours": "24/7",
+    "operator": "EWG Hünenberg",
     "id": "node/7928195412"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4526572,
-      47.1697915
+      8.4525704,
+      47.1698351
     ]
   }
 },
@@ -12321,18 +12323,20 @@
   "type": "Feature",
   "id": "node/7928195415",
   "properties": {
-    "defibrillator:location": "Im Innenbereich",
-    "description": "während Öffnungszeiten verfügbar",
+    "defibrillator:location": "Eingang Primarschule, Schulhaus Eichmatt, West Seite",
+    "description": "Aussenwand, links vor Aussentüre",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "level": "0",
+    "opening_hours": "24/7",
+    "operator": "EWG Hünenberg",
     "id": "node/7928195415"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4474108,
-      47.1772306
+      8.4472584,
+      47.1773938
     ]
   }
 },
