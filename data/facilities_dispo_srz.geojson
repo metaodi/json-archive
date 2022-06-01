@@ -19650,24 +19650,24 @@
           47.2673276
         ],
         [
-          8.7213613,
-          47.2674161
+          8.7213627,
+          47.2674032
         ],
         [
-          8.7213978,
-          47.2674479
+          8.7213789,
+          47.267416
         ],
         [
-          8.7214747,
-          47.2674092
+          8.7214625,
+          47.2674409
         ],
         [
-          8.721563,
-          47.2673581
+          8.7215363,
+          47.267381
         ],
         [
-          8.7217268,
-          47.2672568
+          8.72167,
+          47.2672859
         ],
         [
           8.7219587,
@@ -19678,16 +19678,24 @@
           47.2674386
         ],
         [
-          8.7221971,
-          47.267609
+          8.722183,
+          47.2675994
         ],
         [
-          8.7217679,
-          47.2675347
+          8.721888,
+          47.2675595
         ],
         [
-          8.7217374,
-          47.267583
+          8.7218022,
+          47.2675481
+        ],
+        [
+          8.7217339,
+          47.2675956
+        ],
+        [
+          8.7215882,
+          47.2678721
         ],
         [
           8.7214321,
@@ -23671,7 +23679,9 @@
     "building": "yes",
     "name": "Oase Oetwil am See",
     "operator": "Oase Service AG",
+    "phone": "+41 43 844 82 82",
     "social_facility": "nursing_home",
+    "website": "https://oaseoetwilamsee.ch/",
     "id": "way/436778926"
   },
   "geometry": {
@@ -29841,7 +29851,9 @@
     "building": "yes",
     "name": "Oase Oetwil am See",
     "operator": "Oase Service AG",
+    "phone": "+41 43 844 82 82",
     "social_facility": "nursing_home",
+    "website": "https://oaseoetwilamsee.ch/",
     "id": "way/795158662"
   },
   "geometry": {
@@ -33455,9 +33467,13 @@
     "addr:housenumber": "56",
     "addr:postcode": "8610",
     "addr:street": "Oberlandstrasse",
+    "alt_name": "Stiftung Lichthof; Wohn- und Pflegezentrum Lichthof",
     "amenity": "social_facility",
+    "email": "info@stiftung-lichthof.ch",
     "name": "Alters- und Pflegezentrum Neuwies Im Lichthof",
+    "phone": "+41 44 944 51 00",
     "social_facility": "nursing_home",
+    "website": "https://www.stiftung-lichthof.ch/",
     "id": "node/5756347836"
   },
   "geometry": {
