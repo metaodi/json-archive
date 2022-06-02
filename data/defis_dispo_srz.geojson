@@ -31582,15 +31582,17 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
+    "level": "2",
     "operator": "Hyatt",
     "phone": "+41 44 592 12 34",
+    "ref": "AED 66",
     "id": "node/8922688617"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5654591,
-      47.4503533
+      8.565353,
+      47.4502595
     ]
   }
 },
@@ -42135,6 +42137,7 @@
     "access": "yes",
     "defibrillator:location": "Links neben der Türe des Hauswartbüro neben dem Telefon zugänglich sobald die Halle offen ist. Das Hauswartsbüro ist vor dem Gebäude stehend bei der gläsernen Eingangstüre die Treppe hoch und dann auf der linken Seite gegenüber der Garderobe zu finden.",
     "emergency": "defibrillator",
+    "emergency:phone": "144",
     "indoor": "yes",
     "level": "1",
     "opening_hours": "Mo-Fr 07:30-21:00",
@@ -42451,6 +42454,7 @@
     "access": "yes",
     "defibrillator:location": "Beim Feuerwehrdepot bei den Garagetoren in der Mitte an der Aussenmauer.",
     "emergency": "defibrillator",
+    "emergency:phone": "144",
     "indoor": "no",
     "level": "0",
     "opening_hours": "24/7",
@@ -42582,6 +42586,7 @@
   "id": "node/9752635086",
   "properties": {
     "emergency": "defibrillator",
+    "emergency:phone": "144",
     "level": "0",
     "id": "node/9752635086"
   },
@@ -42621,6 +42626,7 @@
   "id": "node/9761651454",
   "properties": {
     "emergency": "defibrillator",
+    "emergency:phone": "144",
     "indoor": "no",
     "id": "node/9761651454"
   },
@@ -42639,6 +42645,7 @@
     "access": "yes",
     "defibrillator:location": "An der Aussenwand des Milchlokal in einem Kasten bei dem Anschlagbrett.",
     "emergency": "defibrillator",
+    "emergency:phone": "144",
     "indoor": "no",
     "level": "0",
     "opening_hours": "24/7",
@@ -42726,6 +42733,7 @@
   "properties": {
     "defibrillator:location": "In Hotel/Kino \"Loge\"",
     "emergency": "defibrillator",
+    "emergency:phone": "144",
     "indoor": "yes",
     "level": "0",
     "id": "node/9774804902"
@@ -42745,6 +42753,7 @@
     "access": "private",
     "defibrillator:location": "Im Eingangsbereich der Privatschule Morgentau gegenüber der Eingangstüre an der Wand.",
     "emergency": "defibrillator",
+    "emergency:phone": "144",
     "indoor": "yes",
     "level": "0",
     "opening_hours": "Mo-Fr 06:30-21:00; PH off",
