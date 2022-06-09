@@ -15698,8 +15698,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.6951268,
-      47.2533095
+      8.6951171,
+      47.2533257
     ]
   }
 },
@@ -23155,6 +23155,7 @@
   "properties": {
     "emergency": "defibrillator",
     "emergency:phone": "144",
+    "indoor": "yes",
     "id": "node/9047970539"
   },
   "geometry": {

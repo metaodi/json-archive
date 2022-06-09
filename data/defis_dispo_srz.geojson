@@ -24472,8 +24472,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.6951268,
-      47.2533095
+      8.6951171,
+      47.2533257
     ]
   }
 },
@@ -33200,6 +33200,7 @@
   "properties": {
     "emergency": "defibrillator",
     "emergency:phone": "144",
+    "indoor": "yes",
     "id": "node/9047970539"
   },
   "geometry": {
@@ -43149,6 +43150,28 @@
     "coordinates": [
       8.5792703,
       47.5296389
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9804074017",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Gemeindeverwaltung Baar",
+    "description": "Beim Empfang",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo - Fr 08:00 - 17:00",
+    "operator": "Gemeinde",
+    "id": "node/9804074017"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.526865,
+      47.1949505
     ]
   }
 }
