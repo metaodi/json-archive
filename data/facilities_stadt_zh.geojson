@@ -5149,6 +5149,7 @@
     "addr:street": "Limmattalstrasse",
     "amenity": "nursing_home",
     "building": "hospital",
+    "building:levels": "9",
     "capacity": "104",
     "name": "Pflegezentrum Bombach",
     "old_name": "Krankenheim Bombach",
