@@ -32716,6 +32716,26 @@
 },
 {
   "type": "Feature",
+  "id": "node/2950839437",
+  "properties": {
+    "addr:city": "Dietikon",
+    "addr:housenumber": "42",
+    "addr:postcode": "8953",
+    "addr:street": "Bleicherstrasse",
+    "amenity": "nursing_home",
+    "name": "Alterswohnheim Lindenbaum",
+    "id": "node/2950839437"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3956732,
+      47.4086386
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/3217160382",
   "properties": {
     "addr:city": "Neunkirch",

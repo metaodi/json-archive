@@ -22147,7 +22147,7 @@
     "indoor": "yes",
     "level": "0",
     "operator": "VBZ",
-    "phone": "+41 44 411 41 44,",
+    "phone": "+41 44 411 41 44",
     "id": "node/8977158260"
   },
   "geometry": {
@@ -22169,7 +22169,7 @@
     "indoor": "yes",
     "level": "0",
     "operator": "VBZ",
-    "phone": "+41 44 411 41 44,",
+    "phone": "+41 44 411 41 44",
     "id": "node/8977158261"
   },
   "geometry": {
@@ -22215,7 +22215,7 @@
     "indoor": "yes",
     "level": "-1",
     "operator": "VBZ",
-    "phone": "+41 44 411 41 44,",
+    "phone": "+41 44 411 41 44",
     "id": "node/8977158263"
   },
   "geometry": {
@@ -23376,8 +23376,8 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "opening_hours": "Mo-Fr 07:00-18:00, Sa-Su 08:00-17:30",
-    "operator": "Samariter Zürich 2, Britta Kuratli",
+    "opening_hours": "Mo-Fr 07:00-17:15, Sa-Su 08:00-17:00",
+    "operator": "Samariter Zürich 2",
     "phone": "+4143 244 61 23",
     "id": "node/9078511741"
   },
@@ -31135,6 +31135,29 @@
     "coordinates": [
       8.5330685,
       47.3662942
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9816443237",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Nach dem Haupteingang",
+    "emergency": "defibrillator",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "Mo-Fr 07:30-17:00",
+    "operator": "Bundesamt für Strassen ASTRA",
+    "phone": "+41 58 480 47 11",
+    "wheelchair": "limited",
+    "id": "node/9816443237"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7549979,
+      47.493728
     ]
   }
 }
