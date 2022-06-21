@@ -29738,9 +29738,6 @@
   "type": "Feature",
   "id": "node/9726250621",
   "properties": {
-    "access": "no",
-    "defibrillator:location": "Beim Bootsausstieg",
-    "description": "24h verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
@@ -29751,8 +29748,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4193897,
-      47.3999178
+      8.4189901,
+      47.3997608
     ]
   }
 },
@@ -31245,6 +31242,29 @@
     "coordinates": [
       8.6784421,
       47.594764
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9833011917",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Empfang INFRAS, 5. Stock, Binzstrasse 23, 8045 Zürich",
+    "description": "Während Bürozeiten",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Fr: 8:00-17:00",
+    "operator": "INFRAS AG",
+    "phone": "+41 44 205 95 95",
+    "id": "node/9833011917"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5147972,
+      47.3623226
     ]
   }
 }

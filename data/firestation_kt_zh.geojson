@@ -2682,11 +2682,6 @@
   "type": "Feature",
   "id": "way/135309646",
   "properties": {
-    "addr:city": "Seuzach",
-    "addr:country": "CH",
-    "addr:housenumber": "5",
-    "addr:postcode": "8472",
-    "addr:street": "Strehlgasse",
     "amenity": "fire_station",
     "building": "yes",
     "name": "Feuerwehr Seuzach",

@@ -13766,11 +13766,11 @@
   "id": "node/7930654679",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "Sporthalle Zug, Im Eingangsbereich",
+    "defibrillator:location": "Sporthalle Zug, Seiteneingang links",
     "description": "während Öffnungszeiten verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
-    "indoor": "no",
+    "indoor": "yes",
     "operator": "Stadtverwaltung Zug, Fachbereich Interne Sicherheit",
     "phone": "+41 58 728 90 63",
     "id": "node/7930654679"
@@ -13778,8 +13778,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5085303,
-      47.1756353
+      8.5084767,
+      47.1760036
     ]
   }
 },
@@ -41820,9 +41820,6 @@
   "type": "Feature",
   "id": "node/9726250621",
   "properties": {
-    "access": "no",
-    "defibrillator:location": "Beim Bootsausstieg",
-    "description": "24h verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
@@ -41833,8 +41830,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4193897,
-      47.3999178
+      8.4189901,
+      47.3997608
     ]
   }
 },
@@ -43610,6 +43607,29 @@
     "coordinates": [
       8.6784421,
       47.594764
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9833011917",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Empfang INFRAS, 5. Stock, Binzstrasse 23, 8045 Zürich",
+    "description": "Während Bürozeiten",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Fr: 8:00-17:00",
+    "operator": "INFRAS AG",
+    "phone": "+41 44 205 95 95",
+    "id": "node/9833011917"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5147972,
+      47.3623226
     ]
   }
 }
