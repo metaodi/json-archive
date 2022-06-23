@@ -5715,21 +5715,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/5998662717",
-  "properties": {
-    "amenity": "fire_station",
-    "id": "node/5998662717"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.7938601,
-      47.5407008
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/6039076647",
   "properties": {
     "amenity": "fire_station",
