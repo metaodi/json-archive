@@ -31043,6 +31043,7 @@
     "access": "customers",
     "defibrillator:location": "Inside mall, next to elevators on ground floor / Im EG, links nebem Liftreihe",
     "emergency": "defibrillator",
+    "emergency:phone": "144",
     "indoor": "yes",
     "level": "0",
     "wheelchair": "yes",
@@ -31064,6 +31065,7 @@
     "defibrillator:location": "Mehrzweckhalle Weiach",
     "description": "24h verfügbar",
     "emergency": "defibrillator",
+    "emergency:phone": "144",
     "indoor": "no",
     "opening_hours": "24/7",
     "operator": "Gemeindeverwaltung Weiach",
@@ -31150,6 +31152,7 @@
     "access": "no",
     "defibrillator:location": "Nach dem Haupteingang",
     "emergency": "defibrillator",
+    "emergency:phone": "144",
     "indoor": "yes",
     "level": "0",
     "opening_hours": "Mo-Fr 07:30-17:00",
@@ -31217,6 +31220,7 @@
     "access": "yes",
     "defibrillator:location": "Vor der Damentoilette in Brusthöhe an der Wand in einem roten Kasten. Nur in der Badesaison an dieser Stelle zu finden.",
     "emergency": "defibrillator",
+    "emergency:phone": "144",
     "indoor": "no",
     "level": "0",
     "opening_hours": "24/7",
@@ -31239,6 +31243,7 @@
     "access": "yes",
     "defibrillator:location": "In der Kirche vorne rechts neben dem Eingang in einem weissen Kästchen an der Wand.",
     "emergency": "defibrillator",
+    "emergency:phone": "144",
     "indoor": "yes",
     "level": "0",
     "wheelchair": "limited",
@@ -31417,6 +31422,7 @@
     "access": "yes",
     "defibrillator:location": "Next to pool entrance outdoors / Aussen, neben Hallenbadeingang",
     "emergency": "defibrillator",
+    "emergency:phone": "144",
     "level": "0",
     "wheelchair": "yes",
     "id": "node/9845842794"
@@ -31440,7 +31446,7 @@
     "emergency:phone": "144",
     "indoor": "yes",
     "opening_hours": "Mo-Fr 06:30-18:00",
-    "operator": "Procamed / Marco Jenni",
+    "operator": "Mi Adelita GmbH",
     "phone": "+41 052 368 60 00",
     "id": "node/9852194594"
   },
@@ -31491,6 +31497,50 @@
     "coordinates": [
       8.496832,
       47.4229398
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9860078807",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Wandschrank Reception",
+    "description": "24h verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "24/7",
+    "operator": "Operation / FM - Zurich Development Center",
+    "phone": "+41 44 626 75 75",
+    "id": "node/9860078807"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5649995,
+      47.3752136
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9860341170",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Nach der zweiten Schiebetüre links um die Ecke.",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Fr 07:00-18:30",
+    "phone": "+41793598489",
+    "id": "node/9860341170"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5339187,
+      47.3720944
     ]
   }
 }

@@ -34686,6 +34686,31 @@
       47.3020956
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/9860737812",
+  "properties": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "65",
+    "addr:postcode": "8400",
+    "addr:street": "Rosentalstrasse",
+    "amenity": "social_facility",
+    "name": "Alterszentrum Rosental",
+    "operator": "Stadt Winterthur",
+    "operator:type": "public",
+    "social_facility": "nursing_home",
+    "social_facility:for": "senior",
+    "wheelchair": "yes",
+    "id": "node/9860737812"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7228674,
+      47.510639
+    ]
+  }
 }
 ]
 }
