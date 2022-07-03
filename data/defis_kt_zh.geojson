@@ -27713,7 +27713,7 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "opening_hours": "Mo - Fr: 8.00 - 17.00",
+    "opening_hours": "Mo-Fr 08:00-17:00",
     "operator": "Unternehmen",
     "phone": "+41522460400",
     "id": "node/9531793117"
@@ -28861,19 +28861,20 @@
   "id": "node/9630319017",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "Autohalle Andelfingen bei Garderobe",
+    "defibrillator:location": "Autohalle Andelfingen bei Garderobe.\nNext to the reception.",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
     "opening_hours": "24/7",
     "operator": "Autohalle Andelfingen",
+    "wheelchair": "no",
     "id": "node/9630319017"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.6922379,
-      47.5933436
+      8.6920456,
+      47.5935447
     ]
   }
 },
@@ -29573,12 +29574,13 @@
   "id": "node/9722513417",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "Trepprnhaus im 3. Stock",
+    "defibrillator:location": "Treppenhaus im 3. Stock",
     "description": "Während Öffnungszeiten",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "opening_hours": "Mo-Fr 07.30-18.00",
+    "level": "3",
+    "opening_hours": "Mo-Fr 07:30-18:00",
     "operator": "Firma",
     "id": "node/9722513417"
   },
@@ -31541,6 +31543,25 @@
     "coordinates": [
       8.5339187,
       47.3720944
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9862771836",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Im Gebäude vor dem Eingang der Turnhalle (ungenaue Langebeschreibung bitte verbessern).",
+    "emergency": "defibrillator",
+    "indoor": "yes",
+    "note": "TODO Ungenaue Lage",
+    "id": "node/9862771836"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6751445,
+      47.5974475
     ]
   }
 }
