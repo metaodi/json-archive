@@ -6384,15 +6384,15 @@
     "access": "yes",
     "defibrillator:location": "Vor dem Eingang ins Sanitätszimmer",
     "emergency": "defibrillator",
-    "emergency:phone": "144",
+    "indoor": "no",
     "opening_hours": "24/7",
     "id": "node/7579716799"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5197243,
-      47.1223599
+      8.5198027,
+      47.1223699
     ]
   }
 },
@@ -38164,8 +38164,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5328203,
-      47.3629172
+      8.5324046,
+      47.363157
     ]
   }
 },
@@ -44176,6 +44176,28 @@
     "coordinates": [
       8.6079938,
       47.678976
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9865771117",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Diebishütte ",
+    "description": "Gaden",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Altendorf",
+    "id": "node/9865771117"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8293533,
+      47.1616004
     ]
   }
 }
