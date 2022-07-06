@@ -193,12 +193,12 @@
   "type": "Feature",
   "id": "node/3615202622",
   "properties": {
-    "defibrillator:location": "six, ask at reception",
+    "defibrillator:location": "SIX Group AG, ask at reception",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "opening_hours": "Mo-Fr 08:30-18:00",
-    "operator": "SIX",
+    "opening_hours": "Mo-Fr 08:00-17:00",
+    "operator": "SIX Group AG",
     "id": "node/3615202622"
   },
   "geometry": {
@@ -8415,27 +8415,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/8173737656",
-  "properties": {
-    "access": "no",
-    "defibrillator:location": "ETH: Eingang (Erste Hilfe Raum)",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "yes",
-    "opening_hours": "Mo-Fr 08:30-18:00",
-    "operator": "ETH Zürich",
-    "id": "node/8173737656"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5095468,
-      47.393485
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/8178867247",
   "properties": {
     "access": "yes",
@@ -13927,7 +13906,7 @@
     "emergency:phone": "144",
     "indoor": "yes",
     "opening_hours": "Mo-Fr 07:45-17:30",
-    "operator": "Dr. med. Beat Keller",
+    "operator": "Dermapraxis",
     "phone": "+41 44 789 00 00",
     "id": "node/8560803973"
   },
@@ -31530,12 +31509,14 @@
   "id": "node/9860341170",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "Nach der zweiten Schiebetüre links um die Ecke.",
+    "defibrillator:location": "Nach der zweiten Schiebetüre links um die Ecke in einem Indoor Wandkasten weiss.",
+    "description": "während Öffnungszeiten verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "opening_hours": "Mo-Fr 07:00-18:30",
-    "phone": "+41793598489",
+    "opening_hours": "Mo-Fr 06:30-18:30",
+    "operator": "Tanova AG / U. Altenbach",
+    "phone": "+41 44 227 70 70",
     "id": "node/9860341170"
   },
   "geometry": {
@@ -31562,6 +31543,25 @@
     "coordinates": [
       8.6751445,
       47.5974475
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9868114230",
+  "properties": {
+    "Zeit": "Mo - Fr, 07.00 - 19.00 Uhr",
+    "defibrillator:location": "SIX Group AG, ask at Reception\nDirekt beim Empfang nachfragen",
+    "emergency": "defibrillator",
+    "indoor": "yes",
+    "operator": "SIX Group AG",
+    "id": "node/9868114230"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5067299,
+      47.3915557
     ]
   }
 }
