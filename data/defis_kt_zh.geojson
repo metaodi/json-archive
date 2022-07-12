@@ -29485,14 +29485,18 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
-    "operator": "defibrillator.ch",
+    "level": "0",
+    "opening_hours": "24/7",
+    "operator": "Baugenossenschaft mehr als wohnen (maw)",
+    "phone": "+41 44 325 40 40",
+    "wheelchair": "limited",
     "id": "node/9711832817"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.7632998,
-      47.5093373
+      8.7629955,
+      47.5094901
     ]
   }
 },
@@ -31662,6 +31666,45 @@
     "coordinates": [
       8.5444372,
       47.4071589
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9880501825",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "1. Stock",
+    "description": "beim Empfang melden",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "08:00 - 17:00",
+    "operator": "Post",
+    "id": "node/9880501825"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6390539,
+      47.2360915
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9881526608",
+  "properties": {
+    "description": "inside the building",
+    "emergency": "defibrillator",
+    "name": "Defibrillator (AED)",
+    "id": "node/9881526608"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6306258,
+      47.4053637
     ]
   }
 }
