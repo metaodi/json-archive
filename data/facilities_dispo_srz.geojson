@@ -427,7 +427,7 @@
     "addr:street": "Römerweg",
     "amenity": "social_facility",
     "building": "yes",
-    "name": "Zentrum Pflegezentrum Embrach KZU / Arztpraxen",
+    "name": "KZU Kompetenzzentrum Pflege und Gesundheit",
     "short_name": "KZU Embrach",
     "social_facility": "nursing_home",
     "social_facility:for": "senior",
@@ -451,8 +451,8 @@
           47.5242755
         ],
         [
-          8.5849765,
-          47.5242799
+          8.5849778,
+          47.5242804
         ],
         [
           8.5850184,
@@ -30988,12 +30988,13 @@
   "type": "Feature",
   "id": "way/1009849339",
   "properties": {
-    "amenity": "hospital",
+    "amenity": "clinic",
     "healthcare": "hospital",
     "healthcare:speciality": "psychiatry",
     "hospital": "psychiatry",
-    "name": "IPW Integrierte Psychiatrie Winterthur - Zürcher Unterland Zentrum Hard",
-    "short_name": "IPW Embrach Zentrum Hard",
+    "name": "IPW - Zürcher Unterland Zentrum Hard",
+    "operator": "IPW Integrierte Psychiatrie Winterthur",
+    "short_name": "IPW Klinik Hard",
     "id": "way/1009849339"
   },
   "geometry": {
