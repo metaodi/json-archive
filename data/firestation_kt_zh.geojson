@@ -1747,47 +1747,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/93119271",
-  "properties": {
-    "addr:city": "Weisslingen",
-    "addr:housenumber": "40",
-    "addr:postcode": "8484",
-    "addr:street": "Dorfstrasse",
-    "amenity": "fire_station",
-    "building": "yes",
-    "name": "Feuerwehr Weisslingen",
-    "id": "way/93119271"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.763354,
-          47.4333392
-        ],
-        [
-          8.763322,
-          47.4331965
-        ],
-        [
-          8.7636112,
-          47.4331668
-        ],
-        [
-          8.7636432,
-          47.4333095
-        ],
-        [
-          8.763354,
-          47.4333392
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/94119195",
   "properties": {
     "addr:housenumber": "27",
@@ -6180,6 +6139,28 @@
     "coordinates": [
       8.7293331,
       47.5580188
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9907054443",
+  "properties": {
+    "addr:city": "Weisslingen",
+    "addr:postcode": "8484",
+    "addr:street": "Dorfstrasse",
+    "amenity": "fire_station",
+    "email": "info@fw-wislig.ch",
+    "name": "Feuerwehr Weisslingen",
+    "operator": "Gemeinde Weisslingen",
+    "website": "www.fw-wislig.ch",
+    "id": "node/9907054443"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7638813,
+      47.4327825
     ]
   }
 }
