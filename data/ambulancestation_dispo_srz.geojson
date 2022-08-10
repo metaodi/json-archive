@@ -585,23 +585,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/7465975607",
-  "properties": {
-    "emergency": "ambulance_station",
-    "name": "Rettungsdienst Winterthur - Wache Kemptthal",
-    "operator": "Rettungsdienst Winterthur",
-    "id": "node/7465975607"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.7050718,
-      47.4527222
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/7465975608",
   "properties": {
     "emergency": "ambulance_station",
@@ -826,6 +809,23 @@
     "coordinates": [
       8.7254786,
       47.3528382
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9941663602",
+  "properties": {
+    "emergency": "ambulance_station",
+    "name": "Rettungsdienst Winterthur - Wache Süd-West",
+    "operator": "Rettungsdienst Winterthur",
+    "id": "node/9941663602"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7513064,
+      47.4256203
     ]
   }
 }
