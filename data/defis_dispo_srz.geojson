@@ -46006,6 +46006,51 @@
       47.3786487
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/9957003417",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Stadthaus",
+    "description": "links neben Haupteingang",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Stadt Dübendorf",
+    "id": "node/9957003417"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6181949,
+      47.3968914
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9957235816",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "2. OG vor Sanitätszimmer (neben Personenlift)",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Fr 08:00-17:00",
+    "operator": "Stiftung SAG, Rahel Zuber",
+    "phone": "+41 44 534 69 85",
+    "id": "node/9957235816"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6626513,
+      47.3810611
+    ]
+  }
 }
 ]
 }
