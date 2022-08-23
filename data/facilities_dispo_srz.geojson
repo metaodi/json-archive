@@ -32916,34 +32916,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/4937236839",
-  "properties": {
-    "addr:city": "Zürich",
-    "addr:country": "CH",
-    "addr:housenumber": "130",
-    "addr:postcode": "8032",
-    "addr:street": "Asylstrasse",
-    "amenity": "social_facility",
-    "capacity": "88+8",
-    "email": "asz-kluspark@zuerich.ch",
-    "name": "Alterszentrum Klus Park",
-    "operator": "Stadt Zürich, GUD",
-    "phone": "+41 44 414 03 33",
-    "social_facility": "group_home",
-    "social_facility:for": "senior",
-    "website": "https://www.stadt-zuerich.ch/az-kluspark",
-    "id": "node/4937236839"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5649772,
-      47.3648424
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/4937236840",
   "properties": {
     "addr:city": "Zürich",
