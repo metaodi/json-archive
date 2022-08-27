@@ -797,8 +797,13 @@
   "type": "Feature",
   "id": "node/9785218888",
   "properties": {
+    "addr:city": "Uster",
+    "addr:housenumber": "3",
+    "addr:postcode": "8610",
+    "addr:street": "Feldhofstrasse",
     "email": "sekretariat.rettungsdienst@spital-uster.ch",
     "emergency": "ambulance_station",
+    "emergency:phone": "144",
     "name": "Rettungsdienst Uster",
     "operator": "Spital Uster",
     "website": "https://www.spitaluster.ch/de/Patienten/Behandlungsangebot/Fuer-Patienten/Bereiche/Rettungsdienst.135.html",
@@ -807,8 +812,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.7254786,
-      47.3528382
+      8.7232208,
+      47.3521591
     ]
   }
 },
