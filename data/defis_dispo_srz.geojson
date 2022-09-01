@@ -25209,29 +25209,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/8592058545",
-  "properties": {
-    "access": "yes",
-    "defibrillator:location": "beim Hauszugang neben den Briefkästen",
-    "description": "24h verfügbar",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "no",
-    "opening_hours": "24/7",
-    "operator": "Gemeinde Reichenburg",
-    "phone": "+41 55 464 30 60",
-    "id": "node/8592058545"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.9793233,
-      47.1677189
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/8592065341",
   "properties": {
     "access": "yes",
@@ -46670,6 +46647,46 @@
     "coordinates": [
       8.5926542,
       47.4484786
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9989942217",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Bahnhofstrasse 28, 8864 Reichenburg, links an der Garagenwand",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "phone": "+41 79 223 49 90",
+    "id": "node/9989942217"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9792801,
+      47.1710388
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9990319818",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Eingang Fitness Plus / SIEMENS / Integra",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "id": "node/9990319818"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5901615,
+      47.4122655
     ]
   }
 }
