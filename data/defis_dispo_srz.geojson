@@ -26879,12 +26879,13 @@
   "properties": {
     "access": "yes",
     "defibrillator:location": "Auf dem Platz an einer Säule.",
-    "description": "Immer zugänglich",
+    "description": "24h verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
     "opening_hours": "24/7",
-    "operator": "Resqueshok",
+    "operator": "Stadt Kloten",
+    "phone": "+41 44 815 11 11",
     "id": "node/8638213517"
   },
   "geometry": {
@@ -46662,7 +46663,6 @@
     "emergency:phone": "144",
     "indoor": "no",
     "opening_hours": "24/7",
-    "phone": "+41 79 223 49 90",
     "id": "node/9989942217"
   },
   "geometry": {
@@ -46711,6 +46711,393 @@
     "coordinates": [
       8.5133178,
       47.1761786
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9994146117",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "An Wand direkt im Eingangsbereich",
+    "description": "24h Verfügbar (nachts Öffnung des Zugangs nur über Nachtdienst-Klingel)",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Stiftung Emilienheim",
+    "phone": "0447154153",
+    "id": "node/9994146117"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5377655,
+      47.3288082
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9995101338",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "stimo Arena",
+    "description": "24h verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Stadt Kloten",
+    "phone": "+41 44 815 11 11",
+    "id": "node/9995101338"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.583726,
+      47.4418271
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9995101339",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Turnhalle Sekundarschule Spitz",
+    "description": "24h verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Stadt Kloten",
+    "phone": "+41 44 815 11 11",
+    "id": "node/9995101339"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5861413,
+      47.4453145
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9995101340",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Turnhalle Primarschule Spitz",
+    "description": "24h verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Stadt Kloten",
+    "phone": "+41 44 815 11 11",
+    "id": "node/9995101340"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5855284,
+      47.4456293
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9995101341",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Pflegezentrum",
+    "description": "24h verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Stadt Kloten",
+    "phone": "+41 44 815 11 11",
+    "id": "node/9995101341"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5850309,
+      47.4458941
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9995101342",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Konferenzzentrum Schluefweg",
+    "description": "24h verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Stadt Kloten",
+    "phone": "+41 44 815 11 11",
+    "id": "node/9995101342"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5823177,
+      47.4441745
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9995101343",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Schulhaus Hinterwiden",
+    "description": "24h verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Stadt Kloten",
+    "phone": "+41 44 815 11 11",
+    "id": "node/9995101343"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5754587,
+      47.4467303
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9995101344",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Stadthauspassage vis-a-vis Migros",
+    "description": "24h verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Stadt Kloten",
+    "phone": "+41 44 815 11 11",
+    "id": "node/9995101344"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.58178,
+      47.4509421
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9995101345",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Dienstleistungszentrum",
+    "description": "24h verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Stadt Kloten",
+    "phone": "+41 44 815 11 11",
+    "id": "node/9995101345"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5828932,
+      47.4517737
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9995101346",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Ortsmuseum",
+    "description": "24h verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Stadt Kloten",
+    "phone": "+41 44 815 11 11",
+    "id": "node/9995101346"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5880023,
+      47.4523554
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9995101347",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Sporthalle Stighag",
+    "description": "24h verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Stadt Kloten",
+    "phone": "+41 44 815 11 11",
+    "id": "node/9995101347"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5849249,
+      47.4554436
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9995101348",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Turnhalle Nägelimoos 11b",
+    "description": "24h verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Stadt Kloten",
+    "phone": "+41 44 815 11 11",
+    "id": "node/9995101348"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5876474,
+      47.4625036
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9995101349",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Turnhalle Nägelimoos 11a",
+    "description": "24h verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Stadt Kloten",
+    "phone": "+41 44 815 11 11",
+    "id": "node/9995101349"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5866255,
+      47.4628372
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9995101350",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Turnhalle Ruebisbach an der Talacherstrasse 2",
+    "description": "24h verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Stadt Kloten",
+    "phone": "+41 44 815 11 11",
+    "id": "node/9995101350"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5778895,
+      47.4621191
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9995138399",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Auf dem Gelände der Primarschule vor dem Eingang zur Turnhalle Letten",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "id": "node/9995138399"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.437904,
+      47.3557319
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9995145711",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "2. Stock, Aufenthaltsraum, beim Eingang Küche links auf Augenhöhe",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "2",
+    "operator": "Janine Flückiger",
+    "phone": "+41 41 784 30 92",
+    "id": "node/9995145711"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4362783,
+      47.1620522
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9995157749",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "In der Arztpraxis",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Fr 08:00-12:00, 14:00-19:30",
+    "operator": "Hausarztpraxis Dinhard, Dr. Patti",
+    "phone": "+41 52 336 19 38",
+    "id": "node/9995157749"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.767577,
+      47.555385
     ]
   }
 }
