@@ -2231,10 +2231,11 @@
     "addr:housenumber": "22",
     "addr:postcode": "8055",
     "addr:street": "Sieberstrasse",
+    "alt_name": "Pflegezentrum Gehrenholz",
     "amenity": "nursing_home",
     "building": "hospital",
     "capacity": "126",
-    "name": "Pflegezentrum Gehrenholz",
+    "name": "Gesundheitszentrum für das Alter Gehrenholz",
     "old_name": "Krankenheim Gehrenholz",
     "operator": "Stadt Zürich, GUD",
     "owner": "Immobilien Stadt Zürich (IMMO)",
@@ -4107,11 +4108,12 @@
     "addr:housenumber": "69",
     "addr:postcode": "8004",
     "addr:street": "Bullingerstrasse",
+    "alt_name": "Alterszentrum Bullinger-Hardau",
     "amenity": "social_facility",
     "building": "residential",
     "capacity": "102+5",
     "email": "asz­bullinger­hardau@zuerich.ch",
-    "name": "Alterszentrum Bullinger-Hardau",
+    "name": "Gesundheitszentrum für das Alter Bullinger-Hardau",
     "operator": "Stadt Zürich, GUD",
     "owner": "Immobilien Stadt Zürich (IMMO)",
     "phone": "+41 44 414 15 15",
@@ -6265,7 +6267,7 @@
     "amenity": "nursing_home",
     "building": "hospital",
     "capacity": "159",
-    "name": "Gesundheitszentrum Bachwiesen",
+    "name": "Gesundheitszentrum für das Alter Bachwiesen",
     "old_name": "Krankenheim Bachwiesen",
     "operator": "Stadt Zürich, GUD",
     "owner": "Immobilien Stadt Zürich (IMMO)",
@@ -6451,12 +6453,13 @@
     "addr:housenumber": "10",
     "addr:postcode": "8064",
     "addr:street": "Bändlistrasse",
+    "alt_name": "Alterszentrum Grünau",
     "amenity": "social_facility",
     "building": "residential",
     "building:levels": "5",
     "capacity": "67+8",
     "email": "asz-gruenau@zuerich.ch",
-    "name": "Alterszentrum Grünau",
+    "name": "Gesundheitszentrum für das Alter Grünau",
     "operator": "Stadt Zürich, GUD",
     "owner": "Immobilien Stadt Zürich (IMMO)",
     "phone": "+41 44 414 13 13",
@@ -10870,11 +10873,12 @@
     "addr:housenumber": "29",
     "addr:postcode": "8032",
     "addr:street": "Ebelstrasse",
+    "alt_name": "Alterszentrum Doldertal",
     "amenity": "social_facility",
     "building": "residential",
     "capacity": "28",
     "email": "asz-doldertal@zuerich.ch",
-    "name": "Alterszentrum Doldertal",
+    "name": "Gesundheitszentrum für das Alter Doldertal",
     "operator": "Stadt Zürich, GUD",
     "owner": "Immobilien Stadt Zürich (IMMO)",
     "phone": "+41 44 265 30 20",
@@ -10889,80 +10893,72 @@
     "coordinates": [
       [
         [
-          8.5664172,
-          47.3746327
+          8.5664304,
+          47.3746281
         ],
         [
-          8.5664015,
-          47.374546
+          8.5664155,
+          47.3745403
         ],
         [
-          8.5663927,
-          47.3745468
+          8.566381,
+          47.3745429
         ],
         [
-          8.5663809,
-          47.3744818
+          8.5663599,
+          47.3744188
         ],
         [
-          8.5663897,
-          47.374481
+          8.5664114,
+          47.3744147
         ],
         [
-          8.566379,
-          47.3744217
+          8.5664062,
+          47.3743842
         ],
         [
-          8.5663982,
-          47.3744201
+          8.5665207,
+          47.3743753
         ],
         [
-          8.566392,
-          47.3743856
+          8.566526,
+          47.3744066
         ],
         [
-          8.5665065,
-          47.3743761
+          8.5665435,
+          47.3744052
         ],
         [
-          8.5665124,
-          47.3744089
+          8.5665536,
+          47.3744644
         ],
         [
-          8.5665289,
-          47.3744076
+          8.5665691,
+          47.3744632
         ],
         [
-          8.5665403,
-          47.3744704
+          8.5665798,
+          47.3745265
         ],
         [
-          8.5665555,
-          47.3744691
+          8.5665649,
+          47.3745276
         ],
         [
-          8.5665658,
-          47.3745257
+          8.5665891,
+          47.3746697
         ],
         [
-          8.5665501,
-          47.374527
+          8.5664624,
+          47.3746796
         ],
         [
-          8.5665761,
-          47.3746698
+          8.5664534,
+          47.3746263
         ],
         [
-          8.5664528,
-          47.3746801
-        ],
-        [
-          8.5664438,
-          47.3746305
-        ],
-        [
-          8.5664172,
-          47.3746327
+          8.5664304,
+          47.3746281
         ]
       ]
     ]
@@ -12472,12 +12468,12 @@
     "addr:housenumber": "45",
     "addr:postcode": "8038",
     "addr:street": "Paradiesstrasse",
-    "alt_name": "Memory Clinic Entlisberg Zürich",
+    "alt_name": "Pflegezentrum Entlisberg",
     "amenity": "nursing_home",
     "building": "hospital",
     "building:levels": "10",
     "capacity": "317",
-    "name": "Pflegezentrum Entlisberg",
+    "name": "Gesundheitszentrum für das Alter Entlisberg",
     "old_name": "Krankenheim Entlisberg",
     "operator": "Stadt Zürich, GUD",
     "owner": "Immobilien Stadt Zürich (IMMO)",
@@ -23266,11 +23262,12 @@
     "addr:housenumber": "371",
     "addr:postcode": "8049",
     "addr:street": "Limmattalstrasse",
+    "alt_name": "Pflegezentrum Bombach",
     "amenity": "nursing_home",
     "building": "hospital",
     "building:levels": "9",
     "capacity": "104",
-    "name": "Pflegezentrum Bombach",
+    "name": "Gesundheitszentrum für das Alter Bombach",
     "old_name": "Krankenheim Bombach",
     "operator": "Stadt Zürich, GUD",
     "owner": "Immobilien Stadt Zürich (IMMO)",
@@ -27178,60 +27175,88 @@
     "coordinates": [
       [
         [
-          8.4628819,
-          47.0990741
+          8.4629302,
+          47.0994581
         ],
         [
-          8.4628861,
-          47.0990819
+          8.4628721,
+          47.0991033
         ],
         [
-          8.4630987,
-          47.0990673
+          8.4631029,
+          47.0990854
         ],
         [
-          8.4631318,
-          47.0992762
+          8.4631244,
+          47.099225
         ],
         [
-          8.4633837,
-          47.0992995
+          8.4630735,
+          47.0992302
         ],
         [
-          8.4633981,
-          47.0992271
+          8.4630875,
+          47.0992934
         ],
         [
-          8.4635519,
-          47.0992414
+          8.4631311,
+          47.0992962
         ],
         [
-          8.4635376,
-          47.0993129
+          8.4631377,
+          47.0992663
         ],
         [
-          8.4637679,
-          47.0993342
+          8.4633956,
+          47.0992886
         ],
         [
-          8.4637241,
-          47.099553
+          8.4634065,
+          47.0992195
         ],
         [
-          8.4630175,
-          47.0994877
+          8.4634503,
+          47.0992003
         ],
         [
-          8.4630262,
-          47.0994444
+          8.4635013,
+          47.0991951
         ],
         [
-          8.4629421,
-          47.0994367
+          8.4635459,
+          47.0991998
         ],
         [
-          8.4628819,
-          47.0990741
+          8.4635787,
+          47.0992112
+        ],
+        [
+          8.4636161,
+          47.0992347
+        ],
+        [
+          8.4636018,
+          47.0993053
+        ],
+        [
+          8.4637763,
+          47.0993199
+        ],
+        [
+          8.4637339,
+          47.0995535
+        ],
+        [
+          8.4629917,
+          47.0994906
+        ],
+        [
+          8.4629843,
+          47.0994558
+        ],
+        [
+          8.4629302,
+          47.0994581
         ]
       ]
     ]
@@ -33048,10 +33073,11 @@
     "addr:housenumber": "4",
     "addr:postcode": "8050",
     "addr:street": "Dorflindenstrasse",
+    "alt_name": "Alterszentrum Dorflinde",
     "amenity": "social_facility",
     "capacity": "76+24",
     "email": "asz-dorflinde@zuerich.ch",
-    "name": "Alterszentrum Dorflinde",
+    "name": "Gesundheitszentrum für das Alter Dorflinde",
     "operator": "Stadt Zürich, GUD",
     "phone": "+41 44 414 22 00",
     "social_facility": "group_home",
@@ -33080,7 +33106,7 @@
     "amenity": "social_facility",
     "capacity": "55+16",
     "email": "asz­buergerasyl-pfrundhaus@zuerich.ch",
-    "name": "Gesundheitszentrum Bürgerasyl-Pfrundhaus",
+    "name": "Gesundheitszentrum für das Alter Bürgerasyl-Pfrundhaus",
     "operator": "Stadt Zürich, GUD",
     "phone": "+41 44 414 11 11",
     "social_facility": "group_home",
