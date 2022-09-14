@@ -35684,9 +35684,11 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
+    "level": "0",
     "opening_hours": "24/7",
     "operator": "Genossenschaft Baufreunde",
-    "phone": "043 299 20 60",
+    "phone": "+41 43 299 20 60",
+    "wheelchair": "limited",
     "id": "node/9281134317"
   },
   "geometry": {
@@ -38630,8 +38632,9 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
+    "level": "0",
     "operator": "Kissling AG",
-    "phone": "+41443089797",
+    "phone": "+41 44 308 97 17",
     "id": "node/9524918535"
   },
   "geometry": {
@@ -47828,6 +47831,47 @@
     "coordinates": [
       8.4628877,
       47.3684701
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10021533017",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Gasthaus Sternen",
+    "description": "Während den Öffnungszeiten",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mittwoch-Sonntag 09:00-22:00",
+    "operator": "Privatperson",
+    "id": "node/10021533017"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9108727,
+      47.387046
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10021553017",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Fussballplatz FC Wülflingen",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "id": "node/10021553017"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6905357,
+      47.5195783
     ]
   }
 }
