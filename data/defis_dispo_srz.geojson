@@ -28226,8 +28226,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5450095,
-      47.3095998
+      8.5449252,
+      47.3096019
     ]
   }
 },
@@ -47872,6 +47872,52 @@
     "coordinates": [
       8.6905357,
       47.5195783
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10023921617",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Werkstattempfang ",
+    "description": "während der Öffnungszeiten",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Fr 07:30-17:00",
+    "operator": "MAN Truck & Bus Schweiz AG",
+    "phone": "+41448471111",
+    "id": "node/10023921617"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4083285,
+      47.4589164
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10024785518",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Medela AG",
+    "description": "während Öffnungszeiten verfügbar ",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Fr 08.00-17.00",
+    "operator": "Privatunternehmen",
+    "phone": "+4141 562 51 51",
+    "id": "node/10024785518"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.540595,
+      47.1994242
     ]
   }
 }
