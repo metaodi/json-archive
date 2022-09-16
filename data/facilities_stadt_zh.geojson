@@ -8127,6 +8127,27 @@
       47.4134397
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/10026900205",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "14",
+    "addr:postcode": "8038",
+    "addr:street": "Dangelstrasse",
+    "amenity": "social_facility",
+    "name": "Tageszentrum Entlisberg Haus B",
+    "social_facility": "nursing_home",
+    "id": "node/10026900205"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5279999,
+      47.3336122
+    ]
+  }
 }
 ]
 }
