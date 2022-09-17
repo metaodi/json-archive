@@ -6634,11 +6634,12 @@
     "addr:housenumber": "7",
     "addr:postcode": "8051",
     "addr:street": "Glattstegweg",
+    "alt_name": "Alterszentrum Herzogenmühle",
     "amenity": "social_facility",
     "building": "residential",
     "capacity": "70+5",
     "email": "asz-herzogenmuehle@zuerich.ch",
-    "name": "Alterszentrum Herzogenmühle",
+    "name": "Gesundheitszentrum für das Alter Herzogenmühle",
     "operator": "Stadt Zürich, GUD",
     "owner": "Immobilien Stadt Zürich (IMMO)",
     "phone": "+41 44 414 33 00",
@@ -7065,11 +7066,14 @@
   "type": "Feature",
   "id": "way/55700720",
   "properties": {
+    "addr:city": "Zürich",
     "addr:housenumber": "2",
+    "addr:postcode": "8041",
     "addr:street": "Klebestrasse",
+    "alt_name": "Haus Balderen",
     "amenity": "social_facility",
     "building": "yes",
-    "name": "Haus Balderen",
+    "name": "Gesundheitszentrum für das Alter Balderen",
     "social_facility": "nursing_home",
     "social_facility:for": "senior",
     "id": "way/55700720"
@@ -7193,11 +7197,12 @@
     "addr:housenumber": "31",
     "addr:postcode": "8702",
     "addr:street": "Schützenstrasse",
+    "alt_name": "Alterszentrum Rebwies",
     "amenity": "social_facility",
     "building": "residential",
     "capacity": "76+7",
     "email": "asz-rebwies@zuerich.ch",
-    "name": "Alterszentrum Rebwies",
+    "name": "Gesundheitszentrum für das Alter Rebwies",
     "operator": "Stadt Zürich, GUD",
     "owner": "Immobilien Stadt Zürich (IMMO)",
     "phone": "+41 44 396 46 96",
@@ -8010,9 +8015,10 @@
     "addr:housenumber": "21",
     "addr:postcode": "8330",
     "addr:street": "Waldfriedenstrasse",
+    "alt_name": "Altersheim Waldfrieden",
     "amenity": "social_facility",
     "building": "yes",
-    "name": "Altersheim Waldfrieden",
+    "name": "Gesundheitszentrum für das Alter Waldfrieden",
     "phone": "+41 44 953 10 60",
     "social_facility": "group_home",
     "social_facility:for": "senior",
@@ -8023,24 +8029,132 @@
     "coordinates": [
       [
         [
-          8.7947877,
-          47.3752686
+          8.7947906,
+          47.3752628
         ],
         [
-          8.7943755,
-          47.37539
+          8.7947277,
+          47.3752818
         ],
         [
-          8.7943109,
-          47.3752894
+          8.7947256,
+          47.3752795
+        ],
+        [
+          8.7944066,
+          47.3753767
+        ],
+        [
+          8.7943817,
+          47.3753393
+        ],
+        [
+          8.7943396,
+          47.3753518
+        ],
+        [
+          8.7942978,
+          47.3752874
+        ],
+        [
+          8.7945105,
+          47.3752241
+        ],
+        [
+          8.7945189,
+          47.3752382
+        ],
+        [
+          8.7946645,
+          47.3751944
+        ],
+        [
+          8.7946226,
+          47.3751304
+        ],
+        [
+          8.7945942,
+          47.3751385
+        ],
+        [
+          8.794567,
+          47.3751097
+        ],
+        [
+          8.7945953,
+          47.3750998
+        ],
+        [
+          8.7945664,
+          47.3750555
+        ],
+        [
+          8.7945744,
+          47.3750528
+        ],
+        [
+          8.794576,
+          47.3750552
+        ],
+        [
+          8.7948602,
+          47.3749695
+        ],
+        [
+          8.7948587,
+          47.3749666
+        ],
+        [
+          8.7948679,
+          47.3749642
+        ],
+        [
+          8.7948955,
+          47.375007
+        ],
+        [
+          8.7949222,
+          47.3749995
+        ],
+        [
+          8.7949378,
+          47.3750337
+        ],
+        [
+          8.7948078,
+          47.3750735
+        ],
+        [
+          8.7948214,
+          47.3750939
+        ],
+        [
+          8.7947934,
+          47.3751026
+        ],
+        [
+          8.7947775,
+          47.3750791
+        ],
+        [
+          8.7947498,
+          47.3750871
+        ],
+        [
+          8.7947512,
+          47.3750896
+        ],
+        [
+          8.7946885,
+          47.3751091
         ],
         [
           8.7947232,
           47.3751681
         ],
         [
-          8.7947877,
-          47.3752686
+          8.7947906,
+          47.3752628
         ]
       ]
     ]
@@ -8966,12 +9080,13 @@
     "addr:housenumber": "18",
     "addr:postcode": "8001",
     "addr:street": "Selnaustrasse",
+    "alt_name": "Alterszentrum Selnau",
     "amenity": "social_facility",
     "building": "residential",
     "building:roof": "tile",
     "capacity": "23+2",
     "email": "asz-selnau@zuerich.ch",
-    "name": "Alterszentrum Selnau",
+    "name": "Gesundheitszentrum für das Alter Selnau",
     "operator": "Stadt Zürich, GUD",
     "owner": "Immobilien Stadt Zürich (IMMO)",
     "phone": "+41 44 414 18 88",
@@ -9004,10 +9119,6 @@
         [
           8.5327328,
           47.3702705
-        ],
-        [
-          8.532826,
-          47.3703466
         ],
         [
           8.5328555,
@@ -9172,11 +9283,12 @@
     "addr:housenumber": "1",
     "addr:postcode": "8006",
     "addr:street": "Lindenbachstrasse",
+    "alt_name": "Alterszentrum Stampfenbach",
     "amenity": "social_facility",
     "building": "residential",
     "capacity": "80+8",
     "email": "asz-stampfenbach@zuerich.ch",
-    "name": "Alterszentrum Stampfenbach",
+    "name": "Gesundheitszentrum für das Alter Stampfenbach",
     "operator": "Stadt Zürich, GUD",
     "owner": "Immobilien Stadt Zürich (IMMO)",
     "phone": "+41 44 414 09 09",
@@ -9644,6 +9756,7 @@
     "addr:housenumber": "40",
     "addr:postcode": "8057",
     "addr:street": "Langensteinenstrasse",
+    "alt_name": "Alterszentrum Oberstrass",
     "amenity": "social_facility",
     "building": "residential",
     "building:levels": "11",
@@ -9652,7 +9765,7 @@
     "contact:fax": "+41 43 255 20 71",
     "contact:phone": "+41 43 255 20 70",
     "contact:website": "http://www.stadt-zuerich.ch/az-oberstrass",
-    "name": "Alterszentrum Oberstrass",
+    "name": "Gesundheitszentrum für das Alter Oberstrass",
     "old_name": "Alterswohnheim Oberstrass",
     "operator": "Stadt Zürich, GUD",
     "owner": "Immobilien Stadt Zürich (IMMO)",
@@ -10973,10 +11086,11 @@
     "addr:housenumber": "19",
     "addr:postcode": "8008",
     "addr:street": "Witellikerstrasse",
+    "alt_name": "Pflegezentrum Riesbach",
     "amenity": "nursing_home",
     "building": "hospital",
     "capacity": "84",
-    "name": "Pflegezentrum Riesbach",
+    "name": "Gesundheitszentrum für das Alter Riesbach",
     "old_name": "Krankenheim ESRA;Krankenheim Riesbach",
     "operator": "Stadt Zürich, GUD",
     "phone": "+41 44 414 80 00",
@@ -21577,12 +21691,13 @@
     "addr:housenumber": "210",
     "addr:postcode": "8041",
     "addr:street": "Leimbachstrasse",
+    "alt_name": "Alterszentrum Mittelleimbach",
     "amenity": "social_facility",
     "building": "residential",
     "building:levels": "17",
     "capacity": "120+12",
     "email": "asz-mittelleimbach@zuerich.ch",
-    "name": "Alterszentrum Mittelleimbach",
+    "name": "Gesundheitszentrum für das Alter Mittelleimbach",
     "operator": "Stadt Zürich, GUD",
     "owner": "Immobilien Stadt Zürich (IMMO)",
     "phone": "+41 44 414 24 24",
@@ -23419,6 +23534,166 @@
         [
           8.509221,
           47.1464005
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/404267343",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "9",
+    "addr:postcode": "8046",
+    "addr:street": "Wolfswinkel",
+    "alt_name": "Alterszentrum Wolfswinkel",
+    "building": "residential",
+    "capacity": "83+10",
+    "disused:amenity": "social_facility",
+    "email": "asz-wolfswinkel@zuerich.ch",
+    "name": "Gesundheitszentrum für das Alter Wolfswinkel",
+    "note": "closed during reconstruction works from 2017-Q3 to 2019-Q4, and temporary dislocated to Adliswil",
+    "operator": "Stadt Zürich, GUD",
+    "owner": "Immobilien Stadt Zürich (IMMO)",
+    "social_facility": "group_home",
+    "social_facility:for": "senior",
+    "start_date": "1981..1982",
+    "website": "https://www.stadt-zuerich.ch/az-wolfswinkel",
+    "id": "way/404267343"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5132875,
+          47.4237191
+        ],
+        [
+          8.5132831,
+          47.4238032
+        ],
+        [
+          8.5132381,
+          47.4238028
+        ],
+        [
+          8.5132357,
+          47.4238664
+        ],
+        [
+          8.5132793,
+          47.423867
+        ],
+        [
+          8.5132782,
+          47.4239213
+        ],
+        [
+          8.5132761,
+          47.4239612
+        ],
+        [
+          8.5132295,
+          47.4239605
+        ],
+        [
+          8.5132279,
+          47.4239746
+        ],
+        [
+          8.512913,
+          47.4239664
+        ],
+        [
+          8.5127926,
+          47.4238773
+        ],
+        [
+          8.5127786,
+          47.4238859
+        ],
+        [
+          8.5127288,
+          47.4238839
+        ],
+        [
+          8.5127141,
+          47.423893
+        ],
+        [
+          8.5126571,
+          47.4238504
+        ],
+        [
+          8.5126375,
+          47.4238496
+        ],
+        [
+          8.5126399,
+          47.423792
+        ],
+        [
+          8.5126274,
+          47.4237825
+        ],
+        [
+          8.5126892,
+          47.4237436
+        ],
+        [
+          8.51269,
+          47.4237304
+        ],
+        [
+          8.5127766,
+          47.4237327
+        ],
+        [
+          8.5127901,
+          47.4237233
+        ],
+        [
+          8.5128109,
+          47.4237384
+        ],
+        [
+          8.5128339,
+          47.4237239
+        ],
+        [
+          8.5128523,
+          47.4237379
+        ],
+        [
+          8.5129041,
+          47.4237057
+        ],
+        [
+          8.512918,
+          47.4237156
+        ],
+        [
+          8.5130024,
+          47.4237176
+        ],
+        [
+          8.5130022,
+          47.4237315
+        ],
+        [
+          8.51302,
+          47.4237447
+        ],
+        [
+          8.5130715,
+          47.4237137
+        ],
+        [
+          8.5132875,
+          47.4237191
         ]
       ]
     ]
@@ -27093,9 +27368,10 @@
     "addr:housenumber": "12",
     "addr:postcode": "8051",
     "addr:street": "Helen-Keller-Strasse",
+    "alt_name": "Pflegezentrum Mattenhof",
     "amenity": "nursing_home",
     "capacity": "249",
-    "name": "Pflegezentrum Mattenhof",
+    "name": "Gesundheitszentrum für das Alter Mattenhof",
     "old_name": "Krankenheim Mattenhof",
     "operator": "Stadt Zürich, GUD",
     "phone": "+41 44 414 50 00",
@@ -27867,7 +28143,7 @@
   "id": "way/671786976",
   "properties": {
     "amenity": "nursing_home",
-    "name": "Pflegezentrum Witikon",
+    "name": "Gesundheitszentrum für das Alter Witikon",
     "old_name": "Krankenheim Witikon",
     "operator": "Stadt Zürich, GUD",
     "owner": "Immobilien Stadt Zürich (IMMO)",
@@ -29410,7 +29686,7 @@
   "id": "way/703439905",
   "properties": {
     "amenity": "social_facility",
-    "name": "Alterszentrum Rosengarten",
+    "name": "Gesundheitszentrum für das Alter Rosengarten",
     "operator": "Stadt Zürich",
     "social_facility": "nursing_home",
     "social_facility:for": "senior",
@@ -32567,10 +32843,11 @@
     "addr:housenumber": "118",
     "addr:postcode": "8038",
     "addr:street": "Kalchbühlstrasse",
+    "alt_name": "Alterszentrum Kalchbühl",
     "amenity": "social_facility",
     "capacity": "51",
     "email": "asz-kalchbuehl@zuerich.ch",
-    "name": "Alterszentrum Kalchbühl",
+    "name": "Gesundheitszentrum für das Alter Kalchbühl",
     "operator": "Stadt Zürich, GUD",
     "phone": "+41 44 485 51 00",
     "social_facility": "group_home",
@@ -32953,34 +33230,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/4937236840",
-  "properties": {
-    "addr:city": "Zürich",
-    "addr:country": "CH",
-    "addr:housenumber": "9",
-    "addr:postcode": "8046",
-    "addr:street": "Wolfswinkel",
-    "capacity": "83+10",
-    "disused:amenity": "social_facility",
-    "email": "asz-wolfswinkel@zuerich.ch",
-    "name": "Alterszentrum Wolfswinkel",
-    "note": "closed during reconstruction works from 2017-Q3 to 2019-Q4, and temporary dislocated to Adliswil",
-    "operator": "Stadt Zürich, GUD",
-    "social_facility": "group_home",
-    "social_facility:for": "senior",
-    "website": "https://www.stadt-zuerich.ch/az-wolfswinkel",
-    "id": "node/4937236840"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5128988,
-      47.4238295
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/4937236841",
   "properties": {
     "addr:city": "Zürich",
@@ -32988,10 +33237,11 @@
     "addr:housenumber": "11",
     "addr:postcode": "8008",
     "addr:street": "Wildbachstrasse",
+    "alt_name": "Alterszentrum Wildbach",
     "amenity": "social_facility",
     "capacity": "65+15",
     "email": "asz-wildbach@zuerich.ch",
-    "name": "Alterszentrum Wildbach",
+    "name": "Gesundheitszentrum für das Alter Wildbach",
     "operator": "Stadt Zürich, GUD",
     "phone": "+41 44 389 93 00",
     "social_facility": "group_home",
@@ -33016,10 +33266,11 @@
     "addr:housenumber": "267",
     "addr:postcode": "8047",
     "addr:street": "Altstetterstrasse",
+    "alt_name": "Alterszentrum Mathysweg",
     "amenity": "social_facility",
     "capacity": "74+5",
     "email": "asz-mathysweg@zuerich.ch",
-    "name": "Alterszentrum Mathysweg",
+    "name": "Gesundheitszentrum für das Alter Mathysweg",
     "note": "Ersatzstandort ist an der Birmensdorferstrasse 489;Für Schutz & Rettung u.a einsatzrelevant.",
     "operator": "Stadt Zürich, GUD",
     "phone": "+41 44 414 30 30",
@@ -33045,10 +33296,11 @@
     "addr:housenumber": "16",
     "addr:postcode": "8045",
     "addr:street": "Hegianwandweg",
+    "alt_name": "Alterszentrum Laubegg",
     "amenity": "social_facility",
     "capacity": "60+7",
     "email": "asz­laubegg@zuerich.ch",
-    "name": "Alterszentrum Laubegg",
+    "name": "Gesundheitszentrum für das Alter Laubegg",
     "operator": "Stadt Zürich, GUD",
     "phone": "+41 44 414 05 05",
     "social_facility": "group_home",
