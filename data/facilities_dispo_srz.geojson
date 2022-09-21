@@ -13971,6 +13971,8 @@
     "building": "yes",
     "name": "Haus Annemarie",
     "operator": "Stiftung Altersheim St. Urban",
+    "roof:material": "roof_tiles",
+    "roof:shape": "gabled",
     "social_facility": "nursing_home",
     "social_facility:for": "senior",
     "id": "way/172341928"
