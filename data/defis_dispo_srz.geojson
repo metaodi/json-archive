@@ -34595,8 +34595,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5569552,
-      47.6855722
+      8.5568985,
+      47.6855689
     ]
   }
 },
@@ -48367,6 +48367,67 @@
     "coordinates": [
       8.6659392,
       47.0154185
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10060550417",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Mattenhof 8 durchgang",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "id": "node/10060550417"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5930982,
+      47.3984462
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10060550418",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Ehemaliges Busshäuschen beim Glassammelplatz",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "id": "node/10060550418"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5924287,
+      47.3977975
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10061058318",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Schauenbergstrasse 11",
+    "description": "bei Nebeneingang ost aussen an der Mauer",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "operator": "Privat",
+    "id": "node/10061058318"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7837635,
+      47.5285044
     ]
   }
 }
