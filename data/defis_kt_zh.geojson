@@ -1644,19 +1644,22 @@
   "type": "Feature",
   "id": "node/7289424966",
   "properties": {
+    "access": "customers",
     "defibrillator:location": "Durch den Haupteingang, links am am Empfang vorbei, gegenüber den Aufzügen",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
     "level": "0",
+    "operator": "Kuoni Mueller & Partner Holding AG",
+    "phone": "+41 58 317 17 17",
     "wheelchair": "yes",
     "id": "node/7289424966"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4949249,
-      47.3841304
+      8.4949391,
+      47.3840017
     ]
   }
 },
@@ -35362,6 +35365,52 @@
     "coordinates": [
       8.6176706,
       47.484391
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10079824702",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "3.OG",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "3",
+    "opening_hours": "Mo-Fr 08:00-17:00",
+    "operator": "Markus Jost",
+    "phone": "+41 79 776 05 01",
+    "id": "node/10079824702"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5576415,
+      47.4209801
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10080072217",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Freibadund eE",
+    "description": "vor der Kasse ( Eingang)",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "operator": "Gemeinde Urdorf",
+    "phone": "0447341868",
+    "id": "node/10080072217"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4293691,
+      47.3785608
     ]
   }
 }
