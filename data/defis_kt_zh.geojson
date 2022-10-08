@@ -9670,8 +9670,13 @@
   "type": "Feature",
   "id": "node/8424840417",
   "properties": {
+    "defibrillator:location": "Hanging outside on the wall to the left of the bukding entrance. / Draussen an der Wand hängend, links vom Hauseingang.",
     "emergency": "defibrillator",
     "emergency:phone": "144",
+    "indoor": "no",
+    "level": "0",
+    "opening_hours": "24/7",
+    "wheelchair": "no",
     "id": "node/8424840417"
   },
   "geometry": {
@@ -13766,12 +13771,12 @@
   "id": "node/8557952979",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "Haus A, Zwischengeschoss bei der Bauabteilung im Kopierraum",
-    "description": "während Öffnungszeiten verfügbar",
+    "defibrillator:location": "Aussenwand beim Eingang",
+    "description": "24h verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
-    "indoor": "yes",
-    "opening_hours": "Mo-We 08:30-12:00,13:30-16:00; Th 08:30-12:00,13:30-18:30; Fr 07:30-14:00",
+    "indoor": "no",
+    "opening_hours": "24/7",
     "operator": "Gemeindeverwaltung Urdorf",
     "phone": "+41 44 736 51 11",
     "id": "node/8557952979"
@@ -35394,7 +35399,7 @@
 },
 {
   "type": "Feature",
-  "id": "node/10080072217",
+  "id": "node/10081628189",
   "properties": {
     "access": "yes",
     "defibrillator:location": "Freibadund eE",
@@ -35404,13 +35409,13 @@
     "indoor": "no",
     "operator": "Gemeinde Urdorf",
     "phone": "0447341868",
-    "id": "node/10080072217"
+    "id": "node/10081628189"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4293691,
-      47.3785608
+      8.4293587,
+      47.378576
     ]
   }
 }
