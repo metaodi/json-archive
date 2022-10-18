@@ -35386,7 +35386,7 @@
     "indoor": "yes",
     "level": "3",
     "opening_hours": "Mo-Fr 08:00-17:00",
-    "operator": "Markus Jost",
+    "operator": "Beutler fashion group AG",
     "phone": "+41 79 776 05 01",
     "id": "node/10079824702"
   },
@@ -35481,6 +35481,52 @@
     "coordinates": [
       8.4166109,
       47.4100007
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10108196376",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Im EG, in der Montagehalle bei den Toiletten, im Sanitätsrucksack. Im Empfangsbereich steht ein Telefon, die Betriebssanität ist unter 5144 erreichbar",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Fr 07:00-17:00",
+    "operator": "Signode Switzerland GmbH",
+    "phone": "+41447455050",
+    "id": "node/10108196376"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3950889,
+      47.4178413
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10109112917",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Tierklinik Dennler AG",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo - Fr: 07:30 - 12:00 und 14:00 - 18:00\nSa: 07:30 - 12:00",
+    "operator": "Tierklinik Dennler AG",
+    "phone": "+41447613089",
+    "id": "node/10109112917"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4483962,
+      47.2768715
     ]
   }
 }
