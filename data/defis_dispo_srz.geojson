@@ -48639,6 +48639,208 @@
       47.2768715
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/10110736717",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Werkgebäude, Haupteingang ",
+    "description": "Während Öffnungszeiten verfügbar ",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Fr: 07:00 - 11:30 und 13:30 - 17:00",
+    "operator": "Werke Wangen-Brüttisellen ",
+    "phone": "+41448352244",
+    "id": "node/10110736717"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6302903,
+      47.4246465
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10111013673",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Vorderer Eingang, gegen die Strasse hin, hinter der Aussentüre im Eingangsbereich",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Su 08:00-17:00",
+    "operator": "Reformierte Kirchgemeinde Kilchberg",
+    "phone": "+41 44 715 56 51",
+    "id": "node/10111013673"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5417964,
+      47.3171989
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10111020794",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Zwischen den beiden Glas-Schiebetüren, rechts",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Su 08:00-17:00",
+    "operator": "Reformierte Kirchgemeinde Kilchberg",
+    "phone": "+41 44 715 56 51",
+    "id": "node/10111020794"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.541162,
+      47.3180686
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10111020795",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Zwischen Haus 2 und 6 beim Containerhhäuschen Richtung Strasse / Parkplätze",
+    "description": "24h verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "id": "node/10111020795"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6148282,
+      47.0493409
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10111053452",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Bei der Eingangstüre",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "id": "node/10111053452"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5658578,
+      47.3773163
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10111065175",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Im Eingang der Mosaik Sozialtherapie AG, offen zugänglich am Tag.",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Su 08:00-22:00",
+    "operator": "Mosaik Sozialtherapie AG, Lorenz Graf",
+    "phone": "+41523043030",
+    "id": "node/10111065175"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.669374,
+      47.577541
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10111357300",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Der Defibrillator befindet sich in der Montagehalle. Eingang ist beim grossem Tor hinter dem Gebäude.",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Fr 06:00-16:00",
+    "operator": "Dogas Mikro",
+    "phone": "+41447455427",
+    "id": "node/10111357300"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3983545,
+      47.4179003
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10111399493",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Der Defibrillator befindet sich in der Montagehalle. Eingang ist beim grossem Tor hinter dem Gebäude.",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Fr 07:00-17:00",
+    "operator": "Signode Switzerland GmbH",
+    "phone": "+41447455050",
+    "id": "node/10111399493"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3980259,
+      47.4185028
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10111401530",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Im Büro von Grün Stadt Zürich, Werkstätten und Logistik",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Th 07:00-11:45, 12:45-16:30; Fr 07:00-11:45, 12:45-16:00",
+    "operator": "Oskar Gonzalez",
+    "phone": "+41 44 412 18 83",
+    "id": "node/10111401530"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4995975,
+      47.3745304
+    ]
+  }
 }
 ]
 }
