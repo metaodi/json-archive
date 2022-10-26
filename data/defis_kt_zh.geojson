@@ -35891,6 +35891,51 @@
       47.4500089
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/10127395047",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "EG beim Empfang der Inotec AG",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "Mo-Fr 08:00-16:30",
+    "operator": "Inotec AG",
+    "phone": "+41 433664444",
+    "id": "node/10127395047"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7083441,
+      47.3569741
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10129507217",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Emil Frey AG Badenerstrasse 600",
+    "description": "2. Stock während den Öffnungszeiten",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Fr 7:30-18:00",
+    "id": "node/10129507217"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4961028,
+      47.3849146
+    ]
+  }
 }
 ]
 }
