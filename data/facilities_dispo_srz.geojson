@@ -20511,6 +20511,146 @@
 },
 {
   "type": "Feature",
+  "id": "way/275190443",
+  "properties": {
+    "addr:city": "Ramsen",
+    "addr:country": "CH",
+    "addr:housenumber": "566",
+    "addr:postcode": "8262",
+    "addr:street": "Bahnhofstrasse",
+    "amenity": "social_facility",
+    "building": "yes",
+    "name": "Pflegewohngruppe Bahnhofstrasse",
+    "operator": "Ilgenpark",
+    "short_name": "PWG Bahnhofstrasse",
+    "social_facility": "group_home",
+    "website": "https://www.stiftungilgenhalde.ch/ilgenpark/kontakt/",
+    "id": "way/275190443"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.8188788,
+          47.7076458
+        ],
+        [
+          8.8189013,
+          47.70751
+        ],
+        [
+          8.8190865,
+          47.7075238
+        ],
+        [
+          8.8190814,
+          47.7075549
+        ],
+        [
+          8.8192726,
+          47.7075692
+        ],
+        [
+          8.8192683,
+          47.7075952
+        ],
+        [
+          8.819375,
+          47.7076032
+        ],
+        [
+          8.8193583,
+          47.7077042
+        ],
+        [
+          8.819069,
+          47.7076826
+        ],
+        [
+          8.8190554,
+          47.7077647
+        ],
+        [
+          8.8189435,
+          47.7077563
+        ],
+        [
+          8.8189607,
+          47.7076519
+        ],
+        [
+          8.8188788,
+          47.7076458
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/275205427",
+  "properties": {
+    "addr:city": "Ramsen",
+    "addr:country": "CH",
+    "addr:housenumber": "570",
+    "addr:postcode": "8262",
+    "addr:street": "Bahnhofstrasse",
+    "amenity": "social_facility",
+    "building": "yes",
+    "name": "Aussenwohngruppe Bahnhofstrasse",
+    "operator": "Ilgenpark",
+    "short_name": "AWG Bahnhofstrasse",
+    "social_facility": "group_home",
+    "website": "https://www.stiftungilgenhalde.ch/ilgenpark/kontakt/",
+    "id": "way/275205427"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.8149602,
+          47.7077287
+        ],
+        [
+          8.8149741,
+          47.7076325
+        ],
+        [
+          8.8152179,
+          47.7076484
+        ],
+        [
+          8.8152119,
+          47.7076894
+        ],
+        [
+          8.8153173,
+          47.7076963
+        ],
+        [
+          8.815308,
+          47.7077612
+        ],
+        [
+          8.8152325,
+          47.7077563
+        ],
+        [
+          8.8152339,
+          47.7077465
+        ],
+        [
+          8.8149602,
+          47.7077287
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/275232016",
   "properties": {
     "addr:city": "Ramsen",
@@ -20586,6 +20726,222 @@
         [
           8.8073978,
           47.7089468
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/275232046",
+  "properties": {
+    "addr:city": "Ramsen",
+    "addr:country": "CH",
+    "addr:housenumber": "275",
+    "addr:postcode": "8262",
+    "addr:street": "Turnplatzweg",
+    "amenity": "social_facility",
+    "building": "yes",
+    "name": "Aussenwohngruppe Hegau",
+    "operator": "Ilgenpark",
+    "short_name": "AWG Hegau",
+    "social_facility": "group_home",
+    "website": "https://www.stiftungilgenhalde.ch/ilgenpark/kontakt/",
+    "id": "way/275232046"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.8110882,
+          47.7088581
+        ],
+        [
+          8.8111371,
+          47.7087415
+        ],
+        [
+          8.8113581,
+          47.7087835
+        ],
+        [
+          8.8113092,
+          47.7089001
+        ],
+        [
+          8.8110882,
+          47.7088581
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/275243935",
+  "properties": {
+    "addr:city": "Ramsen",
+    "addr:country": "CH",
+    "addr:housenumber": "567",
+    "addr:postcode": "8262",
+    "addr:street": "Alemannenweg",
+    "amenity": "social_facility",
+    "building": "yes",
+    "name": "Aussenwohngruppe Baumgarten",
+    "operator": "Ilgenpark",
+    "short_name": "AWG Baumgarten",
+    "social_facility": "group_home",
+    "website": "https://www.stiftungilgenhalde.ch/ilgenpark/kontakt/",
+    "id": "way/275243935"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.8188419,
+          47.7065802
+        ],
+        [
+          8.8188525,
+          47.7064061
+        ],
+        [
+          8.8190536,
+          47.7064116
+        ],
+        [
+          8.8190448,
+          47.7065562
+        ],
+        [
+          8.8189443,
+          47.7065534
+        ],
+        [
+          8.8189425,
+          47.7065829
+        ],
+        [
+          8.8188419,
+          47.7065802
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/275243962",
+  "properties": {
+    "addr:city": "Ramsen",
+    "addr:country": "CH",
+    "addr:housenumber": "401",
+    "addr:postcode": "8262",
+    "addr:street": "Roseneggstrasse",
+    "amenity": "social_facility",
+    "building": "yes",
+    "name": "Aussenwohngruppe Rosenegg",
+    "operator": "Ilgenpark",
+    "short_name": "AWG Rosenegg",
+    "social_facility": "group_home",
+    "website": "https://www.stiftungilgenhalde.ch/ilgenpark/kontakt/",
+    "id": "way/275243962"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.8186924,
+          47.7094044
+        ],
+        [
+          8.8187226,
+          47.7095185
+        ],
+        [
+          8.8184401,
+          47.7095524
+        ],
+        [
+          8.8184537,
+          47.7096036
+        ],
+        [
+          8.8183992,
+          47.7096101
+        ],
+        [
+          8.8183968,
+          47.709601
+        ],
+        [
+          8.8183455,
+          47.7096071
+        ],
+        [
+          8.8183264,
+          47.7095352
+        ],
+        [
+          8.8184628,
+          47.7095188
+        ],
+        [
+          8.8184405,
+          47.7094346
+        ],
+        [
+          8.8186924,
+          47.7094044
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/275250191",
+  "properties": {
+    "addr:city": "Ramsen",
+    "addr:country": "CH",
+    "addr:housenumber": "314e",
+    "addr:postcode": "8262",
+    "addr:street": "Moskau",
+    "amenity": "social_facility",
+    "building": "yes",
+    "name": "Aussenwohngruppe Moskau",
+    "operator": "Ilgenpark",
+    "short_name": "AWG Moskau",
+    "social_facility": "group_home",
+    "website": "https://www.stiftungilgenhalde.ch/ilgenpark/kontakt/",
+    "id": "way/275250191"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.8205129,
+          47.7112841
+        ],
+        [
+          8.8205146,
+          47.7110433
+        ],
+        [
+          8.8207322,
+          47.711044
+        ],
+        [
+          8.8207305,
+          47.7112848
+        ],
+        [
+          8.8205129,
+          47.7112841
         ]
       ]
     ]
