@@ -23796,6 +23796,7 @@
     "operator": "Stadt Zürich, GUD",
     "owner": "Immobilien Stadt Zürich (IMMO)",
     "phone": "+41 44 414 93 00",
+    "roof:shape": "flat",
     "social_facility": "nursing_home",
     "social_facility:for": "senior",
     "start_date": "1965",
