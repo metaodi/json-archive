@@ -12214,38 +12214,16 @@
 },
 {
   "type": "Feature",
-  "id": "node/8544474317",
-  "properties": {
-    "access": "no",
-    "defibrillator:location": "Schulhaus Engelburg, Rikon, im Eingangsbereich rechts",
-    "description": "während Öffnungszeiten verfügbar",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "yes",
-    "operator": "Gemeinde Zell (Chefhauswart Michael Meister)",
-    "phone": "+41 79 612 82 30",
-    "id": "node/8544474317"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.796066,
-      47.4461139
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/8544484717",
   "properties": {
-    "access": "no",
-    "defibrillator:location": "Schwimmbad Engelburg",
-    "description": "Nur während Badesaison",
+    "access": "yes",
+    "defibrillator:location": "Ausserhalb des Freibades fix montiert",
+    "description": "24h verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
-    "indoor": "yes",
-    "opening_hours": "Mo-So: 10:00-19:00",
-    "operator": "Gemeinde Zell (Bademeister)",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Zell",
     "id": "node/8544484717"
   },
   "geometry": {
@@ -28793,12 +28771,12 @@
   "type": "Feature",
   "id": "node/9634886857",
   "properties": {
-    "access": "no",
+    "access": "yes",
     "defibrillator:location": "Neben dem Eingang",
     "description": "nur mit Zugangskarte erreichbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
-    "indoor": "yes",
+    "indoor": "no",
     "level": "0",
     "opening_hours": "24/7",
     "operator": "Schweizer Radio und Fernsehen",
@@ -28808,8 +28786,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5605032,
-      47.416302
+      8.5606603,
+      47.416237
     ]
   }
 },
@@ -36147,6 +36125,7 @@
     "access": "private",
     "defibrillator:location": "Neben der Anlieferung",
     "emergency": "defibrillator",
+    "emergency:phone": "144",
     "indoor": "yes",
     "level": "-2",
     "opening_hours": "24/7",
@@ -36159,6 +36138,118 @@
     "coordinates": [
       8.5194113,
       47.382009
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10146499961",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Im Treppenhaus, Erdgeschoss.",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "operator": "Schweiz. Verein des Gas- und Wasserfaches (SVGW)",
+    "phone": "+41 44 288 33 33",
+    "id": "node/10146499961"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5308885,
+      47.3617898
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10146530227",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Links neben den gelben Eingangstüren zur Turnhalle Maschwanden",
+    "description": "24h verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Maschwanden",
+    "phone": "+41 44 767 90 77",
+    "id": "node/10146530227"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4261945,
+      47.2340088
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10146560455",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Auf dem Dorfplatz, am Gemeindesaal aussen.",
+    "description": "24h verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Schleinikon",
+    "id": "node/10146560455"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3958621,
+      47.4974462
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10147810935",
+  "properties": {
+    "access": "private",
+    "defibrillator:location": "Eingang Genossenschaft Kalkbreite",
+    "emergency": "defibrillator",
+    "indoor": "yes",
+    "level": "2",
+    "opening_hours": "24/7",
+    "operator": "Genossenschaft Kalkbreite",
+    "wheelchair": "limited",
+    "id": "node/10147810935"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5205657,
+      47.3744765
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10147811025",
+  "properties": {
+    "access": "private",
+    "defibrillator:location": "Haupteingang Kantonle Verwaltung",
+    "emergency": "defibrillator",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "24/7",
+    "operator": "Kanton Zürich",
+    "wheelchair": "limited",
+    "id": "node/10147811025"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5433067,
+      47.3787376
     ]
   }
 }

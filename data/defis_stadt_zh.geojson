@@ -5797,12 +5797,12 @@
   "type": "Feature",
   "id": "node/9634886857",
   "properties": {
-    "access": "no",
+    "access": "yes",
     "defibrillator:location": "Neben dem Eingang",
     "description": "nur mit Zugangskarte erreichbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
-    "indoor": "yes",
+    "indoor": "no",
     "level": "0",
     "opening_hours": "24/7",
     "operator": "Schweizer Radio und Fernsehen",
@@ -5812,8 +5812,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5605032,
-      47.416302
+      8.5606603,
+      47.416237
     ]
   }
 },
@@ -7253,6 +7253,7 @@
     "access": "private",
     "defibrillator:location": "Neben der Anlieferung",
     "emergency": "defibrillator",
+    "emergency:phone": "144",
     "indoor": "yes",
     "level": "-2",
     "opening_hours": "24/7",
@@ -7265,6 +7266,73 @@
     "coordinates": [
       8.5194113,
       47.382009
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10146499961",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Im Treppenhaus, Erdgeschoss.",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "operator": "Schweiz. Verein des Gas- und Wasserfaches (SVGW)",
+    "phone": "+41 44 288 33 33",
+    "id": "node/10146499961"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5308885,
+      47.3617898
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10147810935",
+  "properties": {
+    "access": "private",
+    "defibrillator:location": "Eingang Genossenschaft Kalkbreite",
+    "emergency": "defibrillator",
+    "indoor": "yes",
+    "level": "2",
+    "opening_hours": "24/7",
+    "operator": "Genossenschaft Kalkbreite",
+    "wheelchair": "limited",
+    "id": "node/10147810935"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5205657,
+      47.3744765
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10147811025",
+  "properties": {
+    "access": "private",
+    "defibrillator:location": "Haupteingang Kantonle Verwaltung",
+    "emergency": "defibrillator",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "24/7",
+    "operator": "Kanton Zürich",
+    "wheelchair": "limited",
+    "id": "node/10147811025"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5433067,
+      47.3787376
     ]
   }
 }
