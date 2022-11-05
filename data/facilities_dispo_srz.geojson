@@ -19176,6 +19176,146 @@
 },
 {
   "type": "Feature",
+  "id": "way/256046323",
+  "properties": {
+    "addr:city": "Neunkirch",
+    "addr:housenumber": "1",
+    "addr:postcode": "8213",
+    "addr:street": "Hintergasse",
+    "amenity": "social_facility",
+    "building": "yes",
+    "name": "Alters- und Pflegeheim Haus im Winkel",
+    "social_facility": "nursing_home",
+    "social_facility:for": "senior",
+    "website": "https://www.casavivachlaeggi.ch/casaviva-hausimwinkel-neunkirch",
+    "id": "way/256046323"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5007887,
+          47.6898495
+        ],
+        [
+          8.5008259,
+          47.6898515
+        ],
+        [
+          8.5008259,
+          47.6898457
+        ],
+        [
+          8.5008412,
+          47.6898397
+        ],
+        [
+          8.5009523,
+          47.6898463
+        ],
+        [
+          8.5009568,
+          47.689809
+        ],
+        [
+          8.5010723,
+          47.6898164
+        ],
+        [
+          8.5010551,
+          47.6900364
+        ],
+        [
+          8.5010518,
+          47.6900442
+        ],
+        [
+          8.5010134,
+          47.6900428
+        ],
+        [
+          8.5010117,
+          47.6900551
+        ],
+        [
+          8.5009777,
+          47.6900539
+        ],
+        [
+          8.5009534,
+          47.6903059
+        ],
+        [
+          8.5009395,
+          47.6903057
+        ],
+        [
+          8.5009387,
+          47.690324
+        ],
+        [
+          8.5009091,
+          47.690322
+        ],
+        [
+          8.50091,
+          47.6902984
+        ],
+        [
+          8.500858,
+          47.6902972
+        ],
+        [
+          8.5008657,
+          47.6902228
+        ],
+        [
+          8.5008054,
+          47.6902185
+        ],
+        [
+          8.5008127,
+          47.6901271
+        ],
+        [
+          8.5008074,
+          47.690127
+        ],
+        [
+          8.5008186,
+          47.6900203
+        ],
+        [
+          8.5008113,
+          47.6900203
+        ],
+        [
+          8.5008137,
+          47.6899964
+        ],
+        [
+          8.5008196,
+          47.6899969
+        ],
+        [
+          8.5008208,
+          47.6899812
+        ],
+        [
+          8.5007693,
+          47.6899781
+        ],
+        [
+          8.5007887,
+          47.6898495
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/256181775",
   "properties": {
     "addr:city": "Hallau",
@@ -19188,6 +19328,7 @@
     "name": "Alters- und Pflegeheim am Buck",
     "social_facility": "group_home",
     "social_facility:for": "senior",
+    "website": "https://www.casavivachlaeggi.ch/casaviva-haus-am-buck-hallau",
     "wheelchair": "yes",
     "id": "way/256181775"
   },
@@ -25784,96 +25925,6 @@
         [
           8.4943581,
           47.3654708
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/556010513",
-  "properties": {
-    "amenity": "social_facility",
-    "fixme": "Das ist wahrscheinlich hauptsächlich eine Kita mit zusätzlichen Angeboten wie z.B. Betreuung in den Krisenfallen.",
-    "name": "Kinderhaus Entlisberg",
-    "operator": "Stadt Zürich, Sozialdepartement",
-    "social_facility": "group_home",
-    "social_facility:for": "child",
-    "survey:date": "2020-05-21",
-    "website": "https://www.stadt-zuerich.ch/sd/de/index/familien_kinder_jugendliche/kinderbetreuung/stadteigene_kitas/kinderhaus-entlisberg.html",
-    "id": "way/556010513"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.523255,
-          47.3399149
-        ],
-        [
-          8.5246788,
-          47.339951
-        ],
-        [
-          8.5246332,
-          47.3407879
-        ],
-        [
-          8.5246292,
-          47.3408568
-        ],
-        [
-          8.5245946,
-          47.3408776
-        ],
-        [
-          8.5245623,
-          47.3409
-        ],
-        [
-          8.5244056,
-          47.3409021
-        ],
-        [
-          8.5241103,
-          47.3409085
-        ],
-        [
-          8.5240284,
-          47.3409032
-        ],
-        [
-          8.523937,
-          47.3408925
-        ],
-        [
-          8.5238441,
-          47.340868
-        ],
-        [
-          8.5237606,
-          47.3408338
-        ],
-        [
-          8.5236771,
-          47.3407954
-        ],
-        [
-          8.523622,
-          47.340757
-        ],
-        [
-          8.5234314,
-          47.3405787
-        ],
-        [
-          8.523285,
-          47.3402393
-        ],
-        [
-          8.523255,
-          47.3399149
         ]
       ]
     ]
@@ -33880,27 +33931,6 @@
     "coordinates": [
       8.3956732,
       47.4086386
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/3217160382",
-  "properties": {
-    "addr:city": "Neunkirch",
-    "addr:housenumber": "1",
-    "addr:street": "Hintergasse",
-    "amenity": "social_facility",
-    "name": "Alters- und Pflegeheim",
-    "social_facility": "nursing_home",
-    "social_facility:for": "senior",
-    "id": "node/3217160382"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5008687,
-      47.6900044
     ]
   }
 },
