@@ -2698,6 +2698,7 @@
     "defibrillator:location": "Gemeindeverwaltung beim Eingang",
     "emergency": "defibrillator",
     "emergency:phone": "144",
+    "indoor": "no",
     "opening_hours": "24/7",
     "operator": "Gemeinde Altendorf",
     "phone": "+41 55 451 77 77",
@@ -49345,6 +49346,29 @@
     "coordinates": [
       8.6198821,
       47.6813558
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10161574917",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "1. Stock Direct Handling AG",
+    "description": "Während den Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "MO-Fr 7.00 bis 17.00",
+    "operator": "Firma",
+    "phone": "0433334646",
+    "id": "node/10161574917"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7278887,
+      47.3483276
     ]
   }
 }
