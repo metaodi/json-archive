@@ -14652,8 +14652,8 @@
     "addr:city": "Unterägeri",
     "addr:country": "CH",
     "addr:housenumber": "1",
+    "addr:place": "Chlösterli",
     "addr:postcode": "6314",
-    "addr:street": "Chlösterli",
     "amenity": "social_facility",
     "building": "yes",
     "name": "Alters- und Pflegehiem Chlösterli",
@@ -35846,6 +35846,40 @@
     "coordinates": [
       8.5279999,
       47.3336122
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10175606579",
+  "properties": {
+    "addr:city": "Birmensdorf (ZH)",
+    "addr:housenumber": "1",
+    "addr:postcode": "8903",
+    "addr:street": "Bachstrasse",
+    "amenity": "social_facility",
+    "description": "Alterszentrum bietet:\n- stationäre Pflegeheimplätze\n- geschütze Demenzwohngruppe\n- ambulante Pflege (öffentliche Spitex Birmensdorf-Aesch)\n- Anlaufstelle für Altersfragen\n- Bistro am Bach",
+    "ele": "468",
+    "email": "info@alterszentrumambach.ch",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "Alterszentrum am Bach",
+    "opening_hours": "Mo-Su 09:00-21:00",
+    "operator": "Genossenschaft Alterszentrum am Bach",
+    "operator:type": "private_non_profit",
+    "phone": "+41 44 739 39 39",
+    "social_facility": "nursing_home",
+    "social_facility:for": "senior",
+    "start_date": "08.10.2012",
+    "website": "www.alterszentrumambach.ch",
+    "wheelchair": "yes",
+    "id": "node/10175606579"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4377973,
+      47.3532157
     ]
   }
 }

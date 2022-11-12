@@ -15697,8 +15697,16 @@
   "type": "Feature",
   "id": "node/8165737450",
   "properties": {
+    "access": "yes",
+    "defibrillator:location": "In der Wartehalle der Bergstation",
+    "description": "24h verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "24/7",
+    "operator": "Zugerbergbahn AG",
+    "phone": "+41 41 711 53 76",
     "id": "node/8165737450"
   },
   "geometry": {
@@ -25341,8 +25349,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4597808,
-      47.6975893
+      8.4598085,
+      47.6975913
     ]
   }
 },
@@ -49512,6 +49520,172 @@
     "coordinates": [
       8.4921902,
       47.3851283
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10175173858",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Im Untergeschoss, links vom Herren WC an der Wand befestigt",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "-1",
+    "operator": "Manuel Widmer",
+    "phone": "+41 44 782 01 01",
+    "id": "node/10175173858"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.646666,
+      47.249198
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10175189734",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Zürcherstrasse 125 vor dem Eingang des Gemeindehauses.",
+    "description": "24h verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "0",
+    "opening_hours": "24/7",
+    "operator": "Nicole Roman",
+    "phone": "+41434551776",
+    "id": "node/10175189734"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4622253,
+      47.4087002
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10175273128",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Aussen am Werkhof",
+    "description": "24h verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "0",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Niederweningen",
+    "phone": "+41 44 857 12 22",
+    "id": "node/10175273128"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3773099,
+      47.5049294
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10175273129",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Gemeindeverwaltung",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "operator": "Gemeinde Niederweningen",
+    "phone": "+41 44 857 12 22",
+    "id": "node/10175273129"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3816135,
+      47.5061715
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10175278117",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Im Koperraum montiert",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "Mo-Fr 08:00-12:00, 13:00-17:00",
+    "operator": "Procamed",
+    "phone": "+41 52 368 60 00",
+    "id": "node/10175278117"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4677312,
+      47.2529654
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10175279528",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Der Defibrillator befindet sich im Büro der GEMÜ Vertriebs AG im 1. OG",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "1",
+    "opening_hours": "Mo-Fr 07:30-12:00, 13:00-17:00",
+    "operator": "GEMÜ Vertriebs AG, Herr Marco Neeracher",
+    "phone": "+41417990555",
+    "id": "node/10175279528"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4324896,
+      47.1478154
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10176336962",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Beim Notfalltreffpunkt hinter dem Gemeindehaus an der Aussenwand im weissen Kasten (mit AED und CPR beschriftet).",
+    "description": "Geschenk der Hallauer Vereine+Gönner anlässlich 100 Jahr Jubiläum Samariterverein Hallau 2010.",
+    "emergency": "defibrillator",
+    "indoor": "no",
+    "level": "0",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Hallau",
+    "start_date": "2010",
+    "wheelchair": "yes",
+    "id": "node/10176336962"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4598913,
+      47.6974548
     ]
   }
 }
