@@ -44625,7 +44625,7 @@
   "id": "node/9917843294",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "Verkaufsfläche LIDL",
+    "defibrillator:location": "Zwischen Kasse 1 und Notausgang, rechts von der Notausgangstür an der Wand hängend. / Between checkout 1 and the emergency exit, hanging on the wall on the right of the emergy exit door.",
     "description": "während Öffnungszeiten verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
@@ -44637,8 +44637,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5155149,
-      47.3924286
+      8.5155828,
+      47.3924079
     ]
   }
 },
@@ -49686,6 +49686,52 @@
     "coordinates": [
       8.4598913,
       47.6974548
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10177774017",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "ASVZ Kraftraum Wädenswil",
+    "description": "NUR während der Öffnungszeit und mit einem ASVZ Login erreichbar.",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo - Fr : 06:30 - 21:45\nSa: 09:00 - 17:45",
+    "operator": "ASVZ",
+    "phone": "+41 58 934 67 10",
+    "id": "node/10177774017"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6800052,
+      47.2245658
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10177928222",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Streck Transport AG",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "1. OG",
+    "opening_hours": "Mo-Fr: 06-19 Uhr",
+    "operator": "Unternehmen",
+    "id": "node/10177928222"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6322642,
+      47.5194433
     ]
   }
 }
