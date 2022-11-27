@@ -26282,8 +26282,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4996668,
-      47.3862505
+      8.4995369,
+      47.3862268
     ]
   }
 },
@@ -43650,8 +43650,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.6199237,
-      47.681921
+      8.6201972,
+      47.6821217
     ]
   }
 },
@@ -50052,6 +50052,27 @@
     "coordinates": [
       8.6511278,
       47.4029774
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10219937917",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "SIX ",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "3.oG",
+    "opening_hours": "Mo-Fr 8-17 ",
+    "id": "node/10219937917"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.508934,
+      47.3925225
     ]
   }
 }
