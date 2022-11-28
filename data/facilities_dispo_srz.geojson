@@ -34743,28 +34743,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/5280368589",
-  "properties": {
-    "addr:housenumber": "126",
-    "addr:street": "Trichtenhausenstrasse",
-    "amenity": "social_facility",
-    "capacity": "6",
-    "name": "Pflegewohngruppe Steinacker",
-    "operator": "Stadt Zürich, GUD",
-    "social_facility": "nursing_home",
-    "social_facility:for": "senior",
-    "id": "node/5280368589"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.6006426,
-      47.3549391
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/5280368590",
   "properties": {
     "addr:housenumber": "4",
