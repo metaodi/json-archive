@@ -6084,8 +6084,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.582055,
-      47.133905
+      8.5820184,
+      47.1338047
     ]
   }
 },
@@ -15396,8 +15396,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.6082473,
-      47.1338487
+      8.6085536,
+      47.1339125
     ]
   }
 },
@@ -49636,8 +49636,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4675561,
-      47.2532616
+      8.4675393,
+      47.2533604
     ]
   }
 },
@@ -50097,6 +50097,167 @@
     "coordinates": [
       8.5515594,
       47.3681728
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10225907328",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "An der Strasse direkt beim Eingang zum alten Gemeindehaus",
+    "description": "24h verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Hagenbuch",
+    "phone": "+41 79 363 14 53",
+    "id": "node/10225907328"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8878912,
+      47.5209501
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10225934160",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Haupteingang Schule",
+    "description": "24h verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Hagenbuch",
+    "phone": "+41 79 363 14 53",
+    "id": "node/10225934160"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8638891,
+      47.5202871
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10225934161",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Haupteingang Schule",
+    "description": "24h verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Hagenbuch",
+    "phone": "+41 79 363 14 53",
+    "id": "node/10225934161"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8857521,
+      47.5184927
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10225987469",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Erdgeschoss beim Eingang, links an der Wand",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "operator": "Baugenossenschaft Gstückt",
+    "id": "node/10225987469"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5421544,
+      47.5281441
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10226015590",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Im Eingangsbereich von beiden Häuser (Hausnummer 40 und 42)",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Verwaltung PRIVERA AG Dättwil",
+    "phone": "+41 58 715 79 74",
+    "id": "node/10226015590"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4254059,
+      47.3945509
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10226020874",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Haupteingang Foyer rechts an der Wand neben der Concierge",
+    "description": "24h verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "24/7",
+    "operator": "Specogna Immobilien",
+    "phone": "+41 44 804 40 40",
+    "id": "node/10226020874"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.575724,
+      47.4408613
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10226038245",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "FC-Gebäude Längsseite Richtung Pumptrack unter Vordach montiert",
+    "description": "24h verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "0",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Zell",
+    "phone": "+41 52 397 03 03",
+    "id": "node/10226038245"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7907402,
+      47.4419468
     ]
   }
 }
