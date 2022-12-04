@@ -20911,6 +20911,246 @@
 },
 {
   "type": "Feature",
+  "id": "way/275126089",
+  "properties": {
+    "addr:city": "Wald (ZH)",
+    "addr:country": "CH",
+    "addr:housenumber": "2",
+    "addr:postcode": "8636",
+    "addr:street": "Zum Tabor",
+    "alt_name": "Tabor AG Haus Bachtelblick;Empfang;Cafeteria",
+    "amenity": "social_facility",
+    "building": "yes",
+    "name": "Bachtelblick",
+    "operator": "Tabor AG",
+    "social_facility": "nursing_home",
+    "social_facility:for": "senior",
+    "website": "https://www.tabor-wald.ch/",
+    "wheelchair": "yes",
+    "id": "way/275126089"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.908857,
+          47.2701482
+        ],
+        [
+          8.9088949,
+          47.2700888
+        ],
+        [
+          8.9088828,
+          47.2700853
+        ],
+        [
+          8.9089208,
+          47.2700257
+        ],
+        [
+          8.9089321,
+          47.270029
+        ],
+        [
+          8.9089639,
+          47.2699791
+        ],
+        [
+          8.9089712,
+          47.2699813
+        ],
+        [
+          8.9089973,
+          47.2699403
+        ],
+        [
+          8.9090372,
+          47.269952
+        ],
+        [
+          8.9090413,
+          47.2699455
+        ],
+        [
+          8.909126,
+          47.2699703
+        ],
+        [
+          8.9092166,
+          47.2699969
+        ],
+        [
+          8.9091575,
+          47.2700895
+        ],
+        [
+          8.9092158,
+          47.2701066
+        ],
+        [
+          8.9091822,
+          47.2701593
+        ],
+        [
+          8.909112,
+          47.2701387
+        ],
+        [
+          8.9090667,
+          47.2702098
+        ],
+        [
+          8.908857,
+          47.2701482
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/275126091",
+  "properties": {
+    "alt_name": "Tabor AG Haus Chalet",
+    "amenity": "social_facility",
+    "building": "yes",
+    "name": "Chalet",
+    "operator": "Tabor AG",
+    "social_facility": "nursing_home",
+    "social_facility:for": "senior",
+    "id": "way/275126091"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.9091209,
+          47.2699099
+        ],
+        [
+          8.9091343,
+          47.2697366
+        ],
+        [
+          8.9093302,
+          47.2697436
+        ],
+        [
+          8.9093167,
+          47.2699169
+        ],
+        [
+          8.9091209,
+          47.2699099
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/275126094",
+  "properties": {
+    "addr:housenumber": "5",
+    "addr:street": "Brauereistrasse",
+    "alt_name": "Tabor AG Haus Morgenrot",
+    "amenity": "social_facility",
+    "building": "apartments",
+    "building:levels": "4",
+    "name": "Morgenrot",
+    "operator": "Tabor AG",
+    "roof:levels": "1",
+    "roof:shape": "flat",
+    "social_facility": "nursing_home",
+    "social_facility:for": "senior",
+    "id": "way/275126094"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.9096616,
+          47.2702792
+        ],
+        [
+          8.9096037,
+          47.2702439
+        ],
+        [
+          8.9096559,
+          47.2702045
+        ],
+        [
+          8.9097685,
+          47.2701195
+        ],
+        [
+          8.9099973,
+          47.2702591
+        ],
+        [
+          8.9098566,
+          47.2703653
+        ],
+        [
+          8.9096857,
+          47.270261
+        ],
+        [
+          8.9096616,
+          47.2702792
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/275126113",
+  "properties": {
+    "alt_name": "Tabor AG Küche; Tabor AG Haus Stöckli",
+    "amenity": "social_facility",
+    "building": "yes",
+    "name": "Stöckli",
+    "operator": "Tabor AG",
+    "social_facility": "nursing_home",
+    "social_facility:for": "senior",
+    "id": "way/275126113"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.9095942,
+          47.2695687
+        ],
+        [
+          8.9096108,
+          47.2693721
+        ],
+        [
+          8.9098239,
+          47.2693804
+        ],
+        [
+          8.9098074,
+          47.269577
+        ],
+        [
+          8.9095942,
+          47.2695687
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/275190443",
   "properties": {
     "addr:city": "Ramsen",
@@ -26527,6 +26767,52 @@
         [
           8.4842214,
           47.4091417
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/600420173",
+  "properties": {
+    "alt_name": "Tabor AG Haus Villa;Wäscherei",
+    "amenity": "social_facility",
+    "building": "yes",
+    "name": "Villa",
+    "operator": "Tabor AG",
+    "social_facility": "nursing_home",
+    "social_facility:for": "senior",
+    "website": "https://www.tabor-wald.ch/",
+    "id": "way/600420173"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.9094526,
+          47.2698648
+        ],
+        [
+          8.9094555,
+          47.2698398
+        ],
+        [
+          8.9094667,
+          47.2697448
+        ],
+        [
+          8.9096954,
+          47.2697571
+        ],
+        [
+          8.9096813,
+          47.2698771
+        ],
+        [
+          8.9094526,
+          47.2698648
         ]
       ]
     ]
