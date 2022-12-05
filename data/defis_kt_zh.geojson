@@ -31040,7 +31040,7 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.6167214,
+      8.616733,
       47.6616082
     ]
   }
@@ -37012,8 +37012,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.6407549,
-      47.4065136
+      8.6395404,
+      47.4071451
     ]
   }
 },
@@ -37067,7 +37067,7 @@
   "id": "node/10231100455",
   "properties": {
     "access": "no",
-    "defibrillator:location": "GVZ Gebäudeversicherung Kanton Zürich - Empfang",
+    "defibrillator:location": "Empfang",
     "description": "während Öffnungszeiten verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
