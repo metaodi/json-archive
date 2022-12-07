@@ -1655,11 +1655,17 @@
   "type": "Feature",
   "id": "way/10743329",
   "properties": {
+    "addr:city": "Niederglatt",
+    "addr:housenumber": "55",
+    "addr:postcode": "8172",
+    "addr:street": "Grafschaftstrasse",
     "amenity": "social_facility",
     "building": "yes",
-    "name": "Eichi",
-    "social_facility": "group_home",
-    "social_facility:for": "senior",
+    "email": "info@altersheim-eichi.ch",
+    "name": "Alters- und Pflegeheim Eichi",
+    "phone": "+41 44 851 82 00",
+    "social_facility": "nursing_home",
+    "website": "https://www.altersheim-eichi.ch/kontakt/",
     "id": "way/10743329"
   },
   "geometry": {
@@ -1667,44 +1673,56 @@
     "coordinates": [
       [
         [
-          8.5006946,
-          47.4941814
+          8.5008308,
+          47.493913
         ],
         [
-          8.5005783,
-          47.4940107
+          8.5006564,
+          47.493872
         ],
         [
-          8.5006903,
-          47.493803
+          8.5006914,
+          47.4938039
         ],
         [
-          8.5004738,
-          47.493496
+          8.5004802,
+          47.4935009
         ],
         [
-          8.5006859,
-          47.4934277
+          8.5006895,
+          47.4934336
         ],
         [
-          8.5009607,
-          47.493817
+          8.5009582,
+          47.4938173
         ],
         [
-          8.5008696,
-          47.4938463
+          8.5008666,
+          47.4938472
         ],
         [
-          8.5007834,
-          47.4940128
+          8.5008661,
+          47.4938495
         ],
         [
-          8.5008627,
-          47.4941292
+          8.5008564,
+          47.4938484
         ],
         [
-          8.5006946,
-          47.4941814
+          8.5008437,
+          47.4938526
+        ],
+        [
+          8.5008363,
+          47.4938663
+        ],
+        [
+          8.5008546,
+          47.4938707
+        ],
+        [
+          8.5008308,
+          47.493913
         ]
       ]
     ]
