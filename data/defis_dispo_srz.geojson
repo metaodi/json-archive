@@ -1114,10 +1114,10 @@
   "type": "Feature",
   "id": "node/5831745723",
   "properties": {
+    "defibrillator:location": "Hinter den beiden Aufzügen, gegenüber vom Empfang. / Behind the two elevators, opposite the reception.",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "note": "hinter den beiden Aufzügen gegenüber dem Empfang",
     "operator": "ewz",
     "id": "node/5831745723"
   },
@@ -1216,11 +1216,11 @@
   "type": "Feature",
   "id": "node/6123575176",
   "properties": {
+    "defibrillator:location": "Gegenüber vom Empfang. / Opposite the reception.",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
     "level": "0",
-    "note": "gegenüber dem Empfang",
     "operator": "Implenia Schweiz AG",
     "id": "node/6123575176"
   },
@@ -1277,10 +1277,10 @@
   "type": "Feature",
   "id": "node/6398162759",
   "properties": {
+    "defibrillator:location": "Hängt an der Wand links neben dem Eingang zur Rezeption. / Hanging on the wall to the left of the entrance of the reception.",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
-    "note": "Hängt an der Wand; linke neben dem Eingagn zur Rezeption",
     "operator": "Gästehaus Hunziker",
     "id": "node/6398162759"
   },
@@ -5298,6 +5298,7 @@
     "defibrillator:location": "nach Velounterstand rechts an Stützmauer",
     "emergency": "defibrillator",
     "emergency:phone": "144",
+    "indoor": "yes",
     "opening_hours": "24/7",
     "operator": "Kanton Zug",
     "id": "node/7568739431"
@@ -11860,8 +11861,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.460791,
-      47.1891164
+      8.4619739,
+      47.1893989
     ]
   }
 },
@@ -15369,10 +15370,10 @@
   "properties": {
     "access": "yes",
     "defibrillator:location": "Im Foyer von Bibliothek und Mehrzwecksaal. Rechts an der Wand.",
+    "description": "Zugänglich wenn Schule oder Bibliothek offen oder bei Anlass im Mehrzwecksaal.",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "opening_hours": "24/7",
     "phone": "+41 79 345 47 76",
     "id": "node/8118585120"
   },
@@ -32615,6 +32616,29 @@
     "coordinates": [
       8.5275568,
       47.3715746
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9014146417",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "EG auf der linken Seite",
+    "description": "ground floor on the left",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Fr 7:30-12:30, 14:00-18:00",
+    "operator": "Hausarztpraxis",
+    "phone": "0447482050",
+    "id": "node/9014146417"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4131025,
+      47.4196211
     ]
   }
 },
@@ -50359,7 +50383,7 @@
   "id": "node/10231100455",
   "properties": {
     "access": "no",
-    "defibrillator:location": "GVZ Gebäudeversicherung Kanton Zürich, Empfang",
+    "defibrillator:location": "Empfang",
     "description": "während Öffnungszeiten verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
@@ -50667,6 +50691,30 @@
     "coordinates": [
       8.8178026,
       47.2883637
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10253931811",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Obergass 1",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "1. OG",
+    "opening_hours": "Mo, Di, Fr: 08:00-17:00Uhr\nMi, Do: 10:00-19:00Uhr",
+    "operator": "Medbase Eglisau",
+    "phone": "+41434223939",
+    "id": "node/10253931811"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.521961,
+      47.576457
     ]
   }
 }
