@@ -22243,7 +22243,7 @@
     "indoor": "yes",
     "level": "0",
     "operator": "VBZ",
-    "phone": "+41 44 411 41 44,",
+    "phone": "+41 44 411 41 44",
     "id": "node/8977158268"
   },
   "geometry": {
@@ -32925,8 +32925,10 @@
   "type": "Feature",
   "id": "node/9954854107",
   "properties": {
+    "check_date": "2022-12-14",
     "emergency": "defibrillator",
     "emergency:phone": "144",
+    "fixme": "genau Lagebeschreibung und Zugangsinformationen  fehlen noch.",
     "indoor": "yes",
     "id": "node/9954854107"
   },
@@ -37277,8 +37279,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.8533158,
-      47.3947346
+      8.8532054,
+      47.39443
     ]
   }
 },
@@ -37443,6 +37445,76 @@
     "coordinates": [
       8.5352476,
       47.3645516
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10264448509",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Schulhaus Rainweg aussen bei dem Haupteingang",
+    "description": "Aussen immer erreichbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "Erdgeschoss",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Horgen",
+    "id": "node/10264448509"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5991514,
+      47.2565036
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10264450409",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Schulhaus Berghalden, innen bei dem Haupteingang links an der Wand",
+    "description": "Zugang nur während Schulbetrieb",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "Erdgeschoss",
+    "opening_hours": "Mo- Fr 07.00- 17.00 Uhr",
+    "operator": "Gemeinde Horgen",
+    "id": "node/10264450409"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5979122,
+      47.2561723
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10264931809",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "ACAMED Arztpraxis Wangen",
+    "description": "während Öffnungszeiten ",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "EG",
+    "opening_hours": "8-18 Uhr",
+    "operator": "Arztpraxis",
+    "phone": "0448352500",
+    "id": "node/10264931809"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6458277,
+      47.4092458
     ]
   }
 }

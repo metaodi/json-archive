@@ -386,9 +386,9 @@
   "id": "way/862861748",
   "properties": {
     "addr:city": "Schlieren",
-    "addr:housenumber": "100",
+    "addr:housenumber": "34",
     "addr:postcode": "8952",
-    "addr:street": "Urdorferstrasse",
+    "addr:street": "Spitalstrasse",
     "building": "yes",
     "emergency": "ambulance_station",
     "name": "Rettungsdienst Limmattal",
