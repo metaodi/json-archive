@@ -3176,8 +3176,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.6184945,
-      46.9815224
+      8.6184715,
+      46.9815211
     ]
   }
 },
@@ -13008,18 +13008,20 @@
   "type": "Feature",
   "id": "node/7930563029",
   "properties": {
-    "access": "yes",
+    "access": "permit",
     "defibrillator:location": "Feuerwehr",
-    "description": "während Öffnungszeiten verfügbar",
+    "description": "Nicht öffentlich zugänglich.",
     "emergency": "defibrillator",
     "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Gemeinde Steinhausen",
     "id": "node/7930563029"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4867239,
-      47.1972308
+      8.4870788,
+      47.1971585
     ]
   }
 },
@@ -13147,17 +13149,19 @@
   "id": "node/7930563037",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "Im Schulhaus",
-    "description": "während Schulbetrieb verfügbar",
+    "defibrillator:location": "Im Schulhausareal",
+    "description": "Zoll AED 3, mit Kindertaste und CPR Feedback. Inkl. Notfallset: Schere, Rasierer, Beatmungs-Folie, Taschenmaske in Hartbox mit Filter, Gummizug, Handschuhe und Alkoholpads.",
     "emergency": "defibrillator",
     "emergency:phone": "144",
+    "indoor": "no",
+    "operator": "Gemeinde Steinhausen",
     "id": "node/7930563037"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4913588,
-      47.1917922
+      8.4913217,
+      47.1921846
     ]
   }
 },
@@ -33861,8 +33865,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.6789162,
-      47.259409
+      8.6788256,
+      47.2594207
     ]
   }
 },
@@ -50725,37 +50729,11 @@
 },
 {
   "type": "Feature",
-  "id": "node/10259002109",
-  "properties": {
-    "access": "no",
-    "check_date": "2022-12-13",
-    "defibrillator:location": "Genferstrasse 6 8002 Zürich",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "fixme": "der AED wurde als indoor=yes gemappt, auf dem Grundstück befindet sich jedoch, gemäss derzeitgem Datenstand osm, eine Baustelle. Ist er überhaupt erreichbar?",
-    "indoor": "yes",
-    "level": "0",
-    "note": "die bisherige Anmerkung in der discription \"Öffnungszeiten\" ergibt sich durch \"opening_hours\", doppelte Nennung daher entfernt.",
-    "opening_hours": "Mo-Fr 08.30 - 16.30 h",
-    "operator": "SERV",
-    "phone": "+41 58 551 55 55",
-    "id": "node/10259002109"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5362866,
-      47.3644317
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/10259007709",
   "properties": {
     "access": "no",
     "defibrillator:location": "Genferstrasse 6 8002 Zürich",
-    "description": "08.30 - 16.30 h",
+    "description": "während Öffnungszeiten verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
@@ -51094,6 +51072,96 @@
     "coordinates": [
       8.5579967,
       47.414829
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10276515909",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Brahmshof",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "EG",
+    "opening_hours": "24/7",
+    "id": "node/10276515909"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5068684,
+      47.3791534
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10278078509",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Praxis Doktorhuus Forch",
+    "description": "während Praxisbetrieb ",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "EG",
+    "operator": "Arztpraxis ",
+    "phone": "0449808811",
+    "id": "node/10278078509"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6580936,
+      47.3258635
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10279682909",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Friedhofstrasse 3a",
+    "description": "jederzeit zugänglich",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "EG",
+    "opening_hours": "24/7",
+    "operator": "Werkheim Uster",
+    "phone": "+41 58 861 00 00",
+    "id": "node/10279682909"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7155753,
+      47.3435847
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10280252710",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Haupteingang Landesmuseum",
+    "description": "während Öffnungszeiten Museum ",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "EG",
+    "operator": "Landesmuseum ",
+    "id": "node/10280252710"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5406222,
+      47.3791674
     ]
   }
 }
