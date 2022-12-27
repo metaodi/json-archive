@@ -425,6 +425,53 @@
 },
 {
   "type": "Feature",
+  "id": "way/1089404410",
+  "properties": {
+    "addr:city": "Uster",
+    "addr:housenumber": "3",
+    "addr:postcode": "8610",
+    "addr:street": "Feldhofstrasse",
+    "alt_name": "Wache RD Uster",
+    "building": "yes",
+    "email": "sekretariat.rettungsdienst@spital-uster.ch",
+    "emergency": "ambulance_station",
+    "emergency:phone": "144",
+    "name": "Rettungsdienst Uster",
+    "operator": "Spital Uster",
+    "short_name": "RD Uster",
+    "website": "https://www.spitaluster.ch/de/Patienten/Behandlungsangebot/Fuer-Patienten/Bereiche/Rettungsdienst.135.html",
+    "id": "way/1089404410"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7235116,
+          47.3520895
+        ],
+        [
+          8.7231952,
+          47.3523717
+        ],
+        [
+          8.7230155,
+          47.3522792
+        ],
+        [
+          8.723332,
+          47.351997
+        ],
+        [
+          8.7235116,
+          47.3520895
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/800658573",
   "properties": {
     "emergency": "ambulance_station",
@@ -815,32 +862,6 @@
     "coordinates": [
       8.8429912,
       47.2596538
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/9785218888",
-  "properties": {
-    "addr:city": "Uster",
-    "addr:housenumber": "3",
-    "addr:postcode": "8610",
-    "addr:street": "Feldhofstrasse",
-    "alt_name": "Wache RD Uster",
-    "email": "sekretariat.rettungsdienst@spital-uster.ch",
-    "emergency": "ambulance_station",
-    "emergency:phone": "144",
-    "name": "Rettungsdienst Uster",
-    "operator": "Spital Uster",
-    "short_name": "RD Uster",
-    "website": "https://www.spitaluster.ch/de/Patienten/Behandlungsangebot/Fuer-Patienten/Bereiche/Rettungsdienst.135.html",
-    "id": "node/9785218888"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.7232208,
-      47.3521591
     ]
   }
 },

@@ -1747,6 +1747,56 @@
 },
 {
   "type": "Feature",
+  "id": "way/66986858",
+  "properties": {
+    "addr:city": "Küsnacht",
+    "addr:country": "CH",
+    "addr:housenumber": "139",
+    "addr:postcode": "8700",
+    "addr:street": "Alte Landstrasse",
+    "amenity": "fire_station",
+    "building": "yes",
+    "name": "Feuerwehr Küsnacht ZH",
+    "id": "way/66986858"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.5846298,
+          47.3187809
+        ],
+        [
+          8.5846371,
+          47.318686
+        ],
+        [
+          8.5850765,
+          47.3187032
+        ],
+        [
+          8.5849824,
+          47.3190912
+        ],
+        [
+          8.584802,
+          47.3190839
+        ],
+        [
+          8.5848259,
+          47.3187893
+        ],
+        [
+          8.5846298,
+          47.3187809
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/94119195",
   "properties": {
     "addr:housenumber": "27",
