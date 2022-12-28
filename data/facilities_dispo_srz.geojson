@@ -29914,6 +29914,7 @@
     "addr:street": "Höhenweg",
     "amenity": "hospital",
     "email": "info@klinik-adelheid.ch",
+    "healthcare": "hospital",
     "name": "Klinik Adelheid",
     "operator": "Klinik Adelheid AG",
     "phone": "+41 41 754 30 00",
