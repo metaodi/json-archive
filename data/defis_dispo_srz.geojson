@@ -32091,8 +32091,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5226279,
-      47.3724
+      8.5208729,
+      47.373838
     ]
   }
 },
@@ -44584,8 +44584,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5911193,
-      47.2630754
+      8.5911634,
+      47.2631074
     ]
   }
 },
@@ -46421,7 +46421,7 @@
     "emergency:phone": "144",
     "indoor": "yes",
     "operator": "Stiftung Emilienheim",
-    "phone": "0447154153",
+    "phone": "+41 44 7154153",
     "id": "node/9994146117"
   },
   "geometry": {
