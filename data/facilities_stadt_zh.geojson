@@ -8225,12 +8225,15 @@
   "type": "Feature",
   "id": "node/8610065436",
   "properties": {
+    "alt_name": "Wohngruppe Dialogweg 2",
     "amenity": "social_facility",
+    "capacity": "14",
     "email": "info.dialogweg@zkj.ch",
-    "level": "1",
+    "level": "1;2",
     "name": "Dialogweg Kinder- und Jugendheim",
     "operator": "Stiftung Zürcher Kinder- und Jugendheime",
     "phone": "+41 43 251 39 93",
+    "short_name": "Stiftung ZKJ",
     "social_facility": "group_home",
     "website": "https://www.dialogweg.ch/kontakt/standort-dialogweg/",
     "id": "node/8610065436"
@@ -8283,6 +8286,30 @@
     "coordinates": [
       8.5279999,
       47.3336122
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10309009635",
+  "properties": {
+    "alt_name": "Wohngruppe Dialogweg",
+    "amenity": "social_facility",
+    "capacity": "6",
+    "email": "wohnen@werchschuer.ch",
+    "name": "Werchschüür Grosswohnung",
+    "operator": "Verein Werchschüür",
+    "phone": "+41 44 302 75 00",
+    "short_name": "Werchschüür WG",
+    "social_facility": "group_home",
+    "website": "https://meinplatz.ch/de/standorte/wohngruppe-dialogweg",
+    "id": "node/10309009635"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5604406,
+      47.4133257
     ]
   }
 }
