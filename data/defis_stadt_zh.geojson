@@ -7690,6 +7690,30 @@
       47.3849413
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/10536350909",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Flüelastrasse 12, 8048 Zürich",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "1",
+    "opening_hours": "Mo-Fr 08:00-17:00",
+    "operator": "unex lighting AG",
+    "phone": "+41444042222",
+    "id": "node/10536350909"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4962244,
+      47.3832384
+    ]
+  }
 }
 ]
 }

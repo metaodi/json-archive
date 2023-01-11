@@ -36150,28 +36150,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/10155411118",
-  "properties": {
-    "access": "yes",
-    "defibrillator:location": "schulhaus glärnisch",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "no",
-    "opening_hours": "24/7",
-    "operator": "schulhaus glärnisch beim roten platz im grünnen kasten ",
-    "phone": "0799138486",
-    "id": "node/10155411118"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.6667842,
-      47.2308053
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/10159194617",
   "properties": {
     "access": "yes",
@@ -38034,6 +38012,7 @@
     "indoor": "no",
     "opening_hours": "24/7",
     "operator": "Stadt Wädenswil, Immobilien",
+    "phone": "+4 175 500 01 89",
     "source": "local_knowledge, defikarte.ch",
     "id": "node/10316593209"
   },
@@ -38064,6 +38043,76 @@
     "coordinates": [
       8.7582516,
       47.4953954
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10536350909",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Flüelastrasse 12, 8048 Zürich",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "1",
+    "opening_hours": "Mo-Fr 08:00-17:00",
+    "operator": "unex lighting AG",
+    "phone": "+41444042222",
+    "id": "node/10536350909"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4962244,
+      47.3832384
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10537120909",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Sood52, Eingangshalle",
+    "description": "nur während Bürozeiten",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/10537120909"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5222308,
+      47.3202578
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10537274009",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "An der Wand hinter des Hauseingangs (im Freien)",
+    "description": "AED Schrank an der Seite öffnen, Tasche entnehmen. In der Tasche befindet sich alles Zubehör.\n\nBitte nach Verwendung Information an 079 651 55 93, danke!",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "draussen",
+    "opening_hours": "24/7",
+    "operator": "PG Medical, www.pg-medical.ch",
+    "phone": "0796515593",
+    "id": "node/10537274009"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4943199,
+      47.4958837
     ]
   }
 }
