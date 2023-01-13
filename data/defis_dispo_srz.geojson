@@ -32618,7 +32618,7 @@
     "indoor": "yes",
     "opening_hours": "Mo-Fr 7:30-12:30, 14:00-18:00",
     "operator": "Hausarztpraxis",
-    "phone": "0447482050",
+    "phone": "+41 44 748 20 50",
     "id": "node/9014146417"
   },
   "geometry": {
@@ -51647,6 +51647,78 @@
     "coordinates": [
       8.5869781,
       47.2598058
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10542479709",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Schulhaus Ort  beim alten Schulhaus",
+    "description": "Beim kleinen Eingang Westseite beim Briefkasten",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Stadt Wädenswil",
+    "phone": "+41755000184",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/10542479709"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6460203,
+      47.2454085
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10542928609",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "neues Polizeigebäude POM",
+    "description": "während den Öffnungszeiten verfügbar. Box ist Alarmgesichert.",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "EG Schalterhalle",
+    "opening_hours": "Mo - Fr: 07:00 - 17:00",
+    "operator": "Stadtpolizei Winterthur ",
+    "phone": "+41 52 267 51 52",
+    "id": "node/10542928609"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7340174,
+      47.4956342
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10542937909",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "neues Polizeigebäude POM",
+    "description": "während Öffnungszeiten verfügbar. Box steht unter Alarm!",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Fr 07:00 - 17:00",
+    "operator": "Stadtpolizei Winterthur",
+    "phone": "+41 52 267 51 52",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/10542937909"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7345922,
+      47.495839
     ]
   }
 }
