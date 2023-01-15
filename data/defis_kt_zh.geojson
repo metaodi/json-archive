@@ -23453,7 +23453,7 @@
     "indoor": "yes",
     "opening_hours": "Mo-Fr 08:00-12:00,13:00-17:00",
     "operator": "RohrMax AG",
-    "phone": "0848852856",
+    "phone": "+41 0848 852 856",
     "id": "node/9093353717"
   },
   "geometry": {
@@ -24800,7 +24800,7 @@
     "indoor": "yes",
     "opening_hours": "Mo-Fr 07:00-18:00",
     "operator": "Präzisionsmechanik Neff AG",
-    "phone": "0788991509",
+    "phone": "+41 78 899 15 09",
     "id": "node/9261389617"
   },
   "geometry": {
@@ -24914,7 +24914,7 @@
     "indoor": "yes",
     "opening_hours": "Mo-Fr 07:00-18:00",
     "operator": "Präzisionsmechanik Neff AG",
-    "phone": "0788991509",
+    "phone": "+41 78 899 15 09",
     "id": "node/9263283183"
   },
   "geometry": {
@@ -26906,7 +26906,7 @@
     "level": "1",
     "opening_hours": "Mo-Fr 08:00-12:00,14:00-18:00",
     "operator": "Medbase Wetzikon",
-    "phone": "0449343030",
+    "phone": "+41 44 934 30 30",
     "id": "node/9464349744"
   },
   "geometry": {
@@ -28560,13 +28560,13 @@
   "properties": {
     "access": "no",
     "defibrillator:location": "Schwimmbad Meierwiesen, vor Rutsche",
-    "description": "Während der öffnungszeiten ",
+    "description": "Während der öffnungszeiten",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
-    "opening_hours": "9:00 bis 20:00 Uhr",
-    "operator": "Sport und Freizeit Wetzikon ",
-    "phone": "0434773080",
+    "opening_hours": "09:00-20:00",
+    "operator": "Sport und Freizeit Wetzikon",
+    "phone": "+41 43 477 30 80",
     "id": "node/9623942517"
   },
   "geometry": {
@@ -30068,7 +30068,7 @@
     "indoor": "no",
     "opening_hours": "24/7",
     "operator": "Gemeinde Pfäffikon",
-    "phone": "044950 13 70",
+    "phone": "+41 44 950 13 70",
     "id": "node/9739187533"
   },
   "geometry": {
@@ -34911,9 +34911,9 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "opening_hours": "Mo-Fr: 07:00-16:00",
+    "opening_hours": "Mo-Fr 07:00-16:00",
     "operator": "Sersa Maschineller Gleisbau",
-    "phone": "0523547070",
+    "phone": "+41 52 354 70 70",
     "id": "node/10035811517"
   },
   "geometry": {
@@ -38306,6 +38306,78 @@
     "coordinates": [
       8.5544534,
       47.367293
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10554215609",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Speerstrasse 22 neben dem Kellereingang",
+    "description": "Gut sichtbar neben dem Abfallcontainerplatz",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "EG",
+    "opening_hours": "24/7",
+    "operator": "Baugenossenschaft Tannenbach",
+    "phone": "+41 79 836 88 04",
+    "id": "node/10554215609"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5832532,
+      47.2666524
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10554215610",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Strohwiesstrasse 3",
+    "description": "Gut sichtbar neben dem Kellereingang",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "EG",
+    "opening_hours": "24/7",
+    "operator": "Baugenossenschaft Tannenbach",
+    "phone": "+41 79 836 88 04",
+    "id": "node/10554215610"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5844524,
+      47.2662994
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10555091109",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "ZHAW Campus Reidbach",
+    "description": "Empfang Gebäude RT",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "1",
+    "opening_hours": "Mo-Fr: 07:00-19:00",
+    "operator": "ZHAW",
+    "phone": "+41589345000",
+    "id": "node/10555091109"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6876515,
+      47.2193053
     ]
   }
 }
