@@ -6213,6 +6213,22 @@
       47.4327825
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/10570035060",
+  "properties": {
+    "amenity": "fire_station",
+    "name": "Feuerwehrlokal",
+    "id": "node/10570035060"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6243532,
+      47.5739758
+    ]
+  }
 }
 ]
 }

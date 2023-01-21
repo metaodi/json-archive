@@ -17357,8 +17357,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.6196311,
-      47.3911715
+      8.6194944,
+      47.3910727
     ]
   }
 },
@@ -34413,8 +34413,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5086657,
-      47.5546288
+      8.5085299,
+      47.5545338
     ]
   }
 },
@@ -38519,6 +38519,100 @@
     "coordinates": [
       8.8665462,
       47.4899091
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10569766909",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Am Schaufenster beim Haupteingang",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "EG",
+    "opening_hours": "24/7",
+    "operator": "Bertschinger Innenausbau AG",
+    "phone": "0552533050",
+    "id": "node/10569766909"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8349413,
+      47.2633661
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10570462711",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Turnhalle 2 neben Geräteeingang",
+    "description": "immer verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Stadt Wädenswil immobil.",
+    "phone": "+41 44 789 75 75",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/10570462711"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6719084,
+      47.2277317
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10570516710",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Turnhalle Gerberacher Eingang",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Stadt Wädenswil Immobilien",
+    "phone": "+41755000188",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/10570516710"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6721354,
+      47.2188333
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10570929009",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Luxor Fitness",
+    "description": "Während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo-Do 6.00-22.00, Fr 6.00-21.00, Sa-So 9.00-19.00",
+    "operator": "Town Sports AG",
+    "phone": "+41442023838",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/10570929009"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5372728,
+      47.3680603
     ]
   }
 }
