@@ -15747,8 +15747,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.6037647,
-      47.6475458
+      8.6037573,
+      47.6475336
     ]
   }
 },
@@ -52118,6 +52118,26 @@
     "coordinates": [
       8.5542091,
       47.0433711
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10572475409",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Einfahrt Garage Bächlipark ",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "id": "node/10572475409"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7202733,
+      47.1900782
     ]
   }
 }
