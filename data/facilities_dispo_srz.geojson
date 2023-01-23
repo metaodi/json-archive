@@ -12344,6 +12344,7 @@
     "building:levels": "4",
     "building:roof": "flat",
     "name": "Altersheim St. Urban",
+    "roof:shape": "flat",
     "social_facility": "nursing_home",
     "social_facility:for": "senior",
     "id": "way/135588208"
@@ -18453,6 +18454,7 @@
     "building:levels": "4",
     "building:roof": "flat",
     "name": "Genossenschaft für Alters- und Invalidenwohnungen",
+    "roof:shape": "flat",
     "short_name": "GAIWO",
     "social_facility": "group_home",
     "social_facility:for": "senior",
