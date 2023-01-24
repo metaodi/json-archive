@@ -38615,6 +38615,149 @@
       47.3680603
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/10575937441",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Strohwiesstrasse 3",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "EG",
+    "opening_hours": "24/7",
+    "operator": "Baugenossenschaft Tannbach",
+    "phone": "+41798368804",
+    "id": "node/10575937441"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5847663,
+      47.2657145
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10576361541",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Apple Switzerland AG",
+    "description": "nach dem Eingang links in der Küche",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "2. OG",
+    "operator": "Firma",
+    "phone": "+41448779123",
+    "id": "node/10576361541"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5358248,
+      47.3747874
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10576397441",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Grossmattstrasse 9, beim Hauptpersonenlift rechts, vis-a-vis Eingang Allane Schweiz AG",
+    "description": "Öffentlich zugänglich während der Öffnungszeiten",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "1",
+    "opening_hours": "Mo-Fr: 07.00 - 19.00",
+    "operator": "Allane Schweiz AG",
+    "phone": "+41 44 8178151",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/10576397441"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4167504,
+      47.3917728
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10576614841",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "MFH Keller UG",
+    "description": "Zutritt Treppenhaus in Keller",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "-1",
+    "opening_hours": "24/7",
+    "operator": "Genossenschaft Vitasana",
+    "phone": "+41 44 325 36 66",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/10576614841"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5602263,
+      47.4095817
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10577030941",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Gewerbepark Elgg, draussen vor dem Eingang",
+    "description": "immer zugänglich",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "SRMVC AG - Gewerbepark Elgg Rudolf Bauberger",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/10577030941"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8705695,
+      47.4966472
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10577222341",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Winterthur, Hauptbahnhof, im Geldautomaten-Vorraum der Raiffeisenbank, Bahnhofplatz 15",
+    "description": "Vorraum immer offen",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "24/7",
+    "operator": "Raiffeisenbank",
+    "phone": "+41797482177",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/10577222341"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7245279,
+      47.5008876
+    ]
+  }
 }
 ]
 }
