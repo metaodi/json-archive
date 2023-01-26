@@ -50949,11 +50949,11 @@
   "properties": {
     "access": "yes",
     "defibrillator:location": "Tertianum Etzelblick, Gartenstrasse 17, 8805 Richterswil",
-    "description": "Haupteingang ",
+    "description": "Haupteingang",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "level": "EG",
+    "level": "0",
     "opening_hours": "24/7",
     "operator": "Altersheim Tertianum Etzelblick",
     "phone": "+41 43 544 01 01",
@@ -50962,8 +50962,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.7084997,
-      47.205856
+      8.7085243,
+      47.2058255
     ]
   }
 },
@@ -52265,13 +52265,13 @@
   "id": "node/10578649241",
   "properties": {
     "access": "no",
-    "defibrillator:location": "Bürofläche",
+    "defibrillator:location": "bitte Klingeln, Defi ist im Gang!",
     "description": "während Öffnungszeiten verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
-    "indoor": "no",
+    "indoor": "yes",
     "level": "3",
-    "opening_hours": "Mo-Fr: 08:00 - 12:00, 13:00 - 17:00 ",
+    "opening_hours": "Mo-Fr: 08:00 - 12:00, 13:00 - 17:00",
     "operator": "Netcloud AG",
     "phone": "+41 58 344 12 12",
     "source": "local_knowledge, defikarte.ch",
@@ -52305,6 +52305,121 @@
     "coordinates": [
       8.6043978,
       47.2590777
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10580939744",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Eingangsbereich aussen (links neben Haupteingangstüre)",
+    "description": "24h verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "0",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Rüschlikon",
+    "phone": "+41 44 724 72 61",
+    "id": "node/10580939744"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.547093,
+      47.2983136
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10581172367",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Im Zwischengeschoss Z (ein Stockwerk tiefer als 1), gegenüber vom Fahrstuhl an der Wand hängend.",
+    "emergency": "defibrillator",
+    "indoor": "yes",
+    "level": "Z",
+    "phone": "+41 144",
+    "wheelchair": "yes",
+    "id": "node/10581172367"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4435701,
+      47.4015521
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10581234852",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Im Unterstand der Bushaltestelle. / At the shelter of the bus stop.",
+    "emergency": "defibrillator",
+    "level": "0",
+    "opening_hours": "24/7",
+    "phone": "+41 144",
+    "wheelchair": "yes",
+    "id": "node/10581234852"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4446066,
+      47.4012935
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10581240805",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Schützenmattstrasse 14",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "1",
+    "opening_hours": "Mo-Fr: 8.00 - 17.00 Uhr",
+    "operator": "Stiftung Wisli und dhc - digital health center",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/10581240805"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5338228,
+      47.5276229
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10581588905",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Reformiertes Kirchgemeindehaus Rosenmatt",
+    "description": "während der Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "1",
+    "opening_hours": "Mo - Fr. 8.00 - 17.00 Uhr",
+    "operator": "Reformierte Kirchgemeinde",
+    "phone": "+41 44 783 00 50",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/10581588905"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6730945,
+      47.2287926
     ]
   }
 }
