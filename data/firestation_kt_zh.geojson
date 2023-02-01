@@ -3012,10 +3012,9 @@
     "addr:street": "Oberhauserstrasse",
     "amenity": "fire_station",
     "building": "yes",
-    "building:roof:shape": "flat",
     "name": "Feuerwehr Opfikon",
     "operator": "Stadt Opfikon",
-    "source": "bing",
+    "roof:shape": "flat",
     "website": "https://feuerwehr-opfikon.ch/",
     "id": "way/152220187"
   },
