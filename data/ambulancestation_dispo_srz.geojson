@@ -603,6 +603,7 @@
   "type": "Feature",
   "id": "node/7463260938",
   "properties": {
+    "alt_name": "Wache RD Schwyz;Wache RD MediTrans GmbH",
     "emergency": "ambulance_station",
     "name": "Rettungsdienst Schwyz",
     "operator": "Rettungsdienst Schwyz",
