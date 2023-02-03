@@ -36983,20 +36983,20 @@
   "properties": {
     "access": "no",
     "defibrillator:location": "Im Foyer der Stadthalle rechts neben dem Lift",
-    "description": "während Öffnungszeiten verfügbar",
+    "description": "während Öffnungszeiten verfügbar, Hallenwart der Stadthalle",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
     "level": "0",
-    "operator": "Hallenwart der Stadthalle",
+    "operator": "Stadt Dietikon",
     "phone": "+41 44 740 73 61",
     "id": "node/10231055787"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.3870879,
-      47.407026
+      8.3869493,
+      47.407153
     ]
   }
 },
@@ -38990,30 +38990,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/10598902819",
-  "properties": {
-    "access": "no",
-    "defibrillator:location": "Weishaupt AG",
-    "description": "während Öffnungszeiten verfügbar",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "yes",
-    "level": "1. OG in Schrank in Cafeteria",
-    "opening_hours": "Mo - Fr: 07:30 - 17:00",
-    "operator": "Weishaupt AG",
-    "phone": "0447492929",
-    "id": "node/10598902819"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.416795,
-      47.4174118
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/10598939205",
   "properties": {
     "access": "no",
@@ -39033,6 +39009,30 @@
     "coordinates": [
       8.4167821,
       47.4173954
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10600867305",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Büro Lincoln International 3. Stock",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "3. Stock",
+    "opening_hours": "09:00 - 19:00",
+    "operator": "Geschäft / Privat",
+    "phone": "+41445764300",
+    "id": "node/10600867305"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5489504,
+      47.3627504
     ]
   }
 }
