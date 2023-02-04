@@ -5,14 +5,19 @@
   "type": "Feature",
   "id": "relation/2518007",
   "properties": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "12",
+    "addr:postcode": "8038",
+    "addr:street": "Mööslistrasse",
     "amenity": "social_facility",
     "building": "yes",
     "name": "Alterswohnheim Tannenrauch",
     "operator": "Verein Altersgerechtes Wohnen Wollishofen",
     "social_facility": "group_home",
     "social_facility:for": "senior",
-    "source": "Stadt Zürich Open Government Data; Geomatik + Vermessung; Tiefbau- und Entsorgungsdepartement",
+    "source": "Stadt Zürich Open Government Data;Geomatik + Vermessung;Tiefbau- und Entsorgungsdepartement",
     "type": "multipolygon",
+    "wheelchair": "yes",
     "id": "relation/2518007"
   },
   "geometry": {
@@ -8311,29 +8316,6 @@
     "coordinates": [
       8.5604406,
       47.4133257
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/10570514549",
-  "properties": {
-    "addr:city": "Zürich",
-    "addr:housenumber": "5",
-    "addr:postcode": "8004",
-    "addr:street": "Gustav-Gull-Platz",
-    "amenity": "hospital",
-    "name": "Stadtspital Zürich Europaallee",
-    "operator": "Stadtspital Zürich",
-    "phone": "+41 44 416 32 00",
-    "website": "https://www.stadt-zuerich.ch/site/europaallee/de/index.html",
-    "id": "node/10570514549"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5308675,
-      47.3796327
     ]
   }
 }
