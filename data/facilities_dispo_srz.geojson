@@ -33050,45 +33050,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/1052631331",
-  "properties": {
-    "amenity": "social_facility",
-    "name": "Residenz Stadtpark",
-    "note": "Bezug ab Herbst 2023",
-    "social_facility": "group_home",
-    "social_facility:for": "senior",
-    "id": "way/1052631331"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          8.7148295,
-          47.3494416
-        ],
-        [
-          8.714542,
-          47.348896
-        ],
-        [
-          8.7149723,
-          47.3487918
-        ],
-        [
-          8.7152599,
-          47.3493375
-        ],
-        [
-          8.7148295,
-          47.3494416
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/1066428552",
   "properties": {
     "amenity": "social_facility",
@@ -33468,6 +33429,44 @@
           8.5646532,
           47.4285819
         ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1052631331",
+  "properties": {
+    "construction:amenity": "social_facility",
+    "construction:building": "yes",
+    "name": "Residenz Stadtpark",
+    "note": "Bezug ab Herbst 2023",
+    "social_facility": "group_home",
+    "social_facility:for": "senior",
+    "id": "way/1052631331"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.7148295,
+        47.3494416
+      ],
+      [
+        8.7152599,
+        47.3493375
+      ],
+      [
+        8.7149723,
+        47.3487918
+      ],
+      [
+        8.714542,
+        47.348896
+      ],
+      [
+        8.7148295,
+        47.3494416
       ]
     ]
   }
