@@ -53392,7 +53392,7 @@
     "emergency:phone": "144",
     "indoor": "yes",
     "level": "Erdgeschoss im Showroom",
-    "opening_hours": "Mo. - Fr. 07.00 - 18.00 UhrSa. 09.00 - 13.00 Uhr",
+    "opening_hours": "Mo. - Fr. 07.00 - 18.00 Uhr, Sa. 09.00 - 13.00 Uhr",
     "operator": "Firma",
     "phone": "0041447626080",
     "id": "node/10675979905"
@@ -53425,6 +53425,28 @@
     "coordinates": [
       8.5879025,
       47.1363808
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10681003105",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Tösstalstrasse 64 / 8488 Turbenthal / 24h-Zone",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "24/7",
+    "operator": "Raiffeisenbank am Bichelsee",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/10681003105"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8458872,
+      47.4373402
     ]
   }
 }

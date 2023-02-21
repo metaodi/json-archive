@@ -1386,6 +1386,7 @@
   "id": "way/34572244",
   "properties": {
     "addr:city": "Zürich",
+    "addr:country": "CH",
     "addr:housenumber": "82",
     "addr:postcode": "8002",
     "addr:street": "Brandschenkestrasse",
@@ -2580,6 +2581,7 @@
   "id": "way/97003718",
   "properties": {
     "addr:city": "Zürich",
+    "addr:country": "CH",
     "addr:housenumber": "21",
     "addr:postcode": "8002",
     "addr:street": "Bellariastrasse",
@@ -8125,8 +8127,9 @@
   "id": "node/5280368593",
   "properties": {
     "addr:city": "Zürich",
+    "addr:country": "CH",
     "addr:housenumber": "425",
-    "addr:postcode": "8055",
+    "addr:postcode": "8045",
     "addr:street": "Schweighofstrasse",
     "amenity": "social_facility",
     "capacity": "8",
@@ -8149,6 +8152,7 @@
   "id": "node/5280368594",
   "properties": {
     "addr:city": "Zürich",
+    "addr:country": "CH",
     "addr:housenumber": "437",
     "addr:postcode": "8055",
     "addr:street": "Birmensdorferstrasse",
@@ -8172,7 +8176,10 @@
   "type": "Feature",
   "id": "node/5280368595",
   "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
     "addr:housenumber": "4",
+    "addr:postcode": "8055",
     "addr:street": "Grünmattstrasse",
     "amenity": "social_facility",
     "capacity": "8",
