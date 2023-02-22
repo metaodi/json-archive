@@ -1428,7 +1428,8 @@
   "type": "Feature",
   "id": "way/49749961",
   "properties": {
-    "addr:housenumber": "6.4",
+    "addr:city": "Rafz",
+    "addr:postcode": "8197",
     "addr:street": "Tannewäg",
     "amenity": "fire_station",
     "building": "yes",
@@ -6226,6 +6227,24 @@
     "coordinates": [
       8.6243532,
       47.5739758
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10682733224",
+  "properties": {
+    "addr:street": "Tannewäg",
+    "amenity": "fire_station",
+    "name": "Depot Feuerwehr RAWI (Rafz-Wil)",
+    "website": "https://www.rafz.ch/verwfeuerwehr",
+    "id": "node/10682733224"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5384205,
+      47.6091911
     ]
   }
 }
