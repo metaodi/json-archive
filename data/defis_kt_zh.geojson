@@ -29003,8 +29003,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5516994,
-      47.4738427
+      8.5516991,
+      47.473843
     ]
   }
 },
@@ -37068,8 +37068,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5529181,
-      47.4160817
+      8.5524483,
+      47.4154363
     ]
   }
 },
@@ -39475,6 +39475,104 @@
     "coordinates": [
       8.605674,
       47.4472881
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10685407405",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Bruker Gebäude F01-07",
+    "description": "Im Eingangsbereich direkt links an der Wand. Zugang mit Mitarbeiter Badge.",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "EG",
+    "opening_hours": "Mo-Fr: 07:30-18:00",
+    "operator": "Firma Bruker",
+    "phone": "+41448259111",
+    "id": "node/10685407405"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6435161,
+      47.3781447
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10685438905",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Bruker Haupteingang/Rezeption (Gebäude F1-03).  ",
+    "description": "Zugänglich mit Mitarbeiter Badge. Rezeption vorbei laufen, durch den Schiebetüren (Badge). Defi befindet sich links, gegenüber den Aufzug.",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "EG",
+    "opening_hours": "Mo-Fr. 07:30-18:00",
+    "operator": "Firma Bruker",
+    "phone": "+41 44 825 91 11",
+    "id": "node/10685438905"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6426843,
+      47.377811
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10685673706",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Schulhaus Zweigärten, innen",
+    "description": "Während Schulzeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "Mo-Fr 08.00 - 17.00",
+    "operator": "Primarschule Oberembrach",
+    "phone": "+41 79 652 98 23",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/10685673706"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.616119,
+      47.4876979
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10690394605",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Garderobe EG, Talstrasse 59, 8001 Zürich",
+    "description": "während den Oeffnungszeiten verfühgbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "Mo. - Fr. 08:00 bis 17:30 Uhr",
+    "operator": "VPBank (Schweiz) AG",
+    "phone": "+41 44 226 24 24",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/10690394605"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5358191,
+      47.370222
     ]
   }
 }

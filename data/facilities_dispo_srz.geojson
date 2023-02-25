@@ -32295,6 +32295,120 @@
 },
 {
   "type": "Feature",
+  "id": "way/930171286",
+  "properties": {
+    "addr:city": "Weinigen",
+    "addr:housenumber": "4",
+    "addr:postcode": "8104",
+    "addr:street": "Püntenstrasse",
+    "alt_name": "Pflegezentrum im Morgen;Gesundheitszentrum im Morgen;Altersheim im Morgen",
+    "amenity": "social_facility",
+    "email": "info@aphweiningen.ch",
+    "name": "Seniorenzentrum Im Morgen",
+    "operator": "Zweckverband Seniorenzentrum Im Morgen",
+    "phone": "+41 44 752 17 17",
+    "social_facility": "nursing_home",
+    "website": "https://www.szweiningen.ch/de/home/",
+    "id": "way/930171286"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.4364709,
+          47.4173623
+        ],
+        [
+          8.4374817,
+          47.4169403
+        ],
+        [
+          8.4378546,
+          47.4173279
+        ],
+        [
+          8.4379104,
+          47.4174079
+        ],
+        [
+          8.438018,
+          47.4174961
+        ],
+        [
+          8.4380109,
+          47.4175063
+        ],
+        [
+          8.4379805,
+          47.4175089
+        ],
+        [
+          8.4379453,
+          47.4175237
+        ],
+        [
+          8.4379329,
+          47.4175383
+        ],
+        [
+          8.4378377,
+          47.4175711
+        ],
+        [
+          8.4378256,
+          47.4175811
+        ],
+        [
+          8.4378011,
+          47.4175853
+        ],
+        [
+          8.4377925,
+          47.4175979
+        ],
+        [
+          8.4377683,
+          47.4175977
+        ],
+        [
+          8.4376896,
+          47.4176313
+        ],
+        [
+          8.437679,
+          47.4176471
+        ],
+        [
+          8.4374195,
+          47.4177475
+        ],
+        [
+          8.4373533,
+          47.4177351
+        ],
+        [
+          8.4373166,
+          47.4177495
+        ],
+        [
+          8.4372908,
+          47.4178027
+        ],
+        [
+          8.4370125,
+          47.4179153
+        ],
+        [
+          8.4364709,
+          47.4173623
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/944995062",
   "properties": {
     "addr:city": "Dübendorf",
