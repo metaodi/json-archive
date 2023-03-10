@@ -5110,22 +5110,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/638281685",
-  "properties": {
-    "amenity": "fire_station",
-    "name": "Au",
-    "id": "node/638281685"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.6485168,
-      47.2451546
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/664420085",
   "properties": {
     "addr:city": "Wetzikon",

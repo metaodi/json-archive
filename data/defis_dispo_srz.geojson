@@ -6895,12 +6895,11 @@
   "properties": {
     "access": "yes",
     "contact:website": "http://aed.ch",
-    "defibrillator:location": "Bahnhof Samstagern: Perron Gleis 2/3 am Ende der Rampe",
-    "description": "24h verfügbar",
+    "defibrillator:location": "Perron Gleis 2 / 3 am Ende der Rampe",
+    "description": "Öffentlich zugänglich",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
-    "level": "0",
     "opening_hours": "24/7",
     "operator": "SOB",
     "phone": "+41 58 580 73 35",
@@ -10074,10 +10073,11 @@
   "id": "node/7819540963",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "Aussen vor Eingang",
+    "defibrillator:location": "neben Eingangstüre links",
     "description": "Öffentlich zugänglich",
     "emergency": "defibrillator",
     "emergency:phone": "144",
+    "indoor": "no",
     "opening_hours": "24/7",
     "operator": "Gemeinde Richterswil",
     "id": "node/7819540963"
@@ -10085,8 +10085,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.6799893,
-      47.191111
+      8.679928,
+      47.1911071
     ]
   }
 },
@@ -10136,10 +10136,11 @@
   "id": "node/7819540966",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "beim WC",
+    "defibrillator:location": "beim Ausseneingang zum WC / Garderoben",
     "description": "Öffentlich zugänglich",
     "emergency": "defibrillator",
     "emergency:phone": "144",
+    "indoor": "no",
     "opening_hours": "24/7",
     "operator": "Gemeinde Richterswil",
     "id": "node/7819540966"
@@ -10147,8 +10148,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.6872102,
-      47.2080631
+      8.6873282,
+      47.2081014
     ]
   }
 },
@@ -10222,7 +10223,7 @@
   "id": "node/7819540971",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "Perron",
+    "defibrillator:location": "Perron 1 hinter dem Billettautomat",
     "description": "Öffentlich zugänglich",
     "emergency": "defibrillator",
     "emergency:phone": "144",
@@ -22230,8 +22231,8 @@
   "id": "node/8557268873",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "Im Hof neben Haupteingang",
-    "description": "24h verfügbar",
+    "defibrillator:location": "Innenhof neben Haupteingang",
+    "description": "Öffentlich zugänglich",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
@@ -54229,6 +54230,49 @@
     "coordinates": [
       8.6267972,
       47.6975617
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10722972605",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Im Gemeindehaus / Gang",
+    "description": "Von September bis April / Nur bei Öffnungszeiten verfügbar / Montag und Donnerstag 08:00 - 11:30 und Dienstag 08:00 - 11:30 und 14:00 - 18:00",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "operator": "Gemeinde",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/10722972605"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4260631,
+      47.2346353
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10724653594",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Im Eingangsbereich der Turnhalle bei der Treppe an der Wand in einem Koffer",
+    "emergency": "defibrillator",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "Mo-Fr 08:00-18:00",
+    "wheelchair": "limited",
+    "id": "node/10724653594"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6713642,
+      47.7792345
     ]
   }
 }
