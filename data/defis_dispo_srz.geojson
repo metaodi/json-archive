@@ -20078,7 +20078,6 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
-    "opening_hours": "Mo-Fr 07:00-17:00",
     "operator": "Gemeindeverw. Dietlikon, Feuerwehr",
     "phone": "+41 44 835 83 21",
     "id": "node/8455469019"
@@ -54414,6 +54413,30 @@
     "coordinates": [
       8.6889356,
       47.3868263
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10730886205",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Brockenhaus, an der Kasse",
+    "description": "während Öffnungszeiten verfügbar ",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "EG",
+    "opening_hours": "Mo-Fr: 09:00 - 18:30, Sa: 09:00 - 17:00",
+    "operator": "Heilsarmee brocki.ch ",
+    "phone": "+4152 385 41 91",
+    "id": "node/10730886205"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8488392,
+      47.4185929
     ]
   }
 }
