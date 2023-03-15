@@ -1706,6 +1706,52 @@
 },
 {
   "type": "Feature",
+  "id": "way/55794385",
+  "properties": {
+    "addr:city": "Dübendorf",
+    "addr:country": "CH",
+    "addr:housenumber": "54",
+    "addr:postcode": "8600",
+    "addr:street": "Neugutstrasse",
+    "amenity": "fire_station",
+    "building": "yes",
+    "name": "Feuerwehr Dübendorf - Wangen-Brüttisellen",
+    "id": "way/55794385"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6088763,
+          47.4002516
+        ],
+        [
+          8.6086809,
+          47.400287
+        ],
+        [
+          8.6083949,
+          47.4003366
+        ],
+        [
+          8.6083038,
+          47.4000957
+        ],
+        [
+          8.6087846,
+          47.4000108
+        ],
+        [
+          8.6088763,
+          47.4002516
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/61540529",
   "properties": {
     "addr:city": "Zollikon",
@@ -5769,22 +5815,6 @@
     "coordinates": [
       8.5265708,
       47.2264479
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/6179280239",
-  "properties": {
-    "amenity": "fire_station",
-    "name": "Feuerwehr Dübendorf - Wangen-Brüttisellen",
-    "id": "node/6179280239"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.6086544,
-      47.4000694
     ]
   }
 },
