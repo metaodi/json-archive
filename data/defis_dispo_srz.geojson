@@ -23416,21 +23416,23 @@
   "id": "node/8562820772",
   "properties": {
     "access": "yes",
-    "defibrillator:location": "Im Treppenhaus vom EG bis 5. OG jeweils ein Defi",
+    "defibrillator:location": "Im Treppenhaus",
     "description": "während Öffnungszeiten verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
+    "level": "0",
     "opening_hours": "Mo-Fr 07:00-18:00",
     "operator": "Horst Ritzel Alterszentren Stadt Zürich",
     "phone": "+41 44 412 47 48",
+    "wheelchair": "limited",
     "id": "node/8562820772"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.542493,
-      47.4160394
+      8.5425447,
+      47.4161176
     ]
   }
 },
@@ -26534,7 +26536,7 @@
     "indoor": "yes",
     "opening_hours": "24/7",
     "operator": "Alterszentrum",
-    "phone": "+41434348073",
+    "phone": "044 434 80 70",
     "id": "node/8629993020"
   },
   "geometry": {
@@ -35410,8 +35412,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.6753774,
-      47.3451597
+      8.6753153,
+      47.3452014
     ]
   }
 },
@@ -38460,13 +38462,16 @@
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Freienbach",
+    "phone": "+41 55 416 95 76",
     "id": "node/9530483217"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.7702282,
-      47.1981633
+      8.7708269,
+      47.1983965
     ]
   }
 },
@@ -48882,8 +48887,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.4961028,
-      47.3849146
+      8.4941728,
+      47.3855969
     ]
   }
 },
@@ -54510,6 +54515,203 @@
     "coordinates": [
       8.4886296,
       47.3817883
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10737441705",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "WGH Neuhofstrasse 14",
+    "description": "Beim Haupteingang",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "0",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Feusisberg",
+    "phone": "+41554169476",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/10737441705"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.709737,
+      47.1776627
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10739307205",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "St. Thomas Kirche, Inwil",
+    "description": "Installiert bei der Betonsäule rechts im Aussenbereich beim Eingang vor der Kirche St. Thomas",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Kirchgemeinde Baar",
+    "phone": "+41 41 760 68 13",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/10739307205"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5353899,
+      47.1818522
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10741113705",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Axpo Biomasse AG",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "Mo - Fr  07.00 - 17.00",
+    "operator": "Axpo Biomasse",
+    "phone": "+41 44 945 08 65",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/10741113705"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6698437,
+      47.3999469
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10741161483",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Im Treppenhaus",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "5",
+    "opening_hours": "Mo-Fr 07:00-18:00",
+    "operator": "Horst Ritzel Alterszentren Stadt Zürich",
+    "phone": "+41 44 412 47 48",
+    "wheelchair": "limited",
+    "id": "node/10741161483"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5425916,
+      47.4160568
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10741161484",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Im Treppenhaus",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "4",
+    "opening_hours": "Mo-Fr 07:00-18:00",
+    "operator": "Horst Ritzel Alterszentren Stadt Zürich",
+    "phone": "+41 44 412 47 48",
+    "wheelchair": "limited",
+    "id": "node/10741161484"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5425839,
+      47.4160694
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10741161485",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Im Treppenhaus",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "3",
+    "opening_hours": "Mo-Fr 07:00-18:00",
+    "operator": "Horst Ritzel Alterszentren Stadt Zürich",
+    "phone": "+41 44 412 47 48",
+    "wheelchair": "limited",
+    "id": "node/10741161485"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5425718,
+      47.4160806
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10741161486",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Im Treppenhaus",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "2",
+    "opening_hours": "Mo-Fr 07:00-18:00",
+    "operator": "Horst Ritzel Alterszentren Stadt Zürich",
+    "phone": "+41 44 412 47 48",
+    "wheelchair": "limited",
+    "id": "node/10741161486"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5425608,
+      47.4160925
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10741161487",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Im Treppenhaus",
+    "description": "während Öffnungszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "1",
+    "opening_hours": "Mo-Fr 07:00-18:00",
+    "operator": "Horst Ritzel Alterszentren Stadt Zürich",
+    "phone": "+41 44 412 47 48",
+    "wheelchair": "limited",
+    "id": "node/10741161487"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5425542,
+      47.4161044
     ]
   }
 }

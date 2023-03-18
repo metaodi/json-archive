@@ -8482,6 +8482,33 @@
       47.4133257
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/10736523294",
+  "properties": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "45",
+    "addr:postcode": "8008",
+    "addr:street": "Witellikerstrasse",
+    "amenity": "social_facility",
+    "email": "sekretariat@stiftung-hirslanden.ch",
+    "name": "Sozialpädagogisches Zentrum für junge Frauen",
+    "operator": "Stiftung Hirslanden",
+    "phone": "+41 44 389 20 20",
+    "social_facility": "group_home",
+    "social_facility:for": "juvenile",
+    "website": "https://www.stiftung-hirslanden.ch/",
+    "id": "node/10736523294"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5775618,
+      47.3510221
+    ]
+  }
 }
 ]
 }
