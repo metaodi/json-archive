@@ -4747,6 +4747,7 @@
     "access": "yes",
     "emergency": "defibrillator",
     "emergency:phone": "144",
+    "indoor": "no",
     "opening_hours": "24/7",
     "id": "node/7559369525"
   },
@@ -54734,6 +54735,48 @@
     "coordinates": [
       8.5291309,
       47.5845254
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10744951005",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Seebad Seewen Zingel",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "id": "node/10744951005"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6221662,
+      47.0308281
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10745187809",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Sporthalle Breiti",
+    "description": "während Öffnungszeiten",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "EG",
+    "opening_hours": "mo- so 7.00- 18.00",
+    "operator": "Gemeinde",
+    "id": "node/10745187809"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5960999,
+      47.5036552
     ]
   }
 }
