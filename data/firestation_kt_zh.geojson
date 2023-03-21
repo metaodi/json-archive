@@ -5035,15 +5035,19 @@
   "type": "Feature",
   "id": "node/370747057",
   "properties": {
+    "addr:city": "Otelfingen",
+    "addr:housenumber": "8",
+    "addr:postcode": "8112",
+    "addr:street": "Landstrasse",
     "amenity": "fire_station",
-    "name": "Feuerwehr unteres Furttal - Depot Otelfingen",
+    "name": "Feuerwehr Unteres Furttal - Depot Otelfingen",
     "id": "node/370747057"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.3854189,
-      47.4593104
+      8.3857408,
+      47.4591635
     ]
   }
 },
@@ -6149,6 +6153,7 @@
     "addr:housenumber": "42",
     "addr:postcode": "8050",
     "addr:street": "Neunbrunnenstrasse",
+    "alt_name": "Wache Nord",
     "amenity": "fire_station",
     "name": "Milizfeuerwehr Kompanie Nord - Depot Neunbrunnen",
     "operator": "Schutz & Rettung Zürich",

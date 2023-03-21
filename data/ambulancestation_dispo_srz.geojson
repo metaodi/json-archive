@@ -327,6 +327,60 @@
 },
 {
   "type": "Feature",
+  "id": "way/357486503",
+  "properties": {
+    "addr:city": "Rüti (ZH)",
+    "addr:housenumber": "35",
+    "addr:postcode": "8630",
+    "addr:street": "Spitalstrasse",
+    "alt_name": "Wache Rüti, Regio 144",
+    "building": "yes",
+    "description": "Rettungsdienst Zürichsee – Oberland – Linth",
+    "email": "info@regio144.ch",
+    "emergency": "ambulance_station",
+    "name": "Regio 144 Rettung AG",
+    "phone": "+41 55 220 41 41",
+    "website": "www.regio144.ch",
+    "id": "way/357486503"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.8429422,
+          47.2594714
+        ],
+        [
+          8.8431143,
+          47.2595116
+        ],
+        [
+          8.8430933,
+          47.2595535
+        ],
+        [
+          8.8433957,
+          47.2596253
+        ],
+        [
+          8.8433565,
+          47.2597014
+        ],
+        [
+          8.8428069,
+          47.2597413
+        ],
+        [
+          8.8429422,
+          47.2594714
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/843565567",
   "properties": {
     "addr:city": "Lachen SZ",
@@ -842,27 +896,6 @@
     "coordinates": [
       8.4438289,
       47.084532
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/9767931306",
-  "properties": {
-    "alt_name": "Neuer Stützpunkt",
-    "description": "Rettungsdienst Zürichsee – Oberland – Linth",
-    "email": "info@regio144.ch",
-    "emergency": "ambulance_station",
-    "name": "Regio 144 Rettung AG",
-    "phone": "+41 55 220 41 41",
-    "website": "www.regio144.ch",
-    "id": "node/9767931306"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.8429912,
-      47.2596538
     ]
   }
 },
