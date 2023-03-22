@@ -390,6 +390,7 @@
     "addr:housenumber": "4",
     "addr:postcode": "8003",
     "addr:street": "Weststrasse",
+    "alt_name": "Wache Süd",
     "amenity": "fire_station",
     "building": "yes",
     "name": "Berufsfeuerwehr Zürich",
@@ -439,6 +440,10 @@
         [
           8.5244826,
           47.3691737
+        ],
+        [
+          8.5246615,
+          47.3691341
         ],
         [
           8.5249211,
@@ -3529,6 +3534,7 @@
     "addr:housenumber": "20",
     "addr:postcode": "8003",
     "addr:street": "Manessestrasse",
+    "alt_name": "Wache Süd",
     "amenity": "fire_station",
     "building": "yes",
     "name": "Berufsfeuerwehr Zürich",
@@ -5229,22 +5235,6 @@
     "coordinates": [
       8.7926479,
       47.5508779
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/1202838388",
-  "properties": {
-    "amenity": "fire_station",
-    "name": "Flughafenfeuerwehr, Wache Dock A",
-    "id": "node/1202838388"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5558422,
-      47.4539454
     ]
   }
 },

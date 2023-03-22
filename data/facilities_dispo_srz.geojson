@@ -14489,6 +14489,94 @@
 },
 {
   "type": "Feature",
+  "id": "way/183643295",
+  "properties": {
+    "addr:city": "Dietlikon",
+    "addr:housenumber": "64",
+    "addr:postcode": "8305",
+    "addr:street": "Bahnhofstrasse",
+    "amenity": "social_facility",
+    "building": "yes",
+    "name": "Alterszentrum Hofwiesen",
+    "social_facility": "nursing_home",
+    "social_facility:for": "senior",
+    "source": "bing",
+    "id": "way/183643295"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6187216,
+          47.4256492
+        ],
+        [
+          8.6186994,
+          47.42558
+        ],
+        [
+          8.6187028,
+          47.4255795
+        ],
+        [
+          8.6186979,
+          47.4255653
+        ],
+        [
+          8.6191827,
+          47.4254896
+        ],
+        [
+          8.6191876,
+          47.4255037
+        ],
+        [
+          8.6192552,
+          47.4254931
+        ],
+        [
+          8.619242,
+          47.425453
+        ],
+        [
+          8.6192101,
+          47.4254577
+        ],
+        [
+          8.6190608,
+          47.4250197
+        ],
+        [
+          8.6190809,
+          47.425018
+        ],
+        [
+          8.6190681,
+          47.4249784
+        ],
+        [
+          8.6191785,
+          47.4249833
+        ],
+        [
+          8.6192915,
+          47.4249622
+        ],
+        [
+          8.6195246,
+          47.4255215
+        ],
+        [
+          8.6187216,
+          47.4256492
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/184872440",
   "properties": {
     "addr:city": "Wallisellen",
@@ -35501,28 +35589,6 @@
     "coordinates": [
       8.7985841,
       47.3273992
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/5195533567",
-  "properties": {
-    "addr:city": "Dietlikon",
-    "addr:housenumber": "64",
-    "addr:postcode": "8305",
-    "addr:street": "Bahnhofstrasse",
-    "amenity": "social_facility",
-    "name": "Alterszentrum Hofwiesen",
-    "social_facility": "nursing_home",
-    "social_facility:for": "senior",
-    "id": "node/5195533567"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.6192624,
-      47.4254088
     ]
   }
 },
