@@ -11620,27 +11620,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/7920139394",
-  "properties": {
-    "defibrillator:location": "Empfang Intercomestibles Getränke",
-    "description": "während Öffnungszeiten verfügbar",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "name": "Intercomestibles",
-    "opening_hours": "Mo-Fr 06:00-18:00",
-    "operator": "Intercomestibles",
-    "id": "node/7920139394"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5138279,
-      47.3620683
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/7925859050",
   "properties": {
     "emergency": "defibrillator",
@@ -28275,29 +28254,6 @@
     "coordinates": [
       8.7712372,
       47.6353078
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/8811225269",
-  "properties": {
-    "access": "yes",
-    "defibrillator:location": "Direkt am Eingang zur Bank",
-    "description": "24h verfügbar",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "no",
-    "opening_hours": "24/7",
-    "operator": "Gemeinde Stammheim",
-    "phone": "+41 52 744 55 11",
-    "id": "node/8811225269"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.7953685,
-      47.633609
     ]
   }
 },
@@ -51151,26 +51107,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/10291599711",
-  "properties": {
-    "access": "yes",
-    "defibrillator:location": "Golbach Schür",
-    "description": "Aussenwand",
-    "emergency": "defibrillator",
-    "emergency:phone": "144",
-    "indoor": "no",
-    "id": "node/10291599711"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.4918035,
-      47.5966339
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/10291757510",
   "properties": {
     "access": "yes",
@@ -54938,6 +54874,28 @@
     "coordinates": [
       8.7950975,
       47.6341316
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10753011905",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Empfang bei der iFAS ERP AG",
+    "description": "während der Öffnungszeiten",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "3. OG",
+    "operator": "iFAS ERP AG",
+    "id": "node/10753011905"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6803286,
+      47.381583
     ]
   }
 }
