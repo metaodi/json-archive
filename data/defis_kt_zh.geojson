@@ -40533,6 +40533,47 @@
       47.381583
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/10755483705",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Jugendwohngruppen Limmattal",
+    "description": "Beim gedeckten Gartensitzplatz",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "0",
+    "opening_hours": "24/7",
+    "operator": "Stiftung Jugend + Wohnen",
+    "phone": "0447401239",
+    "id": "node/10755483705"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4018097,
+      47.4073786
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10757116426",
+  "properties": {
+    "access": "yes",
+    "emergency": "defibrillator",
+    "opening_hours": "24/7",
+    "id": "node/10757116426"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5554624,
+      47.271159
+    ]
+  }
 }
 ]
 }
