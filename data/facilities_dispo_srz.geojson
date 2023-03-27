@@ -37208,6 +37208,31 @@
       47.4337527
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/10765221637",
+  "properties": {
+    "addr:city": "Dielsdorf",
+    "addr:housenumber": "1",
+    "addr:postcode": "8157",
+    "addr:street": "Buckweg",
+    "alt_name": "Aussenwohngruppe Vivendra",
+    "amenity": "social_facility",
+    "name": "AWG Stiftung Vivendra",
+    "operator": "Stiftung Vivendra",
+    "social_facility": "group_home",
+    "social_facility:for": "senior",
+    "website": "https://www.vivendra.ch/wohnen/standort-dielsdorf",
+    "id": "node/10765221637"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4572924,
+      47.4816604
+    ]
+  }
 }
 ]
 }
