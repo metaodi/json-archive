@@ -39629,9 +39629,9 @@
   "type": "Feature",
   "id": "node/9605130359",
   "properties": {
-    "access": "no",
-    "defibrillator:location": "Ökihof Zug, im Mitarbeiterbereich",
-    "description": "während Öffnungszeiten verfügbar",
+    "access": "yes",
+    "defibrillator:location": "Ökihof Zug / Eingang Brocki",
+    "description": "365/24 verfügbar",
     "emergency": "defibrillator",
     "emergency:phone": "144",
     "indoor": "yes",
@@ -39642,8 +39642,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.5167272,
-      47.1775446
+      8.5230036,
+      47.1845889
     ]
   }
 },
@@ -61920,6 +61920,73 @@
     "coordinates": [
       8.7235236,
       47.4995669
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10765321505",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Halle 14",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "id": "node/10765321505"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6359956,
+      47.4070938
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10765340805",
+  "properties": {
+    "access": "no",
+    "defibrillator:location": "Haupteingang",
+    "description": "während Geschäftszeiten verfügbar",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "0",
+    "opening_hours": "Mo-Do 08:00-12:00, 13:00-16:30; Fr 08:00-12:00, 13:00-16:00",
+    "operator": "ALMAT AG",
+    "phone": "+41523553355",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/10765340805"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6658043,
+      47.4308816
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10766210105",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Ärztezentrum Dällikon",
+    "description": "während den Öffnungszeiten ",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "opening_hours": "24/7",
+    "operator": "Ärzte Zentrum Dällikon ",
+    "phone": "+41448441788",
+    "id": "node/10766210105"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4411723,
+      47.4378459
     ]
   }
 }
