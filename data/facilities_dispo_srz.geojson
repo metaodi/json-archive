@@ -12887,12 +12887,14 @@
   "properties": {
     "addr:city": "Dietikon",
     "addr:country": "CH",
-    "addr:housenumber": "39",
+    "addr:housenumber": "2",
     "addr:postcode": "8953",
-    "addr:street": "Bremgartnerstrasse",
+    "addr:street": "Ruggackerstrasse",
+    "alt_name": "Alters- und Gesundheitszentrum Ruggacker",
     "amenity": "social_facility",
     "building": "yes",
-    "name": "Alters- und Gesundheitszentrum Ruggacker",
+    "name": "Senioren Residenz Ruggacker",
+    "short_name": "AGZ Dietikon",
     "social_facility": "nursing_home",
     "social_facility:for": "senior",
     "id": "way/148799181"
@@ -12902,42 +12904,6 @@
     "coordinates": [
       [
         [
-          8.4012031,
-          47.4013342
-        ],
-        [
-          8.4012113,
-          47.401345
-        ],
-        [
-          8.4009663,
-          47.4014294
-        ],
-        [
-          8.4007343,
-          47.4011209
-        ],
-        [
-          8.4008056,
-          47.4010964
-        ],
-        [
-          8.4007256,
-          47.4009901
-        ],
-        [
-          8.4009467,
-          47.4009139
-        ],
-        [
-          8.4011005,
-          47.4011185
-        ],
-        [
-          8.4010485,
-          47.4011364
-        ],
-        [
           8.4011263,
           47.4012399
         ],
@@ -12946,44 +12912,36 @@
           47.4012302
         ],
         [
-          8.4013168,
-          47.4011886
+          8.4016442,
+          47.4010298
         ],
         [
-          8.4016265,
-          47.4010448
+          8.4017634,
+          47.4010154
         ],
         [
-          8.4017577,
-          47.4010274
+          8.4018453,
+          47.401121
         ],
         [
-          8.4018371,
-          47.4011296
+          8.4018626,
+          47.4011858
         ],
         [
-          8.4018544,
-          47.4011978
+          8.4015692,
+          47.4012659
         ],
         [
-          8.4015566,
-          47.4012805
+          8.4013655,
+          47.4012912
         ],
         [
-          8.4013699,
-          47.401304
+          8.4012113,
+          47.401345
         ],
         [
-          8.4012651,
-          47.4013264
-        ],
-        [
-          8.4012519,
-          47.4013176
-        ],
-        [
-          8.4012031,
-          47.4013342
+          8.4011263,
+          47.4012399
         ]
       ]
     ]
@@ -28377,6 +28335,100 @@
 },
 {
   "type": "Feature",
+  "id": "way/639812110",
+  "properties": {
+    "addr:city": "Ibach",
+    "addr:housenumber": "62",
+    "addr:postcode": "6438",
+    "addr:street": "Gotthardstrasse",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "TellKlinik",
+    "operator": "Tell-Klinik AG",
+    "id": "way/639812110"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.6433518,
+          47.0106933
+        ],
+        [
+          8.6433407,
+          47.0105932
+        ],
+        [
+          8.6433495,
+          47.0105681
+        ],
+        [
+          8.6433965,
+          47.0105688
+        ],
+        [
+          8.6434024,
+          47.0105586
+        ],
+        [
+          8.6434412,
+          47.0105553
+        ],
+        [
+          8.6434268,
+          47.0104142
+        ],
+        [
+          8.6435636,
+          47.0103913
+        ],
+        [
+          8.6437584,
+          47.0106092
+        ],
+        [
+          8.6437274,
+          47.0106125
+        ],
+        [
+          8.6437243,
+          47.0106287
+        ],
+        [
+          8.6437111,
+          47.0106448
+        ],
+        [
+          8.6436922,
+          47.0106565
+        ],
+        [
+          8.643669,
+          47.0106633
+        ],
+        [
+          8.6436694,
+          47.0106788
+        ],
+        [
+          8.6434,
+          47.0106945
+        ],
+        [
+          8.6433995,
+          47.0106903
+        ],
+        [
+          8.6433518,
+          47.0106933
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/647029206",
   "properties": {
     "addr:city": "Gersau",
@@ -33606,6 +33658,205 @@
 },
 {
   "type": "Feature",
+  "id": "way/1157845426",
+  "properties": {
+    "amenity": "social_facility",
+    "contact:email": "info@palme.ch",
+    "contact:phone": "+41 44 953 31 31",
+    "contact:website": "https://www.palme.ch/palme/die-stiftung",
+    "name": "Betreutes Wohnen Zur Palme",
+    "operator": "Stiftung zur palme",
+    "social_facility": "nursing_home",
+    "id": "way/1157845426"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.7849942,
+          47.3662321
+        ],
+        [
+          8.7849209,
+          47.3662893
+        ],
+        [
+          8.7848907,
+          47.3663212
+        ],
+        [
+          8.7849048,
+          47.3663362
+        ],
+        [
+          8.7848626,
+          47.3663797
+        ],
+        [
+          8.7848365,
+          47.3663859
+        ],
+        [
+          8.7848064,
+          47.3663811
+        ],
+        [
+          8.7847602,
+          47.3663382
+        ],
+        [
+          8.7846718,
+          47.3662512
+        ],
+        [
+          8.7845985,
+          47.3661777
+        ],
+        [
+          8.7846065,
+          47.3661417
+        ],
+        [
+          8.7846296,
+          47.3661165
+        ],
+        [
+          8.7847994,
+          47.3660192
+        ],
+        [
+          8.7849932,
+          47.3659145
+        ],
+        [
+          8.7852603,
+          47.3657594
+        ],
+        [
+          8.7852904,
+          47.3657778
+        ],
+        [
+          8.7853959,
+          47.3657159
+        ],
+        [
+          8.785659,
+          47.3659301
+        ],
+        [
+          8.7855516,
+          47.3659961
+        ],
+        [
+          8.7855676,
+          47.3660322
+        ],
+        [
+          8.7854541,
+          47.36609
+        ],
+        [
+          8.7853196,
+          47.3661519
+        ],
+        [
+          8.7853065,
+          47.3661532
+        ],
+        [
+          8.7852352,
+          47.3661505
+        ],
+        [
+          8.7850966,
+          47.3661804
+        ],
+        [
+          8.7849942,
+          47.3662321
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1158085154",
+  "properties": {
+    "addr:city": "Dietikon",
+    "addr:country": "CH",
+    "addr:housenumber": "39",
+    "addr:postcode": "8953",
+    "addr:street": "Bremgartnerstrasse",
+    "alt_name": "Alters- und Gesundheitszentrum Ruggacker",
+    "amenity": "social_facility",
+    "building": "yes",
+    "name": "Haus Ruggacker",
+    "short_name": "AGZ Dietikon",
+    "social_facility": "nursing_home",
+    "social_facility:for": "senior",
+    "id": "way/1158085154"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.4012113,
+          47.401345
+        ],
+        [
+          8.4009676,
+          47.401432
+        ],
+        [
+          8.4008208,
+          47.4012763
+        ],
+        [
+          8.4007743,
+          47.4011661
+        ],
+        [
+          8.400734,
+          47.4011166
+        ],
+        [
+          8.4008255,
+          47.4010857
+        ],
+        [
+          8.4007411,
+          47.4009743
+        ],
+        [
+          8.4009616,
+          47.4008968
+        ],
+        [
+          8.4011157,
+          47.4011039
+        ],
+        [
+          8.401046,
+          47.4011308
+        ],
+        [
+          8.4011263,
+          47.4012399
+        ],
+        [
+          8.4012113,
+          47.401345
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/1052631331",
   "properties": {
     "construction:amenity": "social_facility",
@@ -37141,6 +37392,29 @@
     "coordinates": [
       8.4572924,
       47.4816604
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10767977785",
+  "properties": {
+    "addr:city": "Ibach",
+    "addr:housenumber": "62",
+    "addr:postcode": "6438",
+    "addr:street": "Gotthardstrasse",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "healthcare:speciality": "orthopädische_chirurgie;orthopaedics;trauma;paediatric_surgery;kinder-orthopädie;schmerztherapie;rückentherapie",
+    "name": "TellKlinik",
+    "operator": "Tell-Klinik AG",
+    "id": "node/10767977785"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6436433,
+      47.010547
     ]
   }
 }
