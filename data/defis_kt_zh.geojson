@@ -47051,6 +47051,123 @@
       47.4284425
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/10775091905",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "links vom Haupteingang, Gemeinschaft-Zentrum, in der Au 1, 8604 Volketswil",
+    "description": "ZOLL AED 3",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "level": "0",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Volketswil, Abteilung Liegenschaften",
+    "phone": "+41 44 910 24 20",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/10775091905"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6886084,
+      47.3897392
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10775118505",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "rechts vom Haupteingang, Quartieranlage Chappeli, alte Gasse 5, 8604 Volketswil",
+    "description": "ZOLL AED 3",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Volketswil, Abteilung Liegenschaften",
+    "phone": "+41 44 910 24 20",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/10775118505"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6745375,
+      47.3891689
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10775124205",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "links vor dem Haupteingang, Quartieranlage Kindhausen, Blutzwis 2, 8604 Volketswil",
+    "description": "ZOLL AED 3",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "no",
+    "opening_hours": "24/7",
+    "operator": "Gemeinde Volketswil, Abteilung Liegenschaften",
+    "phone": "+41 44 910 24 20",
+    "source": "local_knowledge, defikarte.ch",
+    "id": "node/10775124205"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.6838716,
+      47.4072954
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10775567289",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Neben dem Enzian Cafébar",
+    "emergency": "defibrillator",
+    "indoor": "yes",
+    "level": "0",
+    "operator": "TMC Fashion Square AG",
+    "phone": "+41 43 211 59 20",
+    "wheelchair": "limited",
+    "id": "node/10775567289"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5583307,
+      47.4239197
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10775903405",
+  "properties": {
+    "access": "yes",
+    "defibrillator:location": "Klinik Hirslanden, Haupteingang, Rezeption",
+    "emergency": "defibrillator",
+    "emergency:phone": "144",
+    "indoor": "yes",
+    "level": "EG",
+    "opening_hours": "24/7",
+    "operator": "Klinik Hirslanden",
+    "id": "node/10775903405"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5763605,
+      47.3512879
+    ]
+  }
 }
 ]
 }
